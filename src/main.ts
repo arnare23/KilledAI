@@ -1,11 +1,8 @@
 import { loadIndex } from './lib/data.ts';
 import { createSearchIndex, searchStartups } from './lib/search.ts';
 import { applyFilters, defaultFilters, type FilterState } from './lib/filter.ts';
-import { renderHeader } from './components/Header.ts';
-import { renderSearchBar } from './components/SearchBar.ts';
-import { renderFilterBar } from './components/FilterBar.ts';
+import { renderNav, renderHero } from './components/Header.ts';
 import { renderGrid } from './components/StartupGrid.ts';
-import { renderStats } from './components/Stats.ts';
 import { showDetail } from './components/StartupDetail.ts';
 import type { StartupIndex } from './types/startup.ts';
 
@@ -30,38 +27,58 @@ function renderAll(): void {
   const filtered = getFiltered();
 
   app.innerHTML = '';
-  app.appendChild(renderHeader(allStartups.length));
-  app.appendChild(renderStats(allStartups));
   app.appendChild(
-    renderSearchBar((query) => {
+    renderNav((query) => {
       currentQuery = query;
       rerenderGrid();
     }),
   );
-  app.appendChild(
-    renderFilterBar((filters) => {
-      currentFilters = filters;
-      rerenderGrid();
-    }),
-  );
+  app.appendChild(renderHero(allStartups));
+
+  // Section heading
+  const heading = document.createElement('div');
+  heading.className = 'section-heading';
+  heading.innerHTML = `
+    <span class="section-title">All Stories</span>
+    <span class="section-count">${filtered.length} ${filtered.length === 1 ? 'startup' : 'startups'}</span>
+  `;
+  app.appendChild(heading);
+
   app.appendChild(
     renderGrid(filtered, (slug) => {
-      showDetail(slug);
+      openDetail(slug);
     }),
   );
 }
 
 function rerenderGrid(): void {
   const filtered = getFiltered();
+
+  // Update count
+  const countEl = app.querySelector('.section-count');
+  if (countEl) {
+    countEl.textContent = `${filtered.length} ${filtered.length === 1 ? 'startup' : 'startups'}`;
+  }
+
   const existing = app.querySelector('.startup-grid');
   const newGrid = renderGrid(filtered, (slug) => {
-    showDetail(slug);
+    openDetail(slug);
   });
   if (existing) {
     existing.replaceWith(newGrid);
   } else {
     app.appendChild(newGrid);
   }
+}
+
+async function openDetail(slug: string): Promise<void> {
+  const page = await showDetail(slug, () => {
+    renderAll();
+    window.scrollTo(0, 0);
+  });
+  app.innerHTML = '';
+  app.appendChild(page);
+  window.scrollTo(0, 0);
 }
 
 async function init(): Promise<void> {

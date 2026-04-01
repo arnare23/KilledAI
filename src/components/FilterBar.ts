@@ -29,7 +29,7 @@ export function renderFilterBar(
   for (const cat of CATEGORIES) {
     const chip = document.createElement('button');
     chip.type = 'button';
-    chip.className = `filter-chip cat-${cat.value}`;
+    chip.className = 'filter-chip';
     chip.textContent = cat.label;
     chip.setAttribute('aria-pressed', 'false');
 

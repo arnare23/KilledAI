@@ -80,3 +80,18 @@ Push via: git push origin main
 Project: killedai
 Deploy: npm run deploy
 Auto-deploy: Connect arnare23/KilledAI in Cloudflare Dashboard → Pages
+
+## Style Guide
+
+The frontend uses a clean, monochrome editorial design. Follow these rules strictly:
+
+- **White background only** -- no dark theme, no colored backgrounds
+- **Monochrome palette** -- black (#111827) for text, grays (#4b5563, #9ca3af) for secondary/muted text, light gray (#e5e7eb) for borders
+- **No color badges** -- category labels, tags, and chips are gray text/borders only, never colored per-category
+- **No glow effects** -- no colored box-shadows, no neon, no glowing borders
+- **No emojis** -- do not use emoji characters anywhere in the UI (search icons, decorative elements, etc.)
+- **No decorative icons** -- keep the interface text-only where possible; use plain arrow characters for navigation
+- **Subtle interactions** -- hover states use light gray backgrounds or slight transforms, nothing flashy
+- **Inter font** -- all text uses Inter with tight letter-spacing on headings (-0.03em)
+- **Grid layout** -- cards are displayed in a bordered grid with 1px dividers, not floating cards with shadows
+- **Editorial tone** -- the site reads like a magazine/journal, not a dashboard or SaaS product

@@ -1,25 +1,52 @@
 # KilledAI Pipeline Skills
 
-## /discover
+## Project Context
 
-Search the web for recently failed, shut down, or abandoned AI startups. Deploy up to 3 search agents in parallel:
+KilledAI is a documentation project that catalogs AI startups that have failed, shut down, or gone out of business. It is NOT malicious — it's inspired by "Killed by Google" and exists to document patterns and lessons from AI startup failures.
 
-**Agent 1 -- Tech News**: Search TechCrunch, The Verge, Ars Technica, VentureBeat for articles about AI startup shutdowns, failures, pivots, and closures. Search terms: "AI startup shut down", "AI company failed", "AI wrapper closed", "AI startup pivot", "AI startup funding", "AI startup layoffs".
+**What we collect**: Stories of AI startups (especially AI wrapper companies) that shut down, went bankrupt, were acqui-hired with product killed, pivoted away from their original AI product, or ran out of funding.
 
-**Agent 2 -- Community**: Search Hacker News, Reddit (r/startups, r/artificial, r/machinelearning), and Twitter/X for discussions about AI startups dying, postmortems, and founder retrospectives. Search terms: "AI startup postmortem", "why my AI startup failed", "AI company shutdown announcement".
+**What counts as "killed"**: Company shut down entirely, product discontinued, acqui-hired with product killed, pivoted so far the original product is dead, ran out of funding.
 
-**Agent 3 -- Trackers**: Search Crunchbase, Product Hunt, and tech databases for AI companies that have closed, been acquired (with product killed), or gone inactive. Also check OpenAI, Google, and Anthropic changelogs for feature launches that may have killed wrapper startups.
+**Data lives at**: `data/startups/{slug}.json` (one file per startup), `data/index.json` (master index).
 
-For each candidate found:
-1. Run dedup check: `.venv/bin/python3 scripts/dedup.py --name "Startup Name" --tagline "what it did"`
-2. If NOT a duplicate (exit 0), create a draft JSON file at `data/startups/{slug}.json` with:
-   - name, slug (kebab-case via python-slugify), tagline
-   - Any dates/funding found during discovery
-   - source URLs from the articles found
-   - status: "draft", confidence: "low"
-   - created_at and updated_at: current ISO timestamp
-3. If duplicate (exit 1), skip and note it was already indexed
-4. After all candidates processed, run: `.venv/bin/python3 scripts/build_index.py`
+**Failure categories**: platform-absorbed, no-moat, funding, pricing, market, competition, technical, regulatory, acqui-hired, other.
+
+---
+
+## /discover {focus?}
+
+Search for failed AI startups. Accepts an optional focus to narrow the search.
+
+**Examples**:
+- `/discover` — broad search across all sources
+- `/discover Nordic AI startups` — search specifically for failed AI startups from Sweden, Norway, Denmark, Finland, Iceland
+- `/discover healthcare AI` — search for failed healthcare AI companies
+- `/discover 2024 shutdowns` — focus on startups that died in 2024
+- `/discover GPT wrappers` — focus on thin ChatGPT/GPT wrapper startups that failed
+
+### How to run
+
+1. **Read the focus** (if provided) and tailor search terms accordingly. If no focus, do a broad search.
+
+2. **Deploy up to 3 search agents in parallel**, each covering different source types. Adapt search terms to the focus:
+
+   **Agent 1 — News & Articles**: Search TechCrunch, The Verge, VentureBeat, Ars Technica, and regional/industry-specific outlets matching the focus. Example terms: "{focus} AI startup shut down", "{focus} AI company failed", "{focus} AI startup closed".
+
+   **Agent 2 — Community & Postmortems**: Search Hacker News, Reddit, Twitter/X for discussions, founder postmortems, and shutdown announcements. Example terms: "{focus} AI startup postmortem", "{focus} AI startup dead".
+
+   **Agent 3 — Databases & Trackers**: Search Crunchbase, Product Hunt, and relevant databases. Also check if platform launches (OpenAI, Google, Anthropic features) killed startups in this area. Example terms: "{focus} AI startups failed list", "{focus} AI company closed Crunchbase".
+
+3. **For each candidate found**:
+   a. Run dedup check: `.venv/bin/python3 scripts/dedup.py --name "Startup Name" --tagline "what it did"`
+   b. If NOT a duplicate (exit 0): create a JSON file at `data/startups/{slug}.json` following the schema in `scripts/utils/schema.py`. Include all info found during discovery. Set status to "published" if you have enough info for a full story, otherwise "draft".
+   c. If duplicate (exit 1): skip it, note it was already indexed.
+
+4. **After all candidates processed**: run `.venv/bin/python3 scripts/build_index.py`
+
+5. **Report**: List all new startups added, their categories, and any duplicates skipped.
+
+---
 
 ## /research {slug}
 
@@ -42,21 +69,25 @@ Deep-dive research on a specific startup to fill in all structured data.
    - "low": unverified or single rumor source
 6. Run: `.venv/bin/python3 scripts/build_index.py`
 
+---
+
 ## /write {slug}
 
 Generate the narrative story for a researched startup.
 
-1. Read `data/startups/{slug}.json` -- it should have status "researched"
+1. Read `data/startups/{slug}.json` — it should have status "researched"
 2. Write a `story` field: 1-3 paragraphs covering:
    - What the startup built and its initial traction
    - What went wrong and why it failed (the core narrative)
    - What happened to the team/investors/users afterward (if known)
-   - Tone: factual, past tense, respectful -- no mockery or celebration of failure
+   - Tone: factual, past tense, respectful — no mockery or celebration of failure
    - Reference specific dates, funding amounts, and user numbers when available
 3. Write a concise `description` field (2-3 sentences summarizing the story)
 4. Set status to "published"
 5. Update `updated_at` to current ISO timestamp
 6. Run: `.venv/bin/python3 scripts/build_index.py`
+
+---
 
 ## /snapshot {slug}
 
@@ -66,6 +97,8 @@ Archive source URLs for a startup to prevent link rot.
 2. This fetches each source URL and saves HTML to `data/snapshots/{slug}/`
 3. Verify the snapshots were saved by checking the directory
 
+---
+
 ## /index
 
 Rebuild the master index from all startup JSON files.
@@ -74,17 +107,22 @@ Run: `.venv/bin/python3 scripts/build_index.py`
 
 This reads all `data/startups/*.json`, validates them, extracts index fields, sorts by shutdown date (newest first), and writes `data/index.json`.
 
-## /pipeline
+---
 
-Run the full discovery-to-publish pipeline.
+## /pipeline {focus?}
 
-1. Run /discover to find new startups
+Run the full discovery-to-publish pipeline. Accepts an optional focus (same as /discover).
+
+1. Run /discover {focus} to find new startups
 2. For each newly created draft (check data/startups/ for status: "draft"):
    a. Run /research {slug}
    b. Run /write {slug}
    c. Run /snapshot {slug}
 3. Run /index to rebuild the master index
-4. Report summary: how many new startups found, how many researched, how many published
+4. Run `npm run prepare-data` to update the frontend data
+5. Report summary: how many new startups found, how many researched, how many published
+
+---
 
 ## /publish
 
