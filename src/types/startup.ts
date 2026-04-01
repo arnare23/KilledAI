@@ -10,7 +10,7 @@ export type FailureCategory =
   | 'acqui-hired'
   | 'other';
 
-export type Status = 'draft' | 'researched' | 'published';
+export type Status = 'draft' | 'researched' | 'published' | 'unverified' | 'rejected';
 export type Confidence = 'high' | 'medium' | 'low';
 
 export interface StartupSource {

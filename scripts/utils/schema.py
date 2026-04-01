@@ -36,7 +36,8 @@ class Startup(BaseModel):
     tags: list[str] = []
     url: str = ""
     sources: list[StartupSource] = []
-    status: Literal["draft", "researched", "published"] = "draft"
+    status: Literal["draft", "researched", "published", "unverified", "rejected"] = "draft"
+    rejection_reason: str | None = None
     confidence: Literal["high", "medium", "low"] = "low"
     created_at: str
     updated_at: str

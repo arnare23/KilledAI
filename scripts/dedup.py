@@ -25,7 +25,10 @@ def main() -> None:
     index_data = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     existing = index_data.get("startups", [])
 
-    is_dup, match, score = check_duplicate(args.name, args.tagline, existing)
+    # Exclude rejected entries from duplicate checking — they shouldn't block new discoveries
+    active = [s for s in existing if s.get("status") != "rejected"]
+
+    is_dup, match, score = check_duplicate(args.name, args.tagline, active)
 
     if is_dup:
         print(f"DUPLICATE (score: {score:.1f}): {match['name']} — {match['tagline']}")
