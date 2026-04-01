@@ -1,0 +1,25 @@
+{
+  "name": "Botkeeper",
+  "slug": "botkeeper",
+  "tagline": "AI-powered automated bookkeeping for accounting firms",
+  "description": "Botkeeper raised $90M for AI bookkeeping and claimed 98% accuracy \u2014 then shut down in February 2026, killed by macroeconomic shifts affecting its largest clients.",
+  "story": "Founded in 2015, Botkeeper raised approximately $90 million \u2014 including a $42 million Series C in 2021 \u2014 to automate bookkeeping for accounting firms using AI. The irony of Botkeeper's demise is almost poetic: the founder claimed their AI product had finally become 'the AI powerhouse we always dreamed of' with 98% accuracy just before announcing the shutdown. But technical excellence couldn't save a business model undermined by macroeconomic shifts and industry consolidation that gutted its largest clients' revenues. In February 2026, Botkeeper closed its doors, proving that even a well-funded AI startup with a working product can fail when the market shifts beneath it.",
+  "founded": "2015",
+  "shutdown": "2026-02",
+  "funding_raised": "$90M",
+  "funding_stage": "series-c",
+  "category": "market",
+  "tags": ["fintech", "bookkeeping", "accounting", "automation"],
+  "sources": [
+    {
+      "url": "https://www.cpapracticeadvisor.com/2026/02/09/botkeeper-is-closing-its-doors/177677/",
+      "title": "Botkeeper is closing its doors",
+      "date": "2026-02-09",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

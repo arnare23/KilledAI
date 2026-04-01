@@ -1,0 +1,25 @@
+{
+  "name": "Tally",
+  "slug": "tally",
+  "tagline": "AI-powered credit card debt management and consolidation",
+  "description": "Backed by a16z and Kleiner Perkins at an $855M valuation, Tally raised $172M for AI debt management. Rising interest rates destroyed its model and it shut down in August 2024.",
+  "story": "Tally was founded around 2015 with a clever premise: use AI to automatically manage and pay down credit card debt by offering lower-interest consolidation loans. The company raised $172 million from Andreessen Horowitz, Kleiner Perkins, and Sway Ventures, reaching an $855 million valuation. The model worked beautifully in a zero-interest-rate world. Then rates rose. The post-ZIRP environment made Tally's core economics \u2014 borrowing cheap to lend less expensively \u2014 unsustainable. The company attempted a desperate pivot to B2B in April 2024 but couldn't raise the funding needed to bridge the transition. Four months later, in August 2024, Tally shut down after running out of cash. A startup perfectly adapted to one economic environment, instantly maladapted when that environment changed.",
+  "founded": "2015",
+  "shutdown": "2024-08",
+  "funding_raised": "$172M",
+  "funding_stage": "series-d",
+  "category": "market",
+  "tags": ["fintech", "debt-management", "credit-cards", "a16z-backed"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/",
+      "title": "a16z-backed Tally shutting down",
+      "date": "2024-08-12",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

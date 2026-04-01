@@ -1,0 +1,25 @@
+{
+  "name": "Rewind AI",
+  "slug": "rewind-ai",
+  "tagline": "AI-powered screen recording and search for developer productivity",
+  "description": "Valued at $367M by a16z, Rewind pivoted from developer screen search to an AI pendant, then was acqui-hired by Meta. Both the app and hardware were killed.",
+  "story": "Rewind AI launched around 2020 as a developer productivity tool that recorded everything on your screen and made it searchable with AI \u2014 a perfect memory for your digital life. The product attracted significant attention and a16z invested, pushing the valuation to approximately $367 million. But Rewind then made a dramatic pivot in 2024, rebranding to Limitless and building a physical AI pendant that could record conversations. Neither product found lasting traction. In December 2025, Meta acqui-hired the team for its Reality Labs division. The Rewind desktop app was disabled on December 19, 2025, and pendant sales stopped on December 5, 2025. Two products, two pivots, and one acqui-hire \u2014 the original developer tool vision was long dead before Meta picked up the pieces.",
+  "founded": "2020",
+  "shutdown": "2025-12",
+  "funding_raised": "Unknown",
+  "funding_stage": "series-a",
+  "category": "acqui-hired",
+  "tags": ["developer-tools", "productivity", "hardware", "pendant", "meta", "a16z-backed"],
+  "sources": [
+    {
+      "url": "https://9to5mac.com/2025/12/05/rewind-limitless-meta-acquisition/",
+      "title": "Rewind/Limitless acquired by Meta",
+      "date": "2025-12-05",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

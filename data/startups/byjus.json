@@ -1,0 +1,25 @@
+{
+  "name": "BYJU'S",
+  "slug": "byjus",
+  "tagline": "India's largest AI-powered edtech platform",
+  "description": "Once valued at $22B with $5.5B raised, BYJU'S collapsed under aggressive acquisitions, financial mismanagement, and allegations of siphoning $533M from a $1.2B loan.",
+  "story": "BYJU'S was founded in Bangalore in 2011 and became India's most valuable startup, raising $5.5 billion and reaching a $22 billion peak valuation. The company used AI for personalized learning, adaptive assessments, and content recommendations across its suite of K-12 education products. The collapse was spectacular. BYJU'S acquired 19 companies for $3.63 billion in a rapid expansion spree that proved unsustainable. Allegations surfaced that the company siphoned $533 million from a $1.2 billion term loan. Founder Byju Raveendran was ousted in February 2024, and India's National Company Law Tribunal initiated insolvency proceedings in July 2024. The post-pandemic return to physical schools accelerated the decline. At its peak, BYJU'S employed tens of thousands; its fall remains the largest edtech collapse in history.",
+  "founded": "2011",
+  "shutdown": "2024-07",
+  "funding_raised": "$5.5B",
+  "funding_stage": "late",
+  "category": "funding",
+  "tags": ["education", "edtech", "india", "unicorn", "fraud-allegations"],
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2024/03/01/the-rise-and-fall-of-byjus-once-a-startup-darling-in-india.html",
+      "title": "The rise and fall of BYJU'S",
+      "date": "2024-03-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

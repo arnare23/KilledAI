@@ -1,0 +1,25 @@
+{
+  "name": "ScaleFactor",
+  "slug": "scalefactor",
+  "tagline": "AI-automated bookkeeping and financial management for SMBs",
+  "description": "ScaleFactor raised $100M+ claiming AI-powered accounting, but a Forbes investigation revealed most work was done by human bookkeepers outsourced to the Philippines.",
+  "story": "ScaleFactor raised over $100 million from Bessemer Venture Partners and Coatue Management, marketing itself as an AI-powered accounting platform for small businesses. The pitch was compelling: automated bookkeeping that eliminated the need for human accountants. A Forbes investigation told a different story. Most of ScaleFactor's work was done by human bookkeepers outsourced to the Philippines, not AI. Customers reported frequent errors in financial statements. The company publicly blamed COVID-19 for its June 2020 shutdown, but internal mismanagement and the gap between AI promises and human-powered reality were the actual causes. ScaleFactor became one of the earliest high-profile examples of 'AI washing' in fintech.",
+  "founded": "2014",
+  "shutdown": "2020-06",
+  "funding_raised": "$100M+",
+  "funding_stage": "series-c",
+  "category": "other",
+  "tags": ["fintech", "bookkeeping", "ai-washing", "fraud"],
+  "sources": [
+    {
+      "url": "https://www.failory.com/cemetery/scalefactor",
+      "title": "ScaleFactor post-mortem on Failory",
+      "date": "2020-07-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

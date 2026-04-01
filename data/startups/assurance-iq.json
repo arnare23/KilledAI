@@ -1,0 +1,25 @@
+{
+  "name": "Assurance IQ",
+  "slug": "assurance-iq",
+  "tagline": "AI-powered insurance marketplace matching consumers with plans",
+  "description": "Prudential paid $2.35B for Assurance IQ in 2019. After 12 consecutive quarters of losses totaling $381M and $2.1B in goodwill writedowns, Prudential shut it down in 2024.",
+  "story": "Assurance IQ used machine learning to match consumers with insurance and financial products. Prudential acquired the company for $2.35 billion in 2019, one of the largest insurtech acquisitions ever. What followed was one of the most catastrophic failed acquisitions in financial services. Assurance IQ posted 12 consecutive quarters of losses totaling $381 million. Prudential took staggering goodwill impairment charges: $1.06 billion in 2021, $903 million in 2022, and $177 million in 2023. The FTC also charged Assurance with misleading consumers about healthcare plan coverage. In May 2024, Prudential finally pulled the plug, winding down the operation. The $2.35 billion acquisition had been written down to essentially zero — a master class in how AI-powered personalization can fail to deliver when the underlying business model is broken.",
+  "founded": "2016",
+  "shutdown": "2024-05",
+  "funding_raised": "Acquired for $2.35B",
+  "funding_stage": "acquired",
+  "category": "market",
+  "tags": ["fintech", "insurance", "insurtech", "prudential", "failed-acquisition"],
+  "sources": [
+    {
+      "url": "https://www.geekwire.com/2024/prudential-to-shut-down-assurance-the-insurance-tech-startup-it-acquired-for-2-35b-in-2019/",
+      "title": "Prudential shuts down $2.35B acquisition Assurance",
+      "date": "2024-05-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

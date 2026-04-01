@@ -1,0 +1,25 @@
+{
+  "name": "Articoolo",
+  "slug": "articoolo",
+  "tagline": "AI article generator — 'the robot writer with content for brains'",
+  "description": "Israeli AI writing startup founded in 2014, Articoolo was one of the earliest AI content generators. It became completely obsolete after ChatGPT launched and effectively ceased operations.",
+  "story": "Articoolo was founded in Israel in 2014 by Shlomi Haybi and Doron Tal as one of the earliest AI article generators — years before the generative AI boom. The company raised $1.2 million in seed funding and marketed itself as 'the robot writer with content for brains.' For several years, Articoolo occupied a genuine niche, offering AI-written content when the technology was rare and novel. Then ChatGPT launched. Overnight, Articoolo's output quality — once acceptable for its era — became laughably inferior compared to GPT-3.5 and GPT-4, available at a fraction of the cost. The company was reduced to three employees. Its website began redirecting to Article Forge, and most pages returned 404 errors. No formal shutdown announcement was ever made; Articoolo simply faded into irrelevance, outpaced by the very technology it had helped pioneer.",
+  "founded": "2014",
+  "shutdown": "2024",
+  "funding_raised": "$1.2M",
+  "funding_stage": "seed",
+  "category": "no-moat",
+  "tags": ["marketing", "content-generation", "ai-writing", "israel", "chatgpt-killed"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2016/06/28/meet-articoolo-the-robot-writer-with-content-for-brains/",
+      "title": "Meet Articoolo, the robot writer",
+      "date": "2016-06-28",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "medium",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

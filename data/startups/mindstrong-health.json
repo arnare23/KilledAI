@@ -1,0 +1,25 @@
+{
+  "name": "Mindstrong Health",
+  "slug": "mindstrong-health",
+  "tagline": "AI-powered smartphone-based mental health monitoring",
+  "description": "Founded by the former NIMH director, Mindstrong raised $174M to detect mental health patterns from smartphone usage. It shut down in March 2023 after failing to sustain its model.",
+  "story": "Mindstrong Health was founded in 2014 by Thomas Insel, former director of the National Institute of Mental Health, and Paul Dagum. The company raised approximately $174 million, including a $100 million Series C, on the bold premise that passive smartphone sensor data — typing patterns, scrolling behavior, screen interactions — could detect early signs of mental health deterioration. The technology was genuinely innovative but commercially unproven. After pivoting from passive monitoring to app-based care delivery, Mindstrong struggled with internal conflicts and economic pressures. In March 2023, the company laid off 128 employees and permanently shut down. SonderMind acquired the technology and about 20 staff members — a quiet ending for a company that had promised to revolutionize mental healthcare through smartphone AI.",
+  "founded": "2014",
+  "shutdown": "2023-03",
+  "funding_raised": "$174M",
+  "funding_stage": "series-c",
+  "category": "funding",
+  "tags": ["healthcare", "mental-health", "smartphone", "nimh-founder"],
+  "sources": [
+    {
+      "url": "https://www.mobihealthnews.com/news/mindstrong-sells-tech-assets-sondermind-shuts-down-operations",
+      "title": "Mindstrong shuts down, sells to SonderMind",
+      "date": "2023-03-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

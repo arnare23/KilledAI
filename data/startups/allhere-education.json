@@ -1,0 +1,25 @@
+{
+  "name": "AllHere Education",
+  "slug": "allhere-education",
+  "tagline": "AI-powered student engagement chatbot for K-12 school districts",
+  "description": "AllHere built an AI chatbot called 'Ed' for LAUSD under a $6.2M contract. The founder was arrested for securities fraud and the company went bankrupt.",
+  "story": "AllHere Education raised over $12 million in venture capital to build AI-powered chatbots for K-12 school districts. Its biggest win was a $6.2 million contract with the Los Angeles Unified School District to deploy an AI chatbot called 'Ed.' Three months after launch, the company furloughed most of its approximately 50 employees. Then came the FBI raid on LAUSD headquarters. Founder Joanna Smith-Griffin was arrested and charged with securities fraud, wire fraud, and identity theft for defrauding investors. The company filed for bankruptcy in September 2024, leaving serious questions about what happened to the student data it had collected. It was a catastrophic failure that damaged trust in edtech AI across the entire sector.",
+  "founded": "2020",
+  "shutdown": "2024-09",
+  "funding_raised": "$12M+",
+  "funding_stage": "series-a",
+  "category": "other",
+  "tags": ["education", "k-12", "chatbot", "fraud", "lausd"],
+  "sources": [
+    {
+      "url": "https://www.the74million.org/article/allhere-ai-los-angeles-schools-tool-bankruptcy-filing/",
+      "title": "AllHere AI chatbot company bankruptcy",
+      "date": "2024-09-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

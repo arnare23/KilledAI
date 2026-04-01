@@ -1,0 +1,25 @@
+{
+  "name": "Knewton",
+  "slug": "knewton",
+  "tagline": "AI adaptive learning platform \u2014 the 'mind-reading robot tutor'",
+  "description": "Knewton raised $200M to build the definitive AI recommendation engine for education. Pearson dropped the partnership, data never materialized, and it sold to Wiley for $17M.",
+  "story": "Knewton was founded in New York in 2008 with perhaps the most ambitious pitch in edtech history: a 'mind-reading robot tutor' that would use Big Data and AI to personalize education for every student on earth. The company raised approximately $200 million on this vision and partnered with Pearson, the world's largest educational publisher. Then Pearson dropped Knewton in 2017 to build its own adaptive learning technology. Without Pearson's distribution and data pipeline, Knewton couldn't gather enough student interaction data to make its AI accurate. The company's remaining value dwindled rapidly. In 2019, Wiley acquired Knewton for approximately $17 million \u2014 less than a tenth of the capital raised. It remains one of the most expensive lessons in edtech: promising AI personalization at scale requires data at scale, and data at scale requires partnerships that can evaporate.",
+  "founded": "2008",
+  "shutdown": "2019",
+  "funding_raised": "$200M",
+  "funding_stage": "late",
+  "category": "no-moat",
+  "tags": ["education", "adaptive-learning", "personalization", "pearson"],
+  "sources": [
+    {
+      "url": "https://www.insidehighered.com/digital-learning/article/2019/05/07/wiley-buys-knewton-adaptive-learning-technology-company",
+      "title": "Wiley buys Knewton",
+      "date": "2019-05-07",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

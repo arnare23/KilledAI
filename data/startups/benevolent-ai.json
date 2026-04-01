@@ -1,0 +1,25 @@
+{
+  "name": "BenevolentAI",
+  "slug": "benevolent-ai",
+  "tagline": "AI-powered drug discovery using knowledge graphs and deep learning",
+  "description": "BenevolentAI raised $282M and was valued at \u00a32B for AI drug discovery. Despite correctly flagging baricitinib for COVID-19, it couldn't sustain public company costs and delisted in 2025.",
+  "story": "Founded in London in 2013 by Ken Mulvany, BenevolentAI raised $282 million and was valued at up to \u00a32 billion as one of the world's leading AI drug discovery companies. The company's knowledge graph technology scored a genuine scientific win by flagging baricitinib as a potential COVID-19 treatment \u2014 it received FDA Emergency Use Authorization. But one success couldn't sustain the enormous costs of being a publicly listed AI pharmaceutical company on Euronext Amsterdam. BenevolentAI laid off over 30% of staff, closed its US office, and reduced cash burn by 20% \u2014 still not enough. In March 2025, the company delisted and merged into private entity Osaka Holdings, effectively admitting the public experiment had failed. The science was real; the business model wasn't.",
+  "founded": "2013",
+  "shutdown": "2025-03",
+  "funding_raised": "$282M",
+  "funding_stage": "public",
+  "category": "funding",
+  "tags": ["drug-discovery", "pharma", "healthcare", "uk", "public-company"],
+  "sources": [
+    {
+      "url": "https://www.fiercebiotech.com/biotech/benevolentai-lays-30-staff-exits-us-site-funding-gap-looms",
+      "title": "BenevolentAI lays off 30% of staff",
+      "date": "2024-12-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:30:00Z",
+  "updated_at": "2026-04-01T23:30:00Z"
+}

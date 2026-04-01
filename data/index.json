@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-01T23:09:47.683174+00:00",
-  "count": 39,
+  "generated_at": "2026-04-01T23:25:46.346494+00:00",
+  "count": 61,
   "startups": [
     {
       "name": "Yupp.ai",
@@ -15,6 +15,50 @@
       "confidence": "high"
     },
     {
+      "name": "Botkeeper",
+      "slug": "botkeeper",
+      "tagline": "AI-powered automated bookkeeping for accounting firms",
+      "founded": "2015",
+      "shutdown": "2026-02",
+      "category": "market",
+      "funding_raised": "$90M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Icon",
+      "slug": "icon-ai",
+      "tagline": "AI-powered CMO — plan, create, and run thousands of ads",
+      "founded": "2024",
+      "shutdown": "2026-02",
+      "category": "no-moat",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "Phind",
+      "slug": "phind",
+      "tagline": "AI search engine for developers",
+      "founded": "2022",
+      "shutdown": "2026-01",
+      "category": "platform-absorbed",
+      "funding_raised": "$10.4M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Korbit AI",
+      "slug": "korbit-ai",
+      "tagline": "AI-powered code reviews and developer mentoring",
+      "founded": "2017",
+      "shutdown": "2026",
+      "category": "competition",
+      "funding_raised": "$11M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "DataGPT",
       "slug": "datagpt",
       "tagline": "Conversational AI data analyst for instant charts and insights",
@@ -24,6 +68,17 @@
       "funding_raised": "$22M",
       "status": "published",
       "confidence": "medium"
+    },
+    {
+      "name": "Rewind AI",
+      "slug": "rewind-ai",
+      "tagline": "AI-powered screen recording and search for developer productivity",
+      "founded": "2020",
+      "shutdown": "2025-12",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "high"
     },
     {
       "name": "Yara AI",
@@ -114,6 +169,17 @@
       "confidence": "high"
     },
     {
+      "name": "BenevolentAI",
+      "slug": "benevolent-ai",
+      "tagline": "AI-powered drug discovery using knowledge graphs and deep learning",
+      "founded": "2013",
+      "shutdown": "2025-03",
+      "category": "funding",
+      "funding_raised": "$282M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Humane",
       "slug": "humane-ai-pin",
       "tagline": "AI-powered wearable pin pitched as a smartphone replacement",
@@ -121,6 +187,28 @@
       "shutdown": "2025-02",
       "category": "technical",
       "funding_raised": "$241M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Bloop",
+      "slug": "bloop",
+      "tagline": "AI-powered code search engine written in Rust",
+      "founded": "2021",
+      "shutdown": "2025-01",
+      "category": "no-moat",
+      "funding_raised": "$7.4M",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "Cushion",
+      "slug": "cushion",
+      "tagline": "AI-powered bank fee negotiation and BNPL platform",
+      "founded": "2016",
+      "shutdown": "2025-01",
+      "category": "market",
+      "funding_raised": "$21.6M",
       "status": "published",
       "confidence": "high"
     },
@@ -180,6 +268,28 @@
       "confidence": "high"
     },
     {
+      "name": "Forward Health",
+      "slug": "forward-health",
+      "tagline": "AI-powered 'doctor in a box' CarePods for primary care",
+      "founded": "2016",
+      "shutdown": "2024-11",
+      "category": "market",
+      "funding_raised": "$657M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "AllHere Education",
+      "slug": "allhere-education",
+      "tagline": "AI-powered student engagement chatbot for K-12 school districts",
+      "founded": "2020",
+      "shutdown": "2024-09",
+      "category": "other",
+      "funding_raised": "$12M+",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Character.AI",
       "slug": "character-ai",
       "tagline": "AI chatbot platform for creating and talking to AI characters",
@@ -198,6 +308,28 @@
       "shutdown": "2024-08",
       "category": "acqui-hired",
       "funding_raised": "$222M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Tally",
+      "slug": "tally",
+      "tagline": "AI-powered credit card debt management and consolidation",
+      "founded": "2015",
+      "shutdown": "2024-08",
+      "category": "market",
+      "funding_raised": "$172M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "BYJU'S",
+      "slug": "byjus",
+      "tagline": "India's largest AI-powered edtech platform",
+      "founded": "2011",
+      "shutdown": "2024-07",
+      "category": "funding",
+      "funding_raised": "$5.5B",
       "status": "published",
       "confidence": "high"
     },
@@ -235,6 +367,17 @@
       "confidence": "high"
     },
     {
+      "name": "Assurance IQ",
+      "slug": "assurance-iq",
+      "tagline": "AI-powered insurance marketplace matching consumers with plans",
+      "founded": "2016",
+      "shutdown": "2024-05",
+      "category": "market",
+      "funding_raised": "Acquired for $2.35B",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Ghost Autonomy",
       "slug": "ghost-autonomy",
       "tagline": "Autonomous driving software for automaker partners",
@@ -268,6 +411,17 @@
       "confidence": "high"
     },
     {
+      "name": "Drift",
+      "slug": "drift",
+      "tagline": "AI-powered conversational marketing and sales platform",
+      "founded": "2015",
+      "shutdown": "2024-02",
+      "category": "acqui-hired",
+      "funding_raised": "$107M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Artifact",
       "slug": "artifact",
       "tagline": "AI-powered personalized news aggregator by Instagram co-founders",
@@ -277,6 +431,17 @@
       "funding_raised": "Self-funded",
       "status": "published",
       "confidence": "high"
+    },
+    {
+      "name": "Articoolo",
+      "slug": "articoolo",
+      "tagline": "AI article generator — 'the robot writer with content for brains'",
+      "founded": "2014",
+      "shutdown": "2024",
+      "category": "no-moat",
+      "funding_raised": "$1.2M",
+      "status": "published",
+      "confidence": "medium"
     },
     {
       "name": "Gavagai",
@@ -312,6 +477,17 @@
       "confidence": "high"
     },
     {
+      "name": "Babylon Health",
+      "slug": "babylon-health",
+      "tagline": "AI-powered virtual primary care and symptom checker",
+      "founded": "2013",
+      "shutdown": "2023-08",
+      "category": "funding",
+      "funding_raised": "$1.2B",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Neeva",
       "slug": "neeva",
       "tagline": "Ad-free AI-powered search engine challenging Google",
@@ -319,6 +495,28 @@
       "shutdown": "2023-06",
       "category": "competition",
       "funding_raised": "$77.5M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Pear Therapeutics",
+      "slug": "pear-therapeutics",
+      "tagline": "Pioneer of FDA-approved prescription digital therapeutics",
+      "founded": "2013",
+      "shutdown": "2023-04",
+      "category": "market",
+      "funding_raised": "$400M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Mindstrong Health",
+      "slug": "mindstrong-health",
+      "tagline": "AI-powered smartphone-based mental health monitoring",
+      "founded": "2014",
+      "shutdown": "2023-03",
+      "category": "funding",
+      "funding_raised": "$174M",
       "status": "published",
       "confidence": "high"
     },
@@ -345,6 +543,17 @@
       "confidence": "high"
     },
     {
+      "name": "Zebra Medical Vision",
+      "slug": "zebra-medical",
+      "tagline": "AI-powered medical imaging analytics with 7 FDA-cleared algorithms",
+      "founded": "2014",
+      "shutdown": "2021-08",
+      "category": "acqui-hired",
+      "funding_raised": "$53M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "DataMarket",
       "slug": "datamarket",
       "tagline": "Data discovery and visualization platform from Iceland",
@@ -367,6 +576,17 @@
       "confidence": "medium"
     },
     {
+      "name": "DeepCode",
+      "slug": "deepcode",
+      "tagline": "ML-powered code review and bug detection — 'Grammarly for coders'",
+      "founded": "2016",
+      "shutdown": "2020-09",
+      "category": "acqui-hired",
+      "funding_raised": "$5.2M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Mapillary",
       "slug": "mapillary",
       "tagline": "Crowdsourced street-level imagery platform using AI computer vision",
@@ -378,6 +598,17 @@
       "confidence": "high"
     },
     {
+      "name": "ScaleFactor",
+      "slug": "scalefactor",
+      "tagline": "AI-automated bookkeeping and financial management for SMBs",
+      "founded": "2014",
+      "shutdown": "2020-06",
+      "category": "other",
+      "funding_raised": "$100M+",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Cxense",
       "slug": "cxense",
       "tagline": "AI-powered real-time content personalization and data management",
@@ -385,6 +616,17 @@
       "shutdown": "2019-10",
       "category": "platform-absorbed",
       "funding_raised": "Publicly traded",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Knewton",
+      "slug": "knewton",
+      "tagline": "AI adaptive learning platform — the 'mind-reading robot tutor'",
+      "founded": "2008",
+      "shutdown": "2019",
+      "category": "no-moat",
+      "funding_raised": "$200M",
       "status": "published",
       "confidence": "high"
     },
