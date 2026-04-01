@@ -1,0 +1,31 @@
+{
+  "name": "Spektral",
+  "slug": "spektral",
+  "tagline": "AI-powered real-time image segmentation \u2014 green screen without the green screen",
+  "description": "Danish computer vision startup acquired by Apple for $30M in 2017. Its real-time background segmentation technology was integrated into Portrait mode and ARKit.",
+  "story": "Originally called CloudCutout, Spektral was a Copenhagen-based startup that developed AI-powered real-time image segmentation \u2014 the ability to separate foreground from background in video without a green screen. The technology worked on-device, processing video frames in real time using deep learning. Apple acquired Spektral in December 2017 for approximately $30 million, though the deal wasn't disclosed until October 2018. Spektral's technology was integrated into Apple's Portrait mode, the Clips app, and ARKit's augmented reality features. The co-founder became a manager of computational imaging at Apple, and Spektral as an independent company ceased to exist \u2014 another Nordic AI team absorbed into Apple's vast machine learning operation.",
+  "founded": "2015",
+  "shutdown": "2017-12",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "category": "acqui-hired",
+  "tags": ["computer-vision", "image-segmentation", "apple", "denmark", "nordic"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2018/10/11/apple-has-acquired-spektral-a-danish-computer-vision-startup-for-augmented-reality-technology/",
+      "title": "Apple acquires Spektral",
+      "date": "2018-10-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://fortune.com/2018/10/10/apple-buys-spektral-startup/",
+      "title": "Apple buys Spektral startup",
+      "date": "2018-10-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

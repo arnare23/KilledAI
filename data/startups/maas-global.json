@@ -1,0 +1,32 @@
+{
+  "name": "MaaS Global",
+  "slug": "maas-global",
+  "tagline": "AI-powered mobility-as-a-service platform combining all city transport",
+  "description": "Finnish startup behind the Whim app raised $162M to bundle all urban transport into one subscription. Filed for bankruptcy in March 2024 with only 10K active users.",
+  "story": "MaaS Global was founded in Helsinki in 2015 with an ambitious vision: combine every mode of urban transport \u2014 buses, trams, taxis, bikes, scooters, rental cars \u2014 into a single monthly subscription through its Whim app. The concept attracted $162 million from investors including BP Ventures, Toyota, Mitsubishi, and NordicNinja. But the B2C subscription model proved fundamentally flawed. Users wanted flexibility, not locked-in transport subscriptions. In Helsinki, Whim managed only about 10,000 active users. Revenue reached just \u20ac3.8 million against losses of \u20ac9.3 million in 2022. COVID-19 devastated mobility demand, accelerating the decline. Headcount fell from 120 in 2020 to just 28 at the time of bankruptcy in March 2024. The Whim app's assets were acquired by Dutch platform umob in April 2024 \u2014 a quiet end for a company that had promised to reinvent how cities move.",
+  "founded": "2015",
+  "shutdown": "2024-03",
+  "funding_raised": "$162M",
+  "funding_stage": "series-c",
+  "employee_count": 28,
+  "category": "market",
+  "tags": ["mobility", "transport", "subscription", "finland", "nordic"],
+  "sources": [
+    {
+      "url": "https://sifted.eu/articles/maas-whim-bankrupt-news",
+      "title": "MaaS Global Whim bankruptcy",
+      "date": "2024-03-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://zagdaily.com/trends/maas-global-is-dead-long-live-maas/",
+      "title": "MaaS Global is dead, long live MaaS",
+      "date": "2024-04-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

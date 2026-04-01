@@ -1,0 +1,31 @@
+{
+  "name": "DataMarket",
+  "slug": "datamarket",
+  "tagline": "Data discovery and visualization platform from Iceland",
+  "description": "Icelandic data platform acquired by Qlik for $13.5M in 2014. The product was rebranded as Qlik DataMarket before being retired entirely in June 2021.",
+  "story": "DataMarket was founded in Reykjavik in 2008 by Hjalmar Gislason as a platform for discovering, accessing, and visualizing public and commercial data sets. It was one of Iceland's earliest data-AI startups, making it easy to find and combine data from hundreds of sources. In November 2014, business intelligence company Qlik acquired DataMarket for $13.5 million and rebranded it as Qlik DataMarket, integrating it as an external data enrichment feature. For several years, the technology lived on inside Qlik's ecosystem. But on June 30, 2021, Qlik retired DataMarket entirely, ending all data packages and support. Gislason had long since moved on, founding GRID \u2014 a next-generation spreadsheet startup. DataMarket's journey from Icelandic startup to acquisition to quiet retirement took thirteen years.",
+  "founded": "2008",
+  "shutdown": "2021-06",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "category": "platform-absorbed",
+  "tags": ["data-platform", "visualization", "iceland", "nordic", "qlik"],
+  "sources": [
+    {
+      "url": "https://grapevine.is/news/2014/11/02/qlik-acquires-datamarket-for-13-5mi/",
+      "title": "Qlik acquires DataMarket for $13.5M",
+      "date": "2014-11-02",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://community.qlik.com/t5/Support-Updates/Qlik-DataMarket-will-be-retired/ba-p/1695436",
+      "title": "Qlik DataMarket retirement",
+      "date": "2021-04-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

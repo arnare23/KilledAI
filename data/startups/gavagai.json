@@ -1,0 +1,25 @@
+{
+  "name": "Gavagai",
+  "slug": "gavagai",
+  "tagline": "AI-powered text analytics and NLP platform",
+  "description": "Swedish NLP startup spun off from the Swedish Institute of Computer Science, Gavagai raised SEK 150M but went bankrupt in 2024 as LLMs commoditized text analytics.",
+  "story": "Gavagai was spun off from the Swedish Institute of Computer Science in 2008, building proprietary Word Space Technology for text analytics and sentiment analysis. The company raised approximately SEK 150 million ($14M) and served enterprise clients with NLP tools that could analyze text across multiple languages. For over a decade, Gavagai's specialized NLP capabilities were genuinely differentiated. Then large language models arrived. By 2023, the text analytics and sentiment analysis that Gavagai had spent years building became a commodity \u2014 something any business could do with an API call to GPT-4 or Claude. Gavagai went bankrupt in 2024, a victim of the same AI revolution it had helped pioneer.",
+  "founded": "2008",
+  "shutdown": "2024",
+  "funding_raised": "$14M",
+  "funding_stage": "series-a",
+  "category": "no-moat",
+  "tags": ["nlp", "text-analytics", "sentiment-analysis", "sweden", "nordic"],
+  "sources": [
+    {
+      "url": "https://tracxn.com/d/companies/gavagai/",
+      "title": "Gavagai on Tracxn",
+      "date": "2024-06-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "medium",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

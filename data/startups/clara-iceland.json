@@ -1,0 +1,31 @@
+{
+  "name": "CLARA",
+  "slug": "clara-iceland",
+  "tagline": "AI-powered community analytics and sentiment analysis from Iceland",
+  "description": "Icelandic NLP startup acquired by Jive Software for $9M in 2013. The technology was rebranded as Jive Resonata before Jive itself was acquired and the product disappeared.",
+  "story": "CLARA was founded in Reykjavik in 2008, building AI-powered community analytics tools that used natural language processing and sentiment analysis to help companies understand their online communities. The startup was one of Iceland's early AI success stories. In May 2013, Jive Software acquired CLARA for approximately $9 million (\u20ac6.8 million, or roughly one billion ISK \u2014 a notable sum for Iceland's small startup ecosystem). The technology was rebranded as 'Jive Resonata' and integrated into Jive's collaboration platform. But the story didn't end there. Jive Software itself was acquired by Aurea Software in 2017, and CLARA's original technology was buried under multiple layers of corporate acquisition. The Icelandic team and their pioneering NLP work now exist only as a footnote in Jive's acquisition history.",
+  "founded": "2008",
+  "shutdown": "2013-05",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "category": "acqui-hired",
+  "tags": ["nlp", "sentiment-analysis", "community-analytics", "iceland", "nordic"],
+  "sources": [
+    {
+      "url": "https://arcticstartup.com/icelands-clara-acquired-for-e6-8-million-by-jive-software/",
+      "title": "Iceland's Clara acquired by Jive Software",
+      "date": "2013-05-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://grapevine.is/news/2013/05/03/icelandic-software-company-acquired-for-one-billion-isk/",
+      "title": "Icelandic software company acquired for 1B ISK",
+      "date": "2013-05-03",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

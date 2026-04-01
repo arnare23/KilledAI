@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-01T22:52:27.250063+00:00",
-  "count": 26,
+  "generated_at": "2026-04-01T23:09:47.683174+00:00",
+  "count": 39,
   "startups": [
     {
       "name": "Yupp.ai",
@@ -43,6 +43,17 @@
       "founded": "2023",
       "shutdown": "2025-10",
       "category": "market",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "Appetite",
+      "slug": "appetite",
+      "tagline": "AI-powered food waste reduction for restaurants",
+      "founded": "2020",
+      "shutdown": "2025-08",
+      "category": "funding",
       "funding_raised": "Unknown",
       "status": "published",
       "confidence": "medium"
@@ -213,6 +224,17 @@
       "confidence": "high"
     },
     {
+      "name": "Aerit",
+      "slug": "aerit",
+      "tagline": "AI-powered autonomous drone delivery in Sweden",
+      "founded": "2021",
+      "shutdown": "2024-05",
+      "category": "funding",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Ghost Autonomy",
       "slug": "ghost-autonomy",
       "tagline": "Autonomous driving software for automaker partners",
@@ -235,6 +257,17 @@
       "confidence": "high"
     },
     {
+      "name": "MaaS Global",
+      "slug": "maas-global",
+      "tagline": "AI-powered mobility-as-a-service platform combining all city transport",
+      "founded": "2015",
+      "shutdown": "2024-03",
+      "category": "market",
+      "funding_raised": "$162M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Artifact",
       "slug": "artifact",
       "tagline": "AI-powered personalized news aggregator by Instagram co-founders",
@@ -244,6 +277,17 @@
       "funding_raised": "Self-funded",
       "status": "published",
       "confidence": "high"
+    },
+    {
+      "name": "Gavagai",
+      "slug": "gavagai",
+      "tagline": "AI-powered text analytics and NLP platform",
+      "founded": "2008",
+      "shutdown": "2024",
+      "category": "no-moat",
+      "funding_raised": "$14M",
+      "status": "published",
+      "confidence": "medium"
     },
     {
       "name": "Jasper AI",
@@ -286,6 +330,105 @@
       "shutdown": "2022-11",
       "category": "platform-absorbed",
       "funding_raised": "$17M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Peltarion",
+      "slug": "peltarion",
+      "tagline": "AI platform for building and deploying neural networks",
+      "founded": "2004",
+      "shutdown": "2022-09",
+      "category": "acqui-hired",
+      "funding_raised": "$20M+",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "DataMarket",
+      "slug": "datamarket",
+      "tagline": "Data discovery and visualization platform from Iceland",
+      "founded": "2008",
+      "shutdown": "2021-06",
+      "category": "platform-absorbed",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Curious AI",
+      "slug": "curious-ai",
+      "tagline": "Deep learning for real-time computer vision and autonomous systems",
+      "founded": "2015",
+      "shutdown": "2020-10",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "Mapillary",
+      "slug": "mapillary",
+      "tagline": "Crowdsourced street-level imagery platform using AI computer vision",
+      "founded": "2013",
+      "shutdown": "2020-06",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Cxense",
+      "slug": "cxense",
+      "tagline": "AI-powered real-time content personalization and data management",
+      "founded": "2010",
+      "shutdown": "2019-10",
+      "category": "platform-absorbed",
+      "funding_raised": "Publicly traded",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Aifloo",
+      "slug": "aifloo",
+      "tagline": "AI-powered smart wristband for elderly care monitoring",
+      "founded": "2015",
+      "shutdown": "2018-07",
+      "category": "funding",
+      "funding_raised": "€5.1M",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "Spektral",
+      "slug": "spektral",
+      "tagline": "AI-powered real-time image segmentation — green screen without the green screen",
+      "founded": "2015",
+      "shutdown": "2017-12",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Brisk",
+      "slug": "brisk",
+      "tagline": "AI-powered prescriptive intelligence for sales teams",
+      "founded": "2012",
+      "shutdown": "2016",
+      "category": "platform-absorbed",
+      "funding_raised": "Unknown",
+      "status": "published",
+      "confidence": "medium"
+    },
+    {
+      "name": "CLARA",
+      "slug": "clara-iceland",
+      "tagline": "AI-powered community analytics and sentiment analysis from Iceland",
+      "founded": "2008",
+      "shutdown": "2013-05",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
       "status": "published",
       "confidence": "high"
     }

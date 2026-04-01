@@ -1,0 +1,31 @@
+{
+  "name": "Peltarion",
+  "slug": "peltarion",
+  "tagline": "AI platform for building and deploying neural networks",
+  "description": "Swedish AI platform used by Tesla, GE, and NASA for neural network deployment. Acquired by King (Activision Blizzard) in 2022, then shut down to external users.",
+  "story": "Founded in Stockholm in 2004, Peltarion built an AI platform that made it possible for non-experts to build and deploy neural networks. The company worked with clients including Tesla, GE, and NASA on applications from cancer tumor segmentation to crop yield optimization. Backed by hedge fund billionaire Conni Jonsson of EQT, Peltarion was one of Sweden's most established AI companies. In June 2022, mobile game developer King \u2014 a subsidiary of Activision Blizzard \u2014 acquired Peltarion for an undisclosed sum. Both founders became VPs at King, and on September 30, 2022, the Peltarion platform was permanently shut down to external users. All that AI infrastructure, built over nearly two decades, was absorbed into making mobile games smarter.",
+  "founded": "2004",
+  "shutdown": "2022-09",
+  "funding_raised": "$20M+",
+  "funding_stage": "late",
+  "category": "acqui-hired",
+  "tags": ["ai-platform", "neural-networks", "sweden", "gaming", "nordic"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Peltarion",
+      "title": "Peltarion - Wikipedia",
+      "date": "2022-10-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20220613005280/en/Mobile-Game-Developer-King-Acquires-Artificial-Intelligence-Company-Peltarion",
+      "title": "King acquires Peltarion",
+      "date": "2022-06-13",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Aerit",
+  "slug": "aerit",
+  "tagline": "AI-powered autonomous drone delivery in Sweden",
+  "description": "Swedish drone delivery startup using AI for autonomous last-mile delivery. Filed for bankruptcy in May 2024 after failing to secure additional investment.",
+  "story": "Aerit was founded in Stockholm in 2021 to build AI-powered autonomous drone delivery for the last mile. Its Nimbi drone could fly 12 kilometers carrying up to 4 kilograms, using computer vision and AI for autonomous navigation. The company began actual delivery operations in V\u00e4rmd\u00f6 kommun in June 2023, making it one of the few European drone delivery startups to move beyond testing. But the funding environment in 2024 proved hostile to capital-intensive hardware startups. Unable to secure the additional investment needed to scale operations, Aerit filed for bankruptcy in May 2024. The company's proprietary drone technology, software, hardware, and intellectual property were offered for sale \u2014 a package deal for whatever remained of a autonomous delivery dream.",
+  "founded": "2021",
+  "shutdown": "2024-05",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "category": "funding",
+  "tags": ["drones", "delivery", "autonomous", "hardware", "sweden", "nordic"],
+  "sources": [
+    {
+      "url": "https://dronedj.com/2024/05/23/innovative-swedish-drone-delivery-company-aerit-files-for-bankruptcy/",
+      "title": "Swedish drone delivery company Aerit files for bankruptcy",
+      "date": "2024-05-23",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://arcticstartup.com/aerit-filed-bankruptcy/",
+      "title": "Aerit filed bankruptcy",
+      "date": "2024-05-25",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

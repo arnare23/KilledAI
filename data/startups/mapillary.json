@@ -1,0 +1,25 @@
+{
+  "name": "Mapillary",
+  "slug": "mapillary",
+  "tagline": "Crowdsourced street-level imagery platform using AI computer vision",
+  "description": "Swedish computer vision startup built a crowdsourced alternative to Google Street View. Acquired by Meta in 2020, the commercial product was made free and the business model killed.",
+  "story": "Mapillary was founded in Malm\u00f6, Sweden in 2013 as a crowdsourced street-level imagery platform that used AI and computer vision to extract map data from user-submitted photos. Think of it as an open, community-driven alternative to Google Street View, with AI automatically identifying street signs, lane markings, and road features. The company built a commercial offering around this technology, selling map data to cities and mapping companies. In June 2020, Facebook (now Meta) acquired Mapillary. True to Meta's strategy of acquiring mapping data for its platforms, the commercial product was immediately made free \u2014 eliminating Mapillary's entire revenue model. The independent company ceased to exist, and its technology was absorbed into Meta's mapping infrastructure. The community of contributors who had built the platform now contributed to a Facebook product.",
+  "founded": "2013",
+  "shutdown": "2020-06",
+  "funding_raised": "Unknown",
+  "funding_stage": "series-b",
+  "category": "acqui-hired",
+  "tags": ["computer-vision", "mapping", "crowdsourcing", "meta", "sweden", "nordic"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2020/06/18/mapillary-facebook/",
+      "title": "Facebook acquires Mapillary",
+      "date": "2020-06-18",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}

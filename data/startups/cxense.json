@@ -1,0 +1,31 @@
+{
+  "name": "Cxense",
+  "slug": "cxense",
+  "tagline": "AI-powered real-time content personalization and data management",
+  "description": "Norwegian AI company publicly traded on the Oslo Stock Exchange. Acquired by Piano in 2019, delisted, and absorbed into Piano's content monetization platform.",
+  "story": "Cxense was founded in Oslo in 2010 and became one of the few Nordic AI companies to reach the public markets, listing on the Oslo Stock Exchange. The company used machine learning for real-time content personalization and audience data management, serving major publishers and media companies. Despite its public listing and technical credibility, Cxense struggled to compete in the increasingly crowded personalization market. In October 2019, Piano Software acquired Cxense, delisting it from the stock exchange. Approximately 100 employees joined Piano, and Cxense's technology was absorbed into Piano's broader content monetization platform. The Cxense brand and independent operations ceased to exist \u2014 a publicly traded Norwegian AI company, quietly folded into an American software platform.",
+  "founded": "2010",
+  "shutdown": "2019-10",
+  "funding_raised": "Publicly traded",
+  "funding_stage": "public",
+  "category": "platform-absorbed",
+  "tags": ["personalization", "media", "publisher-tech", "norway", "nordic", "public-company"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cxense",
+      "title": "Cxense - Wikipedia",
+      "date": "2019-10-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://resources.piano.io/resources/piano-acquires-cxense-expanding-the-possibilities-of-the-platform-with-data-management-and-intelligent-personalization-capabilities/",
+      "title": "Piano acquires Cxense",
+      "date": "2019-10-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T23:00:00Z",
+  "updated_at": "2026-04-01T23:00:00Z"
+}
