@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.venv/
+.firebase/
+public/data/
+.env
+*.log
+.DS_Store
+__pycache__/

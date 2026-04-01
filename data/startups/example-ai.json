@@ -1,0 +1,27 @@
+{
+  "name": "ExampleAI",
+  "slug": "example-ai",
+  "tagline": "AI-powered code documentation generator",
+  "description": "ExampleAI used GPT-4 to automatically generate documentation for codebases. It shut down after GitHub Copilot added native documentation features.",
+  "story": "Founded in March 2023 by two former Google engineers, ExampleAI raised $2.1M in seed funding to build an AI-powered documentation tool. The product gained traction among small development teams, reaching 5,000 users by late 2023. However, when GitHub launched Copilot's built-in documentation generation in early 2024, ExampleAI's core value proposition evaporated overnight. Unable to differentiate and facing rapidly declining signups, the founders announced the shutdown in June 2024, returning remaining capital to investors.",
+  "founded": "2023-03",
+  "shutdown": "2024-06",
+  "funding_raised": "$2.1M",
+  "funding_stage": "seed",
+  "employee_count": 8,
+  "category": "platform-absorbed",
+  "tags": ["developer-tools", "documentation", "gpt-wrapper"],
+  "url": "https://exampleai.com",
+  "sources": [
+    {
+      "url": "https://example.com/exampleai-shuts-down",
+      "title": "ExampleAI shuts down after GitHub ships native docs",
+      "date": "2024-06-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T12:00:00Z",
+  "updated_at": "2026-04-01T14:30:00Z"
+}

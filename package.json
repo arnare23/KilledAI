@@ -1,0 +1,18 @@
+{
+  "name": "killedai",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "prepare-data": "python3 scripts/build_index.py && mkdir -p public/data/startups && cp data/index.json public/data/ && cp data/startups/*.json public/data/startups/",
+    "deploy": "npm run prepare-data && npm run build && firebase deploy --only hosting"
+  },
+  "dependencies": {
+    "minisearch": "^7.2.0",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.3"
+  }
+}
