@@ -1,0 +1,25 @@
+{
+  "name": "Kite",
+  "slug": "kite",
+  "tagline": "AI-powered code completion tool for developers",
+  "description": "Kite was an early AI coding assistant that raised $17M but couldn't monetize. GitHub Copilot's launch effectively killed the market for standalone AI code completion tools.",
+  "story": "Kite was one of the earliest AI-powered code completion tools, founded in 2014 \u2014 years before the generative AI boom. The company raised $17 million and built a product that used machine learning to suggest code completions for Python developers. For a time, Kite was the go-to AI coding assistant. But the company never cracked monetization. When GitHub launched Copilot in 2021, powered by OpenAI's Codex model and deeply integrated into VS Code, Kite's standalone product became impossible to sell. Founder Adam Smith was candid in the shutdown announcement in November 2022: 'Kite failed to build a business because our product did not monetize.' The company explored pivots but ultimately couldn't compete with a tool backed by Microsoft and OpenAI that was bundled into the world's most popular code editor.",
+  "founded": "2014",
+  "shutdown": "2022-11",
+  "funding_raised": "$17M",
+  "funding_stage": "series-a",
+  "category": "platform-absorbed",
+  "tags": ["developer-tools", "code-completion", "copilot-killed"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2022/12/10/with-kites-demise-can-generative-ai-for-code-succeed/",
+      "title": "With Kite's demise, can generative AI for code succeed?",
+      "date": "2022-12-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

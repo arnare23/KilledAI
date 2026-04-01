@@ -1,0 +1,32 @@
+{
+  "name": "Adept AI",
+  "slug": "adept-ai",
+  "tagline": "AI agents that automate software tasks on your behalf",
+  "description": "Adept AI raised $415M to build AI agents for software automation before Amazon hired the CEO, co-founders, and 80% of the technical team in a $430M deal.",
+  "story": "Founded in 2022, Adept AI raised $415 million to develop AI agents capable of taking actions in software \u2014 clicking buttons, filling forms, and navigating applications on a user's behalf. The company attracted top AI talent and significant investor interest. But in June 2024, Amazon executed a devastating acqui-hire, offering CEO David Luan and the co-founders positions at Amazon along with a $330 million licensing deal and $100 million in retention bonuses. Approximately 80% of Adept's technical staff followed. The deal was structured to avoid regulatory scrutiny \u2014 Amazon technically licensed Adept's technology rather than acquiring the company. What remained was a shell. Notably, four of the five co-founders who joined Amazon had departed within a year.",
+  "founded": "2022",
+  "shutdown": "2024-06",
+  "funding_raised": "$415M",
+  "funding_stage": "series-b",
+  "employee_count": 100,
+  "category": "acqui-hired",
+  "tags": ["ai-agents", "amazon", "software-automation"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/",
+      "title": "Amazon hires founders from AI startup Adept",
+      "date": "2024-06-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.semafor.com/article/08/02/2024/investors-in-adept-ai-will-be-paid-back-after-amazon-hires-startups-top-talent",
+      "title": "Adept investors to be paid back after Amazon hire",
+      "date": "2024-08-02",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Subtl.ai",
+  "slug": "subtl-ai",
+  "tagline": "Enterprise 'chat with your documents' AI platform",
+  "description": "Subtl.ai built document Q&A before ChatGPT added the same feature natively. With only $200K in funding, it couldn't survive the platform absorption.",
+  "story": "Subtl.ai was a Hyderabad-based enterprise AI startup founded in 2019 that let businesses chat with their documents \u2014 uploading PDFs, contracts, and reports to ask questions in natural language. It was a useful feature in 2022. By 2024, it was a checkbox. ChatGPT, Claude, and virtually every major AI platform added native document upload and Q&A capabilities. With approximately $200K in total funding, Subtl.ai never found a clear, repeatable niche. Each client required custom integration work, making scaling impossible. The company shut down in July 2025 \u2014 one of the clearest examples of a startup building a feature rather than a product, then watching the platforms absorb it.",
+  "founded": "2019",
+  "shutdown": "2025-07",
+  "funding_raised": "$200K",
+  "funding_stage": "pre-seed",
+  "category": "platform-absorbed",
+  "tags": ["document-qa", "enterprise", "rag", "chatgpt-killed"],
+  "sources": [
+    {
+      "url": "https://techstartups.com/2025/12/09/top-ai-startups-that-shut-down-in-2025-what-founders-can-learn/",
+      "title": "Top AI startups that shut down in 2025",
+      "date": "2025-12-09",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "medium",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

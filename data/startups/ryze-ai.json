@@ -1,0 +1,25 @@
+{
+  "name": "Ryze",
+  "slug": "ryze-ai",
+  "tagline": "AI tool for managing Google and Meta advertising campaigns",
+  "description": "Ryze built AI-powered ad management, but when Claude and Manus AI shipped competing features, their deal close rate dropped from 70% to 20% overnight.",
+  "story": "Ryze was an early-stage AI startup that built tools for managing Google and Meta advertising campaigns using artificial intelligence. The product automated bid optimization, audience targeting, and ad creative generation. For a time, the 70% deal close rate suggested strong product-market fit. Then Anthropic's Claude and Manus AI released features that directly competed with Ryze's core offering \u2014 AI-powered ad campaign management built into general-purpose AI assistants. Ryze's close rate plummeted from 70% to 20% seemingly overnight. The startup couldn't compete with AI platforms that offered ad management as one feature among many, rather than a standalone product. Ryze shut down in 2025, a clean example of platform absorption in real time.",
+  "founded": "2023",
+  "shutdown": "2025",
+  "funding_raised": "Unknown",
+  "funding_stage": "early",
+  "category": "platform-absorbed",
+  "tags": ["advertising", "google-ads", "meta-ads", "claude-killed"],
+  "sources": [
+    {
+      "url": "https://finance.yahoo.com/news/claude-just-killed-startup-sf-173105543.html",
+      "title": "Claude just killed my startup",
+      "date": "2025-06-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "medium",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

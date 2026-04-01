@@ -1,0 +1,26 @@
+{
+  "name": "Covariant",
+  "slug": "covariant",
+  "tagline": "AI-powered robotics for warehouse automation",
+  "description": "Covariant raised $222M for AI-driven warehouse robotics before Amazon hired all founders and 25% of staff in a $400M reverse acqui-hire, leaving a zombie company.",
+  "story": "Founded in 2017 by former OpenAI researchers, Covariant developed AI systems that could guide robotic arms to pick and sort items in warehouses \u2014 a notoriously difficult robotics challenge. The company raised approximately $222 million and partnered with major logistics companies. In August 2024, Amazon executed a reverse acqui-hire, paying over $380 million in licensing fees plus $20 million to hire all three co-founders and roughly 25% of the workforce. The deal was structured to avoid antitrust scrutiny. By 2025, a whistleblower complaint described Covariant as a 'zombie company' that existed only on paper to collect a final licensing payment from Amazon. No public updates have been issued since the deal.",
+  "founded": "2017",
+  "shutdown": "2024-08",
+  "funding_raised": "$222M",
+  "funding_stage": "series-c",
+  "employee_count": 100,
+  "category": "acqui-hired",
+  "tags": ["robotics", "warehouse", "amazon", "openai-alumni"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/",
+      "title": "Amazon hires founders of Covariant",
+      "date": "2024-08-31",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

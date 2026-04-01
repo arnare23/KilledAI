@@ -1,0 +1,32 @@
+{
+  "name": "Olive AI",
+  "slug": "olive-ai",
+  "tagline": "AI-powered healthcare automation platform",
+  "description": "Olive AI promised to automate healthcare administration with AI but relied heavily on brittle RPA scripts. After raising $902M at a $4B valuation, it collapsed from overexpansion.",
+  "story": "Olive AI was founded in 2012 with the ambitious goal of automating healthcare's most tedious administrative tasks using artificial intelligence. The company became one of the most highly valued healthtech startups, raising $902 million and reaching a $4 billion valuation. But beneath the AI branding, much of Olive's automation relied on brittle robotic process automation scripts that couldn't handle complex workflows and required significant manual intervention. The company expanded too aggressively into too many healthcare verticals, burning through capital at an unsustainable rate. Layoffs began in July 2022 with 450 employees cut, followed by another 200 in February 2023. By October 2023, Olive AI shut down entirely, selling its remaining assets to Waystar and Humata Health. CEO Sean Lane attributed the failure to overexpansion and loss of focus.",
+  "founded": "2012",
+  "shutdown": "2023-10",
+  "funding_raised": "$902M",
+  "funding_stage": "late",
+  "employee_count": 800,
+  "category": "technical",
+  "tags": ["healthcare", "automation", "rpa", "unicorn"],
+  "sources": [
+    {
+      "url": "https://www.healthcaredive.com/news/olive-ai-shuts-down/698455/",
+      "title": "Olive AI shuts down",
+      "date": "2023-10-31",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sunsethq.com/blog/why-did-olive-fail",
+      "title": "Why did Olive AI fail?",
+      "date": "2023-11-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

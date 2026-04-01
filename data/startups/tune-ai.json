@@ -1,0 +1,24 @@
+{
+  "name": "Tune AI",
+  "slug": "tune-ai",
+  "tagline": "GenAI platform for fine-tuning LLMs and building AI assistants",
+  "description": "Formerly Nimblebox, Tune AI pivoted to LLM fine-tuning but was crushed when AWS, GCP, and Azure shipped similar tooling at lower cost.",
+  "story": "Originally founded as Nimblebox in 2018, the company rebranded to Tune AI and pivoted to building a generative AI platform for fine-tuning large language models and deploying AI assistants. The timing seemed right \u2014 enterprises were scrambling to customize LLMs for their needs. But major cloud providers had the same idea. AWS Bedrock, Google Cloud's Vertex AI, and Azure AI Studio all launched comprehensive LLM fine-tuning and deployment services, deeply integrated into platforms enterprises were already using. Tune AI couldn't compete on price or distribution. The company attracted free users but failed to convert enterprises to paying customers. With high infrastructure costs and shrinking margins, Tune AI shut down in 2025.",
+  "founded": "2018",
+  "shutdown": "2025",
+  "funding_raised": "Unknown",
+  "category": "platform-absorbed",
+  "tags": ["llm-fine-tuning", "developer-tools", "cloud-competitor"],
+  "sources": [
+    {
+      "url": "https://techstartups.com/2025/12/09/top-ai-startups-that-shut-down-in-2025-what-founders-can-learn/",
+      "title": "Top AI startups that shut down in 2025",
+      "date": "2025-12-09",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "medium",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

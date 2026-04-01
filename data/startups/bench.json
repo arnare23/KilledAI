@@ -1,0 +1,32 @@
+{
+  "name": "Bench",
+  "slug": "bench",
+  "tagline": "AI-augmented online bookkeeping for small businesses",
+  "description": "Bench raised $113M and served 35,000+ clients before abruptly shutting down on December 27, 2024, stranding thousands without access to their financial records.",
+  "story": "Founded in 2012 and backed by Shopify and Bain Capital Ventures, Bench raised $113 million to build an AI-augmented bookkeeping platform for small businesses. The company served over 35,000 clients and employed 600 people. Bench bet heavily on AI to replace human accountants, but the technology couldn't deliver reliable results for the messy reality of small business bookkeeping. When their bank called in venture debt, the company couldn't cover it. On December 27, 2024, Bench abruptly shut down without warning, locking thousands of small businesses out of their accounting data and tax documents during the critical year-end period. The chaos made national news. Days later, Employer.com swooped in with a last-minute acquisition, bringing the platform partially back online \u2014 but the damage to trust was done.",
+  "founded": "2012",
+  "shutdown": "2024-12",
+  "funding_raised": "$113M",
+  "funding_stage": "series-c",
+  "employee_count": 600,
+  "category": "funding",
+  "tags": ["fintech", "bookkeeping", "accounting", "abrupt-shutdown"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/",
+      "title": "Bench shuts down leaving thousands stranded",
+      "date": "2024-12-27",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/",
+      "title": "Bench to be acquired after shutdown",
+      "date": "2024-12-30",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

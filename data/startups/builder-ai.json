@@ -1,0 +1,33 @@
+{
+  "name": "Builder.ai",
+  "slug": "builder-ai",
+  "tagline": "AI-powered no-code app development platform",
+  "description": "Builder.ai claimed to use an AI assistant called 'Natasha' to build apps with no code, but investigations revealed that much of the work was done by 700 engineers in India rather than AI.",
+  "story": "Founded in 2016 in London, Builder.ai raised $445 million and was valued at $1.2 billion, with Microsoft among its backers. The company marketed itself as an AI-powered no-code platform where users could build apps 'as easy as ordering a pizza' through an AI assistant called Natasha. But the reality was far less automated \u2014 reports surfaced that approximately 700 engineers in India were doing much of the actual work. The company's real downfall came from financial misrepresentation: projected revenues of $220 million turned out to be closer to $55 million. When lender Viola Credit seized $37 million from company accounts, the house of cards collapsed. Builder.ai filed for bankruptcy in May 2025, with over 500 employees losing their jobs.",
+  "founded": "2016",
+  "shutdown": "2025-05",
+  "funding_raised": "$445M",
+  "funding_stage": "late",
+  "employee_count": 500,
+  "category": "other",
+  "tags": ["no-code", "app-development", "fraud", "microsoft-backed"],
+  "url": "https://builder.ai",
+  "sources": [
+    {
+      "url": "https://restofworld.org/2025/builderai-ai-explainer-bankrupt/",
+      "title": "Builder.ai AI explainer bankrupt",
+      "date": "2025-05-24",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/",
+      "title": "Microsoft-backed Builder.ai running out of money",
+      "date": "2025-05-20",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Woebot Health",
+  "slug": "woebot-health",
+  "tagline": "AI-powered CBT therapy chatbot for mental health",
+  "description": "Woebot raised $114M for its FDA-tracked AI therapy chatbot, but regulatory costs proved too high and generative AI leapfrogged its scripted approach.",
+  "story": "Woebot Health was founded in 2017 as a pioneering AI therapy chatbot, using cognitive behavioral therapy (CBT) techniques delivered through conversational AI. The company raised approximately $114 million and pursued FDA marketing authorization \u2014 a legitimacy play that most AI health startups avoided. But that regulatory path became Woebot's undoing. The cost and timeline for FDA compliance were enormous, and meanwhile, the generative AI revolution made Woebot's pre-scripted responses feel antiquated compared to what ChatGPT and Claude could offer. On June 30, 2025, Woebot shut down its app. Founder Alison Darcy said 'AI is moving faster than regulators,' acknowledging that the company was caught between a regulatory framework designed for medical devices and an AI landscape that was evolving monthly.",
+  "founded": "2017",
+  "shutdown": "2025-06",
+  "funding_raised": "$114M",
+  "funding_stage": "series-b",
+  "category": "regulatory",
+  "tags": ["mental-health", "therapy", "fda", "healthcare", "chatbot"],
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2025/07/02/woebot-therapy-chatbot-shuts-down-founder-says-ai-moving-faster-than-regulators/",
+      "title": "Woebot shuts down, AI moving faster than regulators",
+      "date": "2025-07-02",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cydoc",
+  "slug": "cydoc",
+  "tagline": "AI-powered patient intake and clinical documentation",
+  "description": "After 7 years of bootstrapping, Cydoc's founder published a detailed postmortem explaining that deploying health AI is only 20% of the challenge \u2014 the other 80% is sales and workflow integration.",
+  "story": "Cydoc was founded in April 2018 as a bootstrapped health AI startup focused on automating patient intake and clinical documentation. After seven years of development, the company generated only $27,900 in revenue in 2024. Founder Dr. Rachel Draelos published an unusually detailed and honest postmortem that became widely read in the startup community. She wrote that 'deploying health AI is only 20% of the challenge \u2014 the other 80% is workflow integration, sales infrastructure, and sustainable business models.' Cydoc couldn't build a sales pipeline, and when the founder tried to sell the company to an EHR vendor, the insufficient recurring revenue made it unattractive. The startup shut down in August 2025 \u2014 a cautionary tale about the gap between building working AI and building a working business.",
+  "founded": "2018-04",
+  "shutdown": "2025-08",
+  "funding_raised": "Bootstrapped",
+  "funding_stage": "bootstrapped",
+  "employee_count": 1,
+  "category": "market",
+  "tags": ["healthcare", "clinical-documentation", "bootstrapped", "postmortem"],
+  "sources": [
+    {
+      "url": "https://glassboxmedicine.com/2026/02/21/why-i-shut-down-my-bootstrapped-health-ai-startup-after-7-years-a-founders-postmortem/",
+      "title": "Why I shut down my bootstrapped health AI startup after 7 years",
+      "date": "2026-02-21",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

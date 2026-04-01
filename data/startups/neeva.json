@@ -1,0 +1,25 @@
+{
+  "name": "Neeva",
+  "slug": "neeva",
+  "tagline": "Ad-free AI-powered search engine challenging Google",
+  "description": "Founded by ex-Google SVP Sridhar Ramaswamy, Neeva raised $77.5M to build an ad-free search engine but couldn't convince users to pay $4.95/month to switch from Google.",
+  "story": "Neeva was founded in 2019 by Sridhar Ramaswamy, the former SVP of Google Ads, with a bold thesis: users would pay for an ad-free, privacy-first search engine. The company raised $77.5 million and actually beat both Google and Microsoft to launching AI-powered search summaries. But technical superiority wasn't enough. Google's default search deals and browser integrations made user acquisition nearly impossible, and getting consumers to pay $4.95 per month for search \u2014 something they'd always had for free \u2014 proved to be an insurmountable barrier. Neeva shut down its consumer search product in June 2023 and was acquired by Snowflake to pivot its AI technology toward enterprise applications.",
+  "founded": "2019",
+  "shutdown": "2023-06",
+  "funding_raised": "$77.5M",
+  "funding_stage": "series-b",
+  "category": "competition",
+  "tags": ["search-engine", "google-competitor", "privacy", "snowflake"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/",
+      "title": "Neeva gives up on consumer search",
+      "date": "2023-05-21",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

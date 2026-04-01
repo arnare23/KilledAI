@@ -1,0 +1,25 @@
+{
+  "name": "Jasper AI",
+  "slug": "jasper-ai",
+  "tagline": "AI copywriting and content generation platform",
+  "description": "Once valued at $1.5B with $120M revenue, Jasper's business collapsed to $35-55M after ChatGPT commoditized AI writing. Both co-founders departed.",
+  "story": "Jasper AI was the poster child of the GPT wrapper era. Founded in 2021, the company rode the GPT-3 wave to $120 million in annual revenue and a $1.5 billion valuation by late 2022, making it one of the fastest-growing SaaS companies ever. Then ChatGPT launched. Overnight, the AI writing market went from specialized to commoditized. Why pay Jasper when ChatGPT was free? Revenue collapsed to an estimated $35-55 million by 2024 \u2014 a more than 50% decline. The company pivoted three times in twelve months: from GPT-3 wrapper, to OpenAI partnership, to attempting its own proprietary model. Both co-founders stepped down in September 2023, and the internal valuation was cut by 20%. Jasper continues operating with an enterprise marketing focus, but remains a cautionary tale of what happens when your entire product is a thin layer over someone else's API.",
+  "founded": "2021",
+  "shutdown": "2024",
+  "funding_raised": "$125M",
+  "funding_stage": "series-a",
+  "category": "platform-absorbed",
+  "tags": ["content-generation", "copywriting", "gpt-wrapper", "chatgpt-killed"],
+  "sources": [
+    {
+      "url": "https://www.maginative.com/article/jasper-cuts-internal-valuation-as-ai-growth-slows/",
+      "title": "Jasper cuts internal valuation",
+      "date": "2024-01-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

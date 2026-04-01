@@ -1,0 +1,25 @@
+{
+  "name": "Yupp.ai",
+  "slug": "yupp-ai",
+  "tagline": "Crowdsourced AI model feedback platform",
+  "description": "Despite $33M in seed funding from a16z's Chris Dixon and 1.3M users, Yupp.ai shut down less than a year after launch when rapid AI model improvements made crowdsourced feedback obsolete.",
+  "story": "Yupp.ai raised an impressive $33 million seed round led by a16z crypto's Chris Dixon, with backers including Google DeepMind's Jeff Dean, Twitter co-founder Biz Stone, and Pinterest co-founder Evan Sharp. The platform let users provide crowdsourced feedback on AI model outputs, aiming to help labs improve their models through human evaluation. Despite attracting 1.3 million users, Yupp.ai never reached product-market fit. AI models improved so rapidly that crowdsourced feedback became less valuable \u2014 labs increasingly preferred paying PhD experts for specialized RLHF feedback through services like Scale AI. The CEO candidly admitted that 'the AI model capability landscape has changed dramatically.' Yupp.ai shut down in March 2026, less than a year after its public launch \u2014 proof that even well-funded startups can't outrun the pace of AI improvement.",
+  "founded": "2024",
+  "shutdown": "2026-03",
+  "funding_raised": "$33M",
+  "funding_stage": "seed",
+  "category": "no-moat",
+  "tags": ["ai-feedback", "crowdsourcing", "a16z-backed", "rlhf"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "title": "Yupp.ai shuts down after $33M raise",
+      "date": "2026-03-31",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

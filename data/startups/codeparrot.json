@@ -1,0 +1,31 @@
+{
+  "name": "CodeParrot",
+  "slug": "codeparrot",
+  "tagline": "AI tool to convert Figma designs into production-ready code",
+  "description": "Y Combinator-backed CodeParrot spent a year pivoting but could never get past $1,500 MRR in the crowded AI coding space.",
+  "story": "CodeParrot went through Y Combinator's Winter 2023 batch with a tool that used AI to convert Figma designs into production-ready code. The idea was compelling \u2014 bridging the gap between design and development was a persistent pain point. But the AI coding assistant market was already crowded with well-funded competitors like GitHub Copilot, Cursor, and Replit. CodeParrot struggled to differentiate, managing only $1,500 in monthly recurring revenue after a year of pivots. Unable to secure follow-on funding in an increasingly skeptical market, the company shut down in 2025. It was a stark reminder that in the AI coding space, a YC badge alone wasn't enough to survive.",
+  "founded": "2022",
+  "shutdown": "2025",
+  "funding_raised": "$500K",
+  "funding_stage": "seed",
+  "category": "no-moat",
+  "tags": ["developer-tools", "figma", "code-generation", "yc"],
+  "sources": [
+    {
+      "url": "https://startuptalky.com/why-codeparrot-shutdown/",
+      "title": "Why CodeParrot shut down",
+      "date": "2025-03-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.entrepreneur.com/en-in/news-and-trends/yc-backed-ai-startup-codeparrot-shuts-down-after-struggles/494835",
+      "title": "YC-backed CodeParrot shuts down",
+      "date": "2025-03-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Inflection AI",
+  "slug": "inflection-ai",
+  "tagline": "Personal AI chatbot Pi for empathetic conversation",
+  "description": "Inflection AI raised $1.5B and built the chatbot Pi, but was effectively gutted when Microsoft hired co-founder Mustafa Suleyman and nearly the entire team in a $650M deal.",
+  "story": "Co-founded in 2022 by DeepMind co-founder Mustafa Suleyman and LinkedIn co-founder Reid Hoffman, Inflection AI raised an extraordinary $1.5 billion to build Pi \u2014 a conversational AI designed to be more empathetic and personal than ChatGPT. But Pi failed to gain meaningful market share against the ChatGPT juggernaut. In March 2024, Microsoft executed what became known as a 'reverse acqui-hire,' paying $650 million ($620 million in licensing fees plus $30 million in legal waivers) to hire Suleyman as CEO of Microsoft AI, along with co-founder Karen Simonyan and nearly all 70 employees. The deal was structured to avoid antitrust review since Microsoft technically didn't acquire the company. Inflection continued as a shell, pivoting to enterprise, but the consumer Pi chatbot was effectively abandoned \u2014 usage caps were introduced and updates ceased.",
+  "founded": "2022",
+  "shutdown": "2024-03",
+  "funding_raised": "$1.5B",
+  "funding_stage": "late",
+  "employee_count": 70,
+  "category": "acqui-hired",
+  "tags": ["chatbot", "microsoft", "deepmind-founder", "consumer-ai"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/03/19/after-raising-1-3b-inflection-got-eaten-alive-by-its-biggest-investor-microsoft/",
+      "title": "Inflection got eaten alive by Microsoft",
+      "date": "2024-03-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://spectrum.ieee.org/inflection-ai-pi",
+      "title": "Inflection AI Pi - what happened",
+      "date": "2024-04-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}

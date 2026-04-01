@@ -1,0 +1,26 @@
+{
+  "name": "Ghost Autonomy",
+  "slug": "ghost-autonomy",
+  "tagline": "Autonomous driving software for automaker partners",
+  "description": "Ghost Autonomy, backed by OpenAI, raised $220M for autonomous driving tech but shut down just 5 months after its OpenAI partnership when the path to profitability remained unclear.",
+  "story": "Originally founded as Ghost Locomotion in 2017, Ghost Autonomy raised approximately $220 million to develop autonomous driving software, including a $5 million investment from OpenAI's Startup Fund in late 2023. The company pivoted multiple times \u2014 from full autonomy to crash prevention systems \u2014 seeking a viable business model in the notoriously capital-intensive self-driving space. Despite the high-profile OpenAI partnership, the path to long-term profitability remained uncertain given the unfavorable funding climate for autonomous vehicle development. In April 2024, just five months after the OpenAI investment, Ghost Autonomy abruptly shut down worldwide operations, affecting roughly 100 employees.",
+  "founded": "2017",
+  "shutdown": "2024-04",
+  "funding_raised": "$220M",
+  "funding_stage": "late",
+  "employee_count": 100,
+  "category": "funding",
+  "tags": ["autonomous-driving", "openai-backed", "self-driving"],
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/04/03/openai-backed-ghost-autonomy-shuts-down/",
+      "title": "OpenAI-backed Ghost Autonomy shuts down",
+      "date": "2024-04-03",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "confidence": "high",
+  "created_at": "2026-04-01T22:00:00Z",
+  "updated_at": "2026-04-01T22:00:00Z"
+}
