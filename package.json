@@ -8,7 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "prepare-data": "python3 scripts/build_index.py && mkdir -p public/data/startups && cp data/index.json public/data/ && cp data/startups/*.json public/data/startups/",
-    "deploy": "npm run prepare-data && npm run build && firebase deploy --only hosting"
+    "deploy": "npm run prepare-data && npm run build && npx wrangler pages deploy dist --project-name=killedai"
   },
   "dependencies": {
     "minisearch": "^7.2.0",

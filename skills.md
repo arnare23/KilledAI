@@ -88,7 +88,7 @@ Run the full discovery-to-publish pipeline.
 
 ## /publish
 
-Build the frontend and deploy to Firebase Hosting.
+Build the frontend and deploy to Cloudflare Pages.
 
 1. Prepare data: `.venv/bin/python3 scripts/build_index.py`
 2. Copy data for build:
@@ -98,5 +98,7 @@ Build the frontend and deploy to Firebase Hosting.
    cp data/startups/*.json public/data/startups/
    ```
 3. Build: `npm run build`
-4. Deploy: `firebase deploy --only hosting`
+4. Deploy: `npx wrangler pages deploy dist --project-name=killedai`
 5. Report the deployed URL
+
+Note: For automatic deploys, connect the arnare23/KilledAI repo in the Cloudflare Dashboard under Pages. Build command: `npm run prepare-data && npm run build`, output directory: `dist`.

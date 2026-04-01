@@ -63,7 +63,7 @@ npm run dev          # Start dev server at localhost:5173
 /snapshot {slug}     # Archive source URLs
 /index               # Rebuild master index
 /pipeline            # Full discovery-to-publish run
-/publish             # Build + deploy to Firebase
+/publish             # Build + deploy to Cloudflare Pages
 
 ### File Structure
 data/startups/{slug}.json   # One JSON per startup (source of truth)
@@ -76,6 +76,7 @@ src/                        # Frontend (Vite + vanilla TS)
 Remote: arnare23/KilledAI
 Push via: git push origin main
 
-### Firebase
-Project: killedai-site
+### Cloudflare Pages
+Project: killedai
 Deploy: npm run deploy
+Auto-deploy: Connect arnare23/KilledAI in Cloudflare Dashboard → Pages
