@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-01T23:25:46.346494+00:00",
-  "count": 61,
+  "generated_at": "2026-04-02T00:08:00.662305+00:00",
+  "count": 66,
   "startups": [
     {
       "name": "Yupp.ai",
@@ -81,6 +81,17 @@
       "confidence": "high"
     },
     {
+      "name": "Robin AI",
+      "slug": "robin-ai",
+      "tagline": "AI-powered contract review and negotiation platform for enterprise legal teams",
+      "founded": "2019",
+      "shutdown": "2025-12",
+      "category": "funding",
+      "funding_raised": "$71.7M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Yara AI",
       "slug": "yara-ai",
       "tagline": "AI-powered mental health therapy app",
@@ -121,6 +132,28 @@
       "shutdown": "2025-08",
       "category": "market",
       "funding_raised": "Bootstrapped",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Astra",
+      "slug": "astra-ai",
+      "tagline": "AI-powered sales workflow automation for account executives",
+      "founded": "2023",
+      "shutdown": "2025-07",
+      "category": "other",
+      "funding_raised": "Undisclosed",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Locale.ai",
+      "slug": "locale-ai",
+      "tagline": "Geospatial operations intelligence platform for logistics and mobility companies",
+      "founded": "2019-03",
+      "shutdown": "2025-07",
+      "category": "market",
+      "funding_raised": "$5M",
       "status": "published",
       "confidence": "high"
     },
@@ -255,6 +288,17 @@
       "funding_raised": "$150M+",
       "status": "published",
       "confidence": "high"
+    },
+    {
+      "name": "Wuri",
+      "slug": "wuri",
+      "tagline": "AI-powered app transforming text stories into immersive visual novels",
+      "founded": "2022",
+      "shutdown": "2025",
+      "category": "no-moat",
+      "funding_raised": "$500K",
+      "status": "published",
+      "confidence": "medium"
     },
     {
       "name": "Bench",
@@ -673,6 +717,17 @@
       "funding_raised": "Unknown",
       "status": "published",
       "confidence": "high"
+    },
+    {
+      "name": "Rabbit",
+      "slug": "rabbit-r1",
+      "tagline": "AI hardware device promising to replace smartphone apps with a Large Action Model",
+      "founded": "2022",
+      "shutdown": "",
+      "category": "market",
+      "funding_raised": "$30M",
+      "status": "unverified",
+      "confidence": "low"
     }
   ]
 }

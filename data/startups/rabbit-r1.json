@@ -1,0 +1,38 @@
+{
+  "name": "Rabbit",
+  "slug": "rabbit-r1",
+  "tagline": "AI hardware device promising to replace smartphone apps with a Large Action Model",
+  "description": "Rabbit sold 100,000 R1 devices but saw a 95% abandonment rate within months. By late 2025, employees hadn't been paid for months and were on strike, though the company has not officially shut down.",
+  "story": "",
+  "founded": "2022",
+  "shutdown": "",
+  "funding_raised": "$30M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "ai-hardware",
+    "consumer-device",
+    "large-action-model"
+  ],
+  "url": "https://www.rabbit.tech",
+  "sources": [
+    {
+      "url": "https://finance.yahoo.com/news/next-rabbit-employees-haven-t-151201843.html",
+      "title": "What's next for Rabbit? Employees say they haven't been paid for months while company teases new AI hardware",
+      "date": "2025-12-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://cybernews.com/tech/the-story-of-rabbit-r1/",
+      "title": "The rise and fall of Rabbit R1",
+      "date": "2025-11-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "unverified",
+  "rejection_reason": null,
+  "confidence": "low",
+  "created_at": "2026-04-01T23:45:00Z",
+  "updated_at": "2026-04-01T23:45:00Z"
+}

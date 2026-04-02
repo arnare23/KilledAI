@@ -1,0 +1,46 @@
+{
+  "name": "Wuri",
+  "slug": "wuri",
+  "tagline": "AI-powered app transforming text stories into immersive visual novels",
+  "description": "Wuri was a Y Combinator-backed startup that used generative AI to turn written fiction into visual novels. After failing to monetize the consumer app, it pivoted to enterprise AI wrappers before shutting down in 2025 without finding product-market fit in any direction.",
+  "story": "Wuri entered Y Combinator's Winter 2024 batch with a genuinely novel idea: an app that used generative AI to transform written fiction into immersive visual novels, complete with images, background video, and audio, all rendered in real time. Co-founders Akshay Megharaj, formerly the first engineer at Flipkart Commerce Cloud, and Pratik Gangwal, an IIM Calcutta MBA who had worked at Bain & Company, had spent months in 2023 manually producing visual stories and saw firsthand how painful the process was — about thirty person-days for a single hour of content. Their AI-driven approach promised to make that instant.\n\nBut the consumer storytelling market proved brutally hard to monetize. Customer acquisition costs were high, retention was low, and as larger platforms began shipping their own generative media features, Wuri's advantage shrank. The team pivoted into enterprise AI solutions, repositioning as an AI wrapper for various business use cases. That pivot brought its own problems: with no deep domain expertise in any vertical, the product looked like commodity infrastructure with a thin UI layer.\n\nWuri never locked into a specific market long enough to build a defensible position. Each pivot burned runway without compounding into lasting traction. The company wound down responsibly in 2025, returning remaining funds to investors — a cautionary tale about the short half-life of building a nicer front-end to someone else's API.",
+  "founded": "2022",
+  "shutdown": "2025",
+  "funding_raised": "$500K",
+  "funding_stage": "pre-seed",
+  "employee_count": 7,
+  "category": "no-moat",
+  "tags": [
+    "generative-ai",
+    "visual-novels",
+    "consumer-app",
+    "ai-wrapper",
+    "yc"
+  ],
+  "url": "https://www.wuri.ai",
+  "sources": [
+    {
+      "url": "https://techstartups.com/2025/12/09/top-ai-startups-that-shut-down-in-2025-what-founders-can-learn/",
+      "title": "Top AI Startups That Shut Down in 2025: What Founders Can Learn",
+      "date": "2025-12-09",
+      "snapshot_path": "data/snapshots/wuri/techstartups.com_2025_12_09_top-ai-startups-that-shut-down-in-2025-what-founders-can-learn_.html"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-trends/7-ai-startups-that-failed-in-2025",
+      "title": "7 AI Startups That Failed in 2025",
+      "date": "2025-12-01",
+      "snapshot_path": "data/snapshots/wuri/analyticsindiamag.com_ai-trends_7-ai-startups-that-failed-in-2025.html"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/wuri",
+      "title": "Wuri - Y Combinator Company Profile",
+      "date": "2024-03-19",
+      "snapshot_path": "data/snapshots/wuri/www.ycombinator.com_companies_wuri.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "created_at": "2026-04-01T23:45:00Z",
+  "updated_at": "2026-04-01T23:45:00Z"
+}

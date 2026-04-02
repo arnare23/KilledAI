@@ -1,0 +1,46 @@
+{
+  "name": "Locale.ai",
+  "slug": "locale-ai",
+  "tagline": "Geospatial operations intelligence platform for logistics and mobility companies",
+  "description": "Locale.ai built a geospatial analytics platform helping logistics and delivery companies monitor fleet performance and detect supply chain anomalies. Despite serving customers across 9+ countries and reaching $1.8M in revenue, the founders wound down in 2025 after growth plateaued in a niche requiring unsustainable founder-led enterprise sales.",
+  "story": "Aditi Sinha and Rishabh Jain started Locale.ai in March 2019 as a six-month experiment. The two BITS Pilani graduates had built geospatial tools together at SocialCops and saw a gap: logistics and mobility companies were flying blind on where their operations were actually breaking down. Locale gave them a control tower — real-time heatmaps, anomaly detection, and drill-down from city level to a single order in two clicks.\n\nThe product worked. Locale landed paying customers across nine countries and hit $1.8 million in revenue by 2024, with roughly 30 people on the team. But the market demanded heavy, founder-led enterprise sales with long cycles and high-touch implementation. Every deal required custom work, and growth remained stubbornly linear rather than exponential. Six years in, the founders faced a hard truth: the business was respectable but wasn't scaling fast enough to justify another grinding push.\n\nBurnout played a real role. After navigating the pandemic, international expansion, and the constant pressure of enterprise sales, Sinha and Jain chose to wind down responsibly. They gave customers 1.5 months to transition, returned remaining capital to investors including Chiratae Ventures and Better Capital, and helped employees land new roles. Locale.ai became one of the rare shutdown stories where the founders left with their integrity intact — a quiet counterpoint to the spectacular blowups that dominate startup headlines.",
+  "founded": "2019-03",
+  "shutdown": "2025-07",
+  "funding_raised": "$5M",
+  "funding_stage": "seed",
+  "employee_count": 35,
+  "category": "market",
+  "tags": [
+    "geospatial",
+    "analytics",
+    "logistics",
+    "b2b-saas",
+    "india"
+  ],
+  "url": "https://www.locale.ai",
+  "sources": [
+    {
+      "url": "https://eli-podcast.com/story/local-ai-shuts-down-funding-founder-burnout",
+      "title": "Locale.ai Shuts Down After $5M Funding: A Founder's Honest Journey Through Burnout and Ethical Startup Closure",
+      "date": "2025-07-07",
+      "snapshot_path": "data/snapshots/locale-ai/eli-podcast.com_story_local-ai-shuts-down-funding-founder-burnout.html"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-trends/7-ai-startups-that-failed-in-2025",
+      "title": "7 AI Startups That Failed in 2025",
+      "date": "2025-12-01",
+      "snapshot_path": "data/snapshots/locale-ai/analyticsindiamag.com_ai-trends_7-ai-startups-that-failed-in-2025.html"
+    },
+    {
+      "url": "https://inc42.com/features/25-indian-startups-shut-down-in-2025/",
+      "title": "From Burn To Breakdown: 25 Startups That Shut Down In 2025",
+      "date": "2025-12-23",
+      "snapshot_path": "data/snapshots/locale-ai/inc42.com_features_25-indian-startups-shut-down-in-2025_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-01T23:45:00Z",
+  "updated_at": "2026-04-01T23:45:00Z"
+}

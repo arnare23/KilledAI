@@ -1,0 +1,45 @@
+{
+  "name": "Astra",
+  "slug": "astra-ai",
+  "tagline": "AI-powered sales workflow automation for account executives",
+  "description": "Astra was a Bengaluru-based startup backed by Perplexity CEO Aravind Srinivas that aimed to automate 80% of an account executive's workload. It shut down in July 2025 after onboarding only two enterprise clients and a co-founder dispute over the pace of growth.",
+  "story": "Astra set out in 2023 to solve one of enterprise sales' most persistent problems: the sheer volume of manual work that buries account executives. Founded by IIT Madras alumni Supreet Hegde, formerly VP of Global Business Development at HyperVerge, and Ranjan Rajagopalan, an ex-Google engineer, Astra promised to automate 80% of an AE's daily grind. The platform wove together Salesforce, Google Drive, Slack, and contract lifecycle management tools into a single AI-driven workflow layer.\n\nThe concept attracted Perplexity AI CEO Aravind Srinivas, a fellow IIT Madras graduate, who came on as an angel investor in March 2025. But momentum never materialized. After two years of development, Astra remained stuck in beta with just two enterprise clients. The enterprise sales cycle proved punishing — large companies were reluctant to grant an unproven AI startup access to sensitive CRM and deal data, especially amid a flood of competing AI agent products eroding buyer trust.\n\nThe final blow was internal. Hegde and Rajagopalan reached an impasse over the pace of growth, and the co-founders chose to part ways. In late July 2025, Hegde announced the shutdown on LinkedIn: 'We found ourselves at different crossroads regarding the pace of growth.' Rajagopalan is reportedly building a new venture in stealth.",
+  "founded": "2023",
+  "shutdown": "2025-07",
+  "funding_raised": "Undisclosed",
+  "funding_stage": "pre-seed",
+  "employee_count": 3,
+  "category": "other",
+  "tags": [
+    "sales-automation",
+    "enterprise",
+    "co-founder-dispute",
+    "india"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/aravind-srinivas-backed-ai-startup-astra-shuts-operations/",
+      "title": "Aravind Srinivas-Backed AI Startup Astra Shuts Operations",
+      "date": "2025-07-31",
+      "snapshot_path": "data/snapshots/astra-ai/inc42.com_buzz_aravind-srinivas-backed-ai-startup-astra-shuts-operations_.html"
+    },
+    {
+      "url": "https://www.indianstartuptimes.com/news/ai-sales-automation-startup-astra-shuts-down-amid-co-founder-dispute/",
+      "title": "AI Sales Automation Startup Astra Shuts Down Amid Co-Founder Dispute",
+      "date": "2025-07-30",
+      "snapshot_path": "data/snapshots/astra-ai/www.indianstartuptimes.com_news_ai-sales-automation-startup-astra-shuts-down-amid-co-founder-dispute_.html"
+    },
+    {
+      "url": "https://entrackr.com/snippets/ai-saas-startup-astra-shuts-down-amid-co-founder-differences-9609594",
+      "title": "AI SaaS startup Astra shuts down amid co-founder differences",
+      "date": "2025-07-29",
+      "snapshot_path": "data/snapshots/astra-ai/entrackr.com_snippets_ai-saas-startup-astra-shuts-down-amid-co-founder-differences-9609594.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-01T23:45:00Z",
+  "updated_at": "2026-04-01T23:45:00Z"
+}
