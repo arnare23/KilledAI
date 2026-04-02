@@ -10,23 +10,34 @@
   "funding_stage": "series-b",
   "employee_count": 100,
   "category": "acqui-hired",
-  "tags": ["ai-agents", "amazon", "software-automation"],
+  "tags": [
+    "ai-agents",
+    "amazon",
+    "software-automation"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/",
       "title": "Amazon hires founders from AI startup Adept",
       "date": "2024-06-28",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://www.semafor.com/article/08/02/2024/investors-in-adept-ai-will-be-paid-back-after-amazon-hires-startups-top-talent",
       "title": "Adept investors to be paid back after Amazon hire",
       "date": "2024-08-02",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 29,
+  "total_loss": "$415M",
+  "review_flags": [
+    "Deal breakdown of '$330M licensing + $100M retention bonuses' ($430M total) in description/story could not be verified from listed sources. Semafor article says investors will 'roughly recoup their investment' from Amazon-paid funds but does not state the $330M/$100M split. The $430M figure may come from other reporting not cited here."
+  ]
 }

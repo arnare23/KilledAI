@@ -14,14 +14,20 @@ const CATEGORY_LABELS: Record<FailureCategory, string> = {
   other: 'Other',
 };
 
-export function renderNav(onSearch: (query: string) => void): HTMLElement {
+export function renderNav(
+  onSearch: (query: string) => void,
+  onStats?: () => void,
+): HTMLElement {
   const nav = document.createElement('nav');
   nav.className = 'top-nav';
 
   nav.innerHTML = `
     <span class="nav-logo">KilledAI</span>
-    <div class="nav-search">
-      <input type="text" class="nav-search-input" placeholder="Search stories..." aria-label="Search startups" />
+    <div class="nav-right">
+      <button class="nav-link" aria-label="View statistics">Statistics</button>
+      <div class="nav-search">
+        <input type="text" class="nav-search-input" placeholder="Search stories..." aria-label="Search startups" />
+      </div>
     </div>
   `;
 
@@ -31,6 +37,11 @@ export function renderNav(onSearch: (query: string) => void): HTMLElement {
     clearTimeout(timer);
     timer = setTimeout(() => onSearch(input.value), 300);
   });
+
+  if (onStats) {
+    const statsBtn = nav.querySelector('.nav-link')!;
+    statsBtn.addEventListener('click', onStats);
+  }
 
   return nav;
 }

@@ -10,23 +10,39 @@
   "funding_stage": "late",
   "employee_count": 800,
   "category": "technical",
-  "tags": ["healthcare", "automation", "rpa", "unicorn"],
+  "tags": [
+    "healthcare",
+    "automation",
+    "rpa",
+    "unicorn"
+  ],
   "sources": [
     {
       "url": "https://www.healthcaredive.com/news/olive-ai-shuts-down/698455/",
       "title": "Olive AI shuts down",
       "date": "2023-10-31",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://www.sunsethq.com/blog/why-did-olive-fail",
       "title": "Why did Olive AI fail?",
       "date": "2023-11-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "broken"
+    },
+    {
+      "url": "https://oyelabs.com/olive-ais-rise-and-fall-in-healthcare-what-went-wrong/",
+      "title": "Olive AI's Rise, and Fall in Healthcare: What Went Wrong?",
+      "date": "2023-11-01",
+      "snapshot_path": null,
+      "status": "replacement"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 141,
+  "total_loss": "$902M"
 }

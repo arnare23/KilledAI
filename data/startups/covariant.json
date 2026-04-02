@@ -10,17 +10,28 @@
   "funding_stage": "series-c",
   "employee_count": 100,
   "category": "acqui-hired",
-  "tags": ["robotics", "warehouse", "amazon", "openai-alumni"],
+  "tags": [
+    "robotics",
+    "warehouse",
+    "amazon",
+    "openai-alumni"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/",
       "title": "Amazon hires founders of Covariant",
       "date": "2024-08-31",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 91,
+  "total_loss": "$222M",
+  "review_flags": [
+    "acqui-hired but no acquisition price found in story; total_loss set to funding_raised"
+  ]
 }

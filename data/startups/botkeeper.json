@@ -9,17 +9,25 @@
   "funding_raised": "$90M",
   "funding_stage": "series-c",
   "category": "market",
-  "tags": ["fintech", "bookkeeping", "accounting", "automation"],
+  "tags": [
+    "fintech",
+    "bookkeeping",
+    "accounting",
+    "automation"
+  ],
   "sources": [
     {
       "url": "https://www.cpapracticeadvisor.com/2026/02/09/botkeeper-is-closing-its-doors/177677/",
       "title": "Botkeeper is closing its doors",
       "date": "2026-02-09",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 133,
+  "total_loss": "$90M"
 }

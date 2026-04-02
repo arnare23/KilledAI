@@ -9,17 +9,24 @@
   "funding_raised": "$10.4M",
   "funding_stage": "seed",
   "category": "platform-absorbed",
-  "tags": ["developer-tools", "search-engine", "yc-backed"],
+  "tags": [
+    "developer-tools",
+    "search-engine",
+    "yc-backed"
+  ],
   "sources": [
     {
       "url": "https://news.ycombinator.com/item?id=46594533",
       "title": "Phind shutdown discussion on HN",
       "date": "2026-01-16",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 48,
+  "total_loss": "$10.4M"
 }

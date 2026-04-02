@@ -9,23 +9,37 @@
   "funding_raised": "$150M",
   "funding_stage": "series-a",
   "category": "acqui-hired",
-  "tags": ["chatbot", "google", "social-ai", "characters", "consumer"],
+  "tags": [
+    "chatbot",
+    "google",
+    "social-ai",
+    "characters",
+    "consumer"
+  ],
   "sources": [
     {
       "url": "https://www.washingtonpost.com/technology/2024/08/02/google-character-ai-noam-shazeer/",
       "title": "Google Character AI Noam Shazeer returns",
       "date": "2024-08-02",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/",
       "title": "Character.AI CEO returns to Google",
       "date": "2024-08-02",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 43,
+  "total_loss": "$150M",
+  "review_flags": [
+    "Funding of $150M appears to be just the Series A round. Wikipedia indicates a $43M seed round was also raised in 2021, bringing total to ~$193M. Consider updating funding_raised to $193M.",
+    "Google deal amount of $2.7B in the description/story could not be fully verified via Wikipedia. Wikipedia confirms the deal happened in August 2024 but does not state the $2.7B figure."
+  ]
 }

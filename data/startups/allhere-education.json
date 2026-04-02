@@ -9,17 +9,29 @@
   "funding_raised": "$12M+",
   "funding_stage": "series-a",
   "category": "other",
-  "tags": ["education", "k-12", "chatbot", "fraud", "lausd"],
+  "tags": [
+    "education",
+    "k-12",
+    "chatbot",
+    "fraud",
+    "lausd"
+  ],
   "sources": [
     {
       "url": "https://www.the74million.org/article/allhere-ai-los-angeles-schools-tool-bankruptcy-filing/",
       "title": "AllHere AI chatbot company bankruptcy",
       "date": "2024-09-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 56,
+  "total_loss": "$12M+",
+  "review_flags": [
+    "Category is \"other\" but story mentions fraud/legal issues; consider \"regulatory\" or keep \"other\""
+  ]
 }

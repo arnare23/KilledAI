@@ -3,7 +3,7 @@
   "slug": "noogata",
   "tagline": "AI-powered enterprise analytics platform for sales, marketing, and operations",
   "description": "Noogata raised $28M from Team8 and others to build an AI analytics platform serving Fortune 500 companies like PepsiCo and Colgate, but enterprise deals stayed stuck in pilot mode, the company shrank from 40 to 10 employees, and it shut down in May 2025 after failing to secure new funding.",
-  "story": "Noogata had the right pedigree. Incubated in 2019 by Team8 — the Israeli venture-building platform co-founded by former Unit 8200 commander Nadav Zafrir — the startup set out to make enterprise AI analytics accessible without requiring data science teams. Co-founders Assaf Egozi, a 20-year McKinsey veteran, and Oren Raboy, a former Cisco product lead, built a no-code platform that promised predictive insights across sales, operations, finance, and marketing.\n\nThe pitch landed. PepsiCo signed on. So did Colgate Palmolive, Bugatti, and mDesign. A $16 million Series A closed in April 2022, backed by Allon Ventures, Eight Roads, Inference Partners, and Skylake Capital. At its peak, the team numbered over 40.\n\nBut marquee logos and solid funding masked a stubborn problem: enterprise deals never scaled past the pilot stage. Contracts stayed small. Revenue growth stalled. The gap between what the platform promised and what large organizations were willing to pay for in production widened with each quarter. By the time Noogata needed to raise again, the metrics told a story investors didn't want to fund.\n\nThe company couldn't secure a new round. Headcount was slashed from 40 to just 10. On May 15, 2025, Noogata announced it was shutting down and would seek to sell its underlying technology. The website now shows a simple message: 'Thank You For Your Business.'\n\nNoogata's failure illustrates a pattern playing out across the enterprise AI landscape: big-name pilot customers don't guarantee big-name contracts. In the tightening funding environment of 2025, the difference between a proof of concept and a production deal became the difference between survival and shutdown.",
+  "story": "Noogata had the right pedigree. Incubated in 2019 by Team8 \u2014 the Israeli venture-building platform co-founded by former Unit 8200 commander Nadav Zafrir \u2014 the startup set out to make enterprise AI analytics accessible without requiring data science teams. Co-founders Assaf Egozi, a 20-year McKinsey veteran, and Oren Raboy, a former Cisco product lead, built a no-code platform that promised predictive insights across sales, operations, finance, and marketing.\n\nThe pitch landed. PepsiCo signed on. So did Colgate Palmolive, Bugatti, and mDesign. A $16 million Series A closed in April 2022, backed by Allon Ventures, Eight Roads, Inference Partners, and Skylake Capital. At its peak, the team numbered over 40.\n\nBut marquee logos and solid funding masked a stubborn problem: enterprise deals never scaled past the pilot stage. Contracts stayed small. Revenue growth stalled. The gap between what the platform promised and what large organizations were willing to pay for in production widened with each quarter. By the time Noogata needed to raise again, the metrics told a story investors didn't want to fund.\n\nThe company couldn't secure a new round. Headcount was slashed from 40 to just 10. On May 15, 2025, Noogata announced it was shutting down and would seek to sell its underlying technology. The website now shows a simple message: 'Thank You For Your Business.'\n\nNoogata's failure illustrates a pattern playing out across the enterprise AI landscape: big-name pilot customers don't guarantee big-name contracts. In the tightening funding environment of 2025, the difference between a proof of concept and a production deal became the difference between survival and shutdown.",
   "founded": "2019",
   "shutdown": "2025-05",
   "funding_raised": "$28M",
@@ -22,24 +22,29 @@
       "url": "https://www.calcalistech.com/ctechnews/article/bjluv00711xe",
       "title": "AI startup Noogata shuts down after raising $28 million",
       "date": "2025-05-15",
-      "snapshot_path": "data/snapshots/noogata/www.calcalistech.com_ctechnews_article_bjluv00711xe.html"
+      "snapshot_path": "data/snapshots/noogata/www.calcalistech.com_ctechnews_article_bjluv00711xe.html",
+      "status": "active"
     },
     {
       "url": "https://startuprise.org/ai-startup-noogata-shuts-down-after-securing-28-million-in-funding/",
       "title": "AI Startup Noogata Shuts Down After Securing $28 Million in Funding",
       "date": "2025-05-16",
-      "snapshot_path": "data/snapshots/noogata/startuprise.org_ai-startup-noogata-shuts-down-after-securing-28-million-in-funding_.html"
+      "snapshot_path": "data/snapshots/noogata/startuprise.org_ai-startup-noogata-shuts-down-after-securing-28-million-in-funding_.html",
+      "status": "active"
     },
     {
       "url": "https://techstartups.com/2025/12/09/top-ai-startups-that-shut-down-in-2025-what-founders-can-learn/",
       "title": "Top AI Startups That Shut Down in 2025: What Founders Can Learn",
       "date": "2025-12-09",
-      "snapshot_path": "data/snapshots/noogata/techstartups.com_2025_12_09_top-ai-startups-that-shut-down-in-2025-what-founders-can-learn_.html"
+      "snapshot_path": "data/snapshots/noogata/techstartups.com_2025_12_09_top-ai-startups-that-shut-down-in-2025-what-founders-can-learn_.html",
+      "status": "active"
     }
   ],
   "status": "published",
   "rejection_reason": null,
   "confidence": "high",
   "created_at": "2026-04-02T12:00:00Z",
-  "updated_at": "2026-04-02T12:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 76,
+  "total_loss": "$28M"
 }

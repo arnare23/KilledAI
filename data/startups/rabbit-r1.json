@@ -21,18 +21,21 @@
       "url": "https://finance.yahoo.com/news/next-rabbit-employees-haven-t-151201843.html",
       "title": "What's next for Rabbit? Employees say they haven't been paid for months while company teases new AI hardware",
       "date": "2025-12-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://cybernews.com/tech/the-story-of-rabbit-r1/",
       "title": "The rise and fall of Rabbit R1",
       "date": "2025-11-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "rejected",
   "rejection_reason": "Company has not shut down as of April 2026. Rabbit is in severe financial distress (employees unpaid since July 2025, 3 employees on strike) but CEO Jesse Lyu is planning next-gen hardware for 2026 and claims to have signed a legally binding term for a new funding round. Not a confirmed failure yet.",
-  "confidence": "low",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:45:00Z",
-  "updated_at": "2026-04-02T00:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "total_loss": "$30M"
 }

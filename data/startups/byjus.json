@@ -9,17 +9,26 @@
   "funding_raised": "$5.5B",
   "funding_stage": "late",
   "category": "funding",
-  "tags": ["education", "edtech", "india", "unicorn", "fraud-allegations"],
+  "tags": [
+    "education",
+    "edtech",
+    "india",
+    "unicorn",
+    "fraud-allegations"
+  ],
   "sources": [
     {
       "url": "https://www.cnbc.com/2024/03/01/the-rise-and-fall-of-byjus-once-a-startup-darling-in-india.html",
       "title": "The rise and fall of BYJU'S",
       "date": "2024-03-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 162,
+  "total_loss": "$5.5B"
 }

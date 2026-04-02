@@ -4,6 +4,7 @@ import { applyFilters, defaultFilters, type FilterState } from './lib/filter.ts'
 import { renderNav, renderHero } from './components/Header.ts';
 import { renderGrid } from './components/StartupGrid.ts';
 import { showDetail } from './components/StartupDetail.ts';
+import { renderStatsPage } from './components/StatsPage.ts';
 import type { StartupIndex } from './types/startup.ts';
 
 let allStartups: StartupIndex[] = [];
@@ -28,20 +29,43 @@ function renderAll(): void {
 
   app.innerHTML = '';
   app.appendChild(
-    renderNav((query) => {
-      currentQuery = query;
-      rerenderGrid();
-    }),
+    renderNav(
+      (query) => {
+        currentQuery = query;
+        rerenderGrid();
+      },
+      () => openStats(),
+    ),
   );
   app.appendChild(renderHero(allStartups));
 
-  // Section heading
+  // Section heading with sort
   const heading = document.createElement('div');
   heading.className = 'section-heading';
-  heading.innerHTML = `
+
+  const left = document.createElement('div');
+  left.className = 'section-heading-left';
+  left.innerHTML = `
     <span class="section-title">All Stories</span>
     <span class="section-count">${filtered.length} ${filtered.length === 1 ? 'startup' : 'startups'}</span>
   `;
+
+  const sortSelect = document.createElement('select');
+  sortSelect.className = 'section-sort';
+  sortSelect.setAttribute('aria-label', 'Sort order');
+  sortSelect.innerHTML = `
+    <option value="recently-added">Recently Added</option>
+    <option value="newest">Newest Shutdown</option>
+    <option value="funded">Most Funded</option>
+  `;
+  sortSelect.value = currentFilters.sortBy;
+  sortSelect.addEventListener('change', () => {
+    currentFilters.sortBy = sortSelect.value as FilterState['sortBy'];
+    rerenderGrid();
+  });
+
+  heading.appendChild(left);
+  heading.appendChild(sortSelect);
   app.appendChild(heading);
 
   app.appendChild(
@@ -73,6 +97,16 @@ function rerenderGrid(): void {
 
 async function openDetail(slug: string): Promise<void> {
   const page = await showDetail(slug, () => {
+    renderAll();
+    window.scrollTo(0, 0);
+  });
+  app.innerHTML = '';
+  app.appendChild(page);
+  window.scrollTo(0, 0);
+}
+
+function openStats(): void {
+  const page = renderStatsPage(allStartups, () => {
     renderAll();
     window.scrollTo(0, 0);
   });

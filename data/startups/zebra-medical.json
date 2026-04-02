@@ -3,23 +3,32 @@
   "slug": "zebra-medical",
   "tagline": "AI-powered medical imaging analytics with 7 FDA-cleared algorithms",
   "description": "Israeli medical imaging AI pioneer raised $53M and secured 7 FDA clearances, but couldn't translate technology into sales. Acquired by Nanox for $200M.",
-  "story": "Zebra Medical Vision was founded in Israel in 2014 and became a pioneer in AI-powered medical imaging, developing algorithms that could detect conditions from bone density loss to liver disease from standard medical scans. The company raised $53 million and achieved an impressive 7 FDA-cleared algorithms — a regulatory moat that few competitors could match. But FDA clearance didn't translate into hospital adoption. Sales cycles were painfully long, and many healthcare systems weren't ready to trust AI diagnostics. In August 2021, Nanox acquired Zebra Medical Vision for up to $200 million ($100 million upfront plus $100 million in milestones) and rebranded it as Nanox.AI. The independent company ceased to exist. Nanox itself has since faced ongoing fraud allegations and its stock has collapsed since its 2020 IPO.",
+  "story": "Zebra Medical Vision was founded in Israel in 2014 and became a pioneer in AI-powered medical imaging, developing algorithms that could detect conditions from bone density loss to liver disease from standard medical scans. The company raised $53 million and achieved an impressive 7 FDA-cleared algorithms \u2014 a regulatory moat that few competitors could match. But FDA clearance didn't translate into hospital adoption. Sales cycles were painfully long, and many healthcare systems weren't ready to trust AI diagnostics. In August 2021, Nanox acquired Zebra Medical Vision for up to $200 million ($100 million upfront plus $100 million in milestones) and rebranded it as Nanox.AI. The independent company ceased to exist. Nanox itself has since faced ongoing fraud allegations and its stock has collapsed since its 2020 IPO.",
   "founded": "2014",
   "shutdown": "2021-08",
   "funding_raised": "$53M",
   "funding_stage": "series-c",
   "category": "acqui-hired",
-  "tags": ["healthcare", "medical-imaging", "fda", "israel", "radiology"],
+  "tags": [
+    "healthcare",
+    "medical-imaging",
+    "fda",
+    "israel",
+    "radiology"
+  ],
   "sources": [
     {
       "url": "https://venturebeat.com/business/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
       "title": "Zebra Medical Vision sells for $200M",
       "date": "2021-08-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 91,
+  "total_loss": "$53M"
 }

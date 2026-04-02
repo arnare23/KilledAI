@@ -9,17 +9,25 @@
   "funding_raised": "$77.5M",
   "funding_stage": "series-b",
   "category": "competition",
-  "tags": ["search-engine", "google-competitor", "privacy", "snowflake"],
+  "tags": [
+    "search-engine",
+    "google-competitor",
+    "privacy",
+    "snowflake"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/",
       "title": "Neeva gives up on consumer search",
       "date": "2023-05-21",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 53,
+  "total_loss": "$77.5M"
 }

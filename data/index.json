@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-02T14:37:47.796422+00:00",
+  "generated_at": "2026-04-02T15:51:18.488566+00:00",
   "count": 77,
   "startups": [
     {
@@ -11,8 +11,11 @@
       "shutdown": "2026-03",
       "category": "no-moat",
       "funding_raised": "$33M",
+      "lifetime_months": 26,
+      "total_loss": "$33M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Botkeeper",
@@ -22,8 +25,11 @@
       "shutdown": "2026-02",
       "category": "market",
       "funding_raised": "$90M",
+      "lifetime_months": 133,
+      "total_loss": "$90M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Icon",
@@ -33,8 +39,11 @@
       "shutdown": "2026-02",
       "category": "no-moat",
       "funding_raised": "Unknown",
+      "lifetime_months": 25,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Phind",
@@ -44,8 +53,11 @@
       "shutdown": "2026-01",
       "category": "platform-absorbed",
       "funding_raised": "$10.4M",
+      "lifetime_months": 48,
+      "total_loss": "$10.4M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Korbit AI",
@@ -55,8 +67,11 @@
       "shutdown": "2026",
       "category": "competition",
       "funding_raised": "$11M",
+      "lifetime_months": 108,
+      "total_loss": "$11M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "DataGPT",
@@ -66,8 +81,11 @@
       "shutdown": "2025-12",
       "category": "platform-absorbed",
       "funding_raised": "$22M",
+      "lifetime_months": 47,
+      "total_loss": "$22M",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Rewind AI",
@@ -77,8 +95,11 @@
       "shutdown": "2025-12",
       "category": "acqui-hired",
       "funding_raised": "Unknown",
+      "lifetime_months": 71,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Robin AI",
@@ -88,8 +109,11 @@
       "shutdown": "2025-12",
       "category": "funding",
       "funding_raised": "$71.7M",
+      "lifetime_months": 83,
+      "total_loss": "$71.7M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:45:00Z"
     },
     {
       "name": "K-Scale Labs",
@@ -99,8 +123,11 @@
       "shutdown": "2025-11",
       "category": "funding",
       "funding_raised": "$4.5M",
+      "lifetime_months": 22,
+      "total_loss": "$4.5M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Yara AI",
@@ -110,8 +137,11 @@
       "shutdown": "2025-11",
       "category": "regulatory",
       "funding_raised": "Unknown",
+      "lifetime_months": 22,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Dot",
@@ -121,8 +151,11 @@
       "shutdown": "2025-10",
       "category": "market",
       "funding_raised": "Unknown",
+      "lifetime_months": 33,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "theGist",
@@ -132,8 +165,11 @@
       "shutdown": "2025-09",
       "category": "market",
       "funding_raised": "$7M",
+      "lifetime_months": 44,
+      "total_loss": "$7M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Appetite",
@@ -143,8 +179,11 @@
       "shutdown": "2025-08",
       "category": "funding",
       "funding_raised": "Unknown",
+      "lifetime_months": 67,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Cydoc",
@@ -154,8 +193,11 @@
       "shutdown": "2025-08",
       "category": "market",
       "funding_raised": "Bootstrapped",
+      "lifetime_months": 88,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Astra",
@@ -165,8 +207,11 @@
       "shutdown": "2025-07",
       "category": "other",
       "funding_raised": "Undisclosed",
+      "lifetime_months": 30,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:45:00Z"
     },
     {
       "name": "Locale.ai",
@@ -176,8 +221,11 @@
       "shutdown": "2025-07",
       "category": "market",
       "funding_raised": "$5M",
+      "lifetime_months": 76,
+      "total_loss": "$5M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:45:00Z"
     },
     {
       "name": "Subtl.ai",
@@ -187,8 +235,11 @@
       "shutdown": "2025-07",
       "category": "platform-absorbed",
       "funding_raised": "$200K",
+      "lifetime_months": 78,
+      "total_loss": "$200K",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Pesto AI",
@@ -198,8 +249,11 @@
       "shutdown": "2025-06",
       "category": "acqui-hired",
       "funding_raised": "$8M",
+      "lifetime_months": 101,
+      "total_loss": "$8M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Woebot Health",
@@ -209,8 +263,11 @@
       "shutdown": "2025-06",
       "category": "regulatory",
       "funding_raised": "$114M",
+      "lifetime_months": 101,
+      "total_loss": "$114M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Builder.ai",
@@ -220,8 +277,11 @@
       "shutdown": "2025-05",
       "category": "other",
       "funding_raised": "$445M",
+      "lifetime_months": 112,
+      "total_loss": "$445M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Noogata",
@@ -231,8 +291,11 @@
       "shutdown": "2025-05",
       "category": "market",
       "funding_raised": "$28M",
+      "lifetime_months": 76,
+      "total_loss": "$28M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T12:00:00Z"
     },
     {
       "name": "Tome",
@@ -242,8 +305,11 @@
       "shutdown": "2025-04",
       "category": "platform-absorbed",
       "funding_raised": "$75M",
+      "lifetime_months": 63,
+      "total_loss": "$75M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "BenevolentAI",
@@ -253,8 +319,11 @@
       "shutdown": "2025-03",
       "category": "funding",
       "funding_raised": "$282M",
+      "lifetime_months": 146,
+      "total_loss": "$282M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Humane",
@@ -264,8 +333,11 @@
       "shutdown": "2025-02",
       "category": "technical",
       "funding_raised": "$241M",
+      "lifetime_months": 85,
+      "total_loss": "$241M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Bloop",
@@ -275,8 +347,11 @@
       "shutdown": "2025-01",
       "category": "no-moat",
       "funding_raised": "$7.4M",
+      "lifetime_months": 48,
+      "total_loss": "$7.4M",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Cushion",
@@ -286,8 +361,11 @@
       "shutdown": "2025-01",
       "category": "market",
       "funding_raised": "$21.6M",
+      "lifetime_months": 108,
+      "total_loss": "$21.6M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "CodeParrot",
@@ -297,8 +375,11 @@
       "shutdown": "2025",
       "category": "no-moat",
       "funding_raised": "$500K",
+      "lifetime_months": 36,
+      "total_loss": "$500K",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Rain AI",
@@ -308,8 +389,11 @@
       "shutdown": "2025",
       "category": "technical",
       "funding_raised": "$25M",
+      "lifetime_months": 96,
+      "total_loss": "$25M",
       "status": "unverified",
-      "confidence": "low"
+      "confidence": "medium",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Ryze",
@@ -319,8 +403,11 @@
       "shutdown": "2025",
       "category": "platform-absorbed",
       "funding_raised": "Unknown",
+      "lifetime_months": 24,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Tune AI",
@@ -330,8 +417,11 @@
       "shutdown": "2025",
       "category": "platform-absorbed",
       "funding_raised": "Unknown",
+      "lifetime_months": 84,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Untether AI",
@@ -341,8 +431,11 @@
       "shutdown": "2025",
       "category": "competition",
       "funding_raised": "$150M+",
+      "lifetime_months": 84,
+      "total_loss": "$150M+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Wuri",
@@ -352,8 +445,11 @@
       "shutdown": "2025",
       "category": "no-moat",
       "funding_raised": "$500K",
+      "lifetime_months": 36,
+      "total_loss": "$500K",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:45:00Z"
     },
     {
       "name": "Bench",
@@ -363,8 +459,11 @@
       "shutdown": "2024-12",
       "category": "funding",
       "funding_raised": "$113M",
+      "lifetime_months": 155,
+      "total_loss": "$113M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Cruise",
@@ -374,8 +473,11 @@
       "shutdown": "2024-12",
       "category": "technical",
       "funding_raised": "$10B+",
+      "lifetime_months": 134,
+      "total_loss": "$10B+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Forward Health",
@@ -385,8 +487,11 @@
       "shutdown": "2024-11",
       "category": "market",
       "funding_raised": "$657M",
+      "lifetime_months": 106,
+      "total_loss": "$657M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "AllHere Education",
@@ -396,8 +501,11 @@
       "shutdown": "2024-09",
       "category": "other",
       "funding_raised": "$12M+",
+      "lifetime_months": 56,
+      "total_loss": "$12M+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Character.AI",
@@ -407,8 +515,11 @@
       "shutdown": "2024-08",
       "category": "acqui-hired",
       "funding_raised": "$150M",
+      "lifetime_months": 43,
+      "total_loss": "$150M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Covariant",
@@ -418,8 +529,11 @@
       "shutdown": "2024-08",
       "category": "acqui-hired",
       "funding_raised": "$222M",
+      "lifetime_months": 91,
+      "total_loss": "$222M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Tally",
@@ -429,8 +543,11 @@
       "shutdown": "2024-08",
       "category": "market",
       "funding_raised": "$172M",
+      "lifetime_months": 115,
+      "total_loss": "$172M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "BYJU'S",
@@ -440,8 +557,11 @@
       "shutdown": "2024-07",
       "category": "funding",
       "funding_raised": "$5.5B",
+      "lifetime_months": 162,
+      "total_loss": "$5.5B",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Adept AI",
@@ -451,8 +571,11 @@
       "shutdown": "2024-06",
       "category": "acqui-hired",
       "funding_raised": "$415M",
+      "lifetime_months": 29,
+      "total_loss": "$415M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "ExampleAI",
@@ -462,8 +585,11 @@
       "shutdown": "2024-06",
       "category": "platform-absorbed",
       "funding_raised": "$2.1M",
+      "lifetime_months": 15,
+      "total_loss": "",
       "status": "rejected",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T12:00:00Z"
     },
     {
       "name": "Aerit",
@@ -473,8 +599,11 @@
       "shutdown": "2024-05",
       "category": "funding",
       "funding_raised": "Unknown",
+      "lifetime_months": 40,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Assurance IQ",
@@ -484,8 +613,11 @@
       "shutdown": "2024-05",
       "category": "market",
       "funding_raised": "Acquired for $2.35B",
+      "lifetime_months": 100,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Ghost Autonomy",
@@ -495,8 +627,11 @@
       "shutdown": "2024-04",
       "category": "funding",
       "funding_raised": "$220M",
+      "lifetime_months": 87,
+      "total_loss": "$220M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Inflection AI",
@@ -506,8 +641,11 @@
       "shutdown": "2024-03",
       "category": "acqui-hired",
       "funding_raised": "$1.5B",
+      "lifetime_months": 26,
+      "total_loss": "$1.5B",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "MaaS Global",
@@ -517,8 +655,11 @@
       "shutdown": "2024-03",
       "category": "market",
       "funding_raised": "$162M",
+      "lifetime_months": 110,
+      "total_loss": "$162M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Drift",
@@ -528,8 +669,11 @@
       "shutdown": "2024-02",
       "category": "acqui-hired",
       "funding_raised": "$107M",
+      "lifetime_months": 109,
+      "total_loss": "$107M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Artifact",
@@ -539,8 +683,11 @@
       "shutdown": "2024-01",
       "category": "market",
       "funding_raised": "Self-funded",
+      "lifetime_months": 24,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "TuSimple",
@@ -550,8 +697,11 @@
       "shutdown": "2024-01",
       "category": "regulatory",
       "funding_raised": "$1.8B+",
+      "lifetime_months": 100,
+      "total_loss": "$1.8B+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Articoolo",
@@ -561,8 +711,11 @@
       "shutdown": "2024",
       "category": "no-moat",
       "funding_raised": "$1.2M",
+      "lifetime_months": 120,
+      "total_loss": "$1.2M",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Gavagai",
@@ -572,8 +725,11 @@
       "shutdown": "2024",
       "category": "no-moat",
       "funding_raised": "$14M",
+      "lifetime_months": 192,
+      "total_loss": "$14M",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Jasper AI",
@@ -583,8 +739,11 @@
       "shutdown": "2024",
       "category": "platform-absorbed",
       "funding_raised": "$125M",
+      "lifetime_months": 36,
+      "total_loss": "$125M",
       "status": "rejected",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Olive AI",
@@ -594,8 +753,11 @@
       "shutdown": "2023-10",
       "category": "technical",
       "funding_raised": "$902M",
+      "lifetime_months": 141,
+      "total_loss": "$902M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Babylon Health",
@@ -605,8 +767,11 @@
       "shutdown": "2023-08",
       "category": "funding",
       "funding_raised": "$1.2B",
+      "lifetime_months": 127,
+      "total_loss": "$1.2B",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Neeva",
@@ -616,8 +781,11 @@
       "shutdown": "2023-06",
       "category": "competition",
       "funding_raised": "$77.5M",
+      "lifetime_months": 53,
+      "total_loss": "$77.5M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Pear Therapeutics",
@@ -627,8 +795,11 @@
       "shutdown": "2023-04",
       "category": "market",
       "funding_raised": "$400M",
+      "lifetime_months": 123,
+      "total_loss": "$400M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Mindstrong Health",
@@ -638,8 +809,11 @@
       "shutdown": "2023-03",
       "category": "funding",
       "funding_raised": "$174M",
+      "lifetime_months": 110,
+      "total_loss": "$174M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Kite",
@@ -649,8 +823,11 @@
       "shutdown": "2022-11",
       "category": "platform-absorbed",
       "funding_raised": "$17M",
+      "lifetime_months": 106,
+      "total_loss": "$17M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T22:00:00Z"
     },
     {
       "name": "Argo AI",
@@ -660,8 +837,11 @@
       "shutdown": "2022-10",
       "category": "funding",
       "funding_raised": "$3.6B",
+      "lifetime_months": 71,
+      "total_loss": "$3.6B",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Peltarion",
@@ -671,8 +851,11 @@
       "shutdown": "2022-09",
       "category": "acqui-hired",
       "funding_raised": "$20M+",
+      "lifetime_months": 224,
+      "total_loss": "$20M+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Zebra Medical Vision",
@@ -682,8 +865,11 @@
       "shutdown": "2021-08",
       "category": "acqui-hired",
       "funding_raised": "$53M",
+      "lifetime_months": 91,
+      "total_loss": "$53M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "DataMarket",
@@ -693,8 +879,11 @@
       "shutdown": "2021-06",
       "category": "platform-absorbed",
       "funding_raised": "Unknown",
+      "lifetime_months": 161,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Curious AI",
@@ -704,8 +893,11 @@
       "shutdown": "2020-10",
       "category": "acqui-hired",
       "funding_raised": "Unknown",
+      "lifetime_months": 69,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "DeepCode",
@@ -715,8 +907,11 @@
       "shutdown": "2020-09",
       "category": "acqui-hired",
       "funding_raised": "$5.2M",
+      "lifetime_months": 56,
+      "total_loss": "$5.2M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Mapillary",
@@ -726,8 +921,11 @@
       "shutdown": "2020-06",
       "category": "acqui-hired",
       "funding_raised": "Unknown",
+      "lifetime_months": 89,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "ScaleFactor",
@@ -737,8 +935,11 @@
       "shutdown": "2020-06",
       "category": "other",
       "funding_raised": "$100M+",
+      "lifetime_months": 77,
+      "total_loss": "$100M+",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Starsky Robotics",
@@ -748,8 +949,11 @@
       "shutdown": "2020-03",
       "category": "funding",
       "funding_raised": "$21.5M",
+      "lifetime_months": 50,
+      "total_loss": "$21.5M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Cxense",
@@ -759,8 +963,11 @@
       "shutdown": "2019-10",
       "category": "platform-absorbed",
       "funding_raised": "Publicly traded",
+      "lifetime_months": 117,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Anki",
@@ -770,8 +977,11 @@
       "shutdown": "2019-04",
       "category": "funding",
       "funding_raised": "$182.5M",
+      "lifetime_months": 111,
+      "total_loss": "$182.5M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Knewton",
@@ -780,9 +990,12 @@
       "founded": "2008",
       "shutdown": "2019",
       "category": "no-moat",
-      "funding_raised": "$200M",
+      "funding_raised": "$157M",
+      "lifetime_months": 132,
+      "total_loss": "$157M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Aifloo",
@@ -792,8 +1005,11 @@
       "shutdown": "2018-07",
       "category": "funding",
       "funding_raised": "€5.1M",
+      "lifetime_months": 42,
+      "total_loss": "€5.1M",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Ansaro",
@@ -803,8 +1019,11 @@
       "shutdown": "2018",
       "category": "market",
       "funding_raised": "$3M",
+      "lifetime_months": 24,
+      "total_loss": "$3M",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-02T00:00:00Z"
     },
     {
       "name": "Spektral",
@@ -814,8 +1033,11 @@
       "shutdown": "2017-12",
       "category": "acqui-hired",
       "funding_raised": "Unknown",
+      "lifetime_months": 35,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Brisk",
@@ -825,8 +1047,11 @@
       "shutdown": "2016",
       "category": "platform-absorbed",
       "funding_raised": "Unknown",
+      "lifetime_months": 48,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "CLARA",
@@ -836,8 +1061,11 @@
       "shutdown": "2013-05",
       "category": "acqui-hired",
       "funding_raised": "Unknown",
+      "lifetime_months": 64,
+      "total_loss": "Unknown",
       "status": "published",
-      "confidence": "high"
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Rabbit",
@@ -847,8 +1075,11 @@
       "shutdown": "",
       "category": "market",
       "funding_raised": "$30M",
+      "lifetime_months": null,
+      "total_loss": "$30M",
       "status": "rejected",
-      "confidence": "low"
+      "confidence": "medium",
+      "created_at": "2026-04-01T23:45:00Z"
     }
   ]
 }

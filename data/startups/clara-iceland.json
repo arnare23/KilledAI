@@ -9,23 +9,33 @@
   "funding_raised": "Unknown",
   "funding_stage": "seed",
   "category": "acqui-hired",
-  "tags": ["nlp", "sentiment-analysis", "community-analytics", "iceland", "nordic"],
+  "tags": [
+    "nlp",
+    "sentiment-analysis",
+    "community-analytics",
+    "iceland",
+    "nordic"
+  ],
   "sources": [
     {
       "url": "https://arcticstartup.com/icelands-clara-acquired-for-e6-8-million-by-jive-software/",
       "title": "Iceland's Clara acquired by Jive Software",
       "date": "2013-05-03",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://grapevine.is/news/2013/05/03/icelandic-software-company-acquired-for-one-billion-isk/",
       "title": "Icelandic software company acquired for 1B ISK",
       "date": "2013-05-03",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 64,
+  "total_loss": "Unknown"
 }

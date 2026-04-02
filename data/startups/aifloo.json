@@ -9,17 +9,27 @@
   "funding_raised": "\u20ac5.1M",
   "funding_stage": "series-a",
   "category": "funding",
-  "tags": ["eldercare", "wearable", "healthcare", "eqt", "sweden", "nordic"],
+  "tags": [
+    "eldercare",
+    "wearable",
+    "healthcare",
+    "eqt",
+    "sweden",
+    "nordic"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2017/09/05/aifloo/",
       "title": "Aifloo raises for AI elderly care",
       "date": "2017-09-05",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "medium",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 42,
+  "total_loss": "\u20ac5.1M"
 }

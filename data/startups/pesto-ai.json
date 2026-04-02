@@ -3,7 +3,7 @@
   "slug": "pesto-ai",
   "tagline": "AI-powered remote developer recruiting platform",
   "description": "Pesto AI, founded in 2017 by Ayush Jaiswal and Swiggy co-founder Rahul Jaimini, built an AI-driven platform to help companies recruit remote developers, primarily connecting Indian engineering talent with global opportunities. After raising over $8M from investors including Matrix Partners, Ryan Hoover, and Sahil Lavingia, the team was acqui-hired by Scale AI in June 2025. Pesto shut down its independent operations, with founder Jaiswal becoming head of growth at Scale.",
-  "story": "Pesto AI launched in 2017 with a straightforward pitch — use AI to match Indian software developers with remote jobs at global companies. Co-founded by Ayush Jaiswal and Swiggy co-founder Rahul Jaimini, the platform raised over $8 million from investors including Matrix Partners, ProductHunt creator Ryan Hoover, and Gumroad founder Sahil Lavingia. The company built a 71-person operation and carved out a niche in the Indian developer talent marketplace. But the recruiting industry proved brutal for AI-first startups: margins were thin, enterprise sales cycles were long, and larger platforms with deeper pockets kept encroaching. In June 2025, Scale AI — the data-labeling giant flush with defense contracts and a $13.8 billion valuation — acqui-hired the Pesto team. Founder Jaiswal became head of growth at Scale, and Pesto's independent operations ceased. The product died, but the team landed softly — a better outcome than most on this list.",
+  "story": "Pesto AI launched in 2017 with a straightforward pitch \u2014 use AI to match Indian software developers with remote jobs at global companies. Co-founded by Ayush Jaiswal and Swiggy co-founder Rahul Jaimini, the platform raised over $8 million from investors including Matrix Partners, ProductHunt creator Ryan Hoover, and Gumroad founder Sahil Lavingia. The company built a 71-person operation and carved out a niche in the Indian developer talent marketplace. But the recruiting industry proved brutal for AI-first startups: margins were thin, enterprise sales cycles were long, and larger platforms with deeper pockets kept encroaching. In June 2025, Scale AI \u2014 the data-labeling giant flush with defense contracts and a $13.8 billion valuation \u2014 acqui-hired the Pesto team. Founder Jaiswal became head of growth at Scale, and Pesto's independent operations ceased. The product died, but the team landed softly \u2014 a better outcome than most on this list.",
   "founded": "2017",
   "shutdown": "2025-06",
   "funding_raised": "$8M",
@@ -22,24 +22,32 @@
       "url": "https://techcrunch.com/2025/06/02/scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai/",
       "title": "Scale AI hires team behind remote developer recruiting platform Pesto AI",
       "date": "2025-06-02",
-      "snapshot_path": "data/snapshots/pesto-ai/techcrunch.com_2025_06_02_scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai_.html"
+      "snapshot_path": "data/snapshots/pesto-ai/techcrunch.com_2025_06_02_scale-ai-hires-team-behind-remote-developer-recruiting-platform-pesto-ai_.html",
+      "status": "active"
     },
     {
       "url": "https://scale.com/blog/pesto-scale-ai",
       "title": "Pesto Team Is Joining Scale AI",
       "date": "2025-06-02",
-      "snapshot_path": "data/snapshots/pesto-ai/scale.com_blog_pesto-scale-ai.html"
+      "snapshot_path": "data/snapshots/pesto-ai/scale.com_blog_pesto-scale-ai.html",
+      "status": "active"
     },
     {
       "url": "https://inc42.com/startups/pesto-tech-on-unlocking-the-value-of-angels-as-it-raises-from-ryan-hoover-8-other-investors/",
       "title": "Pesto Tech On Unlocking The Value Of Angels As It Raises From Ryan Hoover & 8 Other Investors",
       "date": "2020-10-15",
-      "snapshot_path": "data/snapshots/pesto-ai/inc42.com_startups_pesto-tech-on-unlocking-the-value-of-angels-as-it-raises-from-ryan-hoover-8-other-investors_.html"
+      "snapshot_path": "data/snapshots/pesto-ai/inc42.com_startups_pesto-tech-on-unlocking-the-value-of-angels-as-it-raises-from-ryan-hoover-8-other-investors_.html",
+      "status": "active"
     }
   ],
   "status": "published",
   "rejection_reason": null,
   "confidence": "high",
   "created_at": "2026-04-02T00:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 101,
+  "total_loss": "$8M",
+  "review_flags": [
+    "acqui-hired but no acquisition price found in story; total_loss set to funding_raised"
+  ]
 }

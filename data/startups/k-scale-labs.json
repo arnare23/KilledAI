@@ -3,7 +3,7 @@
   "slug": "k-scale-labs",
   "tagline": "Open-source humanoid robotics startup building affordable K-Bot robots",
   "description": "Founded in 2024 by ex-Meta/Tesla engineer Benjamin Bolte, K-Scale Labs raised ~$4.5M (including a $4M seed round and Y Combinator W24 backing) to build open-source humanoid robots priced under $10,000. The company shipped a limited Founder's Edition of the K-Bot and had over $2M in pre-orders, but shut down in November 2025 after failing to find a lead investor for the capital needed to scale manufacturing. Bolte open-sourced all IP under non-commercial licenses, calling it a foundation for 'future hackers and dreamers.'",
-  "story": "K-Scale Labs wanted to do for humanoid robots what Arduino did for microcontrollers — make them open, hackable, and cheap enough for anyone to build on. Founded in 2024 by Benjamin Bolte, a former Meta and Tesla engineer, the company raised $4.5 million including a $4 million seed round and Y Combinator W24 backing. The pitch was compelling: a full humanoid robot priced under $10,000, with all hardware and software open-sourced. K-Scale shipped a limited Founder's Edition of the K-Bot and racked up over $2 million in pre-orders. But building affordable hardware at scale requires the kind of capital that seed funding cannot provide, and the company needed a lead investor willing to bet big on open-source robotics — a category that makes venture capitalists nervous about defensibility. When no lead materialized, Bolte shut down operations in November 2025, canceled all pre-orders, and open-sourced the company's entire IP under non-commercial licenses. He called it a foundation for 'future hackers and dreamers.' The technology survived; the company did not.",
+  "story": "K-Scale Labs wanted to do for humanoid robots what Arduino did for microcontrollers \u2014 make them open, hackable, and cheap enough for anyone to build on. Founded in 2024 by Benjamin Bolte, a former Meta and Tesla engineer, the company raised $4.5 million including a $4 million seed round and Y Combinator W24 backing. The pitch was compelling: a full humanoid robot priced under $10,000, with all hardware and software open-sourced. K-Scale shipped a limited Founder's Edition of the K-Bot and racked up over $2 million in pre-orders. But building affordable hardware at scale requires the kind of capital that seed funding cannot provide, and the company needed a lead investor willing to bet big on open-source robotics \u2014 a category that makes venture capitalists nervous about defensibility. When no lead materialized, Bolte shut down operations in November 2025, canceled all pre-orders, and open-sourced the company's entire IP under non-commercial licenses. He called it a foundation for 'future hackers and dreamers.' The technology survived; the company did not.",
   "founded": "2024",
   "shutdown": "2025-11",
   "funding_raised": "$4.5M",
@@ -22,32 +22,38 @@
   "sources": [
     {
       "url": "https://www.humanoidsdaily.com/news/k-scale-labs-cancels-k-bot-orders-open-sources-all-ip-after-funding-fails",
-      "title": "K-Scale Labs Cancels K-Bot Orders, Open-Sources All IP After Funding Fails — Humanoids Daily",
+      "title": "K-Scale Labs Cancels K-Bot Orders, Open-Sources All IP After Funding Fails \u2014 Humanoids Daily",
       "date": "2025-11-04",
-      "snapshot_path": "data/snapshots/k-scale-labs/www.humanoidsdaily.com_news_k-scale-labs-cancels-k-bot-orders-open-sources-all-ip-after-funding-fails.html"
+      "snapshot_path": "data/snapshots/k-scale-labs/www.humanoidsdaily.com_news_k-scale-labs-cancels-k-bot-orders-open-sources-all-ip-after-funding-fails.html",
+      "status": "active"
     },
     {
       "url": "https://mikekalil.com/blog/k-scale-labs-shuts-down/",
-      "title": "Palo Alto Humanoid Startup K-Scale Labs Shuts Down — Mike Kalil",
+      "title": "Palo Alto Humanoid Startup K-Scale Labs Shuts Down \u2014 Mike Kalil",
       "date": "2025-11-04",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://newsletter.failory.com/p/the-open-source-robot",
-      "title": "The Open-Source Robot — Failory Newsletter",
+      "title": "The Open-Source Robot \u2014 Failory Newsletter",
       "date": "2025-11-15",
-      "snapshot_path": "data/snapshots/k-scale-labs/newsletter.failory.com_p_the-open-source-robot.html"
+      "snapshot_path": "data/snapshots/k-scale-labs/newsletter.failory.com_p_the-open-source-robot.html",
+      "status": "active"
     },
     {
       "url": "https://www.humanoidsdaily.com/news/watch-k-scale-labs-ceo-explains-shutdown-i-bet-the-farm-on-the-k-bot-launch",
-      "title": "K-Scale Labs CEO Explains Shutdown: I Bet the Farm on the K-Bot Launch — Humanoids Daily",
+      "title": "K-Scale Labs CEO Explains Shutdown: I Bet the Farm on the K-Bot Launch \u2014 Humanoids Daily",
       "date": "2025-11-10",
-      "snapshot_path": "data/snapshots/k-scale-labs/www.humanoidsdaily.com_news_watch-k-scale-labs-ceo-explains-shutdown-i-bet-the-farm-on-the-k-bot-launch.html"
+      "snapshot_path": "data/snapshots/k-scale-labs/www.humanoidsdaily.com_news_watch-k-scale-labs-ceo-explains-shutdown-i-bet-the-farm-on-the-k-bot-launch.html",
+      "status": "active"
     }
   ],
   "status": "published",
   "rejection_reason": null,
   "confidence": "high",
   "created_at": "2026-04-02T00:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 22,
+  "total_loss": "$4.5M"
 }

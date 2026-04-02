@@ -10,14 +10,33 @@
   "funding_stage": "seed",
   "employee_count": null,
   "category": "technical",
-  "tags": ["chips", "hardware", "neuromorphic", "deep-tech"],
+  "tags": [
+    "chips",
+    "hardware",
+    "neuromorphic",
+    "deep-tech"
+  ],
   "url": "",
   "sources": [
-    {"url": "https://finance.yahoo.com/news/sam-altmans-150m-ai-chip-123106283.html", "title": "Sam Altman's $150M AI Chip Bet Crashes: Rain AI Faces Sale", "date": "2025-05-16", "snapshot_path": null},
-    {"url": "https://startupwired.com/2025/05/16/rain-ai-the-rise-and-fall-of-a-chipmaking-challenger/", "title": "Rain AI: The Rise and Fall of a Chipmaking Challenger", "date": "2025-05-16", "snapshot_path": null}
+    {
+      "url": "https://finance.yahoo.com/news/sam-altmans-150m-ai-chip-123106283.html",
+      "title": "Sam Altman's $150M AI Chip Bet Crashes: Rain AI Faces Sale",
+      "date": "2025-05-16",
+      "snapshot_path": null,
+      "status": "active"
+    },
+    {
+      "url": "https://startupwired.com/2025/05/16/rain-ai-the-rise-and-fall-of-a-chipmaking-challenger/",
+      "title": "Rain AI: The Rise and Fall of a Chipmaking Challenger",
+      "date": "2025-05-16",
+      "snapshot_path": null,
+      "status": "active"
+    }
   ],
   "status": "unverified",
-  "confidence": "low",
+  "confidence": "medium",
   "created_at": "2026-04-02T00:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 96,
+  "total_loss": "$25M"
 }

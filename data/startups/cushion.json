@@ -3,23 +3,34 @@
   "slug": "cushion",
   "tagline": "AI-powered bank fee negotiation and BNPL platform",
   "description": "Despite reaching $3M ARR, processing $300M+ in BNPL loans, and onboarding 1M+ users, Cushion couldn't reach the scale needed to sustain the business after 8 years.",
-  "story": "Cushion was founded in 2016 as an AI-powered tool that negotiated bank fees on behalf of consumers — a genuinely clever application of automation to a universally hated problem. The company raised $21.6 million from Afore Capital, Flourish Ventures, and Vestigo Ventures, reaching a post-money valuation of $82.4 million in 2022. Cushion later pivoted into buy-now-pay-later, processing over $300 million in loans and onboarding more than one million consumers. It reached $3 million in annual recurring revenue. But after eight years and multiple pivots, $3 million ARR wasn't enough to sustain the burn rate or justify additional investment. Cushion shut down in late 2024 — a startup that found users, found revenue, but never found enough of either to survive.",
+  "story": "Cushion was founded in 2016 as an AI-powered tool that negotiated bank fees on behalf of consumers \u2014 a genuinely clever application of automation to a universally hated problem. The company raised $21.6 million from Afore Capital, Flourish Ventures, and Vestigo Ventures, reaching a post-money valuation of $82.4 million in 2022. Cushion later pivoted into buy-now-pay-later, processing over $300 million in loans and onboarding more than one million consumers. It reached $3 million in annual recurring revenue. But after eight years and multiple pivots, $3 million ARR wasn't enough to sustain the burn rate or justify additional investment. Cushion shut down in late 2024 \u2014 a startup that found users, found revenue, but never found enough of either to survive.",
   "founded": "2016",
   "shutdown": "2025-01",
   "funding_raised": "$21.6M",
   "funding_stage": "series-a",
   "category": "market",
-  "tags": ["fintech", "banking", "bnpl", "consumer-finance"],
+  "tags": [
+    "fintech",
+    "banking",
+    "bnpl",
+    "consumer-finance"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/",
       "title": "Cushion shuts down after 8 years",
       "date": "2025-01-30",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 108,
+  "total_loss": "$21.6M",
+  "review_flags": [
+    "Story says 'shut down in late 2024' but shutdown field is '2025-01'. The TechCrunch article is dated 2025-01-30. The actual shutdown may have happened in late 2024 with the announcement in January 2025. Minor inconsistency."
+  ]
 }

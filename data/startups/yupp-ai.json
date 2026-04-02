@@ -9,17 +9,25 @@
   "funding_raised": "$33M",
   "funding_stage": "seed",
   "category": "no-moat",
-  "tags": ["ai-feedback", "crowdsourcing", "a16z-backed", "rlhf"],
+  "tags": [
+    "ai-feedback",
+    "crowdsourcing",
+    "a16z-backed",
+    "rlhf"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
       "title": "Yupp.ai shuts down after $33M raise",
       "date": "2026-03-31",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 26,
+  "total_loss": "$33M"
 }

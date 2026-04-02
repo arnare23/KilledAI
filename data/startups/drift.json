@@ -3,23 +3,32 @@
   "slug": "drift",
   "tagline": "AI-powered conversational marketing and sales platform",
   "description": "Drift pioneered conversational marketing with AI chatbots, raised $107M and was valued at $1B by Vista Equity. Acquired by Salesloft in 2024, the brand and product are being phased out.",
-  "story": "Drift was founded in 2015 and essentially created the 'conversational marketing' category — AI chatbots that engaged website visitors, qualified leads, and booked meetings in real time. The company raised $107 million from General Catalyst, Sequoia Capital, and Founder Collective. In 2021, Vista Equity Partners acquired a majority stake at a $1 billion valuation. But growth stalled under Vista's ownership. In February 2024, Salesloft acquired Drift. The Drift brand is being systematically phased out — new customers buy Salesloft packages, customer support features have been deprioritized, and the general-purpose automation capabilities are being dismantled. For the teams that built their marketing stack around Drift as a standalone product, the acquisition was effectively a product kill.",
+  "story": "Drift was founded in 2015 and essentially created the 'conversational marketing' category \u2014 AI chatbots that engaged website visitors, qualified leads, and booked meetings in real time. The company raised $107 million from General Catalyst, Sequoia Capital, and Founder Collective. In 2021, Vista Equity Partners acquired a majority stake at a $1 billion valuation. But growth stalled under Vista's ownership. In February 2024, Salesloft acquired Drift. The Drift brand is being systematically phased out \u2014 new customers buy Salesloft packages, customer support features have been deprioritized, and the general-purpose automation capabilities are being dismantled. For the teams that built their marketing stack around Drift as a standalone product, the acquisition was effectively a product kill.",
   "founded": "2015",
   "shutdown": "2024-02",
   "funding_raised": "$107M",
   "funding_stage": "late",
   "category": "acqui-hired",
-  "tags": ["marketing", "chatbot", "conversational-marketing", "sales", "vista-equity"],
+  "tags": [
+    "marketing",
+    "chatbot",
+    "conversational-marketing",
+    "sales",
+    "vista-equity"
+  ],
   "sources": [
     {
       "url": "https://martech.org/drift-acquired-by-sales-engagement-platform-salesloft/",
       "title": "Drift acquired by Salesloft",
       "date": "2024-02-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 109,
+  "total_loss": "$107M"
 }

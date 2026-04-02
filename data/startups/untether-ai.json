@@ -9,23 +9,32 @@
   "funding_raised": "$150M+",
   "funding_stage": "series-c",
   "category": "competition",
-  "tags": ["ai-chips", "hardware", "nvidia-competitor", "inference"],
+  "tags": [
+    "ai-chips",
+    "hardware",
+    "nvidia-competitor",
+    "inference"
+  ],
   "sources": [
     {
       "url": "https://www.eetimes.com/untether-ai-shuts-down-engineering-team-joins-amd/",
       "title": "Untether AI shuts down, team joins AMD",
       "date": "2025-03-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://betakit.com/untether-ai-files-for-bankruptcy-following-amd-acquihire/",
       "title": "Untether AI files for bankruptcy",
       "date": "2025-03-20",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 84,
+  "total_loss": "$150M+"
 }

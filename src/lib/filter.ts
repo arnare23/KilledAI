@@ -4,7 +4,7 @@ export interface FilterState {
   categories: FailureCategory[];
   shutdownAfter: string;
   shutdownBefore: string;
-  sortBy: 'newest' | 'oldest' | 'funded';
+  sortBy: 'recently-added' | 'newest' | 'oldest' | 'funded';
 }
 
 export function defaultFilters(): FilterState {
@@ -12,7 +12,7 @@ export function defaultFilters(): FilterState {
     categories: [],
     shutdownAfter: '',
     shutdownBefore: '',
-    sortBy: 'newest',
+    sortBy: 'recently-added',
   };
 }
 
@@ -47,6 +47,9 @@ export function applyFilters(
 
   result = [...result];
   switch (filters.sortBy) {
+    case 'recently-added':
+      result.sort((a, b) => b.created_at.localeCompare(a.created_at));
+      break;
     case 'newest':
       result.sort((a, b) => b.shutdown.localeCompare(a.shutdown));
       break;

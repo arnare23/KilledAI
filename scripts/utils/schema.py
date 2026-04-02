@@ -39,6 +39,8 @@ class Startup(BaseModel):
     status: Literal["draft", "researched", "published", "unverified", "rejected"] = "draft"
     rejection_reason: str | None = None
     confidence: Literal["high", "medium", "low"] = "low"
+    lifetime_months: int | None = None
+    total_loss: str = ""
     created_at: str
     updated_at: str
 
@@ -51,8 +53,11 @@ class StartupIndex(BaseModel):
     shutdown: str
     category: str
     funding_raised: str
+    lifetime_months: int | None = None
+    total_loss: str = ""
     status: str
     confidence: str
+    created_at: str
 
 
 class IndexFile(BaseModel):

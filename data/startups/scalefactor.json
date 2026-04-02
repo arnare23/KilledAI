@@ -9,17 +9,25 @@
   "funding_raised": "$100M+",
   "funding_stage": "series-c",
   "category": "other",
-  "tags": ["fintech", "bookkeeping", "ai-washing", "fraud"],
+  "tags": [
+    "fintech",
+    "bookkeeping",
+    "ai-washing",
+    "fraud"
+  ],
   "sources": [
     {
       "url": "https://www.failory.com/cemetery/scalefactor",
       "title": "ScaleFactor post-mortem on Failory",
       "date": "2020-07-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 77,
+  "total_loss": "$100M+"
 }

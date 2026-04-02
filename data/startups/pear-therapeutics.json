@@ -3,23 +3,31 @@
   "slug": "pear-therapeutics",
   "tagline": "Pioneer of FDA-approved prescription digital therapeutics",
   "description": "Pear raised $400M and went public at $1.6B to build FDA-approved digital therapeutics apps. Revenue of $12.7M vs $136M expenses led to bankruptcy, with assets sold for just $6M.",
-  "story": "Pear Therapeutics was founded in 2013 as a pioneer in prescription digital therapeutics — software-based treatments prescribed by doctors and cleared by the FDA. The company went public via SPAC in 2021 at a $1.6 billion valuation, having raised approximately $400 million. Pear had multiple FDA-cleared products for substance abuse and insomnia, but couldn't solve the fundamental challenge: getting doctors to prescribe apps and insurers to pay for them. Revenue reached only $12.7 million against $136 million in expenses in 2022. In April 2023, Pear filed for Chapter 11 bankruptcy, terminating 92% of its workforce — 170 employees. At auction, the company's assets sold for a total of just $6 million, a stunning markdown from its billion-dollar valuation.",
+  "story": "Pear Therapeutics was founded in 2013 as a pioneer in prescription digital therapeutics \u2014 software-based treatments prescribed by doctors and cleared by the FDA. The company went public via SPAC in 2021 at a $1.6 billion valuation, having raised approximately $400 million. Pear had multiple FDA-cleared products for substance abuse and insomnia, but couldn't solve the fundamental challenge: getting doctors to prescribe apps and insurers to pay for them. Revenue reached only $12.7 million against $136 million in expenses in 2022. In April 2023, Pear filed for Chapter 11 bankruptcy, terminating 92% of its workforce \u2014 170 employees. At auction, the company's assets sold for a total of just $6 million, a stunning markdown from its billion-dollar valuation.",
   "founded": "2013",
   "shutdown": "2023-04",
   "funding_raised": "$400M",
   "funding_stage": "public",
   "category": "market",
-  "tags": ["healthcare", "digital-therapeutics", "fda", "spac"],
+  "tags": [
+    "healthcare",
+    "digital-therapeutics",
+    "fda",
+    "spac"
+  ],
   "sources": [
     {
       "url": "https://www.fiercebiotech.com/medtech/pear-pulped-digital-therapeutics-makers-assets-sold-6m-auction-after-bankruptcy-filing",
       "title": "Pear Therapeutics assets sold for $6M at auction",
       "date": "2023-05-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 123,
+  "total_loss": "$400M"
 }

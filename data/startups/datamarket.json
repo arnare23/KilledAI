@@ -9,23 +9,33 @@
   "funding_raised": "Unknown",
   "funding_stage": "seed",
   "category": "platform-absorbed",
-  "tags": ["data-platform", "visualization", "iceland", "nordic", "qlik"],
+  "tags": [
+    "data-platform",
+    "visualization",
+    "iceland",
+    "nordic",
+    "qlik"
+  ],
   "sources": [
     {
       "url": "https://grapevine.is/news/2014/11/02/qlik-acquires-datamarket-for-13-5mi/",
       "title": "Qlik acquires DataMarket for $13.5M",
       "date": "2014-11-02",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://community.qlik.com/t5/Support-Updates/Qlik-DataMarket-will-be-retired/ba-p/1695436",
       "title": "Qlik DataMarket retirement",
       "date": "2021-04-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 161,
+  "total_loss": "Unknown"
 }

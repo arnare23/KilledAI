@@ -9,23 +9,32 @@
   "funding_raised": "Self-funded",
   "funding_stage": "bootstrapped",
   "category": "market",
-  "tags": ["news", "social-media", "instagram-founders", "personalization"],
+  "tags": [
+    "news",
+    "social-media",
+    "instagram-founders",
+    "personalization"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/",
       "title": "Instagram co-founders' Artifact to shut down",
       "date": "2024-01-12",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419",
       "title": "Shutting Down Artifact",
       "date": "2024-01-12",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 24,
+  "total_loss": "Unknown"
 }

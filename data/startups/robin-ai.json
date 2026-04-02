@@ -3,7 +3,7 @@
   "slug": "robin-ai",
   "tagline": "AI-powered contract review and negotiation platform for enterprise legal teams",
   "description": "Robin AI raised $71.7M to automate contract review for Fortune 500 companies but collapsed in 2025 when a critical $50M funding round fell through. Its managed services team was acquired by Scissero and its engineers were acqui-hired by Microsoft.",
-  "story": "Robin AI seemed to have it all. Founded in 2019 by former Clifford Chance lawyer Richard Robinson and machine learning researcher James Clough, the London-based startup built an AI-powered contract review tool that could scan incoming agreements, flag deviating clauses, and produce redlined documents in seconds. Blue-chip clients came knocking — PwC, KPMG, UBS, PepsiCo — and the funding followed. A $10.5M Series A led by SoftBank in 2023. A $26M Series B from Temasek in January 2024. A $25M extension round by November that same year, backed by PayPal Ventures and Cambridge University. Total raised: $71.7 million. In early 2025, Robin AI ranked 10th on the Sunday Times 100 Tech list.\n\nNine months later, it was listed for distressed sale.\n\nThe collapse was swift. A planned $50M raise failed to close. Losses had outpaced revenue growth for three years, despite $10M in annual recurring revenue. Leadership turnover — including the departure of co-founder and CTO James Clough — signaled deeper trouble. Staff were cut from 200 to roughly 100. Then HMRC filed a winding-up petition for unpaid taxes, and the runway disappeared entirely.\n\nThe company was carved up. Scissero, a rival legal services firm, acquired the managed services team of roughly 75 people in December 2025. Microsoft swooped in weeks later, acqui-hiring at least 18 engineers to bolster Word's legal AI capabilities. Robin AI's name joined the growing list of well-funded AI startups that scaled faster than their unit economics could sustain.",
+  "story": "Robin AI seemed to have it all. Founded in 2019 by former Clifford Chance lawyer Richard Robinson and machine learning researcher James Clough, the London-based startup built an AI-powered contract review tool that could scan incoming agreements, flag deviating clauses, and produce redlined documents in seconds. Blue-chip clients came knocking \u2014 PwC, KPMG, UBS, PepsiCo \u2014 and the funding followed. A $10.5M Series A led by SoftBank in 2023. A $26M Series B from Temasek in January 2024. A $25M extension round by November that same year, backed by PayPal Ventures and Cambridge University. Total raised: $71.7 million. In early 2025, Robin AI ranked 10th on the Sunday Times 100 Tech list.\n\nNine months later, it was listed for distressed sale.\n\nThe collapse was swift. A planned $50M raise failed to close. Losses had outpaced revenue growth for three years, despite $10M in annual recurring revenue. Leadership turnover \u2014 including the departure of co-founder and CTO James Clough \u2014 signaled deeper trouble. Staff were cut from 200 to roughly 100. Then HMRC filed a winding-up petition for unpaid taxes, and the runway disappeared entirely.\n\nThe company was carved up. Scissero, a rival legal services firm, acquired the managed services team of roughly 75 people in December 2025. Microsoft swooped in weeks later, acqui-hiring at least 18 engineers to bolster Word's legal AI capabilities. Robin AI's name joined the growing list of well-funded AI startups that scaled faster than their unit economics could sustain.",
   "founded": "2019",
   "shutdown": "2025-12",
   "funding_raised": "$71.7M",
@@ -22,24 +22,32 @@
       "url": "https://legaltechnology.com/2025/10/28/robin-ai-listed-for-distressed-sale-nine-months-after-making-the-sunday-times-100-tech-list/",
       "title": "Robin AI listed for distressed sale nine months after making the Sunday Times 100 Tech list",
       "date": "2025-10-28",
-      "snapshot_path": "data/snapshots/robin-ai/legaltechnology.com_2025_10_28_robin-ai-listed-for-distressed-sale-nine-months-after-making-the-sunday-times-100-tech-list_.html"
+      "snapshot_path": "data/snapshots/robin-ai/legaltechnology.com_2025_10_28_robin-ai-listed-for-distressed-sale-nine-months-after-making-the-sunday-times-100-tech-list_.html",
+      "status": "active"
     },
     {
       "url": "https://www.legal.io/articles/5768749/Scissero-Acquires-Robin-AI-s-Managed-Legal-Services-Amid-Reported-Insolvency-Pressures",
       "title": "Scissero Acquires Robin AI's Managed Legal Services Amid Reported Insolvency Pressures",
       "date": "2025-12-09",
-      "snapshot_path": "data/snapshots/robin-ai/www.legal.io_articles_5768749_Scissero-Acquires-Robin-AI-s-Managed-Legal-Services-Amid-Reported-Insolvency-Pressures.html"
+      "snapshot_path": "data/snapshots/robin-ai/www.legal.io_articles_5768749_Scissero-Acquires-Robin-AI-s-Managed-Legal-Services-Amid-Reported-Insolvency-Pressures.html",
+      "status": "active"
     },
     {
       "url": "https://www.geeklawblog.com/2025/11/is-the-collapse-of-robin-ai-a-one-off-or-a-sign-of-a-legal-tech-ai-bubble.html",
       "title": "Is the Collapse of Robin AI a One-Off or a Sign of a Legal Tech AI Bubble?",
       "date": "2025-11-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "rejection_reason": null,
   "confidence": "high",
   "created_at": "2026-04-01T23:45:00Z",
-  "updated_at": "2026-04-01T23:45:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 83,
+  "total_loss": "$71.7M",
+  "review_flags": [
+    "Category is \"funding\" but story mentions acqui-hire; consider \"acqui-hired\""
+  ]
 }

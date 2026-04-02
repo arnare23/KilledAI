@@ -3,7 +3,7 @@
   "slug": "anki",
   "tagline": "AI-powered consumer robotics company behind Cozmo and Vector robots",
   "description": "Founded in 2010 by three Carnegie Mellon robotics graduates, Anki raised $182.5M to build AI-powered consumer robots including the hit toy Cozmo (best-selling toy of 2017) and its successor Vector. Despite strong product reviews and roughly $100M in annual revenue, the company could not achieve profitability while burning $50-60M per year. Anki abruptly shut down in April 2019 after a last-minute financing deal collapsed, laying off nearly 200 employees. Its assets were later acquired by Digital Dream Labs in December 2019.",
-  "story": "Anki was the rare AI hardware company that actually shipped products people loved. Founded in 2010 by three Carnegie Mellon robotics graduates, the company raised $182.5 million to bring AI-powered consumer robots to the mass market. Its tabletop robot Cozmo became the best-selling toy on Amazon in 2017, charming kids and adults with an expressive personality that felt genuinely alive. Its successor, Vector, pushed further into the smart home assistant space. But consumer hardware is a brutal economics game — Anki was burning through $50 to $60 million per year while generating roughly $100 million in revenue, leaving margins that couldn't sustain a 200-person team and the R&D costs of cutting-edge robotics. The company needed its next funding round to survive. When a last-minute financing deal collapsed in April 2019, Anki shut down overnight, laying off nearly its entire staff with just a week's severance. Digital Dream Labs later acquired Anki's assets for a fraction of their value, promising to keep Vector alive — but the team and ambition behind the original vision were already gone.",
+  "story": "Anki was the rare AI hardware company that actually shipped products people loved. Founded in 2010 by three Carnegie Mellon robotics graduates, the company raised $182.5 million to bring AI-powered consumer robots to the mass market. Its tabletop robot Cozmo became the best-selling toy on Amazon in 2017, charming kids and adults with an expressive personality that felt genuinely alive. Its successor, Vector, pushed further into the smart home assistant space. But consumer hardware is a brutal economics game \u2014 Anki was burning through $50 to $60 million per year while generating roughly $100 million in revenue, leaving margins that couldn't sustain a 200-person team and the R&D costs of cutting-edge robotics. The company needed its next funding round to survive. When a last-minute financing deal collapsed in April 2019, Anki shut down overnight, laying off nearly its entire staff with just a week's severance. Digital Dream Labs later acquired Anki's assets for a fraction of their value, promising to keep Vector alive \u2014 but the team and ambition behind the original vision were already gone.",
   "founded": "2010",
   "shutdown": "2019-04",
   "funding_raised": "$182.5M",
@@ -22,32 +22,38 @@
   "sources": [
     {
       "url": "https://techcrunch.com/2019/04/29/cozmo-maker-anki-is-shutting-its-doors/",
-      "title": "Cozmo maker Anki is shutting its doors — TechCrunch",
+      "title": "Cozmo maker Anki is shutting its doors \u2014 TechCrunch",
       "date": "2019-04-29",
-      "snapshot_path": "data/snapshots/anki/techcrunch.com_2019_04_29_cozmo-maker-anki-is-shutting-its-doors_.html"
+      "snapshot_path": "data/snapshots/anki/techcrunch.com_2019_04_29_cozmo-maker-anki-is-shutting-its-doors_.html",
+      "status": "active"
     },
     {
       "url": "https://news.crunchbase.com/venture/robotic-startup-anki-is-shutting-down-after-raising-around-200m/",
-      "title": "Robotic Startup Anki Is Shutting Down After Raising Around $200M — Crunchbase News",
+      "title": "Robotic Startup Anki Is Shutting Down After Raising Around $200M \u2014 Crunchbase News",
       "date": "2019-04-29",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://spectrum.ieee.org/consumer-robotics-company-anki-abruptly-shuts-down",
-      "title": "Consumer Robotics Company Anki Abruptly Shuts Down — IEEE Spectrum",
+      "title": "Consumer Robotics Company Anki Abruptly Shuts Down \u2014 IEEE Spectrum",
       "date": "2019-04-29",
-      "snapshot_path": "data/snapshots/anki/spectrum.ieee.org_consumer-robotics-company-anki-abruptly-shuts-down.html"
+      "snapshot_path": "data/snapshots/anki/spectrum.ieee.org_consumer-robotics-company-anki-abruptly-shuts-down.html",
+      "status": "active"
     },
     {
       "url": "https://en.wikipedia.org/wiki/Anki_(American_company)",
-      "title": "Anki (American company) — Wikipedia",
+      "title": "Anki (American company) \u2014 Wikipedia",
       "date": "2019-04-29",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "rejection_reason": null,
   "confidence": "high",
   "created_at": "2026-04-02T00:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 111,
+  "total_loss": "$182.5M"
 }

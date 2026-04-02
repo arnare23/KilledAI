@@ -10,24 +10,36 @@
   "funding_stage": "late",
   "employee_count": 500,
   "category": "other",
-  "tags": ["no-code", "app-development", "fraud", "microsoft-backed"],
+  "tags": [
+    "no-code",
+    "app-development",
+    "fraud",
+    "microsoft-backed"
+  ],
   "url": "https://builder.ai",
   "sources": [
     {
       "url": "https://restofworld.org/2025/builderai-ai-explainer-bankrupt/",
       "title": "Builder.ai AI explainer bankrupt",
       "date": "2025-05-24",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/",
       "title": "Microsoft-backed Builder.ai running out of money",
       "date": "2025-05-20",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 112,
+  "total_loss": "$445M",
+  "review_flags": [
+    "Category is \"other\" but story mentions fraud/legal issues; consider \"regulatory\" or keep \"other\""
+  ]
 }

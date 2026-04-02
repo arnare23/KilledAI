@@ -8,17 +8,25 @@
   "shutdown": "2025-11",
   "funding_raised": "Unknown",
   "category": "regulatory",
-  "tags": ["mental-health", "therapy", "safety", "ethical-shutdown"],
+  "tags": [
+    "mental-health",
+    "therapy",
+    "safety",
+    "ethical-shutdown"
+  ],
   "sources": [
     {
       "url": "https://fortune.com/2025/11/28/yara-ai-therapy-app-founder-shut-down-startup-decided-too-dangerous-serious-mental-health-issues/",
       "title": "Yara AI founder shuts down therapy app",
       "date": "2025-11-28",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 22,
+  "total_loss": "Unknown"
 }

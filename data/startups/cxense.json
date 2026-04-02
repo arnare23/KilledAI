@@ -9,23 +9,34 @@
   "funding_raised": "Publicly traded",
   "funding_stage": "public",
   "category": "platform-absorbed",
-  "tags": ["personalization", "media", "publisher-tech", "norway", "nordic", "public-company"],
+  "tags": [
+    "personalization",
+    "media",
+    "publisher-tech",
+    "norway",
+    "nordic",
+    "public-company"
+  ],
   "sources": [
     {
       "url": "https://en.wikipedia.org/wiki/Cxense",
       "title": "Cxense - Wikipedia",
       "date": "2019-10-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://resources.piano.io/resources/piano-acquires-cxense-expanding-the-possibilities-of-the-platform-with-data-management-and-intelligent-personalization-capabilities/",
       "title": "Piano acquires Cxense",
       "date": "2019-10-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 117,
+  "total_loss": "Unknown"
 }

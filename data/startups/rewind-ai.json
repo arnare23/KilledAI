@@ -9,17 +9,27 @@
   "funding_raised": "Unknown",
   "funding_stage": "series-a",
   "category": "acqui-hired",
-  "tags": ["developer-tools", "productivity", "hardware", "pendant", "meta", "a16z-backed"],
+  "tags": [
+    "developer-tools",
+    "productivity",
+    "hardware",
+    "pendant",
+    "meta",
+    "a16z-backed"
+  ],
   "sources": [
     {
       "url": "https://9to5mac.com/2025/12/05/rewind-limitless-meta-acquisition/",
       "title": "Rewind/Limitless acquired by Meta",
       "date": "2025-12-05",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 71,
+  "total_loss": "Unknown"
 }

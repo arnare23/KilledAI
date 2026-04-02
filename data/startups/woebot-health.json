@@ -9,17 +9,26 @@
   "funding_raised": "$114M",
   "funding_stage": "series-b",
   "category": "regulatory",
-  "tags": ["mental-health", "therapy", "fda", "healthcare", "chatbot"],
+  "tags": [
+    "mental-health",
+    "therapy",
+    "fda",
+    "healthcare",
+    "chatbot"
+  ],
   "sources": [
     {
       "url": "https://www.statnews.com/2025/07/02/woebot-therapy-chatbot-shuts-down-founder-says-ai-moving-faster-than-regulators/",
       "title": "Woebot shuts down, AI moving faster than regulators",
       "date": "2025-07-02",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 101,
+  "total_loss": "$114M"
 }

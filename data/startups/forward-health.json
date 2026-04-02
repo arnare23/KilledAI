@@ -3,24 +3,32 @@
   "slug": "forward-health",
   "tagline": "AI-powered 'doctor in a box' CarePods for primary care",
   "description": "Forward raised $657M to build autonomous AI-powered CarePods for primary care. Only 5 of a planned 3,200 pods were deployed before the company abruptly shut down.",
-  "story": "Founded in 2016 by former Google employee Adrian Aoun, Forward Health raised $657 million — including a $225 million Series D from SoftBank — to reinvent primary care with AI. The vision: autonomous CarePods staffed by AI instead of doctors, available for $99 per month. The reality fell far short. Forward burned through over $400 million while generating less than $100 million in total revenue. Of the 3,200 CarePods planned, only about 5 were ever deployed. Those that existed suffered sensor malfunctions and at least one incident of a patient getting trapped inside. In November 2024, Forward abruptly shut down, laying off approximately 200 employees. It was one of the most expensive failures in digital health history.",
+  "story": "Founded in 2016 by former Google employee Adrian Aoun, Forward Health raised $657 million \u2014 including a $225 million Series D from SoftBank \u2014 to reinvent primary care with AI. The vision: autonomous CarePods staffed by AI instead of doctors, available for $99 per month. The reality fell far short. Forward burned through over $400 million while generating less than $100 million in total revenue. Of the 3,200 CarePods planned, only about 5 were ever deployed. Those that existed suffered sensor malfunctions and at least one incident of a patient getting trapped inside. In November 2024, Forward abruptly shut down, laying off approximately 200 employees. It was one of the most expensive failures in digital health history.",
   "founded": "2016",
   "shutdown": "2024-11",
   "funding_raised": "$657M",
   "funding_stage": "series-d",
   "employee_count": 200,
   "category": "market",
-  "tags": ["healthcare", "primary-care", "hardware", "softbank-backed"],
+  "tags": [
+    "healthcare",
+    "primary-care",
+    "hardware",
+    "softbank-backed"
+  ],
   "sources": [
     {
       "url": "https://techstartups.com/2024/11/18/healthcare-startup-forward-shuts-down-after-burning-through-400-million-from-investors/",
       "title": "Forward shuts down after burning $400M",
       "date": "2024-11-18",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 106,
+  "total_loss": "$657M"
 }

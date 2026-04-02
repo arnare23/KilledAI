@@ -10,23 +10,32 @@
   "funding_stage": "series-c",
   "employee_count": 600,
   "category": "funding",
-  "tags": ["fintech", "bookkeeping", "accounting", "abrupt-shutdown"],
+  "tags": [
+    "fintech",
+    "bookkeeping",
+    "accounting",
+    "abrupt-shutdown"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/",
       "title": "Bench shuts down leaving thousands stranded",
       "date": "2024-12-27",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/",
       "title": "Bench to be acquired after shutdown",
       "date": "2024-12-30",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 155,
+  "total_loss": "$113M"
 }

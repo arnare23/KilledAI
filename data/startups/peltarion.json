@@ -9,23 +9,36 @@
   "funding_raised": "$20M+",
   "funding_stage": "late",
   "category": "acqui-hired",
-  "tags": ["ai-platform", "neural-networks", "sweden", "gaming", "nordic"],
+  "tags": [
+    "ai-platform",
+    "neural-networks",
+    "sweden",
+    "gaming",
+    "nordic"
+  ],
   "sources": [
     {
       "url": "https://en.wikipedia.org/wiki/Peltarion",
       "title": "Peltarion - Wikipedia",
       "date": "2022-10-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://www.businesswire.com/news/home/20220613005280/en/Mobile-Game-Developer-King-Acquires-Artificial-Intelligence-Company-Peltarion",
       "title": "King acquires Peltarion",
       "date": "2022-06-13",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 224,
+  "total_loss": "$20M+",
+  "review_flags": [
+    "acqui-hired but no acquisition price found in story; total_loss set to funding_raised"
+  ]
 }

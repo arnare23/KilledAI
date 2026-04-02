@@ -10,23 +10,32 @@
   "funding_stage": "late",
   "employee_count": 70,
   "category": "acqui-hired",
-  "tags": ["chatbot", "microsoft", "deepmind-founder", "consumer-ai"],
+  "tags": [
+    "chatbot",
+    "microsoft",
+    "deepmind-founder",
+    "consumer-ai"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2024/03/19/after-raising-1-3b-inflection-got-eaten-alive-by-its-biggest-investor-microsoft/",
       "title": "Inflection got eaten alive by Microsoft",
       "date": "2024-03-19",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     },
     {
       "url": "https://spectrum.ieee.org/inflection-ai-pi",
       "title": "Inflection AI Pi - what happened",
       "date": "2024-04-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 26,
+  "total_loss": "$1.5B"
 }

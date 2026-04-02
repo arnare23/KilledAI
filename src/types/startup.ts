@@ -28,8 +28,11 @@ export interface StartupIndex {
   shutdown: string;
   category: FailureCategory;
   funding_raised: string;
+  lifetime_months: number | null;
+  total_loss: string;
   status: Status;
   confidence: Confidence;
+  created_at: string;
 }
 
 export interface StartupDetail extends StartupIndex {

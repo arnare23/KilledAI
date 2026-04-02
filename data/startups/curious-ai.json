@@ -9,17 +9,26 @@
   "funding_raised": "Unknown",
   "funding_stage": "seed",
   "category": "acqui-hired",
-  "tags": ["computer-vision", "robotics", "apple", "finland", "nordic"],
+  "tags": [
+    "computer-vision",
+    "robotics",
+    "apple",
+    "finland",
+    "nordic"
+  ],
   "sources": [
     {
       "url": "https://pitchbook.com/profiles/company/153903-16",
       "title": "Curious AI on PitchBook",
       "date": "2020-10-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "medium",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 69,
+  "total_loss": "Unknown"
 }

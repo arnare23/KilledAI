@@ -9,17 +9,32 @@
   "funding_raised": "$11M",
   "funding_stage": "series-a",
   "category": "competition",
-  "tags": ["developer-tools", "code-review", "copilot-killed", "khosla-backed"],
+  "tags": [
+    "developer-tools",
+    "code-review",
+    "copilot-killed",
+    "khosla-backed"
+  ],
   "sources": [
     {
       "url": "https://www.korbit.ai/post/closure-announcement",
       "title": "Korbit AI closure announcement",
       "date": "2026-01-15",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "broken"
+    },
+    {
+      "url": "https://www.codeant.ai/blogs/migrate-from-korbit-ai-to-codeant-ai",
+      "title": "Korbit AI Shutdown: Migrate to CodeAnt AI",
+      "date": "2025-09-01",
+      "snapshot_path": null,
+      "status": "replacement"
     }
   ],
   "status": "published",
-  "confidence": "high",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-01T23:30:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 108,
+  "total_loss": "$11M"
 }

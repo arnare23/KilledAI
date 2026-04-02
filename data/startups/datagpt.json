@@ -9,17 +9,24 @@
   "funding_raised": "$22M",
   "funding_stage": "series-b",
   "category": "platform-absorbed",
-  "tags": ["data-analytics", "business-intelligence", "chatgpt-wrapper"],
+  "tags": [
+    "data-analytics",
+    "business-intelligence",
+    "chatgpt-wrapper"
+  ],
   "sources": [
     {
       "url": "https://www.blazesql.com/blog/datagpt-shutdown-alternatives",
       "title": "DataGPT shutdown and alternatives",
       "date": "2025-12-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "medium",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 47,
+  "total_loss": "$22M"
 }

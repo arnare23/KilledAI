@@ -8,17 +8,24 @@
   "shutdown": "2025-10",
   "funding_raised": "Unknown",
   "category": "market",
-  "tags": ["ai-companion", "consumer", "apple-designer"],
+  "tags": [
+    "ai-companion",
+    "consumer",
+    "apple-designer"
+  ],
   "sources": [
     {
       "url": "https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/",
       "title": "Personalized AI companion app Dot is shutting down",
       "date": "2025-09-05",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "active"
     }
   ],
   "status": "published",
   "confidence": "medium",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 33,
+  "total_loss": "Unknown"
 }

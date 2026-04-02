@@ -9,17 +9,33 @@
   "funding_raised": "$14M",
   "funding_stage": "series-a",
   "category": "no-moat",
-  "tags": ["nlp", "text-analytics", "sentiment-analysis", "sweden", "nordic"],
+  "tags": [
+    "nlp",
+    "text-analytics",
+    "sentiment-analysis",
+    "sweden",
+    "nordic"
+  ],
   "sources": [
     {
       "url": "https://tracxn.com/d/companies/gavagai/",
       "title": "Gavagai on Tracxn",
       "date": "2024-06-01",
-      "snapshot_path": null
+      "snapshot_path": null,
+      "status": "broken"
+    },
+    {
+      "url": "https://nordic9.com/companies/gavagai-company5907421185/",
+      "title": "Gavagai company profile - Nordic 9",
+      "date": "2024-01-01",
+      "snapshot_path": null,
+      "status": "replacement"
     }
   ],
   "status": "published",
   "confidence": "medium",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-01T23:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z",
+  "lifetime_months": 192,
+  "total_loss": "$14M"
 }
