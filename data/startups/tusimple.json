@@ -1,0 +1,53 @@
+{
+  "name": "TuSimple",
+  "slug": "tusimple",
+  "tagline": "Autonomous trucking company that collapsed amid espionage scandal and pivoted to AI gaming",
+  "description": "TuSimple, founded in 2015 by Mo Chen and Xiaodi Hou, was an autonomous trucking company that went public in April 2021 at an $8.5B valuation after raising $800M privately. The company imploded after CEO Hou was fired in October 2022 for allegedly sharing confidential technology with Hydron, a Chinese hydrogen-truck startup linked to co-founder Chen. Facing FBI, SEC, and CFIUS investigations for suspected economic espionage, TuSimple wound down US operations, laid off 75% of staff, and voluntarily delisted from Nasdaq in January 2024. The company rebranded as CreateAI and pivoted to AI gaming in December 2024.",
+  "story": "TuSimple went public in April 2021 at an $8.5 billion valuation, promising to put autonomous trucks on American highways. Founded in 2015 by Mo Chen and Xiaodi Hou, the company had raised $1.8 billion and built a 1,400-person operation spanning San Diego, Tucson, and Shanghai. Then it all unraveled. In October 2022, the board fired CEO Hou for allegedly funneling confidential self-driving technology to Hydron, a Chinese hydrogen-truck startup linked to co-founder Chen. The FBI, SEC, and the Committee on Foreign Investment in the United States all launched investigations into suspected economic espionage. TuSimple's stock cratered. The company laid off 75% of its workforce, wound down all US operations, and voluntarily delisted from Nasdaq in January 2024. In a bizarre final act, the remnants of TuSimple rebranded as CreateAI in December 2024 and pivoted to — of all things — AI-powered video game development. What began as one of the most promising autonomous trucking ventures in the world ended as a cautionary tale about corporate governance, geopolitical risk, and the paper-thin line between technology transfer and espionage.",
+  "founded": "2015-09",
+  "shutdown": "2024-01",
+  "funding_raised": "$1.8B+",
+  "funding_stage": "post-ipo",
+  "employee_count": 1400,
+  "category": "regulatory",
+  "tags": [
+    "autonomous-vehicles",
+    "trucking",
+    "self-driving",
+    "logistics",
+    "espionage-scandal",
+    "china"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/01/17/tusimple-nasdaq-delisting-date-us-exit/",
+      "title": "TuSimple is leaving the Nasdaq as it exits the US",
+      "date": "2024-01-17",
+      "snapshot_path": "data/snapshots/tusimple/techcrunch.com_2024_01_17_tusimple-nasdaq-delisting-date-us-exit_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2024/12/19/tusimple-pivot-from-self-driving-to-ai-animation-is-complete-with-createai-rebrand/",
+      "title": "TuSimple pivot from self-driving to AI animation is complete with CreateAI rebrand",
+      "date": "2024-12-19",
+      "snapshot_path": "data/snapshots/tusimple/techcrunch.com_2024_12_19_tusimple-pivot-from-self-driving-to-ai-animation-is-complete-with-createai-rebrand_.html"
+    },
+    {
+      "url": "https://www.truckinginfo.com/10214452/tusimple-winding-down-u-s-autonomous-truck-operations",
+      "title": "TuSimple U.S. Exit Clouded by Autonomous Secrets Scandal",
+      "date": "2024-01-05",
+      "snapshot_path": "data/snapshots/tusimple/www.truckinginfo.com_10214452_tusimple-winding-down-u-s-autonomous-truck-operations.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/TuSimple",
+      "title": "TuSimple - Wikipedia",
+      "date": "2024-01-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}

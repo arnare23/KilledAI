@@ -1,0 +1,53 @@
+{
+  "name": "Argo AI",
+  "slug": "argo-ai",
+  "tagline": "Ford and VW-backed autonomous driving startup that shut down after $3.6B investment",
+  "description": "Argo AI was a self-driving technology company founded in 2016 by former Google and Uber engineers Bryan Salesky and Peter Rander. Backed by $3.6B from Ford and Volkswagen, it reached a $12.4B valuation and employed 1,700 people across Pittsburgh, Detroit, Miami, Austin, and Munich. Ford and VW pulled the plug in October 2022 after concluding that profitable fully autonomous vehicles at scale were further out than expected. Ford took a $2.7B write-down. Employees were split between Ford's Latitude AI and VW's CARIAD units.",
+  "story": "Argo AI was supposed to be the autonomous driving company that actually made it. Founded in 2016 by Bryan Salesky and Peter Rander — veterans of Google's self-driving car project and Uber's autonomy team — the Pittsburgh startup attracted $3.6 billion in backing from Ford and Volkswagen, reaching a $12.4 billion valuation. At its peak, 1,700 employees worked across six cities on two continents. But the timeline kept slipping. Fully autonomous vehicles that could operate safely without human oversight remained perpetually five years away, and Ford and VW grew tired of writing billion-dollar checks with no revenue in sight. In October 2022, both automakers pulled the plug simultaneously. Ford took a $2.7 billion write-down — one of the largest in automotive history — and absorbed some Argo engineers into its new Latitude AI subsidiary. VW folded its share into CARIAD, its troubled software division. The shutdown sent a shockwave through the autonomous vehicle industry, confirming what skeptics had long argued: the self-driving problem was harder and more expensive than even the best-funded teams could solve.",
+  "founded": "2016-11",
+  "shutdown": "2022-10",
+  "funding_raised": "$3.6B",
+  "funding_stage": "late-stage",
+  "employee_count": 1700,
+  "category": "funding",
+  "tags": [
+    "autonomous-vehicles",
+    "self-driving",
+    "robotaxis",
+    "hardware",
+    "ford",
+    "volkswagen"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/",
+      "title": "Ford, VW-backed Argo AI is shutting down",
+      "date": "2022-10-26",
+      "snapshot_path": "data/snapshots/argo-ai/techcrunch.com_2022_10_26_ford-vw-backed-argo-ai-is-shutting-down_.html"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
+      "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
+      "date": "2023-03-22",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Argo_AI",
+      "title": "Argo AI - Wikipedia",
+      "date": "2022-10-26",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://fortune.com/2022/10/27/ford-volkswagen-pull-plug-robocar-unit-argo-ai-major-setback-self-driving-plans/",
+      "title": "Ford and Volkswagen pull the plug on robocar unit Argo AI",
+      "date": "2022-10-27",
+      "snapshot_path": "data/snapshots/argo-ai/fortune.com_2022_10_27_ford-volkswagen-pull-plug-robocar-unit-argo-ai-major-setback-self-driving-plans_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}

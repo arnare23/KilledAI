@@ -1,0 +1,40 @@
+{
+  "name": "theGist",
+  "slug": "thegist",
+  "tagline": "AI-powered workplace productivity tool that summarized Slack, email, and CRM",
+  "description": "Israeli AI startup theGist built an AI-powered tool that scanned internal communications like Slack, email, CRM, and analytics tools to provide personalized summaries for teams. Despite raising $7M in pre-seed funding from StageOne Ventures and Aleph, the company failed to achieve sustainable market traction. After an unsuccessful pivot into sales-focused solutions, theGist shut down in September 2025 and committed to returning all raised capital to investors.",
+  "story": "Founded in 2022 amid the generative AI gold rush, Israeli startup theGist raised $7 million in pre-seed funding from StageOne Ventures and Aleph to build what every knowledge worker supposedly wanted — an AI that could read your Slack, email, and CRM and distill it all into a tidy summary. The problem was that everyone else wanted to build that too. By the time theGist launched, Slack itself had added AI summaries, Microsoft Copilot was summarizing Outlook and Teams, and a dozen other startups were fighting for the same crowded niche. With no defensible moat and dwindling user traction, the team pivoted toward sales-focused tools, but the new direction never gained momentum either. In September 2025, theGist shut down — and in a rare move, committed to returning all raised capital to its investors. It was a graceful exit from a market that simply had no room left for another summarization wrapper.",
+  "founded": "2022",
+  "shutdown": "2025-09",
+  "funding_raised": "$7M",
+  "funding_stage": "pre-seed",
+  "employee_count": 15,
+  "category": "market",
+  "tags": [
+    "enterprise",
+    "productivity",
+    "workplace",
+    "israel",
+    "ai-wrapper"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/jeyngl375",
+      "title": "AI startup theGist shuts down, plans to return investor funds",
+      "date": "2025-09-03",
+      "snapshot_path": "data/snapshots/thegist/www.calcalistech.com_ctechnews_article_jeyngl375.html"
+    },
+    {
+      "url": "https://techstartups.com/2025/12/09/top-ai-startups-that-shut-down-in-2025-what-founders-can-learn/",
+      "title": "Top AI Startups That Shut Down in 2025: What Founders Can Learn",
+      "date": "2025-12-09",
+      "snapshot_path": "data/snapshots/thegist/techstartups.com_2025_12_09_top-ai-startups-that-shut-down-in-2025-what-founders-can-learn_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}

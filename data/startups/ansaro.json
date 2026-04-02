@@ -1,0 +1,40 @@
+{
+  "name": "Ansaro",
+  "slug": "ansaro",
+  "tagline": "AI-powered hiring platform that used predictive analytics to improve interview quality",
+  "description": "Founded in late 2016 by Sam Stone, Ansaro raised $3M in seed funding to use data science to improve hiring decisions. After two pivots within the hiring space — from predictive models on application data to structured interviews with an AI notetaker — the six-person team shut down at the end of 2018 having generated only $100K in total revenue. The core problem was misaligned buyers and users: they sold to CHROs who cared about quality of hire, but the actual users were recruiters who prioritized speed.",
+  "story": "Ansaro is a textbook case of a startup solving the right problem for the wrong buyer. Founded in late 2016 by Sam Stone, the six-person team raised $3 million in seed funding to use AI and data science to improve hiring decisions. The idea was sound — bad hires are expensive, and structured data should produce better outcomes than gut instinct. But Ansaro pivoted twice within the hiring space, first building predictive models on application data, then shifting to structured interviews augmented by an AI notetaker. Neither version stuck. The core issue was a misalignment between buyer and user: they sold to CHROs who cared deeply about quality of hire, but the day-to-day users were recruiters whose priority was speed and throughput. The tool that made hiring better also made it slower, and recruiters quietly stopped using it. After two years and just $100,000 in total revenue, Stone shut down the company at the end of 2018 — a reminder that even in enterprise software, the person who signs the check is not always the person who decides if the product lives or dies.",
+  "founded": "2016",
+  "shutdown": "2018",
+  "funding_raised": "$3M",
+  "funding_stage": "seed",
+  "employee_count": 6,
+  "category": "market",
+  "tags": [
+    "hr-tech",
+    "hiring",
+    "recruitment",
+    "enterprise",
+    "predictive-analytics"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.failory.com/interview/ansaro",
+      "title": "After 2 years, $3M raised & a team of 6, we had to shut down — Failory founder interview",
+      "date": "2023-01-01",
+      "snapshot_path": "data/snapshots/ansaro/www.failory.com_interview_ansaro.html"
+    },
+    {
+      "url": "https://www.failory.com/startups/artificial-intelligence-failures",
+      "title": "7 Failed AI Startups & Analyses on Why they Failed — Failory",
+      "date": "2023-01-01",
+      "snapshot_path": "data/snapshots/ansaro/www.failory.com_startups_artificial-intelligence-failures.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}

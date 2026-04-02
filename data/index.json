@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-02T00:08:00.662305+00:00",
-  "count": 66,
+  "generated_at": "2026-04-02T14:37:47.796422+00:00",
+  "count": 77,
   "startups": [
     {
       "name": "Yupp.ai",
@@ -92,6 +92,17 @@
       "confidence": "high"
     },
     {
+      "name": "K-Scale Labs",
+      "slug": "k-scale-labs",
+      "tagline": "Open-source humanoid robotics startup building affordable K-Bot robots",
+      "founded": "2024",
+      "shutdown": "2025-11",
+      "category": "funding",
+      "funding_raised": "$4.5M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Yara AI",
       "slug": "yara-ai",
       "tagline": "AI-powered mental health therapy app",
@@ -112,6 +123,17 @@
       "funding_raised": "Unknown",
       "status": "published",
       "confidence": "medium"
+    },
+    {
+      "name": "theGist",
+      "slug": "thegist",
+      "tagline": "AI-powered workplace productivity tool that summarized Slack, email, and CRM",
+      "founded": "2022",
+      "shutdown": "2025-09",
+      "category": "market",
+      "funding_raised": "$7M",
+      "status": "published",
+      "confidence": "high"
     },
     {
       "name": "Appetite",
@@ -169,6 +191,17 @@
       "confidence": "medium"
     },
     {
+      "name": "Pesto AI",
+      "slug": "pesto-ai",
+      "tagline": "AI-powered remote developer recruiting platform",
+      "founded": "2017",
+      "shutdown": "2025-06",
+      "category": "acqui-hired",
+      "funding_raised": "$8M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Woebot Health",
       "slug": "woebot-health",
       "tagline": "AI-powered CBT therapy chatbot for mental health",
@@ -187,6 +220,17 @@
       "shutdown": "2025-05",
       "category": "other",
       "funding_raised": "$445M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Noogata",
+      "slug": "noogata",
+      "tagline": "AI-powered enterprise analytics platform for sales, marketing, and operations",
+      "founded": "2019",
+      "shutdown": "2025-05",
+      "category": "market",
+      "funding_raised": "$28M",
       "status": "published",
       "confidence": "high"
     },
@@ -257,6 +301,17 @@
       "confidence": "high"
     },
     {
+      "name": "Rain AI",
+      "slug": "rain-ai",
+      "tagline": "Neuromorphic AI chip startup backed by Sam Altman",
+      "founded": "2017",
+      "shutdown": "2025",
+      "category": "technical",
+      "funding_raised": "$25M",
+      "status": "unverified",
+      "confidence": "low"
+    },
+    {
       "name": "Ryze",
       "slug": "ryze-ai",
       "tagline": "AI tool for managing Google and Meta advertising campaigns",
@@ -308,6 +363,17 @@
       "shutdown": "2024-12",
       "category": "funding",
       "funding_raised": "$113M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Cruise",
+      "slug": "cruise",
+      "tagline": "GM-backed autonomous robotaxi service shut down after $10B+ investment and safety scandal",
+      "founded": "2013-10",
+      "shutdown": "2024-12",
+      "category": "technical",
+      "funding_raised": "$10B+",
       "status": "published",
       "confidence": "high"
     },
@@ -396,7 +462,7 @@
       "shutdown": "2024-06",
       "category": "platform-absorbed",
       "funding_raised": "$2.1M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high"
     },
     {
@@ -477,6 +543,17 @@
       "confidence": "high"
     },
     {
+      "name": "TuSimple",
+      "slug": "tusimple",
+      "tagline": "Autonomous trucking company that collapsed amid espionage scandal and pivoted to AI gaming",
+      "founded": "2015-09",
+      "shutdown": "2024-01",
+      "category": "regulatory",
+      "funding_raised": "$1.8B+",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Articoolo",
       "slug": "articoolo",
       "tagline": "AI article generator — 'the robot writer with content for brains'",
@@ -506,7 +583,7 @@
       "shutdown": "2024",
       "category": "platform-absorbed",
       "funding_raised": "$125M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high"
     },
     {
@@ -572,6 +649,17 @@
       "shutdown": "2022-11",
       "category": "platform-absorbed",
       "funding_raised": "$17M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Argo AI",
+      "slug": "argo-ai",
+      "tagline": "Ford and VW-backed autonomous driving startup that shut down after $3.6B investment",
+      "founded": "2016-11",
+      "shutdown": "2022-10",
+      "category": "funding",
+      "funding_raised": "$3.6B",
       "status": "published",
       "confidence": "high"
     },
@@ -653,6 +741,17 @@
       "confidence": "high"
     },
     {
+      "name": "Starsky Robotics",
+      "slug": "starsky-robotics",
+      "tagline": "Autonomous trucking startup that combined highway self-driving with remote teleoperation",
+      "founded": "2016",
+      "shutdown": "2020-03",
+      "category": "funding",
+      "funding_raised": "$21.5M",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
       "name": "Cxense",
       "slug": "cxense",
       "tagline": "AI-powered real-time content personalization and data management",
@@ -660,6 +759,17 @@
       "shutdown": "2019-10",
       "category": "platform-absorbed",
       "funding_raised": "Publicly traded",
+      "status": "published",
+      "confidence": "high"
+    },
+    {
+      "name": "Anki",
+      "slug": "anki",
+      "tagline": "AI-powered consumer robotics company behind Cozmo and Vector robots",
+      "founded": "2010",
+      "shutdown": "2019-04",
+      "category": "funding",
+      "funding_raised": "$182.5M",
       "status": "published",
       "confidence": "high"
     },
@@ -684,6 +794,17 @@
       "funding_raised": "€5.1M",
       "status": "published",
       "confidence": "medium"
+    },
+    {
+      "name": "Ansaro",
+      "slug": "ansaro",
+      "tagline": "AI-powered hiring platform that used predictive analytics to improve interview quality",
+      "founded": "2016",
+      "shutdown": "2018",
+      "category": "market",
+      "funding_raised": "$3M",
+      "status": "published",
+      "confidence": "high"
     },
     {
       "name": "Spektral",
@@ -726,7 +847,7 @@
       "shutdown": "",
       "category": "market",
       "funding_raised": "$30M",
-      "status": "unverified",
+      "status": "rejected",
       "confidence": "low"
     }
   ]

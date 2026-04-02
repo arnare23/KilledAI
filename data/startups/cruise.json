@@ -1,0 +1,53 @@
+{
+  "name": "Cruise",
+  "slug": "cruise",
+  "tagline": "GM-backed autonomous robotaxi service shut down after $10B+ investment and safety scandal",
+  "description": "Cruise, founded in 2013 by Kyle Vogt and Dan Kan, was acquired by GM in 2016 and grew into a 3,800-employee robotaxi operation valued at $30B with over $10B in cumulative investment. In October 2023, a Cruise robotaxi struck and dragged a pedestrian 20 feet in San Francisco, triggering permit suspensions, a $1.5M NHTSA fine, and CEO Vogt's resignation after the company failed to fully disclose the incident to regulators. GM spent $12.1B total before pulling the plug in December 2024, folding autonomous technology into its driver-assistance systems division.",
+  "story": "Cruise was the crown jewel of GM's autonomous future. Founded in 2013 and acquired by GM in 2016, the San Francisco-based robotaxi company attracted investments from SoftBank, Honda, Microsoft, and T. Rowe Price, reaching a $30 billion valuation and employing 3,800 people. GM poured over $12 billion into the venture. Then came the night of October 2, 2023. A Cruise robotaxi struck a pedestrian who had been hit by another car, then dragged her 20 feet before stopping. What followed was worse than the accident itself — Cruise showed regulators an edited video that omitted the dragging, triggering a cover-up scandal that led to CEO Kyle Vogt's resignation, a $1.5 million NHTSA fine, and California suspending Cruise's driverless permit. An internal investigation revealed a culture of poor leadership and inadequate safety reporting. GM tried to salvage the operation, but by December 2024 it pulled the plug entirely, folding whatever autonomous technology remained into its driver-assistance division. The most expensive robotaxi bet in history ended not with a technical failure, but a moral one.",
+  "founded": "2013-10",
+  "shutdown": "2024-12",
+  "funding_raised": "$10B+",
+  "funding_stage": "late-stage",
+  "employee_count": 3800,
+  "category": "technical",
+  "tags": [
+    "autonomous-vehicles",
+    "robotaxis",
+    "self-driving",
+    "hardware",
+    "general-motors",
+    "safety-scandal"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html",
+      "title": "GM exits robotaxi market, will bring Cruise operations in house",
+      "date": "2024-12-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.npr.org/2024/12/11/g-s1-37700/gm-to-retreat-from-robotaxis-and-stop-funding-its-cruise-autonomous-vehicle-unit",
+      "title": "GM to retreat from robotaxis and stop funding its Cruise autonomous vehicle unit",
+      "date": "2024-12-11",
+      "snapshot_path": "data/snapshots/cruise/www.npr.org_2024_12_11_g-s1-37700_gm-to-retreat-from-robotaxis-and-stop-funding-its-cruise-autonomous-vehicle-unit.html"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/01/25/gm-cruise-probe-finds-poor-leadership-at-center-of-incident-response.html",
+      "title": "Probe into GM's Cruise finds poor leadership, culture issues at center of accident response",
+      "date": "2024-01-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)",
+      "title": "Cruise (autonomous vehicle) - Wikipedia",
+      "date": "2024-12-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}

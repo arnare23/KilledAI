@@ -18,8 +18,9 @@
       "snapshot_path": null
     }
   ],
-  "status": "published",
+  "status": "rejected",
+  "rejection_reason": "Company is still operating as of 2026 with 100,000+ paid enterprise users. Revenue declined but Jasper has not shut down.",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-01T22:00:00Z"
+  "updated_at": "2026-04-02T00:00:00Z"
 }

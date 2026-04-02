@@ -1,0 +1,53 @@
+{
+  "name": "Starsky Robotics",
+  "slug": "starsky-robotics",
+  "tagline": "Autonomous trucking startup that combined highway self-driving with remote teleoperation",
+  "description": "Founded in 2016 by Stefan Seltz-Axmacher and Kartik Tiwari, Starsky Robotics raised $21.5M to build autonomous trucks that used remote human teleoperation for complex maneuvers. The company completed the first fully unmanned truck run on a public highway in 2019, but shut down in early 2020 after its $20M Series B fell through amid declining investor enthusiasm for autonomous vehicle technology and a trucking industry recession.",
+  "story": "Starsky Robotics had a thesis that was equal parts pragmatic and audacious: autonomous trucks didn't need to handle every scenario if a remote human operator could take over for the hard parts. Founded in 2016 by Stefan Seltz-Axmacher and Kartik Tiwari, the company raised $21.5 million and built a hybrid system combining highway self-driving with teleoperation for exits, loading docks, and tricky maneuvers. In June 2019, Starsky pulled off a genuine milestone — the first fully unmanned truck run on a public highway, with no safety driver in the cab. But milestones don't pay bills. A trucking industry recession crushed freight rates, and investor appetite for autonomous vehicles was cooling after years of overblown timelines from the sector's biggest players. When Starsky's $20 million Series B fell through in early 2020, the 30-person team had no runway left. Seltz-Axmacher published a remarkably candid postmortem, arguing that the entire autonomous vehicle industry had a 'supervised learning problem' — the technology was perpetually almost-good-enough, and investors had grown tired of waiting.",
+  "founded": "2016",
+  "shutdown": "2020-03",
+  "funding_raised": "$21.5M",
+  "funding_stage": "series-a",
+  "employee_count": 30,
+  "category": "funding",
+  "tags": [
+    "autonomous-vehicles",
+    "trucking",
+    "self-driving",
+    "teleoperation",
+    "logistics",
+    "y-combinator"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5",
+      "title": "The End of Starsky Robotics — Founder postmortem by Stefan Seltz-Axmacher",
+      "date": "2020-03-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/self-driving-truck-startup-starsky-robotics-shuts-down-after-series-b-falls-through/",
+      "title": "Self-Driving Truck Startup Starsky Robotics Shuts Down After Series B Falls Through",
+      "date": "2020-03-20",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.freightwaves.com/news/starsky-robotics-ends-remote-truck-experiment-shuts-down-operations",
+      "title": "Starsky Robotics ends remote truck experiment, shuts down operations",
+      "date": "2020-03-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Starsky_Robotics",
+      "title": "Starsky Robotics — Wikipedia",
+      "date": "2020-03-19",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "created_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-02T00:00:00Z"
+}
