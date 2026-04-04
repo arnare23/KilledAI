@@ -1,0 +1,48 @@
+{
+  "name": "Kintsugi",
+  "slug": "kintsugi",
+  "tagline": "AI voice biomarker platform for detecting depression and anxiety",
+  "description": "Kintsugi used AI to detect signs of depression and anxiety from short clips of human speech. The Berkeley-based startup raised $30M and spent seven years building voice biomarker technology, but never secured FDA clearance and ran out of runway.",
+  "story": "Kintsugi was founded in 2019 by technologist Grace Chang and machine learning scientist Rima Seiilova-Olson with an ambitious goal: detect depression and anxiety from just 20 seconds of free-form speech using AI voice biomarkers. The technology showed real promise -- Kintsugi's voice AI detected depression in 33% of screened patients where standard questionnaires found only 3%. The company raised $8M in seed funding in 2021, followed by a $20M Series A in 2022 led by Insight Partners, bringing total capital to roughly $30M. But Kintsugi's fate hinged on FDA clearance. The company spent nearly four years navigating the FDA's De Novo clearance process for its KiVA (Kintsugi Voice Biomarker API) product, never crossing the finish line. As the regulatory wait dragged on, the startup burned through its funding with no clear timeline for approval. By early 2026, leadership made the decision to shut down commercial operations rather than continue down an uncertain path. In a final act of generosity, Kintsugi open-sourced its entire technology stack, scientific methodologies, and research -- effectively donating $30M worth of R&D to the global mental health community. The company's voice biomarker models may yet find a second life in areas beyond healthcare, including deepfake audio detection.",
+  "founded": "2019",
+  "shutdown": "2026-02",
+  "funding_raised": "$30M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "regulatory",
+  "tags": [
+    "health-ai",
+    "mental-health",
+    "voice-biomarker",
+    "fda",
+    "open-sourced"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://bhbusiness.com/2026/02/11/mental-health-voice-biomarker-kintsugi-closes-makes-all-technology-and-research-public/",
+      "title": "Mental Health Voice Biomarker Kintsugi Closes, Makes All Technology and Research Public",
+      "date": "2026-02-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.healthcareitnews.com/news/kintsugi-releases-voice-biomarker-ai-public",
+      "title": "Kintsugi releases voice biomarker AI to the public",
+      "date": "2026-02-11",
+      "snapshot_path": "data/snapshots/kintsugi/www.healthcareitnews.com_news_kintsugi-releases-voice-biomarker-ai-public.html"
+    },
+    {
+      "url": "https://endpoints.news/why-clinical-ai-startup-kintsugi-shut-down/",
+      "title": "Why clinical AI startup Kintsugi shut down",
+      "date": "2026-04-02",
+      "snapshot_path": "data/snapshots/kintsugi/endpoints.news_why-clinical-ai-startup-kintsugi-shut-down_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$30M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

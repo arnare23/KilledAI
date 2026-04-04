@@ -1,0 +1,42 @@
+{
+  "name": "NeuroPixel.AI",
+  "slug": "neuropixel-ai",
+  "tagline": "AI-powered virtual try-on and fashion e-commerce tools",
+  "description": "NeuroPixel.AI built generative AI solutions for fashion e-commerce including virtual try-ons, synthetic model generation, and cataloguing tools. It shut down in April 2026 after losing a major client and facing competition from big tech's image generation models.",
+  "story": "Founded in 2020 in Bengaluru by Amritendu Mukherjee and backed by Flipkart Ventures, NeuroPixel.AI spent six years building AI-powered tools for fashion e-commerce. The company offered virtual try-on experiences, synthetic model generation for product photography, and automated cataloguing tools that helped fashion brands create product imagery without expensive photo shoots. NeuroPixel.AI had raised around $1.2 million from investors including Flipkart Ventures, Inflection Point Ventures, and Entrepreneur First. But the ground shifted beneath them when large tech players entered the space. Google's launch of powerful image generation models made NeuroPixel's proprietary technology far less differentiated. While the startup claimed comparable output quality at lower cost, it could not compete on distribution and scale against well-resourced incumbents. The final blow came when a major client left the company unpaid for over six months, creating severe financial strain. Founder Nair cited generative AI disruption from big tech as the core reason for shutdown, noting that what once gave them an edge had been commoditized. The company plans to explore monetizing its technology stack, but service operations have been shuttered entirely.",
+  "founded": "2020",
+  "shutdown": "2026-04",
+  "funding_raised": "$1.2M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "platform-absorbed",
+  "tags": [
+    "fashion",
+    "e-commerce",
+    "virtual-try-on",
+    "computer-vision",
+    "india"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/flipkart-backed-neuropixel-ai-shuts-down/",
+      "title": "Flipkart-Backed NeuroPixel.AI Shuts Down",
+      "date": "2026-04-02",
+      "snapshot_path": "data/snapshots/neuropixel-ai/inc42.com_buzz_flipkart-backed-neuropixel-ai-shuts-down_.html"
+    },
+    {
+      "url": "https://www.businesstoday.in/technology/story/flipkart-backed-neuropixelai-to-shut-operations-founder-cites-gen-ai-disruption-523937-2026-04-03",
+      "title": "Flipkart backed NeuroPixel.AI to shut operations, founder cites Gen AI disruption",
+      "date": "2026-04-03",
+      "snapshot_path": "data/snapshots/neuropixel-ai/www.businesstoday.in_technology_story_flipkart-backed-neuropixelai-to-shut-operations-founder-cites-gen-ai-disruption-523937-2026-04-03.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 72,
+  "total_loss": "$1.2M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

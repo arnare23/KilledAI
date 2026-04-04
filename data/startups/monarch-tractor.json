@@ -1,0 +1,48 @@
+{
+  "name": "Monarch Tractor",
+  "slug": "monarch-tractor",
+  "tagline": "AI-powered autonomous electric tractor for agriculture",
+  "description": "Monarch Tractor built electric autonomous tractors for farming, promising AI-driven precision agriculture. After raising $240M and reaching a $518M valuation, the company laid off its entire workforce and vacated its headquarters in early 2026.",
+  "story": "Founded in 2018 in Livermore, California, Monarch Tractor set out to revolutionize agriculture with AI-powered autonomous electric tractors. The company raised over $240 million in venture capital and was valued at $518 million. Its tractors promised autonomous row-following, precision spraying, and data-driven farming insights. But the reality fell short of the hype. Early adopter Patrick O'Connor, a California winemaker who tested the machines for three years, called them 'totally failed' and 'actually quite dangerous,' describing the investment as 'a $200 million log splitter.' In late 2025, several tractor dealerships sued Monarch for selling defective tractors and making misleading claims about their autonomy capabilities. An Idaho dealership alleged that $773,000 worth of 'autonomous' tractors could not operate without human drivers. In November 2025, Monarch filed a WARN Act notice for 89 layoffs and warned its 102 remaining employees that the company might shut down entirely. By early 2026, the company had laid off its entire workforce, auctioned its R&D equipment, and vacated its Livermore headquarters. The building was subsequently listed for lease, signaling the end of one of ag-tech's most ambitious AI ventures.",
+  "founded": "2018",
+  "shutdown": "2026-03",
+  "funding_raised": "$240M",
+  "funding_stage": "series-c",
+  "employee_count": 300,
+  "category": "technical",
+  "tags": [
+    "agriculture",
+    "autonomous",
+    "electric-vehicle",
+    "robotics",
+    "hardware"
+  ],
+  "url": "https://www.monarchtractor.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/",
+      "title": "Monarch Tractor preps for layoffs and warns employees it may shut down",
+      "date": "2025-11-19",
+      "snapshot_path": "data/snapshots/monarch-tractor/techcrunch.com_2025_11_19_monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down_.html"
+    },
+    {
+      "url": "https://nationaltoday.com/us/ca/livermore/news/2026/04/03/ai-powered-tractor-startup-shutters-after-burning-through-240m/",
+      "title": "AI-Powered Tractor Startup Shutters After Burning Through $240M",
+      "date": "2026-04-03",
+      "snapshot_path": "data/snapshots/monarch-tractor/nationaltoday.com_us_ca_livermore_news_2026_04_03_ai-powered-tractor-startup-shutters-after-burning-through-240m_.html"
+    },
+    {
+      "url": "https://futurism.com/robots-and-machines/ai-tractor-startup-founders",
+      "title": "AI-Powered Tractor Startup Burns Through a Quarter Billion Dollars",
+      "date": "2026-04-02",
+      "snapshot_path": "data/snapshots/monarch-tractor/futurism.com_robots-and-machines_ai-tractor-startup-founders.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "$240M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

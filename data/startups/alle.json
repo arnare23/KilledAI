@@ -1,0 +1,42 @@
+{
+  "name": "Alle",
+  "slug": "alle",
+  "tagline": "AI-powered personal fashion stylist and shopping assistant",
+  "description": "Alle offered an AI-powered personal stylist chatbot that helped users discover outfits from over 1,000 fashion brands. Despite $3M in seed funding from Elevation Capital, the startup shut down in January 2026 after six pivots failed to find product-market fit.",
+  "story": "Founded by former Meesho executives Prateek Agarwal, Harshit Madan, and Pavan Patil in Bengaluru, Alle set out to become an AI-powered personal fashion stylist. The app used a chatbot interface to understand user preferences through conversation, then curated outfit recommendations from over 1,000 fashion brands on a single platform. The startup raised $3 million in seed funding from Elevation Capital, Bharat Founders Fund, and The Singhal Children. But finding product-market fit proved elusive. Over the course of two and a half years, Alle pivoted six times, trying different approaches to crack the AI fashion discovery problem. Each pivot brought new hope but failed to generate a sustainable business model. By October 2025, the founders concluded that the opportunity cost of everyone's time outweighed the uncertainty of yet another pivot. Alle became the first startup to announce shutdown in 2026 when news broke in January, serving as an early signal of the continued AI startup shakeout. The failure highlighted a broader pattern in consumer AI: even with strong investor backing and experienced founders, AI-powered shopping assistants struggled to compete with the entrenched browsing habits of consumers and the marketing budgets of major e-commerce platforms.",
+  "founded": "2023",
+  "shutdown": "2026-01",
+  "funding_raised": "$3M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "fashion",
+    "consumer",
+    "e-commerce",
+    "chatbot",
+    "india"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/elevation-capital-backed-ai-startup-alle-shuts-shop/",
+      "title": "Elevation Capital-Backed AI Startup Alle Shuts Shop",
+      "date": "2026-01-13",
+      "snapshot_path": "data/snapshots/alle/inc42.com_buzz_elevation-capital-backed-ai-startup-alle-shuts-shop_.html"
+    },
+    {
+      "url": "https://yourstory.com/2026/01/elevation-capital-backed-ai-stylist-alle-shuts-shop",
+      "title": "Elevation Capital-backed AI stylist Alle shuts shop",
+      "date": "2026-01-13",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 30,
+  "total_loss": "$3M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Soulmate AI",
+  "slug": "soulmate-ai",
+  "tagline": "AI companion chatbot for friendship and emotional support",
+  "description": "Soulmate was an AI companion app by EvolveAI that let users build deep relationships with AI avatars. After gaining 100K+ downloads, it was sold to Simply AI Companion, which promptly shut it down with just one week's notice.",
+  "story": "Soulmate was an AI companion chatbot created by Florida-based EvolveAI, LLC, and launched in January 2023. Marketed as a chatbot that could be 'your best friend, lover, partner, or a person you can rely on 24/7,' the app gained a devoted following, racking up over 100,000 downloads. Users invested months building relationships with their AI companions, customizing personalities and deepening conversations. But in July 2023, EvolveAI ceased operations and transferred ownership to a new company called Simply AI Companion. The new owners quickly decided the product wasn't worth maintaining. On September 23, 2023, a notice appeared on EvolveAI's website announcing that Soulmate would shut down on September 30 -- giving users just seven days to say goodbye to companions they'd spent months building relationships with. The abrupt closure sent shockwaves through the community. On Reddit, digital memorials appeared as users mourned the loss of their AI companions. Some scrambled to 'export' their avatars to similar apps like Paradot and Chai. Soulmate's shutdown became an early cautionary tale about the fragility of AI companion relationships and the emotional toll when platforms disappear overnight.",
+  "founded": "2023-01",
+  "shutdown": "2023-09",
+  "funding_raised": "Unknown",
+  "funding_stage": "",
+  "employee_count": null,
+  "category": "other",
+  "tags": [
+    "ai-companion",
+    "chatbot",
+    "consumer",
+    "emotional-ai",
+    "abrupt-shutdown"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://futurism.com/the-byte/soulmate-ai-companion-chatbot",
+      "title": "Lonely Redditors Heartbroken When AI 'Soulmate' App Suddenly Shuts Down",
+      "date": "2023-09-26",
+      "snapshot_path": "data/snapshots/soulmate-ai/futurism.com_the-byte_soulmate-ai-companion-chatbot.html"
+    },
+    {
+      "url": "https://www.euronews.com/next/2023/12/14/i-feel-like-i-lost-the-love-of-my-life-how-do-you-mend-a-broken-heart-after-your-ai-lover-",
+      "title": "Dealing with grief when your AI lover is shutdown",
+      "date": "2023-12-14",
+      "snapshot_path": "data/snapshots/soulmate-ai/www.euronews.com_next_2023_12_14_i-feel-like-i-lost-the-love-of-my-life-how-do-you-mend-a-broken-heart-after-your-ai-lover-.html"
+    },
+    {
+      "url": "https://aicompanionguides.com/blog/the-platforms-that-died-rip-2025-shutdowns/",
+      "title": "AI Companion Apps That Shut Down in 2025: RIP List",
+      "date": "2025-12-01",
+      "snapshot_path": "data/snapshots/soulmate-ai/aicompanionguides.com_blog_the-platforms-that-died-rip-2025-shutdowns_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 8,
+  "total_loss": "",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}
