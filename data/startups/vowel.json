@@ -1,0 +1,42 @@
+{
+  "name": "Vowel",
+  "slug": "vowel",
+  "tagline": "AI-powered video meeting platform with real-time transcription and collaboration",
+  "description": "Vowel built an AI-powered video conferencing platform that offered real-time transcription, searchable meeting archives, and collaborative features designed to make meetings more productive.",
+  "story": "Vowel launched as an AI-powered video meeting platform that aimed to fix the problems with remote meetings by offering real-time transcription, searchable meeting archives, and collaborative note-taking. The product received positive user feedback and the company raised $17.8 million in funding, including a $13.5 million Series A in 2021. Despite the promising product, Vowel struggled to compete in the crowded video meeting space dominated by Zoom, Google Meet, and Microsoft Teams. The company's downfall came suddenly in mid-2023 when a venture capital firm backed out of a signed term sheet for a new funding round. Without the expected capital infusion, Vowel could not sustain operations. In July 2023, the company announced it was shutting down, giving users until July 5 to download their data. Services were fully sunsetted by December 27, 2023. In March 2024, Zapier acquired the Vowel team, with CEO Andrew Berman becoming Director of AI at Zapier. The team's expertise was channeled into building Zapier Central, an AI workspace product.",
+  "founded": "2020",
+  "shutdown": "2023-07",
+  "funding_raised": "$17.8M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "video-meetings",
+    "transcription",
+    "remote-work",
+    "collaboration",
+    "acqui-hired-zapier"
+  ],
+  "url": "https://vowel.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2021/09/07/virtual-meeting-platform-vowel-raises-13-5m-aims-to-cure-meeting-fatigue/",
+      "title": "Virtual meeting platform Vowel raises $13.5M",
+      "date": "2021-09-07",
+      "snapshot_path": "data/snapshots/vowel/techcrunch.com_2021_09_07_virtual-meeting-platform-vowel-raises-13-5m-aims-to-cure-meeting-fatigue_.html"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/zapier-leads-the-evolution-of-ai-automation-with-acquisition-of-vowel-and-launch-of-zapier-central-302081740.html",
+      "title": "Zapier acquires Vowel team and launches Zapier Central",
+      "date": "2024-03-06",
+      "snapshot_path": "data/snapshots/vowel/www.prnewswire.com_news-releases_zapier-leads-the-evolution-of-ai-automation-with-acquisition-of-vowel-and-launch-of-zapier-central-302081740.html.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 36,
+  "total_loss": "$17.8M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Visual Electric",
+  "slug": "visual-electric",
+  "tagline": "AI-powered image generation tool for designers on an infinite canvas",
+  "description": "Visual Electric built an AI image generation tool aimed at designers, letting users create and edit images on an infinite canvas. The startup was backed by Sequoia but was acqui-hired by Perplexity in 2025, with the product shut down.",
+  "story": "Visual Electric was founded in 2022 by Colin Dunn, a former Facebook and Dropbox employee, Adam Menges, a former Apple employee, and Zach Stiggelbout, a former Microsoft engineer. The tool targeted designers specifically, offering AI image generation on an infinite canvas where users could create, iterate, and apply edits to images. The startup raised $2.5 million in funding from Sequoia, BoxGroup, and Designer Fund. Despite the pedigree of its investors and founders, Visual Electric struggled to differentiate itself in an increasingly crowded AI image generation market dominated by Midjourney, DALL-E, and Stable Diffusion. In October 2025, Perplexity acqui-hired the Visual Electric team. As part of the deal, the Visual Electric product was shut down within 90 days, with users given the ability to export their data and subscribers receiving prorated refunds. The team was redirected to lead a new Agent Experiences group at Perplexity, shifting the company's focus from answer engine to action engine.",
+  "founded": "2022",
+  "shutdown": "2025-10",
+  "funding_raised": "$2.5M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "image-generation",
+    "design-tools",
+    "generative-ai",
+    "sequoia-backed",
+    "perplexity-acquisition"
+  ],
+  "url": "https://visualelectric.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/",
+      "title": "Perplexity acquires the team behind Sequoia-backed AI design startup Visual Electric",
+      "date": "2025-10-02",
+      "snapshot_path": "data/snapshots/visual-electric/techcrunch.com_2025_10_02_perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric_.html"
+    },
+    {
+      "url": "https://www.indexbox.io/blog/visual-electric-joins-perplexity-will-shut-down-product/",
+      "title": "Visual Electric Joins Perplexity, Will Shut Down Product",
+      "date": "2025-10-02",
+      "snapshot_path": "data/snapshots/visual-electric/www.indexbox.io_blog_visual-electric-joins-perplexity-will-shut-down-product_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 36,
+  "total_loss": "$2.5M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

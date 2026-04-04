@@ -1,0 +1,54 @@
+{
+  "name": "Embodied (Moxie)",
+  "slug": "embodied-moxie",
+  "tagline": "AI-powered social robot companion for children",
+  "description": "Embodied built Moxie, a cloud-connected AI robot designed to help children develop social and emotional skills through conversation, games, and storytelling.",
+  "story": "Embodied was founded in 2016 by Paolo Pirjanian, a former CTO at iRobot, with the ambition of building emotionally intelligent robots for children. The company's flagship product, Moxie, was a tabletop robot that used conversational AI to engage kids in activities designed to build social-emotional skills — telling jokes, playing games, discussing feelings, and guiding mindfulness exercises. Moxie won the Best of CES award in 2024 and earned FERPA privacy certification. But in December 2024, Embodied abruptly announced it was shutting down after failing to close a critical funding round. Because Moxie relied entirely on cloud-based AI processing, every robot became a brick when the servers went offline — leaving parents who had paid $799 per device with no working product and no refund. The shutdown sparked outrage, with children forming emotional attachments to their Moxie robots only to watch them 'die.' A community effort called OpenMoxie attempted to revive basic functionality through open-source software, but the damage was done. Embodied had raised $86 million over seven rounds and still couldn't find a sustainable business model for AI-powered children's hardware.",
+  "founded": "2016",
+  "shutdown": "2024-12",
+  "funding_raised": "$86M",
+  "funding_stage": "series-b",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "robotics",
+    "children",
+    "consumer-hardware",
+    "ai-companion",
+    "edtech"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.axios.com/2024/12/10/moxie-kids-robot-shuts-down",
+      "title": "Maker of AI robots for kids abruptly shutters",
+      "date": "2024-12-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://aftermath.site/moxie-robot-ai-dying-llm-embodied/",
+      "title": "AI Company That Made Robots For Kids Goes Under, Robots Die",
+      "date": "2024-12-10",
+      "snapshot_path": "data/snapshots/embodied-moxie/aftermath.site_moxie-robot-ai-dying-llm-embodied_.html"
+    },
+    {
+      "url": "https://www.inc.com/kit-eaton/what-the-sudden-end-of-moxie-robot-toys-shows-systems-says-about-our-tech-dependence/91064156",
+      "title": "What the Sudden End of Moxie Robot Toys Says About Our Tech Dependence",
+      "date": "2024-12-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://gizmodo.com/moxies-799-robot-companion-for-children-is-going-to-die-2000536581",
+      "title": "Moxie's $799 Robot Companion for Children Is Going to Die",
+      "date": "2024-11-26",
+      "snapshot_path": "data/snapshots/embodied-moxie/gizmodo.com_moxies-799-robot-companion-for-children-is-going-to-die-2000536581.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "$86M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

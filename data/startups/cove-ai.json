@@ -1,0 +1,41 @@
+{
+  "name": "Cove",
+  "slug": "cove-ai",
+  "tagline": "AI-powered visual collaboration platform",
+  "description": "Cove was a Sequoia-backed AI collaboration tool built as an infinite whiteboard where AI could generate blocks for tasks like trip planning and brainstorming.",
+  "story": "Cove was founded in late 2023 by Stephen Chau, Andy Szybalski, and Mike Chu — all former Google Maps engineers who had worked on features like Street View. The startup raised $6 million in a seed round from Sequoia Capital, Elad Gil, Homebrew, and angel investors including Lenny Rachitsky. Cove's product was an infinite whiteboard where AI could generate different content blocks, offering more flexibility than a simple chat interface for creative and planning tasks. But just over two years after founding, Cove announced in March 2026 that the entire team was joining Microsoft and the product would shut down on April 1, 2026. Microsoft framed it as an acqui-hire to bolster its AI and collaboration divisions. Users were given a data export window and had all March subscriptions refunded. For Sequoia and other investors, the deal was likely a loss on their $6 million seed bet — the product never gained enough traction to become a standalone business before the team was absorbed into Microsoft's sprawling AI efforts.",
+  "founded": "2023",
+  "shutdown": "2026-04",
+  "funding_raised": "$6M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "collaboration",
+    "productivity",
+    "whiteboard",
+    "sequoia-backed"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "date": "2026-03-18",
+      "snapshot_path": "data/snapshots/cove-ai/techcrunch.com_2026_03_18_microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove_.html"
+    },
+    {
+      "url": "https://theaiinsider.tech/2026/03/19/cove-ai-collaboration-startup-team-joins-microsoft-as-product-shuts-down/",
+      "title": "Cove AI Collaboration Startup Team Joins Microsoft as Product Shuts Down",
+      "date": "2026-03-19",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 29,
+  "total_loss": "$6M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Sunshine",
+  "slug": "sunshine",
+  "tagline": "AI-powered contact management and photo sharing app by ex-Yahoo CEO Marissa Mayer",
+  "description": "Founded by former Yahoo CEO Marissa Mayer as Lumi Labs in 2018, Sunshine built AI-powered consumer apps for contact management and photo sharing, but never gained meaningful traction despite seven years of effort.",
+  "story": "Marissa Mayer, fresh off her tenure as Yahoo CEO, founded Lumi Labs in 2018 with fellow Yahoo and Google veteran Enrique Munoz Torres. The company rebranded to Sunshine in 2020 and launched its first product, Sunshine Contacts, an AI-powered contact management app that used machine learning to keep address books organized and up to date. But the launch was immediately overshadowed by privacy concerns after advocates flagged the app's practice of pulling home addresses from public databases to enrich contact lists. Sunshine never recovered from the initial skepticism. In 2024, the company pivoted again, adding event management features and an AI photo-sharing tool called Shine. The new offerings were widely criticized for outdated design and similarly failed to attract users. Despite raising $20 million in seed funding from investors including Felicis Ventures and Unusual Ventures, Sunshine could not find product-market fit across any of its multiple product iterations. In September 2025, Mayer announced the company would be dissolved, with 99% of shareholders approving the deal to sell assets to her new startup, Dazzle, an AI personal assistant company. Investors received 10% of Dazzle's equity as part of the wind-down.",
+  "founded": "2018",
+  "shutdown": "2025-09",
+  "funding_raised": "$20M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "consumer",
+    "contacts",
+    "photo-sharing",
+    "marissa-mayer",
+    "ai-wrapper"
+  ],
+  "url": "https://sunshine.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
+      "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+      "date": "2025-09-29",
+      "snapshot_path": "data/snapshots/sunshine/techcrunch.com_2025_09_29_marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup_.html"
+    },
+    {
+      "url": "https://techstartups.com/2025/10/02/sunshine-the-ai-startup-founded-by-ex-yahoo-ceo-marissa-mayer-shuts-down-after-7-turbulent-years/",
+      "title": "Sunshine shuts down after 7 turbulent years",
+      "date": "2025-10-02",
+      "snapshot_path": "data/snapshots/sunshine/techstartups.com_2025_10_02_sunshine-the-ai-startup-founded-by-ex-yahoo-ceo-marissa-mayer-shuts-down-after-7-turbulent-years_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$20M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}

@@ -2,12 +2,12 @@
   "name": "Rain AI",
   "slug": "rain-ai",
   "tagline": "Neuromorphic AI chip startup backed by Sam Altman",
-  "description": "",
+  "description": "Rain AI developed neuromorphic chips to process AI workloads more efficiently by mimicking human brain function. After its $150M Series B fell through in 2025, the company explored a sale but no acquisition or shutdown has been confirmed as of April 2026.",
   "story": "",
   "founded": "2017",
-  "shutdown": "2025",
+  "shutdown": "",
   "funding_raised": "$25M",
-  "funding_stage": "seed",
+  "funding_stage": "series-a",
   "employee_count": null,
   "category": "technical",
   "tags": [
@@ -16,7 +16,7 @@
     "neuromorphic",
     "deep-tech"
   ],
-  "url": "",
+  "url": "https://rain.ai",
   "sources": [
     {
       "url": "https://finance.yahoo.com/news/sam-altmans-150m-ai-chip-123106283.html",
@@ -33,10 +33,11 @@
       "status": "active"
     }
   ],
-  "status": "unverified",
-  "confidence": "medium",
+  "status": "rejected",
+  "rejection_reason": "Not a confirmed failure. Rain AI explored a sale in May 2025 after its $150M Series B collapsed, but as of April 2026 the company has not shut down, gone bankrupt, or been acquired. Website rain.ai is still live. OpenAI was reportedly interested in acquiring but did not complete any deal. The company is distressed but not dead.",
+  "confidence": "high",
   "created_at": "2026-04-02T00:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
-  "lifetime_months": 96,
-  "total_loss": "$25M"
+  "updated_at": "2026-04-04T00:00:00Z",
+  "lifetime_months": null,
+  "total_loss": ""
 }

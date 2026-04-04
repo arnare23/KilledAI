@@ -1,0 +1,42 @@
+{
+  "name": "Replica Studios",
+  "slug": "replica-studios",
+  "tagline": "AI voice generation platform for games and media",
+  "description": "Replica Studios built AI tools that let creators generate realistic voiceovers for games, films, e-learning, and animations, and pioneered ethical voice licensing with SAG-AFTRA.",
+  "story": "Replica Studios was founded in 2018 in Brisbane, Australia, with the mission of making high-quality voice acting accessible to indie creators and studios through AI-generated speech. The platform allowed developers, filmmakers, and educators to generate human-like voiceovers without traditional voice recording sessions. In 2023, Replica made headlines by signing a landmark agreement with SAG-AFTRA to license real actors' voices ethically and compensate them fairly — an unprecedented move in the AI voice space. Despite positive press coverage and adoption from indie studios and developers, Replica could never crack profitability. The company raised only $2.6 million in total funding and struggled to compete against well-funded rivals and the rapid commoditization of text-to-speech technology. In 2025, Replica announced it would cease operations on June 30, citing a competitive startup environment and an inability to reach profitability. The shutdown left users of its Unreal Engine plugin and API integrations scrambling for alternatives, and highlighted the brutal economics of the AI voice market where differentiation was increasingly difficult as every major tech company shipped similar capabilities.",
+  "founded": "2018",
+  "shutdown": "2025-06",
+  "funding_raised": "$2.6M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "voice-ai",
+    "text-to-speech",
+    "gaming",
+    "media",
+    "australia"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://multilingual.com/replica-studios-shutdown-2025/",
+      "title": "Replica Studios Is Shutting Down. What Does That Say About the Future of Voice AI?",
+      "date": "2025-06-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.replicastudios.com/",
+      "title": "Replica Studios – Farewell",
+      "date": "2025-06-30",
+      "snapshot_path": "data/snapshots/replica-studios/www.replicastudios.com_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$2.6M",
+  "created_at": "2026-04-04T00:00:00Z",
+  "updated_at": "2026-04-04T00:00:00Z"
+}
