@@ -1,0 +1,68 @@
+{
+  "name": "Play.ai",
+  "slug": "play-ai",
+  "tagline": "YC-backed voice AI platform acquired by Meta, then shut down with 40,000 users left stranded",
+  "description": "Play.ai (formerly PlayHT) was a Y Combinator-backed AI voice startup that built conversational voice models, text-to-speech, and voice cloning technology. Founded by Mahmoud Felfel and Hammad Syed, the platform served nearly 40,000 customers and reached eight-figure revenue before Meta acquired the team for its Superintelligence Labs division in July 2025. The standalone product was killed, with the API going offline weeks early and all user data permanently deleted by December 31, 2025.",
+  "story": "Play.ai started in 2021 as a humble Chrome extension that read Medium articles aloud. Founded by Mahmoud Felfel and Hammad Syed -- former software engineers at Dubai-based classifieds platform Dubizzle -- the company was born out of frustration with regional access to content. From that modest beginning in Mountain View, California, the pair built what would become one of the most capable voice AI platforms on the market. By the time they graduated from Y Combinator's Winter 2023 batch, PlayHT had evolved far beyond article narration into a full-stack voice generation platform offering text-to-speech in 600-plus voices across 50-plus languages, near-instant voice cloning from 30-second audio samples, and an API that developers could wire into everything from customer support bots to gaming NPCs.\n\nThe technology was genuinely impressive. PlayHT 2.0 Turbo generated speech in under 300 milliseconds with real-time streaming. Their Play Dialog model, trained on hundreds of millions of conversations, handled turn-taking, interruptions, and emotional modulation -- the hard problems that separate robotic voice bots from natural-sounding ones. In independent testing, seven out of ten participants preferred Play Dialog over competing state-of-the-art voice models. A $21 million seed round in late 2024, led by Kindred Ventures and 500 Global with backing from Race Capital, Soma Capital, and Pioneer Fund, gave them runway to scale. They onboarded nearly 40,000 customers and reached eight-figure revenue within a year. For a seed-stage startup, the trajectory was remarkable.\n\nBut building the best voice models on earth paints a target on your back. Meta, in the process of standing up its Superintelligence Labs division and racing to embed voice capabilities across its AI characters, Meta AI assistant, Ray-Ban smart glasses, and content creation tools, saw exactly what it needed in Play.ai's team and technology. After months of discussions, Meta announced the acquisition on July 11, 2025. The entire 35-person team, including both founders, would join Meta's Superintelligence Labs. The financial terms were never disclosed, but the speed of what followed told the story: this was a talent grab, not a product acquisition.\n\nThe API went dark on July 26, 2025 -- barely two weeks after the announcement and well ahead of the stated December 31 sunset date. Developers who had built products on Play.ai's infrastructure were left scrambling. By the time the full platform officially retired on New Year's Eve, all user accounts, saved audio files, voice clones, and API credentials had been permanently deleted. Forty thousand customers had to find new homes. Competitors moved fast: Cartesia, ElevenLabs, Murf AI, and Narration Box all launched migration guides and special offers to absorb the displaced user base.\n\nPlay.ai's story is a paradox common in the AI startup ecosystem: the company's technology was so good that it attracted the attention of a platform giant, and that attention killed the product. The founders got a soft landing at one of the world's most powerful AI labs. The investors got their exit. But the 40,000 customers who had bet their workflows on Play.ai's API learned the hard way that in the current AI landscape, even a well-funded, fast-growing startup with real revenue can vanish overnight when a bigger player decides it wants the team more than the product.",
+  "founded": "2021",
+  "shutdown": "2025-12",
+  "funding_raised": "$21M",
+  "funding_stage": "Seed",
+  "employee_count": 35,
+  "category": "acqui-hired",
+  "tags": [
+    "voice-ai",
+    "text-to-speech",
+    "voice-cloning",
+    "yc",
+    "meta-acquisition",
+    "conversational-ai",
+    "api-platform"
+  ],
+  "url": "https://play.ai/",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/",
+      "title": "Meta acquires voice startup Play AI | TechCrunch",
+      "date": "2025-07-13",
+      "snapshot_path": "data/snapshots/play-ai/techcrunch.com_2025_07_13_meta-acquires-voice-startup-play-ai_.html"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-07-11/meta-acquires-voice-ai-startup-playai-continuing-to-add-talent",
+      "title": "Meta Acquires Voice AI Startup PlayAI, Continuing to Add Talent - Bloomberg",
+      "date": "2025-07-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://kindredventures.com/announcement/playai-x-meta-superintelligence-lab/",
+      "title": "PlayAI x Meta Superintelligence Lab - Kindred Ventures",
+      "date": "2025-07-15",
+      "snapshot_path": "data/snapshots/play-ai/kindredventures.com_announcement_playai-x-meta-superintelligence-lab_.html"
+    },
+    {
+      "url": "https://siliconangle.com/2024/11/25/ai-voice-startup-playai-raises-21m-power-new-generation-humanlike-ai-agents/",
+      "title": "AI voice startup PlayAI raises $21M",
+      "date": "2024-11-25",
+      "snapshot_path": "data/snapshots/play-ai/siliconangle.com_2024_11_25_ai-voice-startup-playai-raises-21m-power-new-generation-humanlike-ai-agents_.html"
+    },
+    {
+      "url": "https://www.menabytes.com/meta-playai/",
+      "title": "Meta acquires PlayAI, a US-based voice AI startup led by Egyptian founder",
+      "date": "2025-07-13",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://elevenlabs.io/blog/playht-alternatives-2026",
+      "title": "Top 7 PlayHT Alternatives in 2026 | Best Replacements After Shutdown",
+      "date": "2026-01-15",
+      "snapshot_path": "data/snapshots/play-ai/elevenlabs.io_blog_playht-alternatives-2026.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 55,
+  "total_loss": "$21M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

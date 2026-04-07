@@ -1,0 +1,49 @@
+{
+  "name": "Fetch Robotics",
+  "slug": "fetch-robotics",
+  "tagline": "Autonomous mobile robot maker acquired by Zebra for $290M then wound down three years later",
+  "description": "Fetch Robotics built autonomous mobile robots for warehouse logistics, founded in 2014 by robotics pioneer Melonee Wise. Zebra Technologies acquired the company for $290 million in 2021, but the AMR business failed to scale to Zebra's expectations. In December 2025, Zebra announced it would dispose of or exit the robotics unit entirely, with most staff let go by year-end.",
+  "story": "Fetch Robotics was founded in 2014 by Melonee Wise, a respected figure in the robotics community who had helped build the open-source Robot Operating System (ROS). The company developed a range of autonomous mobile robots designed to move materials, assist pickers, and automate repetitive tasks in fulfillment centers. The robots were well-regarded, and in 2021, Zebra Technologies — a global provider of enterprise asset intelligence solutions — acquired Fetch for $290 million, betting that warehouse automation would be the next big growth vector. It wasn't, at least not fast enough. The AMR business never scaled to Zebra's expectations. Warehouse automation has long adoption cycles, and competing solutions flooded the market from startups and established players alike. In its December 2025 SEC filing, Zebra quietly announced it would 'dispose of or exit' its robotics automation solutions business unit. Most of the robotics staff were let go by the end of 2025, with about 25% retained until March 2026 to manage existing deployments. A company that had been built on genuine technical innovation and the open-source robotics ethos was shut down not because the technology didn't work, but because it couldn't generate returns fast enough for its corporate parent.",
+  "founded": "2014",
+  "shutdown": "2025-12",
+  "funding_raised": "$94M",
+  "funding_stage": "Series C",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "robotics",
+    "warehouse-automation",
+    "amr",
+    "autonomous-mobile-robots",
+    "zebra-technologies",
+    "logistics"
+  ],
+  "url": "https://fetchrobotics.com",
+  "sources": [
+    {
+      "url": "https://www.therobotreport.com/zebra-technologies-winding-down-fetch-based-mobile-robot-group/",
+      "title": "Zebra Technologies winding down Fetch-based mobile robot group",
+      "date": "2025-12-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.supplychain247.com/article/zebra-plans-exit-warehouse-robotics-fetch",
+      "title": "Zebra Plans Exit From Warehouse Robotics Business",
+      "date": "2025-12-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.robotics247.com/article/zebra_technologies_announces_plan_to_dispose_or_exit_robotics_automation_business_unit",
+      "title": "Zebra Technologies announces plan to 'dispose or exit' robotics automation business unit",
+      "date": "2025-12-12",
+      "snapshot_path": "data/snapshots/fetch-robotics/www.robotics247.com_article_zebra_technologies_announces_plan_to_dispose_or_exit_robotics_automation_business_unit.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 132,
+  "total_loss": "$290M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

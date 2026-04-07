@@ -1,0 +1,49 @@
+{
+  "name": "Guardian Agriculture",
+  "slug": "guardian-agriculture",
+  "tagline": "eVTOL drone startup for aerial crop spraying that folded after $52M and one paying customer",
+  "description": "Guardian Agriculture developed electric vertical take-off and landing (eVTOL) drones for large-scale farming, earning the first FAA commercial authorization for an eVTOL system in the U.S. Despite raising $51.7 million and achieving a genuine technical breakthrough, the company had just one paying customer when it ceased operations in August 2025 after a critical funding round fell through.",
+  "story": "Guardian Agriculture was founded in 2017 in Woburn, Massachusetts, with a bold vision: apply electric vertical take-off and landing technology to agriculture, replacing traditional crop dusting planes with autonomous drones. The technical achievements were real. In April 2023, Guardian's SC1 aircraft received FAA approval to operate nationwide, making it the first commercially authorized eVTOL system in the United States. By June 2025, the company had built eight units conducting trials on California farms. But building cutting-edge hardware and building a business turned out to be two very different things. Guardian raised $51.7 million across five funding rounds, yet the capital proved insufficient against the realities of hardware manufacturing, long adoption cycles in agriculture, and fierce competition from low-cost Chinese drones — particularly DJI models that already dominated the U.S. agricultural market at a fraction of the price. When the company needed more cash, there was none to be had. A critical funding round fell through in the summer of 2025, and Guardian didn't have enough on hand to keep employees working. By late August 2025, operations ceased. A startup with a genuine first-mover regulatory advantage and real technology died because it couldn't scale fast enough to outrun its burn rate.",
+  "founded": "2017",
+  "shutdown": "2025-08",
+  "funding_raised": "$52M",
+  "funding_stage": "Series B",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "agriculture",
+    "drones",
+    "evtol",
+    "hardware",
+    "robotics",
+    "faa-certified"
+  ],
+  "url": "https://guardian.ag",
+  "sources": [
+    {
+      "url": "https://www.therobotreport.com/drone-startup-guardian-agriculture-shuts-down/",
+      "title": "Drone startup Guardian Agriculture shuts down",
+      "date": "2025-09-18",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.agtechnavigator.com/Article/2025/09/29/what-went-wrong-at-guardian-agriculture/",
+      "title": "What went wrong at Guardian Agriculture?",
+      "date": "2025-09-29",
+      "snapshot_path": "data/snapshots/guardian-agriculture/www.agtechnavigator.com_Article_2025_09_29_what-went-wrong-at-guardian-agriculture_.html"
+    },
+    {
+      "url": "https://igrownews.com/guardian-agriculture-latest-news/",
+      "title": "Guardian Agriculture Shuts Down After Funding Shortfall",
+      "date": "2025-09-18",
+      "snapshot_path": "data/snapshots/guardian-agriculture/igrownews.com_guardian-agriculture-latest-news_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 100,
+  "total_loss": "$52M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

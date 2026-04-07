@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-07T12:32:03.363070+00:00",
-  "count": 110,
+  "generated_at": "2026-04-07T18:36:51.387381+00:00",
+  "count": 114,
   "startups": [
     {
       "name": "Cove",
@@ -58,6 +58,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "Sora",
+      "slug": "sora",
+      "tagline": "OpenAI's AI video generation app shut down after burning $1M/day with declining users",
+      "founded": "2024-02",
+      "shutdown": "2026-03",
+      "category": "pricing",
+      "funding_raised": "Unknown",
+      "lifetime_months": 25,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
     },
     {
       "name": "Yupp.ai",
@@ -172,6 +186,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Fetch Robotics",
+      "slug": "fetch-robotics",
+      "tagline": "Autonomous mobile robot maker acquired by Zebra for $290M then wound down three years later",
+      "founded": "2014",
+      "shutdown": "2025-12",
+      "category": "market",
+      "funding_raised": "$94M",
+      "lifetime_months": 132,
+      "total_loss": "$290M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
+    },
+    {
       "name": "iRobot",
       "slug": "irobot",
       "tagline": "Maker of Roomba robot vacuums, bankrupted after failed Amazon acquisition",
@@ -184,6 +212,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Play.ai",
+      "slug": "play-ai",
+      "tagline": "YC-backed voice AI platform acquired by Meta, then shut down with 40,000 users left stranded",
+      "founded": "2021",
+      "shutdown": "2025-12",
+      "category": "acqui-hired",
+      "funding_raised": "$21M",
+      "lifetime_months": 55,
+      "total_loss": "$21M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
     },
     {
       "name": "Rewind AI",
@@ -338,6 +380,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Guardian Agriculture",
+      "slug": "guardian-agriculture",
+      "tagline": "eVTOL drone startup for aerial crop spraying that folded after $52M and one paying customer",
+      "founded": "2017",
+      "shutdown": "2025-08",
+      "category": "funding",
+      "funding_raised": "$52M",
+      "lifetime_months": 100,
+      "total_loss": "$52M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
     },
     {
       "name": "Astra",
@@ -742,7 +798,7 @@
       "lifetime_months": 21,
       "total_loss": "",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
