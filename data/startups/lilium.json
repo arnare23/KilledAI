@@ -1,0 +1,56 @@
+{
+  "name": "Lilium",
+  "slug": "lilium",
+  "tagline": "Electric vertical takeoff air taxi startup",
+  "description": "Lilium raised over $1.5 billion to build a seven-seater electric air taxi, going public via SPAC in 2021 at a $3.3 billion valuation. The German startup filed for insolvency twice -- in October 2024 after burning through its cash, and again in February 2025 when a last-ditch rescue deal collapsed -- laying off 1,000 workers.",
+  "story": "Lilium was founded in 2015 by four engineers from the Technical University of Munich -- Daniel Wiegand, Sebastian Born, Matthias Meiner, and Patrick Nathen -- who believed electric vertical takeoff and landing aircraft could transform urban transportation. The company envisioned a network of small electric jets carrying passengers between cities at speeds above 180 miles per hour, bypassing ground traffic entirely. Backed by early investments from Atomico, Tencent, and other prominent firms, Lilium became one of Europe's most closely watched deep-tech startups.\n\nThe hype intensified when Lilium went public through a SPAC merger with Qell Acquisition Corp in September 2021, raising roughly $830 million at a valuation of $3.3 billion. The company had a working prototype, ambitious production timelines, and a vision that captured the imagination of investors and media alike. At its peak, Lilium employed over 1,000 people across its Munich headquarters and testing facilities, and held pre-orders from airlines and private operators.\n\nBut building aircraft is brutally capital-intensive, and Lilium's cash burn was relentless. The company spent hundreds of millions on research, development, and manufacturing infrastructure while generating zero revenue. Its stock price declined steadily from its post-SPAC highs as production milestones slipped and the path to certification stretched further into the future. By mid-2024, the company was burning through its remaining funds with no clear bridge to profitability. Requests for German government loan guarantees were denied, closing off a critical lifeline.\n\nIn October 2024, Lilium filed for insolvency in Germany, sending shockwaves through the eVTOL industry. A consortium led by a mobile infrastructure group offered a roughly 200-million-euro rescue package that briefly raised hopes of a restart. But the deal fell apart in February 2025, and Lilium filed for insolvency a second time. Operations ceased entirely. All 1,000 employees were laid off, and the company's assets were placed in administration.\n\nLilium's failure was not a story of fraudulent claims or vaporware technology -- the aircraft was real, and test flights had been conducted. The problem was simpler and more fundamental: the company needed billions more to reach certification and commercial operations, and the public and private markets lost patience before it got there. Over $1.5 billion in total funding was consumed, making Lilium one of the most expensive startup failures in European history and a cautionary tale about the gap between deep-tech ambition and the capital required to see it through.",
+  "founded": "2015",
+  "shutdown": "2025-02",
+  "funding_raised": "$1.5B+",
+  "funding_stage": "public",
+  "employee_count": 1000,
+  "category": "funding",
+  "tags": [
+    "evtol",
+    "autonomous-vehicles",
+    "aviation",
+    "germany",
+    "deeptech",
+    "hardware",
+    "spac"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/",
+      "title": "Electric aircraft startup Lilium ceases operations, 1,000 workers laid off",
+      "date": "2024-12-23",
+      "snapshot_path": "data/snapshots/lilium/techcrunch.com_2024_12_23_electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off_.html"
+    },
+    {
+      "url": "https://skift.com/2024/10/25/flying-taxi-startup-lilium-burned-through-1-billion-now-its-facing-bankruptcy/",
+      "title": "Flying Taxi Startup Lilium Burned Through $1 Billion. Now It's Facing Bankruptcy",
+      "date": "2024-10-25",
+      "snapshot_path": "data/snapshots/lilium/skift.com_2024_10_25_flying-taxi-startup-lilium-burned-through-1-billion-now-its-facing-bankruptcy_.html"
+    },
+    {
+      "url": "https://avitrader.com/2025/02/24/lilium-faces-second-bankruptcy-as-funding-deal-collapses/",
+      "title": "Lilium faces second bankruptcy as funding deal collapses",
+      "date": "2025-02-24",
+      "snapshot_path": "data/snapshots/lilium/avitrader.com_2025_02_24_lilium-faces-second-bankruptcy-as-funding-deal-collapses_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lilium_GmbH",
+      "title": "Lilium GmbH - Wikipedia",
+      "date": "2025-02-21",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 120,
+  "total_loss": "$1.5B+",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Prophesee",
+  "slug": "prophesee",
+  "tagline": "Neuromorphic AI vision chip startup mimicking the human eye",
+  "description": "Prophesee developed event-based neuromorphic computer vision sensors that mimicked the human eye and brain for AI applications. After raising €126M, the French deeptech company filed for insolvency in October 2024 when its next funding round took too long to close.",
+  "story": "",
+  "founded": "2014",
+  "shutdown": "2024-10",
+  "funding_raised": "$137M",
+  "funding_stage": "late",
+  "employee_count": null,
+  "category": "funding",
+  "tags": ["ai", "hardware", "computer-vision", "neuromorphic", "deeptech", "france", "chips"],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://sifted.eu/articles/startups-went-bust-2024",
+      "title": "RIP: The startups that went bust in 2024",
+      "date": "2024-12-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "http://image-sensors-world.blogspot.com/2025/01/prophesee-files-for-insolvency.html",
+      "title": "Prophesee files for insolvency",
+      "date": "2025-01-29",
+      "snapshot_path": null
+    }
+  ],
+  "status": "rejected",
+  "rejection_reason": "Not a confirmed failure. Prophesee entered judicial recovery in late 2024 due to a fundraising delay, but was rescued by core investors and new backing by end of 2025. The company is still operating as of 2026 with new CEO Jean Ferré, continuing product development (GenX320 Starter Kit). Not dead.",
+  "confidence": "high",
+  "lifetime_months": 120,
+  "total_loss": "$137M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

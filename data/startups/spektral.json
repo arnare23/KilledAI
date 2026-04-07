@@ -32,10 +32,11 @@
       "status": "active"
     }
   ],
-  "status": "published",
+  "status": "rejected",
+  "rejection_reason": "Acquired by Apple for $30M after raising only ~$3M — a ~10x return for investors. This was a successful exit, not a failure. Technology lives on in Apple's Portrait mode and ARKit.",
   "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 35,
   "total_loss": "Unknown"
 }

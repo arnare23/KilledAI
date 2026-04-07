@@ -25,10 +25,11 @@
       "status": "active"
     }
   ],
-  "status": "published",
+  "status": "rejected",
+  "rejection_reason": "Acquired by Nanox for up to $200M ($100M upfront + $100M milestones) after raising $53M — approximately 4x return for investors. Technology lives on as Nanox.AI. This was a successful exit, not a failure.",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 91,
   "total_loss": "$53M"
 }

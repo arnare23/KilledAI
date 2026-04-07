@@ -1,0 +1,50 @@
+{
+  "name": "Volocopter",
+  "slug": "volocopter",
+  "tagline": "Electric air taxi for urban air mobility",
+  "description": "Volocopter raised $544M from NEOM, Mercedes-Benz, BlackRock, and Geely to build electric air taxis, but filed for insolvency in December 2024 after 13 years without reaching commercial service. Its assets sold for just EUR10M.",
+  "story": "Volocopter was founded in 2011 by Alexander Zosel and Stephan Wolf in Bruchsal, Germany, growing out of an early crowdfunding campaign on Seedmatch that raised half a million euros. The vision was bold: autonomous electric aircraft that could carry passengers across cities, bypassing traffic entirely. Over the next decade, the company attracted a roster of heavyweight backers that read like a who's who of global capital. Saudi Arabia's NEOM megacity project invested $175 million in 2022. Mercedes-Benz, BlackRock, Geely, Intel, and Honeywell all wrote checks. By the time it filed for insolvency, Volocopter had raised $544 million across seven funding rounds.\n\nThe company built an impressive portfolio of aircraft concepts, from the two-seat VoloCity designed for inner-city hops to the longer-range VoloRegion. It completed demonstration flights in Singapore, Rome, and New York, and was roughly 75 percent of the way through European Union Aviation Safety Agency certification. But demonstration flights and certification milestones are not the same thing as commercial revenue, and Volocopter never carried a single paying passenger.\n\nThe cracks widened in 2024. The company had been expected to showcase air taxi flights at the Paris Olympics but canceled due to engine certification delays. Behind the scenes, Volocopter was burning through cash while the timeline to commercial operations kept slipping. When the latest fundraising round failed to close, there was nowhere left to turn. On December 26, 2024, Volocopter filed for provisional insolvency at the Karlsruhe Local Court.\n\nThe aftermath was swift and brutal. A restructuring plan was supposed to materialize by February 2025, but no viable investor stepped forward. On March 3, all 450 employees were told to stand down. Diamond Aircraft, owned by China's Wanfeng Group, acquired Volocopter's assets for approximately EUR10 million, a fraction of a percent of the capital that had been poured in. The collapse made Volocopter the second major German eVTOL company to go under after Lilium, and underscored a harsh reality: in the air taxi industry, the gap between flying a prototype and running a commercial service proved far wider and far more expensive than anyone's investors had been willing to fund.",
+  "founded": "2011",
+  "shutdown": "2025-03",
+  "funding_raised": "$544M",
+  "funding_stage": "late",
+  "employee_count": 450,
+  "category": "funding",
+  "tags": [
+    "evtol",
+    "autonomous-vehicles",
+    "aviation",
+    "germany",
+    "deeptech",
+    "hardware",
+    "ai"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.electrive.com/2025/01/02/german-evtol-developer-volocopter-goes-bankrupt/",
+      "title": "German eVTOL developer Volocopter goes bankrupt",
+      "date": "2025-01-02",
+      "snapshot_path": "data/snapshots/volocopter/www.electrive.com_2025_01_02_german-evtol-developer-volocopter-goes-bankrupt_.html"
+    },
+    {
+      "url": "https://www.axios.com/2025/01/02/volocopter-air-taxi-evtol-insolvent",
+      "title": "Air taxi maker Volocopter files for insolvency",
+      "date": "2025-01-02",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2025-03-11/chinas-wanfeng-group-set-buy-volocopter-eu10-million",
+      "title": "China's Wanfeng Group Set to Buy Volocopter for €10 Million",
+      "date": "2025-03-11",
+      "snapshot_path": "data/snapshots/volocopter/www.ainonline.com_aviation-news_futureflight_2025-03-11_chinas-wanfeng-group-set-buy-volocopter-eu10-million.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 168,
+  "total_loss": "$544M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

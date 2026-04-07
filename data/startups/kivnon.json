@@ -1,0 +1,42 @@
+{
+  "name": "Kivnon",
+  "slug": "kivnon",
+  "tagline": "AI-powered automated guided vehicles for industrial logistics",
+  "description": "Kivnon built automated guided vehicles for factories and warehouses across 24 countries, installing over 6,000 robots from its base near Barcelona. A downturn in the European automotive sector crushed demand, and the company filed for voluntary bankruptcy in November 2024.",
+  "story": "Kivnon Logistica was founded in 2009 in Barbera del Valles, just outside Barcelona, with a straightforward proposition: build reliable automated guided vehicles that could move materials around factory floors and warehouses. Over fifteen years, the company grew steadily into a mid-sized industrial robotics player, selling roughly 6,000 AGVs across 24 countries and building a portfolio of ten different vehicle models. By 2023, Kivnon was generating EUR19 million in annual revenue and employed 110 people. It was the kind of company that rarely made headlines but quietly kept manufacturing lines running.\n\nThe trouble started when the European automotive industry, one of the largest buyers of mobile robotics, entered a sharp downturn. Industrial robot sales across the region fell 30 percent in 2023 and continued to decline into 2024. For a company like Kivnon, which depended heavily on automakers and their suppliers for orders, the contraction was devastating. Revenue softened while the company's debt load, EUR15 million owed to financial institutions against total liabilities of EUR20 million, remained fixed. Pre-tax losses hit EUR800,000 in 2023, and the trajectory was not improving.\n\nOn November 29, 2024, Kivnon filed for voluntary bankruptcy at Mercantile Court No. 6 in Barcelona. Attorney Ignacio Eguilior Vicente was appointed as court administrator. The company's financial statements at filing showed EUR25 million in assets against EUR20 million in liabilities, suggesting the situation was not hopeless, but the cash flow gap had become unbridgeable without new investment.\n\nKivnon's collapse illustrated a vulnerability particular to industrial robotics companies: they serve cyclical industries with long sales cycles, and when their core customers pull back on capital expenditure, there is little a mid-sized supplier can do to compensate. Market rumors at the time suggested that Singular Logistics, connected to Mecalux co-owner Luis Carrillo, had submitted a binding acquisition offer, but the proceedings remained ongoing as 2024 came to a close.",
+  "founded": "2009",
+  "shutdown": "2024-11",
+  "funding_raised": "$6.5M",
+  "funding_stage": "bootstrapped",
+  "employee_count": 110,
+  "category": "market",
+  "tags": [
+    "robotics",
+    "agv",
+    "logistics",
+    "manufacturing",
+    "spain"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.agvnetwork.com/news/kivnon-bankruptcy-economic-pressures-hit-mobile-robot-industry",
+      "title": "Kivnon Bankruptcy: Economic Pressures Hit Mobile Robot Industry",
+      "date": "2024-12-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/kivnon-answers-questions-about-bankruptcy-agv-plans/",
+      "title": "Kivnon answers questions about bankruptcy, AGV plans",
+      "date": "2024-12-20",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 182,
+  "total_loss": "$6.5M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

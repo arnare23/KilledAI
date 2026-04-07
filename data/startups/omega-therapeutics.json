@@ -1,0 +1,50 @@
+{
+  "name": "Omega Therapeutics",
+  "slug": "omega-therapeutics",
+  "tagline": "AI-driven epigenetic mRNA medicines platform",
+  "description": "Omega Therapeutics raised $337M and went public to develop programmable epigenetic mRNA medicines, even landing a Novo Nordisk deal worth up to $532M. It filed for Chapter 11 in February 2025 after its bank seized $14.7M in cash, leaving the company unable to operate.",
+  "story": "Omega Therapeutics was created in 2017 by Flagship Pioneering, the venture creation firm behind Moderna, with the goal of building a new class of programmable epigenetic medicines. The science was ambitious: using mRNA to reprogram how genes are expressed without altering the underlying DNA. The company's OMEGA Epigenomic Programming platform attracted serious attention, and in August 2021, Omega went public on NASDAQ at $17 per share, raising $128 million in net proceeds. Investors including BlackRock, Fidelity, and HarbourVest backed the vision.\n\nThe early momentum continued into late 2023 when Omega signed a collaboration agreement with Novo Nordisk to develop an mRNA therapeutic targeting obesity. The deal was valued at up to $532 million, with $10 million upfront and the potential for hundreds of millions more in milestone payments. On paper, it looked like validation from one of the world's most important pharmaceutical companies. But the economics told a different story. Omega was burning through cash at a punishing rate, posting net losses of $102.7 million in 2022 and $97.4 million in 2023, while generating minimal revenue. The company ended 2023 with 93 full-time employees.\n\nBy March 2024, the cuts began. Omega laid off 35 percent of its workforce in a strategic realignment designed to extend its cash runway. Through the fall, the company engaged financial advisors to explore alternatives, but no viable path to solvency emerged. Then came the fatal blow: on January 13, 2025, Banc of California executed a cash sweep that seized $14.7 million from Omega's accounts. The company disputed the action, calling it improper, but the immediate effect was catastrophic. Omega's remaining liquidity evaporated overnight.\n\nOn January 29, 2025, NASDAQ notified Omega of non-compliance with the $1.00 minimum bid price requirement. Less than two weeks later, on February 10, the company filed for Chapter 11 protection in the U.S. Bankruptcy Court for the District of Delaware, listing $137.5 million in assets against $140.4 million in liabilities. Flagship Pioneering, through an affiliate called PM08-B, provided bridge financing and submitted a stalking horse bid of $11.5 million to acquire the remaining assets. The Novo Nordisk partnership, once heralded as a turning point, would yield only a fraction of its promised value. Omega's collapse demonstrated that even a prestigious pedigree and a headline-grabbing pharma deal cannot substitute for sustainable unit economics in biotech.",
+  "founded": "2017",
+  "shutdown": "2025-02",
+  "funding_raised": "$337M",
+  "funding_stage": "public",
+  "employee_count": 93,
+  "category": "funding",
+  "tags": [
+    "ai",
+    "biotech",
+    "healthcare",
+    "epigenetics",
+    "mrna",
+    "drug-discovery",
+    "flagship-pioneering"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.fiercebiotech.com/biotech/flagships-omega-sinks-toward-bankruptcy-lays-staff-13-months-after-inking-novo-obesity-pact",
+      "title": "Flagship's Omega sinks toward bankruptcy",
+      "date": "2025-01-29",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.biopharmadive.com/news/omega-therapeutics-bankruptcy-flagship-genetic-medicines/739175/",
+      "title": "Flagship-backed Omega signals it's headed toward bankruptcy",
+      "date": "2025-01-29",
+      "snapshot_path": "data/snapshots/omega-therapeutics/www.biopharmadive.com_news_omega-therapeutics-bankruptcy-flagship-genetic-medicines_739175_.html"
+    },
+    {
+      "url": "https://bondoro.com/omega-therapeutics/",
+      "title": "Case Summary: Omega Therapeutics Chapter 11",
+      "date": "2025-02-10",
+      "snapshot_path": "data/snapshots/omega-therapeutics/bondoro.com_omega-therapeutics_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "$337M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

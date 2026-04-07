@@ -1,0 +1,49 @@
+{
+  "name": "ROIDMI",
+  "slug": "roidmi",
+  "tagline": "Xiaomi-backed robotic vacuum and smart cleaning devices",
+  "description": "ROIDMI was a Xiaomi ecosystem company that built wireless vacuum cleaners and robotic mops, generating RMB 600M ($84M) in annual revenue at its peak. Founded in 2015 with backing from Shunwei Capital, the Chinese startup shut down in December 2024 after losing its manufacturing partner, getting sued by Xiaomi over equity disputes, and arriving too late to the robotic mop market where five competitors controlled 93% of sales.",
+  "story": "ROIDMI was founded in 2015 by Wang Zhiqiang as a Xiaomi ecosystem company, initially making car accessories -- chargers, mounts, and cushions priced below RMB 100. Backed by Shunwei Capital, the venture fund led by Xiaomi founder Lei Jun, the company had a privileged position within the Xiaomi supply chain. In 2017, Wang pivoted the company toward wireless vacuum cleaners, betting that the booming Chinese cleaning appliance market -- which had grown from RMB 2.9 billion in 2012 to what would become RMB 34.8 billion by 2022 -- had room for a premium entrant.\n\nThe early results were spectacular. In April 2018, ROIDMI launched a handheld vacuum cleaner on Xiaomi's crowdfunding platform and achieved a 6,141% completion rate with 12,000 backers. A robotic mop campaign on Indiegogo raised over $1.2 million. The products won international design awards, and by 2022, ROIDMI's parent company in Wuxi reported annual revenue of RMB 600 million ($84 million). The brand had successfully positioned itself as a premium alternative within the Xiaomi ecosystem.\n\nBut the foundation was more fragile than the revenue numbers suggested. ROIDMI priced its handheld vacuums at RMB 2,699 -- nearly double the industry average of RMB 1,408 -- and its robotic mops at RMB 3,999 against a market average of RMB 2,822. This premium strategy depended on brand loyalty and technical differentiation that ROIDMI struggled to maintain as competitors accelerated their innovation cycles. Dreame alone released four new models in 2023. The top five competitors controlled 93% of the online robotic mop market, and ROIDMI had entered the segment too late, launching its first robotic mop only in 2021 while rivals had over a decade of accumulated expertise.\n\nThe unraveling accelerated from multiple directions simultaneously. In September 2021, Ni Zugen -- the chairman of Lexy Electric, which had been ROIDMI's key manufacturing partner and investor since 2017 -- withdrew his support, leaving the company without the supply chain backbone it needed. No new products launched after that. Then in July 2023, Xiaomi's IoT investment arm filed a lawsuit against the company over a stock transfer dispute, signaling a fracture in the once-symbiotic relationship. Wang restructured the company under a new entity, Wuxi Ruilan Intelligent Technology, but the ROIDMI brand was already in decline.\n\nOn December 15, 2024, ROIDMI posted a notice on its official Weibo account announcing it would cease all operations within one month. All product maintenance and after-sales services were terminated. The company cited \"changes in the market environment and adjustments to company business strategy\" -- a characteristically understated Chinese corporate euphemism for a business that had been hollowed out from every side. ROIDMI's trajectory illustrates a recurring pattern in the Chinese hardware ecosystem: a startup can ride a platform's distribution network to impressive revenue numbers, but without an independent supply chain, defensible technology, or the pricing power to sustain premium margins, it remains one partner dispute away from collapse.",
+  "founded": "2015",
+  "shutdown": "2024-12",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "employee_count": 50,
+  "category": "competition",
+  "tags": [
+    "robotics",
+    "consumer",
+    "smart-home",
+    "china",
+    "hardware",
+    "xiaomi"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://kr-asia.com/roidmi-bows-out-xiaomi-backed-brand-succumbs-to-market-pressures",
+      "title": "Roidmi bows out: Xiaomi-backed brand succumbs to market pressures",
+      "date": "2024-12-27",
+      "snapshot_path": "data/snapshots/roidmi/kr-asia.com_roidmi-bows-out-xiaomi-backed-brand-succumbs-to-market-pressures.html"
+    },
+    {
+      "url": "https://eu.36kr.com/en/p/3084245517744261",
+      "title": "A star robotic vacuum cleaner company with revenue of 600 million yuan collapsed",
+      "date": "2024-12-25",
+      "snapshot_path": "data/snapshots/roidmi/eu.36kr.com_en_p_3084245517744261.html"
+    },
+    {
+      "url": "https://cnmra.com/more-than-10-robotics-companies-have-collapsed-in-2024/",
+      "title": "More than 10 robotics companies have collapsed in 2024",
+      "date": "2024-12-30",
+      "snapshot_path": "data/snapshots/roidmi/cnmra.com_more-than-10-robotics-companies-have-collapsed-in-2024_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 108,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

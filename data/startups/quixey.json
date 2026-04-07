@@ -1,0 +1,54 @@
+{
+  "name": "Quixey",
+  "slug": "quixey",
+  "tagline": "AI-powered search engine for finding apps by what they do",
+  "description": "Quixey raised $164 million to build an AI-powered \"functional search\" engine that found mobile apps by what they could do, not just by name. After Alibaba debt disputes blocked new funding and Apple and Google locked down their ecosystems, the Mountain View startup shut down in early 2017.",
+  "story": "Quixey was founded in 2009 by Tomer Kagan and Liron Shapira in Mountain View, California, with a deceptively simple idea: let people search for apps the same way they searched the web. Instead of browsing app store rankings or guessing keywords, users could type natural language queries like \"taxi home\" or \"best Thai restaurants in San Francisco\" and Quixey's AI would surface the right apps and deep-link directly to the relevant screen inside them. The technology crawled app stores, blogs, review sites, and social media to build a comprehensive understanding of what each app could actually do.\n\nThe vision attracted serious money. Quixey raised $164 million across multiple rounds, with Alibaba leading a $60 million investment in 2015 that valued the company at roughly $600 million. GGV Capital, Atlantic Bridge, and other prominent firms joined the cap table. At its peak, Quixey looked like a credible challenger to the siloed app ecosystems that Apple and Google had built -- a universal search layer for the mobile era.\n\nBut Quixey was fighting a structural battle it could not win. Apple and Google controlled the app stores, the default search experiences, and the operating systems themselves. They had no incentive to let a third party fragment their ecosystems with independent search. As both platforms improved their own in-app search and deep-linking capabilities, Quixey's value proposition narrowed. Leadership instability made things worse: founder Kagan was replaced as CEO by Mark Lazar, who was himself later fired and replaced by John Foster.\n\nThe killing blow came from Alibaba. After a dispute, the two companies settled in 2016 with Alibaba providing $30 million in debt financing -- but the loan came with an 18-month repayment deadline and, critically, a veto over any future equity fundraising. When Quixey attempted to raise fresh capital in late 2016, existing investors including Atlantic Bridge agreed to put in $10 million. Alibaba blocked the deal. Without new equity and unable to repay the debt, Quixey had no path forward. The company shut down in March 2017, and Samsung Electronics later acquired its remaining assets in October of that year for an undisclosed sum.\n\nQuixey's collapse illustrated the lethal combination of platform dependency and investor misalignment. The company built genuine technology -- its functional search was years ahead of what the app stores offered natively -- but it needed the cooperation of the very platforms it was trying to disrupt. When that cooperation never came, and its largest investor turned from backer to blocker, $164 million in venture capital evaporated in the span of a few months.",
+  "founded": "2009",
+  "shutdown": "2017-03",
+  "funding_raised": "$164M",
+  "funding_stage": "series-c",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "ai",
+    "search",
+    "mobile-apps",
+    "alibaba",
+    "deep-linking"
+  ],
+  "url": "https://quixey.com",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Quixey",
+      "title": "Quixey - Wikipedia",
+      "date": "2017-03-14",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.axios.com/2017/12/15/behind-the-fall-of-quixey-1513301224",
+      "title": "Behind the fall of Quixey - Axios",
+      "date": "2017-12-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sunsethq.com/blog/why-did-quixey-fail",
+      "title": "What Happened To Quixey & Why Did It Fail?",
+      "date": "2024-01-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://globalventuring.com/blog/2017/03/30/quixey-closure-reportedly-due-to-alibaba-debt-deal/",
+      "title": "Quixey closure reportedly due to Alibaba debt deal",
+      "date": "2017-03-30",
+      "snapshot_path": "data/snapshots/quixey/globalventuring.com_blog_2017_03_30_quixey-closure-reportedly-due-to-alibaba-debt-deal_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "$164M",
+  "created_at": "2026-04-07T12:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

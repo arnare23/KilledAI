@@ -25,10 +25,11 @@
       "status": "active"
     }
   ],
-  "status": "published",
+  "status": "rejected",
+  "rejection_reason": "Acquired by Snyk in 2020 in what appears to be a fair-value acquisition. Technology lives on as Snyk Code, a core product in Snyk's platform. The team and technology were successfully integrated, not killed. Small startup ($5.2M raised) with a normal acquisition outcome.",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 56,
   "total_loss": "$5.2M",
   "review_flags": [

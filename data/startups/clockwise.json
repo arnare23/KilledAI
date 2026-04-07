@@ -1,0 +1,48 @@
+{
+  "name": "Clockwise",
+  "slug": "clockwise",
+  "tagline": "AI-powered calendar scheduling and time management for teams",
+  "description": "Clockwise raised $76 million to build an AI scheduling tool that rearranged meetings and protected focus time for 40,000 organizations. In March 2026, Salesforce acqui-hired the founding team and killed the product in eight days, deleting all user data.",
+  "story": "Clockwise was founded in 2016 by Gary Lerhaupt, Matt Martin, and Mike Grinolds -- three engineers who had previously built RelateIQ, a relationship intelligence startup that Salesforce acquired for $390 million in 2014. After their earnout at Salesforce ended, the trio set out to solve a problem every knowledge worker recognized: the calendar that looks technically free but is actually unusable. Clockwise connected to Google Calendar and used AI to automatically rearrange flexible meetings, batch similar events together, and carve out uninterrupted blocks of Focus Time.\n\nThe product found real traction. By the time Clockwise raised its $45 million Series C from Coatue in January 2022, the company served over 40,000 organizations including engineering teams that guarded their deep work time fiercely. Total funding reached $76 million, with Accel, Greylock Partners, and Bain Capital Ventures among its backers. Atlassian Ventures also participated, signaling enterprise credibility. The pitch was compelling: every hour of Focus Time recovered was an hour of productive output returned to the organization.\n\nBut the AI scheduling space grew crowded, and Clockwise faced mounting pressure from competitors like Reclaim.ai and from the calendar platforms themselves adding smart scheduling features. Whether the company struggled to convert free users to paid plans, hit a growth ceiling, or simply received an offer the founders could not refuse has never been publicly clarified.\n\nWhat happened next was abrupt. On March 19, 2026, Clockwise announced that the team would be joining Salesforce -- the same company that had acquired the founders' previous startup twelve years earlier. The product would shut down on March 27. Eight days. There was no transition period, no data export to Salesforce, and no option for users to preserve their settings. Focus Time blocks vanished from calendars, Scheduling Links stopped working, and Flexible Meetings ceased to function. Clockwise recommended Reclaim.ai as the migration path, offered price matching, and then went dark.\n\nThe speed of the shutdown drew criticism from the 40,000 organizations that had built workflows around the tool. Salesforce wanted the team's AI scheduling expertise for its own products -- not the Clockwise product itself. It was a textbook acqui-hire: talent absorbed, product extinguished, users left to fend for themselves. For the founders, it was a full-circle return to the company that had first acquired them. For everyone who depended on Clockwise, it was a reminder that building critical workflows on venture-backed tools carries a specific kind of risk -- the product can disappear not because it failed, but because its team got a better offer.",
+  "founded": "2016",
+  "shutdown": "2026-03",
+  "funding_raised": "$76M",
+  "funding_stage": "series-c",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "ai",
+    "productivity",
+    "calendar",
+    "scheduling",
+    "salesforce"
+  ],
+  "url": "https://getclockwise.com",
+  "sources": [
+    {
+      "url": "https://reclaim.ai/blog/clockwise-shutdown-news",
+      "title": "Thank you, Clockwise - Reclaim",
+      "date": "2026-03-19",
+      "snapshot_path": "data/snapshots/clockwise/reclaim.ai_blog_clockwise-shutdown-news.html"
+    },
+    {
+      "url": "https://byteiota.com/salesforce-acquires-clockwise-kills-product-in-1-week/",
+      "title": "Salesforce Acquires Clockwise, Kills Product in 1 Week",
+      "date": "2026-03-20",
+      "snapshot_path": "data/snapshots/clockwise/byteiota.com_salesforce-acquires-clockwise-kills-product-in-1-week_.html"
+    },
+    {
+      "url": "https://newsletter.failory.com/p/acquihired-and-killed",
+      "title": "Acquihired And Killed - Failory",
+      "date": "2026-03-25",
+      "snapshot_path": "data/snapshots/clockwise/newsletter.failory.com_p_acquihired-and-killed.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 120,
+  "total_loss": "$76M",
+  "created_at": "2026-04-07T12:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

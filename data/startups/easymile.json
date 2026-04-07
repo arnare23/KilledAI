@@ -1,0 +1,36 @@
+{
+  "name": "EasyMile",
+  "slug": "easymile",
+  "tagline": "Autonomous driverless shuttle technology for public transit",
+  "description": "EasyMile developed autonomous shuttle vehicles (EZ10) for campuses, airports, and urban transit. The French startup raised approximately €90M and grew to 300 employees before filing for insolvency in July 2024.",
+  "story": "",
+  "founded": "2014",
+  "shutdown": "2024-09",
+  "funding_raised": "$98M",
+  "funding_stage": "series-b",
+  "employee_count": 300,
+  "category": "funding",
+  "tags": ["autonomous-vehicles", "robotics", "transit", "france", "deeptech"],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://sifted.eu/articles/startups-went-bust-2024",
+      "title": "RIP: The startups that went bust in 2024",
+      "date": "2024-12-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2021/04/28/easymile-raises-66m-for-its-autonomous-people-and-goods-shuttles/",
+      "title": "EasyMile raises $66M for its autonomous shuttles",
+      "date": "2021-04-28",
+      "snapshot_path": null
+    }
+  ],
+  "status": "rejected",
+  "rejection_reason": "Not a confirmed failure. EasyMile entered receivership (redressement judiciaire) in July 2024 but exited receivership under a continuation plan with new funding from Searchlight Capital Partners. As of April 2026, the company is actively operating with ~155 employees, has pivoted to autonomous heavy-duty vehicles, and is powering 120 daily autonomous missions at Lufthansa Cargo Frankfurt. Published a 2025 Impact Report. Not dead.",
+  "confidence": "high",
+  "lifetime_months": 126,
+  "total_loss": "$98M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

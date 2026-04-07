@@ -25,7 +25,8 @@
       "status": "active"
     }
   ],
-  "status": "published",
+  "status": "rejected",
+  "rejection_reason": "Not a failure. Vista Equity Partners owned both Drift and Salesloft and merged them as a portfolio consolidation. Drift's chatbot product still exists within Salesloft at $2,500/month as of 2026. No investor loss — Vista controlled the transaction. This is a PE internal merger, not a startup death.",
   "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
   "updated_at": "2026-04-07T00:00:00Z",

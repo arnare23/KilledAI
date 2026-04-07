@@ -1,0 +1,43 @@
+{
+  "name": "Abata Therapeutics",
+  "slug": "abata-therapeutics",
+  "tagline": "AI-enabled regulatory T cell therapies for autoimmune diseases",
+  "description": "Abata Therapeutics raised $95M to engineer regulatory T cell therapies for multiple sclerosis, type 1 diabetes, and other autoimmune diseases. The Third Rock Ventures-seeded biotech, co-founded with Harvard immunologist Diane Mathis, shut down in August 2025 when the hostile biotech fundraising environment made it impossible to raise follow-on capital.",
+  "story": "Abata Therapeutics emerged in 2021 from Third Rock Ventures with a $95 million Series A and a genuinely ambitious scientific premise: engineer the body's own regulatory T cells to treat autoimmune diseases. The company was co-founded with Diane Mathis, a Harvard immunologist whose decades of research on immune tolerance provided the scientific foundation, and led by CEO Samantha Singer, a veteran of Biogen's neuroscience division. The investor syndicate was deep -- Lightspeed Venture Partners, ElevateBio, Invus, Samsara BioCapital, and the JDRF T1D Fund all participated.\n\nThe approach was compelling. Regulatory T cells, or Tregs, are the immune system's peacekeepers -- they suppress the overactive immune responses that drive autoimmune diseases. Abata's lead program, ABA-101, targeted progressive multiple sclerosis, a disease with few effective treatments. The company also had programs aimed at type 1 diabetes and inclusion body myositis, a rare inflammatory muscle disease. ElevateBio's manufacturing platform gave Abata access to cell therapy production capabilities without building its own facilities.\n\nBut cell therapy development is extraordinarily expensive, and Abata needed to raise again before reaching the clinical milestones that would validate its approach. By 2025, the biotech funding environment had turned brutal. Interest rates had risen, generalist investors had retreated from the sector, and the bar for pre-clinical biotech financings had moved sharply higher. Companies without clinical data were finding it nearly impossible to raise at acceptable terms.\n\nIn August 2025, Abata announced it was shutting down. The company had burned through its $95 million without reaching the clinical proof points that might have attracted the next round. The science wasn't disproven -- it was simply too early and too expensive for a market that had lost its appetite for long-duration bets. Abata joined a growing list of well-funded biotechs that ran out of runway in the 2024-2025 funding drought, their scientific potential stranded between promising preclinical data and the clinical validation that investors now demanded before writing another check.",
+  "founded": "2018",
+  "shutdown": "2025-08",
+  "funding_raised": "$95M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "biotech",
+    "healthcare",
+    "cell-therapy",
+    "autoimmune",
+    "drug-discovery",
+    "treg"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://endpoints.news/treg-biotech-abata-therapeutics-closes-as-money-runs-short/",
+      "title": "Treg biotech Abata Therapeutics closes as money runs short",
+      "date": "2025-08-12",
+      "snapshot_path": "data/snapshots/abata-therapeutics/endpoints.news_treg-biotech-abata-therapeutics-closes-as-money-runs-short_.html"
+    },
+    {
+      "url": "https://www.biospace.com/third-rock-backed-abata-therapeutics-launches-with-95-million-and-mission-to-aim-tregs-at-autoimmune-and-inflammatory-diseases",
+      "title": "Third Rock-backed Abata launches with $95 million",
+      "date": "2021-06-23",
+      "snapshot_path": "data/snapshots/abata-therapeutics/www.biospace.com_third-rock-backed-abata-therapeutics-launches-with-95-million-and-mission-to-aim-tregs-at-autoimmune-and-inflammatory-diseases.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$95M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T14:00:00Z"
+}

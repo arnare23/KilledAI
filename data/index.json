@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-07T11:21:18.992045+00:00",
-  "count": 100,
+  "generated_at": "2026-04-07T12:32:03.363070+00:00",
+  "count": 110,
   "startups": [
     {
       "name": "Cove",
@@ -30,6 +30,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "Clockwise",
+      "slug": "clockwise",
+      "tagline": "AI-powered calendar scheduling and time management for teams",
+      "founded": "2016",
+      "shutdown": "2026-03",
+      "category": "acqui-hired",
+      "funding_raised": "$76M",
+      "lifetime_months": 120,
+      "total_loss": "$76M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T12:00:00Z"
     },
     {
       "name": "Monarch Tractor",
@@ -284,6 +298,20 @@
       "created_at": "2026-04-02T00:00:00Z"
     },
     {
+      "name": "Abata Therapeutics",
+      "slug": "abata-therapeutics",
+      "tagline": "AI-enabled regulatory T cell therapies for autoimmune diseases",
+      "founded": "2018",
+      "shutdown": "2025-08",
+      "category": "funding",
+      "funding_raised": "$95M",
+      "lifetime_months": 84,
+      "total_loss": "$95M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Appetite",
       "slug": "appetite",
       "tagline": "AI-powered food waste reduction for restaurants",
@@ -466,6 +494,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Volocopter",
+      "slug": "volocopter",
+      "tagline": "Electric air taxi for urban air mobility",
+      "founded": "2011",
+      "shutdown": "2025-03",
+      "category": "funding",
+      "funding_raised": "$544M",
+      "lifetime_months": 168,
+      "total_loss": "$544M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Humane",
       "slug": "humane-ai-pin",
       "tagline": "AI-powered wearable pin pitched as a smartphone replacement",
@@ -478,6 +520,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Lilium",
+      "slug": "lilium",
+      "tagline": "Electric vertical takeoff air taxi startup",
+      "founded": "2015",
+      "shutdown": "2025-02",
+      "category": "funding",
+      "funding_raised": "$1.5B+",
+      "lifetime_months": 120,
+      "total_loss": "$1.5B+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Omega Therapeutics",
+      "slug": "omega-therapeutics",
+      "tagline": "AI-driven epigenetic mRNA medicines platform",
+      "founded": "2017",
+      "shutdown": "2025-02",
+      "category": "funding",
+      "funding_raised": "$337M",
+      "lifetime_months": 96,
+      "total_loss": "$337M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Bloop",
@@ -676,6 +746,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "ROIDMI",
+      "slug": "roidmi",
+      "tagline": "Xiaomi-backed robotic vacuum and smart cleaning devices",
+      "founded": "2015",
+      "shutdown": "2024-12",
+      "category": "competition",
+      "funding_raised": "Unknown",
+      "lifetime_months": 108,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Forward Health",
       "slug": "forward-health",
       "tagline": "AI-powered 'doctor in a box' CarePods for primary care",
@@ -688,6 +772,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Kivnon",
+      "slug": "kivnon",
+      "tagline": "AI-powered automated guided vehicles for industrial logistics",
+      "founded": "2009",
+      "shutdown": "2024-11",
+      "category": "market",
+      "funding_raised": "$6.5M",
+      "lifetime_months": 182,
+      "total_loss": "$6.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Prophesee",
+      "slug": "prophesee",
+      "tagline": "Neuromorphic AI vision chip startup mimicking the human eye",
+      "founded": "2014",
+      "shutdown": "2024-10",
+      "category": "funding",
+      "funding_raised": "$137M",
+      "lifetime_months": 120,
+      "total_loss": "$137M",
+      "status": "rejected",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "AllHere Education",
@@ -704,6 +816,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "EasyMile",
+      "slug": "easymile",
+      "tagline": "Autonomous driverless shuttle technology for public transit",
+      "founded": "2014",
+      "shutdown": "2024-09",
+      "category": "funding",
+      "funding_raised": "$98M",
+      "lifetime_months": 126,
+      "total_loss": "$98M",
+      "status": "rejected",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Character.AI",
       "slug": "character-ai",
       "tagline": "AI chatbot platform for creating and talking to AI characters",
@@ -713,7 +839,7 @@
       "funding_raised": "$150M",
       "lifetime_months": 43,
       "total_loss": "$150M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
@@ -881,7 +1007,7 @@
       "funding_raised": "$107M",
       "lifetime_months": 109,
       "total_loss": "$107M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
@@ -1091,7 +1217,7 @@
       "funding_raised": "$77.5M",
       "lifetime_months": 53,
       "total_loss": "$77.5M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
@@ -1175,7 +1301,7 @@
       "funding_raised": "$53M",
       "lifetime_months": 91,
       "total_loss": "$53M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
@@ -1217,7 +1343,7 @@
       "funding_raised": "$5.2M",
       "lifetime_months": 56,
       "total_loss": "$5.2M",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
@@ -1231,7 +1357,7 @@
       "funding_raised": "Unknown",
       "lifetime_months": 89,
       "total_loss": "Unknown",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
     },
@@ -1329,9 +1455,23 @@
       "funding_raised": "Unknown",
       "lifetime_months": 35,
       "total_loss": "Unknown",
-      "status": "published",
+      "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "Quixey",
+      "slug": "quixey",
+      "tagline": "AI-powered search engine for finding apps by what they do",
+      "founded": "2009",
+      "shutdown": "2017-03",
+      "category": "competition",
+      "funding_raised": "$164M",
+      "lifetime_months": 96,
+      "total_loss": "$164M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T12:00:00Z"
     },
     {
       "name": "Aifloo",
