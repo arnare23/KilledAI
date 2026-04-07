@@ -1,9 +1,9 @@
 {
   "name": "Icon",
   "slug": "icon-ai",
-  "tagline": "AI-powered CMO \u2014 plan, create, and run thousands of ads",
+  "tagline": "AI-powered CMO — plan, create, and run thousands of ads",
   "description": "Icon spent $12M on the icon.com domain, hit $5M ARR in 30 days, then collapsed when users discovered the AI-generated ads were poor quality and the platform was bug-ridden.",
-  "story": "Icon launched in 2024 with maximum swagger: it called itself 'the world's first AI CMO,' promising to plan, create, and run thousands of winning ads end-to-end. Backed by Peter Thiel's Founders Fund and executives from OpenAI and Cognition, the company spent $12 million on the icon.com domain alone. It hit $5 million in annual recurring revenue within 30 days of launch \u2014 a stunning growth metric. But the product behind the hype was a mess. Users reported bug-ridden software, poor quality AI-generated ads, forced upsells, and a deliberately obstructive six-step cancellation flow. Reports emerged that Icon was operating more as a human-powered agency than an AI platform. By March 2026, the site was behind a Vercel auth wall and the entire team had vanished from LinkedIn. The $12 million domain name outlasted the company.",
+  "story": "Icon launched in 2024 with maximum swagger: it called itself 'the world's first AI CMO,' promising to plan, create, and run thousands of winning ads end-to-end. Backed by Peter Thiel's Founders Fund and executives from OpenAI and Cognition, the company spent $12 million on the icon.com domain alone. It hit $5 million in annual recurring revenue within 30 days of launch — a stunning growth metric. But the product behind the hype was a mess. Users reported bug-ridden software, poor quality AI-generated ads, forced upsells, and a deliberately obstructive six-step cancellation flow. Reports emerged that Icon was operating more as a human-powered agency than an AI platform. By March 2026, the site was behind a Vercel auth wall and the entire team had vanished from LinkedIn. The $12 million domain name outlasted the company.",
   "founded": "2024",
   "shutdown": "2026-02",
   "funding_raised": "Unknown",
@@ -25,9 +25,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 25,
   "total_loss": "Unknown"
 }

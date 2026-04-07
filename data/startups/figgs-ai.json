@@ -1,0 +1,56 @@
+{
+  "name": "Figgs AI",
+  "slug": "figgs-ai",
+  "tagline": "Free AI character roleplay and chatbot creation platform",
+  "description": "Figgs AI was a free platform for creating custom AI characters and engaging in roleplay scenarios, peaking at nearly 1 million monthly visits in November 2024. The developers abandoned it in May 2024 to focus on Decart AI, and after a security breach in December 2024, the site went permanently offline — having never generated any revenue.",
+  "story": "Figgs AI emerged in 2023 as a free alternative to Character.AI, letting users create custom AI characters and engage in open-ended roleplay conversations. The platform found a devoted audience quickly, growing to nearly 1 million monthly visits by November 2024. Users built and shared thousands of characters, drawn by the platform's permissive content policies and zero cost of entry.\n\nBut Figgs had a fundamental problem: it never made a cent. The platform ran entirely for free with no subscription tier, no ads, and no monetization plan. Its creators treated it as a side project, and in May 2024 they effectively abandoned it to focus their energy on Decart AI, a separate venture. The site stayed online but received no updates, no moderation, and no maintenance.\n\nThe neglect caught up in December 2024 when a security breach compromised user data, exposing private conversations and account information. With no active development team to respond, the breach went unpatched. On December 30, 2024, the site went permanently offline, leaving its community of users with no warning and no recourse.\n\nFiggs AI lasted roughly a year and a half. It demonstrated that building an audience is not the same as building a business. A million monthly visitors meant nothing without revenue, and a platform without active stewardship was one security incident away from collapse. The lesson is elementary but frequently ignored: traction without a business model is a liability, not an asset.",
+  "founded": "2023",
+  "shutdown": "2024-12",
+  "funding_raised": "Unknown",
+  "funding_stage": "",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "ai-chatbot",
+    "roleplay",
+    "character-ai",
+    "consumer",
+    "content-generation",
+    "social",
+    "no-revenue"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://postunreel.com/blog/figgs-ai-shutdown-what-happened-best-alternatives-2025",
+      "title": "Figgs AI Shutdown: What Happened & Best Alternatives — PostUnreel",
+      "date": "2025-01-15",
+      "snapshot_path": "data/snapshots/figgs-ai/postunreel.com_blog_figgs-ai-shutdown-what-happened-best-alternatives-2025.html"
+    },
+    {
+      "url": "https://singhastuff.com/figgs-ai-shutdown-explained-timeline-causes-alternatives/",
+      "title": "Figgs AI Shutdown Explained: Timeline, Causes & Alternatives — Singhastuff",
+      "date": "2025-01-10",
+      "snapshot_path": "data/snapshots/figgs-ai/singhastuff.com_figgs-ai-shutdown-explained-timeline-causes-alternatives_.html"
+    },
+    {
+      "url": "https://medium.com/@loamy_/the-decline-of-figgs-ai-e3eda4596a73",
+      "title": "The Decline of Figgs.ai — Medium",
+      "date": "2025-01-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.techraisal.com/blog/figgs-ai-shutdown-what-happened-to-the-chatbot-platform-everyone-was-talking-about_1760010456/",
+      "title": "Figgs AI Shutdown: What Happened to the Chatbot Platform Everyone Was Talking About — TechRaisal",
+      "date": "2025-01-20",
+      "snapshot_path": "data/snapshots/figgs-ai/www.techraisal.com_blog_figgs-ai-shutdown-what-happened-to-the-chatbot-platform-everyone-was-talking-about_1760010456_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 21,
+  "total_loss": "",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

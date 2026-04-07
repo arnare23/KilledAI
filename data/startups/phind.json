@@ -3,7 +3,7 @@
   "slug": "phind",
   "tagline": "AI search engine for developers",
   "description": "YC-backed Phind raised $10.4M to build an AI search engine for coders. It shut down in January 2026 after OpenAI, Google, and Anthropic added web search to their models.",
-  "story": "Phind was founded in 2022 as an AI search engine specifically for developers \u2014 pulling answers from Stack Overflow, GitHub issues, and technical documentation. Backed by Y Combinator, Bessemer Venture Partners, and SV Angel, the company raised $10.4 million. For a brief window, Phind offered something genuinely useful: AI-powered developer search with source citations. Then OpenAI, Google, and Anthropic added web search capabilities to their foundation models, making a dedicated developer search engine redundant. Phind's only differentiation \u2014 a developer-focused interface \u2014 evaporated overnight. The company shut down on January 16, 2026, just over a month after its last fundraise. A textbook platform absorption.",
+  "story": "Phind was founded in 2022 as an AI search engine specifically for developers — pulling answers from Stack Overflow, GitHub issues, and technical documentation. Backed by Y Combinator, Bessemer Venture Partners, and SV Angel, the company raised $10.4 million. For a brief window, Phind offered something genuinely useful: AI-powered developer search with source citations. Then OpenAI, Google, and Anthropic added web search capabilities to their foundation models, making a dedicated developer search engine redundant. Phind's only differentiation — a developer-focused interface — evaporated overnight. The company shut down on January 16, 2026, just over a month after its last fundraise. A textbook platform absorption.",
   "founded": "2022",
   "shutdown": "2026-01",
   "funding_raised": "$10.4M",
@@ -24,9 +24,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 48,
   "total_loss": "$10.4M"
 }

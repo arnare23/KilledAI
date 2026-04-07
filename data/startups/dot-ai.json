@@ -3,7 +3,7 @@
   "slug": "dot-ai",
   "tagline": "Personalized AI companion and friend app",
   "description": "Dot was a personalized AI companion built by former Apple designer Jason Yuan. It shut down in October 2025 after failing to differentiate in the crowded AI companion space.",
-  "story": "Dot, built by startup New Computer, launched as a personalized AI companion app designed to be a thoughtful friend and confidante. Co-founded by Sam Whitmore and former Apple designer Jason Yuan, the app aimed to build deep, ongoing relationships with users rather than just answering questions. Despite the polished design and ambitious vision, Dot managed only about 24,500 lifetime iOS downloads \u2014 far short of the 'hundreds of thousands' the company claimed. The AI companion market had become increasingly controversial amid safety scrutiny, and Dot couldn't differentiate from ChatGPT and other general-purpose assistants. The founders announced in September 2025 that their 'shared vision diverged,' and Dot's servers went offline on October 5, 2025.",
+  "story": "Dot, built by startup New Computer, launched as a personalized AI companion app designed to be a thoughtful friend and confidante. Co-founded by Sam Whitmore and former Apple designer Jason Yuan, the app aimed to build deep, ongoing relationships with users rather than just answering questions. Despite the polished design and ambitious vision, Dot managed only about 24,500 lifetime iOS downloads — far short of the 'hundreds of thousands' the company claimed. The AI companion market had become increasingly controversial amid safety scrutiny, and Dot couldn't differentiate from ChatGPT and other general-purpose assistants. The founders announced in September 2025 that their 'shared vision diverged,' and Dot's servers went offline on October 5, 2025.",
   "founded": "2023",
   "shutdown": "2025-10",
   "funding_raised": "$3.7M",
@@ -23,9 +23,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 33,
   "total_loss": "$3.7M"
 }

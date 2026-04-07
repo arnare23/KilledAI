@@ -3,7 +3,7 @@
   "slug": "brisk",
   "tagline": "AI-powered prescriptive intelligence for sales teams",
   "description": "Swedish AI sales startup failed after potential clients assumed Salesforce would build the same feature natively. A textbook case of platform dependency risk.",
-  "story": "Brisk was a Stockholm-based startup founded around 2012 that built AI-powered prescriptive intelligence for inside sales teams \u2014 recommendations on which leads to call, what to say, and when. The technology was built on top of the Salesforce ecosystem, which proved to be both its distribution channel and its fatal weakness. When approaching potential customers, the founders heard the same objection repeatedly: 'Salesforce will just build this themselves.' That fear became a self-fulfilling prophecy. Without enough customers willing to bet on an independent tool, Brisk couldn't build the traction needed to survive. The company shut down around 2015-2016, a clean example of what happens when your entire product lives inside someone else's platform and your customers expect that platform to absorb your features.",
+  "story": "Brisk was a Stockholm-based startup founded around 2012 that built AI-powered prescriptive intelligence for inside sales teams — recommendations on which leads to call, what to say, and when. The technology was built on top of the Salesforce ecosystem, which proved to be both its distribution channel and its fatal weakness. When approaching potential customers, the founders heard the same objection repeatedly: 'Salesforce will just build this themselves.' That fear became a self-fulfilling prophecy. Without enough customers willing to bet on an independent tool, Brisk couldn't build the traction needed to survive. The company shut down around 2015-2016, a clean example of what happens when your entire product lives inside someone else's platform and your customers expect that platform to absorb your features.",
   "founded": "2012",
   "shutdown": "2016",
   "funding_raised": "Unknown",
@@ -26,9 +26,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 48,
   "total_loss": "Unknown"
 }

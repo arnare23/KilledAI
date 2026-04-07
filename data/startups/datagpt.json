@@ -3,7 +3,7 @@
   "slug": "datagpt",
   "tagline": "Conversational AI data analyst for instant charts and insights",
   "description": "DataGPT raised $22M for AI-powered data analysis, but the feature was absorbed by Power BI Copilot, Tableau Pulse, and Looker+Gemini as incumbents added AI natively.",
-  "story": "DataGPT launched around 2022 with the compelling pitch of 'ask questions about your data, get instant charts.' The company raised approximately $22 million, including an $11.9 million Series B in October 2024. In 2023, conversational data analysis was genuinely novel. By 2025, it was a standard feature in Microsoft Power BI Copilot, Tableau Pulse, Looker with Gemini integration, and Amazon QuickSight Q. DataGPT tried to pivot to enterprise-only pricing at $3,333 per month minimum, but couldn't compete with incumbents who bundled AI analytics into platforms customers were already paying for. The company shut down in late 2025 \u2014 a textbook case of a feature, not a company, being absorbed by the platforms.",
+  "story": "DataGPT launched around 2022 with the compelling pitch of 'ask questions about your data, get instant charts.' The company raised approximately $22 million, including an $11.9 million Series B in October 2024. In 2023, conversational data analysis was genuinely novel. By 2025, it was a standard feature in Microsoft Power BI Copilot, Tableau Pulse, Looker with Gemini integration, and Amazon QuickSight Q. DataGPT tried to pivot to enterprise-only pricing at $3,333 per month minimum, but couldn't compete with incumbents who bundled AI analytics into platforms customers were already paying for. The company shut down in late 2025 — a textbook case of a feature, not a company, being absorbed by the platforms.",
   "founded": "2022",
   "shutdown": "2025-12",
   "funding_raised": "$22M",
@@ -24,9 +24,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 47,
   "total_loss": "$22M"
 }

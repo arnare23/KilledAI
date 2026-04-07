@@ -2,8 +2,8 @@
   "name": "Korbit AI",
   "slug": "korbit-ai",
   "tagline": "AI-powered code reviews and developer mentoring",
-  "description": "Khosla-backed Korbit raised $11M for AI code review. GitHub Copilot's expansion into code review crushed every specialized competitor \u2014 the top 3 agents controlled 72% of all activity.",
-  "story": "Korbit AI was founded in Montreal in 2017 and raised $11 million in a Series A led by Khosla Ventures to build AI-powered code review and developer mentoring tools. The product was technically solid, offering automated code analysis with educational feedback. But the AI code review market consolidated rapidly around a few dominant players. When GitHub Copilot expanded into code review, it crushed the specialized startups \u2014 analysis showed the top 3 AI review agents controlled 72% of all pull request activity. Korbit couldn't compete with a tool that was free or pre-installed in every GitHub organization. The company announced its closure in 2026, another casualty of platform bundling in the developer tools space.",
+  "description": "Khosla-backed Korbit raised $11M for AI code review. GitHub Copilot's expansion into code review crushed every specialized competitor — the top 3 agents controlled 72% of all activity.",
+  "story": "Korbit AI was founded in Montreal in 2017 and raised $11 million in a Series A led by Khosla Ventures to build AI-powered code review and developer mentoring tools. The product was technically solid, offering automated code analysis with educational feedback. But the AI code review market consolidated rapidly around a few dominant players. When GitHub Copilot expanded into code review, it crushed the specialized startups — analysis showed the top 3 AI review agents controlled 72% of all pull request activity. Korbit couldn't compete with a tool that was free or pre-installed in every GitHub organization. The company announced its closure in 2026, another casualty of platform bundling in the developer tools space.",
   "founded": "2017",
   "shutdown": "2026",
   "funding_raised": "$11M",
@@ -32,9 +32,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 108,
   "total_loss": "$11M"
 }

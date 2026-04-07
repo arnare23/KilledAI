@@ -3,7 +3,7 @@
   "slug": "appetite",
   "tagline": "AI-powered food waste reduction for restaurants",
   "description": "Swedish AI startup helping restaurants reduce food waste. Went bankrupt in August 2025 after a key client's financial troubles destroyed an ongoing funding round.",
-  "story": "Appetite was a Swedish AI startup founded around 2020 that used artificial intelligence to help restaurants predict demand and reduce food waste. The company reached over SEK 10 million ($900K) in revenue in 2024 and was in the middle of raising a seed round. Then disaster struck from an unexpected direction. Br\u00f6dernas, a major Swedish hamburger chain and one of Appetite's key clients, entered financial reconstruction in fall 2024. The loss of this anchor customer simultaneously destroyed Appetite's revenue pipeline and spooked the investors in its ongoing funding round. Unable to close the raise without the revenue that Br\u00f6dernas had provided, Appetite filed for bankruptcy in August 2025 \u2014 killed not by its own failings but by the financial collapse of a key customer.",
+  "story": "Appetite was a Swedish AI startup founded around 2020 that used artificial intelligence to help restaurants predict demand and reduce food waste. The company reached over SEK 10 million ($900K) in revenue in 2024 and was in the middle of raising a seed round. Then disaster struck from an unexpected direction. Brödernas, a major Swedish hamburger chain and one of Appetite's key clients, entered financial reconstruction in fall 2024. The loss of this anchor customer simultaneously destroyed Appetite's revenue pipeline and spooked the investors in its ongoing funding round. Unable to close the raise without the revenue that Brödernas had provided, Appetite filed for bankruptcy in August 2025 — killed not by its own failings but by the financial collapse of a key customer.",
   "founded": "2020",
   "shutdown": "2025-08",
   "funding_raised": "Unknown",
@@ -26,9 +26,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z",
   "lifetime_months": 67,
   "total_loss": "Unknown"
 }

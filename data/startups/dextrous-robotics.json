@@ -1,0 +1,49 @@
+{
+  "name": "Dextrous Robotics",
+  "slug": "dextrous-robotics",
+  "tagline": "Chopstick-armed robots for automated trailer unloading",
+  "description": "Dextrous Robotics built the DX-1, a robot with two rigid chopstick-like arms that could unload boxes up to 100 lbs from trailers. The Memphis-based startup raised about $8M but dissolved in late 2023 after the DX-1's $300,000+ bill of materials made it impossible to raise further funding in a tightened venture market.",
+  "story": "Dextrous Robotics attacked one of the most physically demanding jobs in logistics: unloading boxes from the back of trailers. Founded in 2019 in Memphis, Tennessee — the heart of America's shipping corridor — the company built the DX-1, a robot that used two rigid, chopstick-like arms to grip and move packages weighing up to 100 pounds. It was a novel mechanical approach to a problem that most competitors tried to solve with conventional robotic arms or conveyor systems.\n\nThe team raised about $8M and built working prototypes, but the DX-1 had a critical economic problem. Its bill of materials exceeded $300,000 per unit, with minimal use of off-the-shelf components. Each robot was essentially custom-built, making mass production and cost reduction a distant prospect. During the venture capital boom of 2021, this might have been fundable on the promise of future scale. But when VC tightened sharply in late 2022, hardware startups with expensive unit economics were the first to feel the squeeze.\n\nDextrous Robotics needed another funding round to continue development and bring costs down. That round never materialized. With only eight employees and a product that was technically impressive but commercially unviable at its current price point, the company dissolved in late December 2023.\n\nThe failure highlights a persistent challenge in robotics: building something that works is not the same as building something that works at a price the market will pay. The DX-1 proved the concept; the economics proved the obstacle.",
+  "founded": "2019",
+  "shutdown": "2024-01",
+  "funding_raised": "$8M",
+  "funding_stage": "seed",
+  "employee_count": 8,
+  "category": "funding",
+  "tags": [
+    "robotics",
+    "warehouse-automation",
+    "logistics",
+    "hardware",
+    "trailer-unloading",
+    "memphis"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/",
+      "title": "Dextrous Robotics closes up shop — TechCrunch",
+      "date": "2024-01-11",
+      "snapshot_path": "data/snapshots/dextrous-robotics/techcrunch.com_2024_01_11_dextrous-robotics-closes-up-shop_.html"
+    },
+    {
+      "url": "https://www.therobotreport.com/dextrous-robotics-shuts-down/",
+      "title": "Dextrous Robotics shuts down trailer unloading business — The Robot Report",
+      "date": "2024-01-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.focusoutlook.com/dextrous-robotics-closes-operations-in-trailer-unloading-sector/",
+      "title": "Dextrous Robotics Closes Operations in Trailer Unloading Sector — Focus Outlook",
+      "date": "2024-01-12",
+      "snapshot_path": "data/snapshots/dextrous-robotics/www.focusoutlook.com_dextrous-robotics-closes-operations-in-trailer-unloading-sector_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 57,
+  "total_loss": "$8M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

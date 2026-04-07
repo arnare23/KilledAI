@@ -1,0 +1,56 @@
+{
+  "name": "Retrain.ai",
+  "slug": "retrain-ai",
+  "tagline": "AI platform for workforce skills analytics and talent management",
+  "description": "Retrain.ai developed an AI-based platform that analyzed millions of data points to map skills supply and demand in changing labor markets. The Israeli startup raised $34M from investors including Radical Ventures and Hetz Ventures before shutting down in July 2025, unable to compete with established HR incumbents that integrated similar AI features at lower prices.",
+  "story": "Retrain.ai set out to solve a real problem: helping enterprises understand the rapidly shifting landscape of workforce skills. Founded in 2020 in Israel, the company built an AI platform that ingested millions of data points to map skills supply and demand, giving HR teams a data-driven view of talent gaps and labor market trends. The pitch resonated with investors. Retrain.ai raised $13M in a Series A led by Hetz Ventures and Square Peg, followed by additional rounds that brought total funding to $34M, with Radical Ventures among the backers.\n\nBut the AI-powered HR space was becoming crowded fast. Established players like Workday, BambooHR, and others began integrating their own AI-driven skills analytics directly into platforms that enterprises already used. Retrain.ai found itself competing not just on technology but on switching costs and pricing — a fight a 20-person startup was poorly positioned to win. The company could not scale quickly enough or differentiate sharply enough to justify premium pricing against incumbents offering similar capabilities as bundled features.\n\nIn July 2025, after five years of operation, Retrain.ai shut down and laid off its entire staff. The company put its technology up for sale, hoping to recoup some value from the IP. The $34M in venture funding was gone. Retrain.ai's story is a cautionary tale about building in a space where the incumbents can simply absorb your value proposition into their existing product suites.",
+  "founded": "2020",
+  "shutdown": "2025-07",
+  "funding_raised": "$34M",
+  "funding_stage": "series-b",
+  "employee_count": 20,
+  "category": "competition",
+  "tags": [
+    "hr-tech",
+    "workforce-development",
+    "talent-management",
+    "enterprise-ai",
+    "israeli-startup",
+    "skills-analytics",
+    "labor-market"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/s1avcuzhgg",
+      "title": "After raising $34M, Retrain.ai shuts down and puts its AI platform up for sale — Calcalist",
+      "date": "2025-07-02",
+      "snapshot_path": "data/snapshots/retrain-ai/www.calcalistech.com_ctechnews_article_s1avcuzhgg.html"
+    },
+    {
+      "url": "https://completeaitraining.com/news/why-retrainai-shut-down-despite-34-million-in-funding-and-a/",
+      "title": "Why Retrain.ai Shut Down Despite $34 Million in Funding — Complete AI Training",
+      "date": "2025-07-03",
+      "snapshot_path": "data/snapshots/retrain-ai/completeaitraining.com_news_why-retrainai-shut-down-despite-34-million-in-funding-and-a_.html"
+    },
+    {
+      "url": "https://undercodenews.com/retrainai-shuts-down-after-raising-34m-puts-ai-platform-up-for-sale/",
+      "title": "Retrain.ai Shuts Down After Raising $34M, Puts AI Platform Up for Sale — UnderCode News",
+      "date": "2025-07-02",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "title": "Israel's retrain.ai closes $13M to use AI to understand early signals in the changing jobs market — TechCrunch",
+      "date": "2021-03-10",
+      "snapshot_path": "data/snapshots/retrain-ai/techcrunch.com_2021_03_10_israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 66,
+  "total_loss": "$34M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

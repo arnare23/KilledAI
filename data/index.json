@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-04T13:56:05.890423+00:00",
-  "count": 88,
+  "generated_at": "2026-04-07T11:21:18.992045+00:00",
+  "count": 100,
   "startups": [
     {
       "name": "Cove",
@@ -70,7 +70,7 @@
       "lifetime_months": 133,
       "total_loss": "$90M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -84,7 +84,7 @@
       "lifetime_months": 25,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -126,7 +126,7 @@
       "lifetime_months": 48,
       "total_loss": "$10.4M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -140,7 +140,7 @@
       "lifetime_months": 108,
       "total_loss": "$11M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -154,8 +154,22 @@
       "lifetime_months": 47,
       "total_loss": "$22M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "iRobot",
+      "slug": "irobot",
+      "tagline": "Maker of Roomba robot vacuums, bankrupted after failed Amazon acquisition",
+      "founded": "1990",
+      "shutdown": "2025-12",
+      "category": "competition",
+      "funding_raised": "$74M IPO",
+      "lifetime_months": 420,
+      "total_loss": "$264M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Rewind AI",
@@ -168,7 +182,7 @@
       "lifetime_months": 71,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -224,7 +238,7 @@
       "lifetime_months": 33,
       "total_loss": "$3.7M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -280,7 +294,7 @@
       "lifetime_months": 67,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
@@ -294,7 +308,7 @@
       "lifetime_months": 88,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -326,6 +340,20 @@
       "created_at": "2026-04-01T23:45:00Z"
     },
     {
+      "name": "Retrain.ai",
+      "slug": "retrain-ai",
+      "tagline": "AI platform for workforce skills analytics and talent management",
+      "founded": "2020",
+      "shutdown": "2025-07",
+      "category": "competition",
+      "funding_raised": "$34M",
+      "lifetime_months": 66,
+      "total_loss": "$34M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Subtl.ai",
       "slug": "subtl-ai",
       "tagline": "Enterprise 'chat with your documents' AI platform",
@@ -336,7 +364,7 @@
       "lifetime_months": 78,
       "total_loss": "$200K",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -420,7 +448,7 @@
       "lifetime_months": 63,
       "total_loss": "$75M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -462,7 +490,7 @@
       "lifetime_months": 48,
       "total_loss": "$7.4M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -480,6 +508,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Equality AI",
+      "slug": "equality-ai",
+      "tagline": "AI bias detection and risk management tools for healthcare",
+      "founded": "2021",
+      "shutdown": "2025-01",
+      "category": "regulatory",
+      "funding_raised": "$1.25M",
+      "lifetime_months": 48,
+      "total_loss": "$1.25M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "CodeParrot",
       "slug": "codeparrot",
       "tagline": "AI tool to convert Figma designs into production-ready code",
@@ -494,6 +536,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Rethink Robotics",
+      "slug": "rethink-robotics",
+      "tagline": "Pioneer of collaborative robots Baxter and Sawyer for industrial automation",
+      "founded": "2008",
+      "shutdown": "2025",
+      "category": "market",
+      "funding_raised": "$150M",
+      "lifetime_months": 204,
+      "total_loss": "$150M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Ryze",
       "slug": "ryze-ai",
       "tagline": "AI tool for managing Google and Meta advertising campaigns",
@@ -503,8 +559,8 @@
       "funding_raised": "Unknown",
       "lifetime_months": 24,
       "total_loss": "Unknown",
-      "status": "published",
-      "confidence": "medium",
+      "status": "rejected",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -518,7 +574,7 @@
       "lifetime_months": 84,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
@@ -564,6 +620,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "BionicHIVE",
+      "slug": "bionichive",
+      "tagline": "Shelf-climbing warehouse robots for automated picking and storage",
+      "founded": "2014",
+      "shutdown": "2024-12",
+      "category": "other",
+      "funding_raised": "$18M",
+      "lifetime_months": 126,
+      "total_loss": "$18M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Cruise",
       "slug": "cruise",
       "tagline": "GM-backed autonomous robotaxi service shut down after $10B+ investment and safety scandal",
@@ -592,6 +662,20 @@
       "created_at": "2026-04-04T00:00:00Z"
     },
     {
+      "name": "Figgs AI",
+      "slug": "figgs-ai",
+      "tagline": "Free AI character roleplay and chatbot creation platform",
+      "founded": "2023",
+      "shutdown": "2024-12",
+      "category": "funding",
+      "funding_raised": "Unknown",
+      "lifetime_months": 21,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
       "name": "Forward Health",
       "slug": "forward-health",
       "tagline": "AI-powered 'doctor in a box' CarePods for primary care",
@@ -602,7 +686,7 @@
       "lifetime_months": 106,
       "total_loss": "$657M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -611,12 +695,12 @@
       "tagline": "AI-powered student engagement chatbot for K-12 school districts",
       "founded": "2020",
       "shutdown": "2024-09",
-      "category": "other",
+      "category": "regulatory",
       "funding_raised": "$12M+",
       "lifetime_months": 56,
       "total_loss": "$12M+",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -646,6 +730,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "READY Robotics",
+      "slug": "ready-robotics",
+      "tagline": "Robot-agnostic operating system for programming industrial robots",
+      "founded": "2016",
+      "shutdown": "2024-08",
+      "category": "funding",
+      "funding_raised": "$43.5M",
+      "lifetime_months": 104,
+      "total_loss": "$43.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Tally",
@@ -784,8 +882,22 @@
       "lifetime_months": 109,
       "total_loss": "$107M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Small Robot Company",
+      "slug": "small-robot-company",
+      "tagline": "AI-powered agricultural robots for precision per-plant farming",
+      "founded": "2017",
+      "shutdown": "2024-02",
+      "category": "funding",
+      "funding_raised": "$13M",
+      "lifetime_months": 84,
+      "total_loss": "$13M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Artifact",
@@ -800,6 +912,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Dextrous Robotics",
+      "slug": "dextrous-robotics",
+      "tagline": "Chopstick-armed robots for automated trailer unloading",
+      "founded": "2019",
+      "shutdown": "2024-01",
+      "category": "funding",
+      "funding_raised": "$8M",
+      "lifetime_months": 57,
+      "total_loss": "$8M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "RoboTire",
+      "slug": "robotire",
+      "tagline": "Robotic system for automated tire changes in 20 minutes",
+      "founded": "2018",
+      "shutdown": "2024-01",
+      "category": "market",
+      "funding_raised": "$12.1M",
+      "lifetime_months": 72,
+      "total_loss": "$12.1M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "TuSimple",
@@ -826,7 +966,7 @@
       "lifetime_months": 120,
       "total_loss": "$1.2M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -840,7 +980,7 @@
       "lifetime_months": 192,
       "total_loss": "$14M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
@@ -856,6 +996,20 @@
       "status": "rejected",
       "confidence": "medium",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Coqui",
+      "slug": "coqui-ai",
+      "tagline": "Open-source text-to-speech AI platform for voice cloning and synthesis",
+      "founded": "2021",
+      "shutdown": "2023-12",
+      "category": "competition",
+      "funding_raised": "$3.3M",
+      "lifetime_months": 33,
+      "total_loss": "$3.3M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Olive AI",
@@ -882,8 +1036,22 @@
       "lifetime_months": 8,
       "total_loss": "",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "XACT Robotics",
+      "slug": "xact-robotics",
+      "tagline": "AI-powered autonomous robots for hands-free surgical needle procedures",
+      "founded": "2013",
+      "shutdown": "2023-09",
+      "category": "market",
+      "funding_raised": "$55M",
+      "lifetime_months": 126,
+      "total_loss": "$55M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07T00:00:00Z"
     },
     {
       "name": "Babylon Health",
@@ -948,11 +1116,11 @@
       "founded": "2014",
       "shutdown": "2023-03",
       "category": "funding",
-      "funding_raised": "$174M",
+      "funding_raised": "$160M",
       "lifetime_months": 110,
-      "total_loss": "$174M",
+      "total_loss": "$160M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -1036,7 +1204,7 @@
       "lifetime_months": 69,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
@@ -1078,7 +1246,7 @@
       "lifetime_months": 77,
       "total_loss": "$100M+",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -1134,22 +1302,8 @@
       "lifetime_months": 132,
       "total_loss": "$157M",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
-    },
-    {
-      "name": "Aifloo",
-      "slug": "aifloo",
-      "tagline": "AI-powered smart wristband for elderly care monitoring",
-      "founded": "2015",
-      "shutdown": "2018-07",
-      "category": "funding",
-      "funding_raised": "€5.1M",
-      "lifetime_months": 42,
-      "total_loss": "€5.1M",
-      "status": "published",
-      "confidence": "medium",
-      "created_at": "2026-04-01T23:00:00Z"
     },
     {
       "name": "Ansaro",
@@ -1180,6 +1334,20 @@
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
+      "name": "Aifloo",
+      "slug": "aifloo",
+      "tagline": "AI-powered smart wristband for elderly care monitoring",
+      "founded": "2015",
+      "shutdown": "2017",
+      "category": "funding",
+      "funding_raised": "€5.1M",
+      "lifetime_months": 30,
+      "total_loss": "€5.1M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
       "name": "Brisk",
       "slug": "brisk",
       "tagline": "AI-powered prescriptive intelligence for sales teams",
@@ -1190,7 +1358,7 @@
       "lifetime_months": 48,
       "total_loss": "Unknown",
       "status": "published",
-      "confidence": "medium",
+      "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
     },
     {

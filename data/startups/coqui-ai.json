@@ -1,0 +1,55 @@
+{
+  "name": "Coqui",
+  "slug": "coqui-ai",
+  "tagline": "Open-source text-to-speech AI platform for voice cloning and synthesis",
+  "description": "Coqui built an open-source text-to-speech platform offering voice cloning and synthesis capabilities under the mission of 'Freeing Speech.' Founded by former Mozilla engineers Eren Golge, Josh Meyer, Kelly Davis, and Reuben Morais after Mozilla shut down its DeepSpeech project, the startup raised $3.3M in seed funding from ScaleX Ventures and Mango Capital but shut down in December 2023, unable to monetize its technology against well-funded competitors like ElevenLabs and big tech TTS offerings.",
+  "story": "Coqui was born from a shutdown and ended in one. When Mozilla killed its DeepSpeech speech recognition project in 2020, four of its engineers — Eren Golge, Josh Meyer, Kelly Davis, and Reuben Morais — regrouped to build an open-source text-to-speech platform under the banner of \"Freeing Speech.\" Founded in 2021, Coqui offered voice cloning and speech synthesis tools that developers could use freely, with a commercial platform layered on top for enterprise customers.\n\nThe open-source approach won the company a dedicated community. Coqui's TTS library on GitHub became one of the most popular open-source speech synthesis tools available, and the startup raised $3.3 million in seed funding from ScaleX Ventures and Mango Capital. The technology was capable — users could clone voices with just seconds of audio — and the team had deep expertise from their Mozilla years.\n\nBut the generative AI boom that should have lifted Coqui instead drowned it. ElevenLabs, backed by over $100 million in venture funding, emerged as the dominant voice AI startup with a polished consumer product and aggressive marketing. Big tech companies — Google, Amazon, Microsoft — continued to improve their own TTS offerings. Coqui's open-source model, while popular with developers, couldn't generate the revenue needed to compete for talent and compute resources against these far better-funded rivals. In December 2023, founder Eren Golge announced the shutdown, thanking the community in a brief LinkedIn post. Coqui's open-source code lives on — its GitHub repositories remain available — but the company behind it lasted barely two and a half years. Building a beloved open-source project and building a sustainable business turned out to be two very different challenges.",
+  "founded": "2021",
+  "shutdown": "2023-12",
+  "funding_raised": "$3.3M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "text-to-speech",
+    "voice-cloning",
+    "open-source",
+    "speech-synthesis",
+    "mozilla",
+    "generative-ai"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://news.ycombinator.com/item?id=38856095",
+      "title": "Coqui.ai Is Shutting Down — Hacker News",
+      "date": "2024-01-03",
+      "snapshot_path": "data/snapshots/coqui-ai/news.ycombinator.com_item_id_38856095.html"
+    },
+    {
+      "url": "https://analyticsindiamag.com/deep-tech/conversational-ai-startup-coqui-shuts-down/",
+      "title": "Conversational AI Startup Coqui Shuts Down — Analytics India Magazine",
+      "date": "2024-01-04",
+      "snapshot_path": "data/snapshots/coqui-ai/analyticsindiamag.com_deep-tech_conversational-ai-startup-coqui-shuts-down_.html"
+    },
+    {
+      "url": "https://github.com/coqui-ai/TTS/discussions/3489",
+      "title": "Coqui is shutting down — GitHub Discussion",
+      "date": "2024-01-02",
+      "snapshot_path": "data/snapshots/coqui-ai/github.com_coqui-ai_TTS_discussions_3489.html"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/erengolge_coqui-is-shutting-down-thanks-for-all-activity-7148322600681701376-w2ch",
+      "title": "Eren Golge announces Coqui shutdown — LinkedIn",
+      "date": "2023-12-28",
+      "snapshot_path": "data/snapshots/coqui-ai/www.linkedin.com_posts_erengolge_coqui-is-shutting-down-thanks-for-all-activity-7148322600681701376-w2ch.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 33,
+  "total_loss": "$3.3M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

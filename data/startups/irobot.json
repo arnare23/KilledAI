@@ -1,0 +1,62 @@
+{
+  "name": "iRobot",
+  "slug": "irobot",
+  "tagline": "Maker of Roomba robot vacuums, bankrupted after failed Amazon acquisition",
+  "description": "iRobot, the pioneering maker of Roomba robot vacuums founded in 1990 by Rodney Brooks, Colin Angle, and Helen Greiner, filed for Chapter 11 bankruptcy on December 14, 2025. The company's downfall accelerated after EU and US antitrust regulators blocked Amazon's $1.7B acquisition in January 2024, leaving iRobot saddled with a $200M loan from Carlyle Group taken during the merger review. Post-deal collapse, iRobot laid off 31% of staff, revenue declined 33%, and it faced crushing competition from cheaper Chinese rivals like Roborock and Ecovacs. Chinese manufacturer Shenzhen Picea Robotics — iRobot's own supplier — acquired the company by forgiving $264M in debt.",
+  "story": "iRobot was a 35-year-old company that invented an entire consumer category, sold more than 40 million robots, and still ended up in bankruptcy court. Founded in 1990 by Rodney Brooks, Colin Angle, and Helen Greiner — all MIT Artificial Intelligence Lab alumni — the company spent its first decade building military and research robots before launching the Roomba in 2002. The autonomous vacuum cleaner became a cultural icon and a genuine commercial success, making iRobot the undisputed leader in home robotics for nearly two decades.\n\nThe unraveling began in August 2022, when Amazon announced a $1.7 billion deal to acquire iRobot. It looked like the perfect exit. Instead, it became a death sentence. EU regulators raised antitrust concerns about Amazon gaining a robot that mapped the insides of customers' homes, and in January 2024, Amazon formally withdrew the offer. The failed deal left iRobot devastated. During the 18-month review period, the company had taken a $200 million loan from the Carlyle Group to stay afloat, paused product development, and watched its competitive position erode. It emerged from the wreckage with crushing debt, a depleted product pipeline, and a 33% revenue decline.\n\nMeanwhile, Chinese competitors had eaten iRobot's lunch. Roborock and Ecovacs offered robots with better features at lower prices, seizing market share while iRobot was frozen by the merger review. The company laid off 31% of its workforce — over 350 people — but the cuts weren't enough. On December 14, 2025, iRobot filed for Chapter 11 bankruptcy. In a final irony, Chinese manufacturer Shenzhen Picea Robotics — iRobot's own contract supplier — acquired the company by forgiving $264 million in debt. The pioneer of consumer robotics ended up owned by one of the very competitors that had displaced it.",
+  "founded": "1990",
+  "shutdown": "2025-12",
+  "funding_raised": "$74M IPO",
+  "funding_stage": "ipo",
+  "employee_count": 1209,
+  "category": "competition",
+  "tags": [
+    "robotics",
+    "consumer-electronics",
+    "robot-vacuum",
+    "hardware",
+    "public-company",
+    "regulatory",
+    "acquisition-failed"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/",
+      "title": "How iRobot lost its way home — TechCrunch",
+      "date": "2025-12-14",
+      "snapshot_path": "data/snapshots/irobot/techcrunch.com_2025_12_14_how-irobot-lost-its-way-home_.html"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/15/former-irobot-ceo-calls-roomba-makers-bankruptcy-a-tragedy.html",
+      "title": "Former iRobot CEO calls Roomba maker's bankruptcy 'a tragedy for consumers' — CNBC",
+      "date": "2025-12-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy",
+      "title": "Roomba maker files for bankruptcy, weighed down by debt and tariffs — NPR",
+      "date": "2025-12-15",
+      "snapshot_path": "data/snapshots/irobot/www.npr.org_2025_12_15_nx-s1-5644772_tariffs-roomba-irobot-bankruptcy.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/IRobot",
+      "title": "iRobot — Wikipedia",
+      "date": "2025-12-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.manufacturingdive.com/news/roomba-braava-maker-irobot-chapter-11-bankruptcy-acquisition-picea-china/807997/",
+      "title": "Roomba maker files for Chapter 11 bankruptcy, seeks acquisition by contract manufacturer — Manufacturing Dive",
+      "date": "2025-12-16",
+      "snapshot_path": "data/snapshots/irobot/www.manufacturingdive.com_news_roomba-braava-maker-irobot-chapter-11-bankruptcy-acquisition-picea-china_807997_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 420,
+  "total_loss": "$264M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

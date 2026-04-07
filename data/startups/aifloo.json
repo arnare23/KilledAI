@@ -5,7 +5,7 @@
   "description": "EQT-backed Swedish eldercare AI startup raised \u20ac5.1M but went bankrupt in 2018. Assets were bought, rebranded twice, and eventually absorbed by Brighter AB.",
   "story": "Aifloo was founded in Stockholm in 2015 to build AI-powered wearable technology for elderly care. The company's smart wristband used machine learning to monitor activity patterns and detect falls or health anomalies in elderly patients. EQT Ventures led a \u20ac5.1 million Series A, signaling confidence in the eldercare AI market. But the company burned through its funding faster than expected and went bankrupt in July 2018. The assets were purchased and rebranded to Noomi, which was then rebranded again to Nectarine Health, before being acquired by Swedish health-tech company Brighter AB in January 2020 and absorbed entirely. The three-name journey from Aifloo to Noomi to Nectarine Health to Brighter tells the story of a technology that wasn't bad enough to disappear completely, but couldn't sustain an independent company.",
   "founded": "2015",
-  "shutdown": "2018-07",
+  "shutdown": "2017",
   "funding_raised": "\u20ac5.1M",
   "funding_stage": "series-a",
   "category": "funding",
@@ -27,9 +27,9 @@
     }
   ],
   "status": "published",
-  "confidence": "medium",
+  "confidence": "high",
   "created_at": "2026-04-01T23:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
-  "lifetime_months": 42,
+  "updated_at": "2026-04-07T00:00:00Z",
+  "lifetime_months": 30,
   "total_loss": "\u20ac5.1M"
 }

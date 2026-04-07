@@ -1,0 +1,55 @@
+{
+  "name": "XACT Robotics",
+  "slug": "xact-robotics",
+  "tagline": "AI-powered autonomous robots for hands-free surgical needle procedures",
+  "description": "XACT Robotics developed autonomous surgical robots enabling hands-free needle-based procedures, with technology from Prof. Moshe Shoham of the Technion (whose earlier work also led to Mazor Robotics, sold to Medtronic for $1.64B). Despite raising $55M through Series D, receiving FDA clearance in 2019, and beginning sales in 2020, the Israeli startup shut down in September 2023 after failing to generate meaningful revenue. A reportedly rejected $500M acquisition offer in 2020 and subsequent failed acquisition talks left the company unable to raise more capital.",
+  "story": "XACT Robotics had everything a medtech startup is supposed to need: a proven founder pedigree, FDA clearance, and $55 million in venture capital. It still failed. Founded in 2013 as a spinoff from the Technion — Israel's premier technical university — the company developed autonomous robotic systems for needle-based surgical procedures like biopsies and ablations. The technology came from Professor Moshe Shoham, whose earlier work had produced Mazor Robotics, sold to Medtronic in 2018 for $1.64 billion. The expectation was that XACT would follow a similar trajectory.\n\nThe company's XACT ACE system received FDA clearance in 2019 and entered the market in 2020, capable of autonomously steering needles during CT-guided percutaneous procedures with minimal physician intervention. On paper, it was a significant advance — reducing procedure times, improving accuracy, and lowering radiation exposure for both patients and doctors. XACT raised $55 million through Series D funding and grew to 65 employees.\n\nBut FDA clearance did not translate into sales. Hospitals proved slow to adopt an autonomous needle-steering system, and the revenue XACT generated was far below what it needed to sustain operations. In 2020, the company reportedly turned down a $500 million acquisition offer, a decision that would haunt it. Subsequent acquisition discussions with other potential buyers also fell through. By 2023, with no realistic path to raising additional capital and no acquirer willing to pay what investors wanted, XACT shut down and laid off its entire staff of 65. The company's failure is a cautionary tale about the gap between regulatory approval and commercial viability — getting the FDA's green light is a milestone, not a finish line.",
+  "founded": "2013",
+  "shutdown": "2023-09",
+  "funding_raised": "$55M",
+  "funding_stage": "series-d",
+  "employee_count": 65,
+  "category": "market",
+  "tags": [
+    "medical-robotics",
+    "surgical-ai",
+    "autonomous-systems",
+    "healthcare",
+    "FDA-approved",
+    "Israel"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://en.globes.co.il/en/article-xact-robotics-shuts-down-lays-off-65-1001456845",
+      "title": "XACT Robotics shuts down, lays off 65 — Globes",
+      "date": "2023-09-03",
+      "snapshot_path": "data/snapshots/xact-robotics/en.globes.co.il_en_article-xact-robotics-shuts-down-lays-off-65-1001456845.html"
+    },
+    {
+      "url": "https://www.therobotreport.com/xact-robotics-36m-needle-steering-systems/",
+      "title": "XACT Robotics raises $36M for needle steering system — The Robot Report",
+      "date": "2019-11-13",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/remembering-robotics-companies-we-lost-in-2023/",
+      "title": "Remembering robotics companies we lost in 2023 — The Robot Report",
+      "date": "2023-12-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2020/07/15/2062517/0/en/XACT-ACE-Robotic-System-Cleared-by-FDA-for-Image-Guided-Percutaneous-Procedures.html",
+      "title": "XACT ACE Robotic System Cleared by FDA for Image-Guided Percutaneous Procedures — GlobeNewsWire",
+      "date": "2020-07-15",
+      "snapshot_path": "data/snapshots/xact-robotics/www.globenewswire.com_news-release_2020_07_15_2062517_0_en_XACT-ACE-Robotic-System-Cleared-by-FDA-for-Image-Guided-Percutaneous-Procedures.html.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 126,
+  "total_loss": "$55M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

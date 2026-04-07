@@ -1,0 +1,62 @@
+{
+  "name": "Rethink Robotics",
+  "slug": "rethink-robotics",
+  "tagline": "Pioneer of collaborative robots Baxter and Sawyer for industrial automation",
+  "description": "Rethink Robotics, founded in 2008 by MIT robotics legend Rodney Brooks and Ann Whittaker, pioneered collaborative robots (cobots) with its Baxter and Sawyer platforms. After burning through $150M in funding and failing to compete commercially with Universal Robots, the company shut down in October 2018 with 91 employees. Its assets were acquired by Germany's HAHN Group, later folded into United Robotics Group, which relaunched the brand in 2024 — only to file for insolvency in 2025 when products weren't ready, sales lagged, and the RAG Foundation pulled funding, making Rethink one of the rare startups to fail twice.",
+  "story": "Rethink Robotics was supposed to democratize industrial automation. Founded in 2008 by Rodney Brooks, the MIT robotics legend who had co-founded iRobot, the company set out to build collaborative robots that could work safely alongside humans on factory floors. Its first product, Baxter, launched in 2012 with an animated face, adaptive arms, and a $22,000 price tag that undercut the six-figure industrial robots dominating the market. The pitch was compelling: a cobot so intuitive that a line worker could train it by moving its arms through the desired motions, no programming required.\n\nBut the market had other ideas. Universal Robots, a Danish competitor, offered cobots that were faster, more precise, and better suited to the repetitive tasks manufacturers actually needed automated. Baxter was charming but imprecise. Its successor, Sawyer, launched in 2015 as a more capable single-arm robot, but it was too late to close the gap. By 2018, Rethink had burned through $150 million across multiple funding rounds without achieving commercial traction. When a last-ditch acquisition fell through in October 2018, the company shut down and laid off its 91 employees.\n\nThe story should have ended there, but it didn't. Germany's HAHN Group acquired Rethink's IP and folded it into United Robotics Group, which relaunched the brand in 2024 with plans for a next-generation cobot. The revival was short-lived. Products weren't ready, sales never materialized, and when the RAG Foundation — the primary backer — pulled its funding, United Robotics Group filed for insolvency in 2025. Rethink Robotics became one of the rare startups to fail twice. The lesson was the same both times: a visionary product means nothing without the commercial execution to match it.",
+  "founded": "2008",
+  "shutdown": "2025",
+  "funding_raised": "$150M",
+  "funding_stage": "series-e",
+  "employee_count": 91,
+  "category": "market",
+  "tags": [
+    "robotics",
+    "collaborative-robots",
+    "cobots",
+    "industrial-automation",
+    "hardware",
+    "manufacturing",
+    "MIT"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.therobotreport.com/rethink-robotics-shuts-down-again/",
+      "title": "Rethink Robotics shuts down — again — The Robot Report",
+      "date": "2025-03-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2018/10/04/rethink-robotics-closes-after-acquisition-plans-fall-through/",
+      "title": "Rethink Robotics closes after acquisition plans fall through — TechCrunch",
+      "date": "2018-10-04",
+      "snapshot_path": "data/snapshots/rethink-robotics/techcrunch.com_2018_10_04_rethink-robotics-closes-after-acquisition-plans-fall-through_.html"
+    },
+    {
+      "url": "https://www.asme.org/topics-resources/content/rise-fall-of-rethink-robotics",
+      "title": "Rise and Fall of Rethink Robotics — ASME",
+      "date": "2019-02-01",
+      "snapshot_path": "data/snapshots/rethink-robotics/www.asme.org_topics-resources_content_rise-fall-of-rethink-robotics.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rethink_Robotics",
+      "title": "Rethink Robotics — Wikipedia",
+      "date": "2025-01-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://xpert.digital/en/united-robotics-group/",
+      "title": "From celebrated champion to insolvency: The United Robotics Group — Xpert Digital",
+      "date": "2025-06-01",
+      "snapshot_path": "data/snapshots/rethink-robotics/xpert.digital_en_united-robotics-group_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 204,
+  "total_loss": "$150M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

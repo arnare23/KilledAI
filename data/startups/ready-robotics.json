@@ -1,0 +1,56 @@
+{
+  "name": "READY Robotics",
+  "slug": "ready-robotics",
+  "tagline": "Robot-agnostic operating system for programming industrial robots",
+  "description": "READY Robotics developed ForgeOS, a robot-agnostic operating system spun out of Johns Hopkins University that let users program robots from different manufacturers through a single low-code interface. After raising $43.5M, the Columbus, Ohio-based company shut down in August 2024 when a critical funding round collapsed amid a soft robotics market. Standard Bots later acquired all of its IP and patents.",
+  "story": "READY Robotics emerged from Johns Hopkins University with an idea that made intuitive sense: a universal operating system for industrial robots. ForgeOS, the company's core product, let users program and control robots from different manufacturers through a single low-code interface — eliminating the need for specialized expertise with each vendor's proprietary software. For small and mid-sized manufacturers struggling to adopt automation, it was a compelling proposition.\n\nFounded in 2016 and based in Columbus, Ohio, READY raised $43.5M across seed, Series A, and Series B rounds from investors including Canaan Partners, Drive Capital, and RRE Ventures. The $23M Series B in early 2020 positioned the company to scale aggressively into the industrial automation market, which was seeing growing demand as labor shortages worsened.\n\nBut the robotics market softened considerably in 2023 and 2024. Manufacturing investment slowed, and the customers READY needed — small to mid-sized factories — pulled back on automation spending. With 48 employees and significant burn, READY needed its next funding round to survive. That round fell through at the last minute in mid-2024, and the company had no runway left to find an alternative.\n\nREADY Robotics shut down in August 2024. Standard Bots subsequently acquired all of the company's IP, patents, and trademarks, preserving the technology even as the team and company behind it dissolved. The $43.5M in invested capital was gone.\n\nREADY's failure underscores a recurring pattern in robotics startups: strong technology and real market need are not enough if the timing of capital markets and customer adoption cycles don't align. When both your customers and your investors pull back simultaneously, even well-funded companies run out of room.",
+  "founded": "2016",
+  "shutdown": "2024-08",
+  "funding_raised": "$43.5M",
+  "funding_stage": "series-b",
+  "employee_count": 48,
+  "category": "funding",
+  "tags": [
+    "robotics",
+    "industrial-automation",
+    "operating-system",
+    "software",
+    "developer-tools",
+    "johns-hopkins",
+    "ohio"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.therobotreport.com/ready-robotics-maker-of-forgeos-shuts-down/",
+      "title": "READY Robotics, maker of ForgeOS, shuts down — The Robot Report",
+      "date": "2024-08-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/standard-bots-acquires-ready-robotics-ip-advance-ai-robot-training/",
+      "title": "Standard Bots acquires READY Robotics' IP to advance AI for robot training — The Robot Report",
+      "date": "2024-09-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.smartbusinessdealmakers.com/articles/topic/ready-robotics-closes-series-b-round-of-23m/",
+      "title": "READY Robotics closes Series B round with $23M in additional funds — Smart Business Dealmakers",
+      "date": "2020-02-25",
+      "snapshot_path": "data/snapshots/ready-robotics/www.smartbusinessdealmakers.com_articles_topic_ready-robotics-closes-series-b-round-of-23m_.html"
+    },
+    {
+      "url": "https://weare.techohio.ohio.gov/2020/02/28/as-factories-struggle-with-how-to-automate-ready-robotics-spun-out-of-johns-hopkins-raises-23-million-for-robotic-o-s/",
+      "title": "Ready Robotics, Spun Out Of Johns Hopkins, Raises $23 Million For Robotic O/S — TechOhio",
+      "date": "2020-02-28",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 104,
+  "total_loss": "$43.5M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Equality AI",
+  "slug": "equality-ai",
+  "tagline": "AI bias detection and risk management tools for healthcare",
+  "description": "Equality AI built open-source tools for healthcare systems to detect and mitigate bias in AI algorithms used in clinical settings. Founded in 2021 by Maia Hightower, former chief medical information officer at the University of Iowa, the startup raised $1.25M from EPIC Ventures and Grix VC but couldn't find enough clients to cover costs. The rescission of Biden's AI executive order by Trump in January 2025 was the 'final nail,' removing federal mandates that would have created demand for algorithm vetting services.",
+  "story": "Equality AI tried to solve one of the most important problems in healthcare AI: algorithmic bias. Founded in 2021 by Maia Hightower, a physician and former chief medical information officer at the University of Iowa, the startup built open-source tools that helped hospitals and health systems detect and mitigate bias in the AI models they deployed for clinical decision-making. The mission was urgent — studies had repeatedly shown that AI systems used in healthcare could produce worse outcomes for minority patients — and Hightower had the credibility and domain expertise to lead the effort.\n\nThe company raised $1.25 million in seed funding from EPIC Ventures and Grix VC, and Hightower became a visible advocate for responsible AI in healthcare, speaking at NIH events and industry conferences. But Equality AI faced a fundamental market problem: most health systems weren't yet required to vet their AI algorithms for bias, and without regulatory mandates, the urgency to buy specialized tools simply wasn't there. The sales pipeline was thin, and the small team of 12 struggled to convert interest into paying contracts.\n\nThe killing blow came from Washington. In January 2025, the incoming Trump administration rescinded Biden's executive order on AI safety, which had included provisions for algorithmic accountability in healthcare. Hightower called it the \"final nail in the coffin\" — the regulatory framework that would have created a market for her product was swept away overnight. Equality AI shut down the same month. The company's failure illustrates a painful reality for responsible-AI startups: building tools that the market should want is not the same as building tools the market will pay for, especially when demand depends on regulation that can be reversed with a signature.",
+  "founded": "2021",
+  "shutdown": "2025-01",
+  "funding_raised": "$1.25M",
+  "funding_stage": "seed",
+  "employee_count": 12,
+  "category": "regulatory",
+  "tags": [
+    "healthcare",
+    "bias-detection",
+    "ai-governance",
+    "regulatory-dependency",
+    "responsible-ai",
+    "open-source"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2025/01/27/equality-ai-maia-hightower-artificial-intelligence-local-validation/",
+      "title": "Why Maia Hightower's Equality AI startup is shutting down — STAT News",
+      "date": "2025-01-27",
+      "snapshot_path": "data/snapshots/equality-ai/www.statnews.com_2025_01_27_equality-ai-maia-hightower-artificial-intelligence-local-validation_.html"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/maia-hightower-md-mph-mba_responsibleai-aiinhealthcare-healthequity-activity-7287533982429204480-fPMm",
+      "title": "Maia Hightower announces Equality AI shutdown — LinkedIn",
+      "date": "2025-01-22",
+      "snapshot_path": "data/snapshots/equality-ai/www.linkedin.com_posts_maia-hightower-md-mph-mba_responsibleai-aiinhealthcare-healthequity-activity-7287533982429204480-fPMm.html"
+    },
+    {
+      "url": "https://nihrecord.nih.gov/2024/11/22/hightower-discusses-responsible-ai-health-care",
+      "title": "Hightower Discusses Responsible AI in Health Care — NIH Record",
+      "date": "2024-11-22",
+      "snapshot_path": "data/snapshots/equality-ai/nihrecord.nih.gov_2024_11_22_hightower-discusses-responsible-ai-health-care.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 48,
+  "total_loss": "$1.25M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

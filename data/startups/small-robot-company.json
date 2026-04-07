@@ -1,0 +1,62 @@
+{
+  "name": "Small Robot Company",
+  "slug": "small-robot-company",
+  "tagline": "AI-powered agricultural robots for precision per-plant farming",
+  "description": "Small Robot Company built AI-driven agricultural robots — Tom (scouting), Dick (weed-zapping), and Harry (planting) — for precision per-plant farming that could reduce herbicide use by 90%. Founded in 2017 in Salisbury, England by Ben Scott-Robinson, Sam Watson Jones, and Sarra Mander, the startup raised $13M across 6 rounds including crowdfunding from farmers. It entered liquidation in February 2024 when its lead investor pulled out despite a signed term sheet, and the UK's weak agtech funding ecosystem meant no replacement could be found in time.",
+  "story": "Small Robot Company wanted to reinvent farming from the ground up — literally, one plant at a time. Founded in 2017 in Salisbury, England by Ben Scott-Robinson, Sam Watson Jones, and Sarra Mander, the startup developed a fleet of AI-driven agricultural robots named Tom, Dick, and Harry. Tom scouted fields to map every individual plant, Dick zapped weeds with precision to eliminate herbicides, and Harry handled planting. The vision was a per-plant farming system that could reduce chemical herbicide use by up to 90% while improving crop yields.\n\nThe concept resonated deeply with British farmers. Small Robot Company raised approximately $13 million across six rounds of funding, including crowdfunding campaigns where farmers themselves invested in the company's future. The startup partnered with major UK agricultural estates for field trials and generated genuine enthusiasm in the agtech community. By its peak, the company employed around 50 people and was working toward commercial deployment.\n\nBut hardware robotics is expensive, and the path from successful field trials to commercial-scale production required far more capital than the UK's thin agtech investment ecosystem could provide. In early 2024, the company had a signed term sheet from its lead investor for the next funding round. Then that investor pulled out. In the UK's small agtech venture market, there was no backup. Without a replacement investor, Small Robot Company entered liquidation in February 2024, leaving its farmer-investors — many of whom had backed the company with modest sums out of genuine belief in its mission — facing losses. The company's demise highlighted a structural problem in British agtech: even when the technology works and the market demand exists, the funding infrastructure to bridge the gap from prototype to product may simply not be there.",
+  "founded": "2017",
+  "shutdown": "2024-02",
+  "funding_raised": "$13M",
+  "funding_stage": "series-a",
+  "employee_count": 50,
+  "category": "funding",
+  "tags": [
+    "agtech",
+    "agricultural-robotics",
+    "precision-farming",
+    "autonomous-robots",
+    "hardware",
+    "UK",
+    "crowdfunding"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.farminguk.com/news/-great-sadness-small-robot-company-put-into-liquidation_64099.html",
+      "title": "Great sadness: Small Robot Company put into liquidation — FarmingUK",
+      "date": "2024-02-12",
+      "snapshot_path": "data/snapshots/small-robot-company/www.farminguk.com_news_-great-sadness-small-robot-company-put-into-liquidation_64099.html.html"
+    },
+    {
+      "url": "https://www.therobotreport.com/agtech-startup-small-robot-company-shutting-down/",
+      "title": "Agtech startup Small Robot Company shutting down — The Robot Report",
+      "date": "2024-02-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://agritradenews.co.uk/news/2024/02/12/small-robot-co-runs-out-of-funds/",
+      "title": "Small Robot Co runs out of funds — AgriTrade News",
+      "date": "2024-02-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.fwi.co.uk/business/small-robot-company-in-liquidation-with-farming-investors-at-risk",
+      "title": "Small Robot Company in liquidation with farming investors at risk — Farmers Weekly",
+      "date": "2024-02-12",
+      "snapshot_path": "data/snapshots/small-robot-company/www.fwi.co.uk_business_small-robot-company-in-liquidation-with-farming-investors-at-risk.html"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/small-robot-company-limited_agtech-sustainable-farmingforthefuture-activity-7158903284827570176-bxUY",
+      "title": "We are liquidating Small Robot Company — LinkedIn",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/small-robot-company/www.linkedin.com_posts_small-robot-company-limited_agtech-sustainable-farmingforthefuture-activity-7158903284827570176-bxUY.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$13M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}

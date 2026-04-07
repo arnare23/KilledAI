@@ -1,0 +1,56 @@
+{
+  "name": "RoboTire",
+  "slug": "robotire",
+  "tagline": "Robotic system for automated tire changes in 20 minutes",
+  "description": "RoboTire developed an automated system that could change four tires in 20 minutes without human intervention. The Y Combinator-backed startup raised $12.1M, including a $7.5M Series A led by Discount Tire, but filed for Chapter 7 bankruptcy in January 2024 with $12.7M in liabilities after the market for robotic tire replacement never materialized at scale.",
+  "story": "RoboTire had a straightforward pitch: a robotic system that could swap all four tires on a car in about 20 minutes with no human intervention. Founded in 2018, the Y Combinator-backed company targeted the tire service industry, where manual tire changes are labor-intensive and increasingly hard to staff. The concept attracted serious backing — Discount Tire, the largest independent tire dealer in the United States, led a $7.5M Series A in 2021, bringing total funding to $12.1M.\n\nRoboTire deployed pilot systems across multiple states, including Arizona, Pennsylvania, Texas, and Michigan. The technology worked, but adoption was another matter. Tire shops operate on thin margins and are deeply conservative about capital expenditure. Convincing shop owners to invest in expensive robotic equipment — and to restructure their workflows around it — proved far harder than building the robot itself. The market for automated tire replacement simply did not materialize at the scale RoboTire needed.\n\nBy January 2024, the company was done. RoboTire filed for Chapter 7 bankruptcy liquidation with $12.7M in liabilities. Discount Tire, its biggest backer and largest creditor, was owed $4.9M. The filing revealed a company that had burned through its funding without establishing a viable commercial footprint.\n\nRoboTire's failure is a reminder that solving a technical problem is only half the equation. The other half is market readiness — and the tire service industry, for all its labor challenges, was not ready to automate.",
+  "founded": "2018",
+  "shutdown": "2024-01",
+  "funding_raised": "$12.1M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "robotics",
+    "automotive",
+    "automation",
+    "hardware",
+    "y-combinator",
+    "tire-service",
+    "michigan"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.autonews.com/service-and-parts/discount-tire-backed-robotire-liquidate-bankruptcy/",
+      "title": "Tire-changing robot startup files for Chapter 7 bankruptcy liquidation — Automotive News",
+      "date": "2024-01-22",
+      "snapshot_path": "data/snapshots/robotire/www.autonews.com_service-and-parts_discount-tire-backed-robotire-liquidate-bankruptcy_.html"
+    },
+    {
+      "url": "https://www.moderntiredealer.com/home/article/33019234/robotire-files-for-bankruptcy",
+      "title": "RoboTire Files For Bankruptcy — Modern Tire Dealer",
+      "date": "2024-01-22",
+      "snapshot_path": "data/snapshots/robotire/www.moderntiredealer.com_home_article_33019234_robotire-files-for-bankruptcy.html"
+    },
+    {
+      "url": "https://www.crainsdetroit.com/manufacturing/discount-tire-backed-robotire-liquidate-bankruptcy",
+      "title": "Discount Tire-backed RoboTire to liquidate in bankruptcy — Crain's Detroit Business",
+      "date": "2024-01-22",
+      "snapshot_path": "data/snapshots/robotire/www.crainsdetroit.com_manufacturing_discount-tire-backed-robotire-liquidate-bankruptcy.html"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/robotire",
+      "title": "RoboTire — Y Combinator",
+      "date": "2024-01-22",
+      "snapshot_path": "data/snapshots/robotire/www.ycombinator.com_companies_robotire.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 72,
+  "total_loss": "$12.1M",
+  "created_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07T00:00:00Z"
+}
