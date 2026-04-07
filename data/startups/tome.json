@@ -3,10 +3,10 @@
   "slug": "tome",
   "tagline": "AI-powered presentation and storytelling tool",
   "description": "Tome attracted 20 million users for AI slide generation but couldn't monetize them. After revenue stalled below $4M ARR, it killed the product and pivoted to sales automation.",
-  "story": "Founded in 2020, Tome raised approximately $75 million and was valued at $600 million for its AI-powered presentation tool that could generate entire slide decks from text prompts. The product attracted 20 million users — but there was a catch. Most users were students, freelancers, and Gen Z users unwilling to pay. Annual recurring revenue remained below $4 million despite the massive user base. Tome's tile-based format was also incompatible with business workflows since it couldn't export to PowerPoint. In October 2024, the company pivoted to sales automation under the name 'Lightfield,' and in April 2025, Tome Slides was officially sunset. The brand and legal AI technology were sold to AngelList. Twenty million users lost access to a product that had been absorbed by the commodity of AI-generated content — ChatGPT could make slides too.",
+  "story": "Founded in 2020, Tome raised approximately $81.6 million and was valued at $300 million for its AI-powered presentation tool that could generate entire slide decks from text prompts. The product attracted 20 million users — but there was a catch. Most users were students, freelancers, and Gen Z users unwilling to pay. Annual recurring revenue remained below $4 million despite the massive user base. Tome's tile-based format was also incompatible with business workflows since it couldn't export to PowerPoint. In October 2024, the company pivoted to sales automation under the name 'Lightfield,' and in April 2025, Tome Slides was officially sunset. The brand and legal AI technology were sold to AngelList. Twenty million users lost access to a product that had been absorbed by the commodity of AI-generated content — ChatGPT could make slides too.",
   "founded": "2020",
   "shutdown": "2025-04",
-  "funding_raised": "$75M",
+  "funding_raised": "$81.6M",
   "funding_stage": "series-b",
   "employee_count": 50,
   "category": "platform-absorbed",
@@ -28,7 +28,10 @@
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-07T00:00:00Z",
+  "updated_at": "2026-04-07",
   "lifetime_months": 63,
-  "total_loss": "$75M"
+  "total_loss": "$81.6M",
+  "review_flags": [
+    "Funding corrected from $75M to $81.6M per VentureBeat reporting. Valuation corrected from $600M to $300M per VentureBeat."
+  ]
 }

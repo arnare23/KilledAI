@@ -1,0 +1,68 @@
+{
+  "name": "Dreamer",
+  "slug": "dreamer",
+  "tagline": "No-code platform for building and remixing AI agents using plain English",
+  "description": "Dreamer (formerly /dev/agents) built a personal agent OS where non-technical users could build, discover, and remix AI agents using plain English. Founded by former Stripe CTO David Singleton, ex-Meta/Google VP Hugo Barra, CTO Ficus Kirkpatrick, and designer Nicholas Jitkoff, the 15-person team raised $56M at a $500M valuation before Meta acqui-hired everyone just five weeks after their public beta launch.",
+  "story": "Dreamer began life in late 2024 under the stealth name /dev/agents, founded by a team whose combined resumes read like a who's who of Silicon Valley platform engineering. CEO David Singleton had been CTO at Stripe; Hugo Barra had led Android product at Google, run Xiaomi's international expansion, and headed Meta's Oculus VR division; CTO Ficus Kirkpatrick was an early Android engineer who later served as VP of AR/VR at Meta; and chief design officer Nicholas Jitkoff had been principal designer on Google Chrome OS before senior roles at Dropbox and Figma. Singleton and Barra had known each other for eighteen years, dating back to their Google days.\n\nThe pedigree attracted extraordinary seed funding. In November 2024, Dreamer raised $56 million at a $500 million valuation — one of the largest seed rounds in AI history. Index Ventures and Alphabet's CapitalG co-led, with angel participation from OpenAI co-founder Andrej Karpathy, Scale AI CEO Alexandr Wang, Palo Alto Networks CEO Nikesh Arora, and Android creator Andy Rubin. The company partnered with Anthropic and built on the Claude Agent SDK. The product vision was ambitious: not another chatbot wrapper, but a full operating system for AI agents where users could create, host, compose, and remix agents using natural language. A core feature called Sidekick could autonomously generate, test, and deploy new agents in as little as fifteen minutes.\n\nDreamer launched its open beta on February 18, 2026, and traction came fast. Thousands of users signed up and built agents for tasks ranging from email management to personal learning to health goal tracking. The platform's three-layer architecture — agents in user space, tool integrations as device drivers, and Sidekick as an orchestration kernel — represented a genuinely novel approach to agentic AI. Dynamic sub-agent spawning let agents recruit specialized helpers mid-execution.\n\nThen, five weeks later, it was over. On March 23, 2026, Meta announced it had acqui-hired Dreamer's entire 15-person team into its Superintelligence Labs division, led by Chief AI Officer Alexandr Wang — the same Alexandr Wang who had been an angel investor in Dreamer's seed round. Under the deal, Dreamer remained a standalone legal entity and Meta obtained a non-exclusive license to its technology, but the product was effectively abandoned. It was Meta's third major AI talent acquisition in four months, following its $2 billion Manus purchase and the Moltbook deal. For Dreamer's users, the thousands of agents they had built were orphaned. For the AI startup ecosystem, it was a stark reminder that in the talent wars of 2026, even a $500 million valuation and a product with real users could not protect a company from being swallowed whole — not by competition, but by a check too large to refuse.",
+  "founded": "2024-01",
+  "shutdown": "2026-03",
+  "funding_raised": "$56M",
+  "funding_stage": "Seed",
+  "employee_count": 15,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-agents",
+    "no-code",
+    "consumer",
+    "meta",
+    "acqui-hire",
+    "agentic-ai",
+    "anthropic"
+  ],
+  "url": "https://dreamer.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/23/meta-acqui-hires-co-founders-agentic-ai-startup-dreamer/",
+      "title": "Meta acqui-hires the co-founders of agentic AI startup Dreamer",
+      "date": "2026-03-23",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://topaiproduct.com/2026/03/23/dreamer-raised-56m-to-build-an-agent-os-5-weeks-after-launch-meta-hired-the-entire-team/",
+      "title": "Dreamer Raised $56M to Build an Agent OS — 5 Weeks After Launch, Meta Hired the Entire Team",
+      "date": "2026-03-23",
+      "snapshot_path": "data/snapshots/dreamer/topaiproduct.com_2026_03_23_dreamer-raised-56m-to-build-an-agent-os-5-weeks-after-launch-meta-hired-the-entire-team_.html"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-23/meta-hires-former-google-stripe-execs-behind-ai-startup-dreamer",
+      "title": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer",
+      "date": "2026-03-23",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/",
+      "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
+      "date": "2026-03-23",
+      "snapshot_path": "data/snapshots/dreamer/the-decoder.com_meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/",
+      "title": "Why AI agent startup /dev/agents commanded a massive $56M seed round at a $500M valuation",
+      "date": "2024-11-28",
+      "snapshot_path": "data/snapshots/dreamer/techcrunch.com_2024_11_28_ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation_.html"
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/23/meta-acqui-hires-co-founders-agentic-ai-startup-dreamer/",
+      "title": "Meta acqui-hires the co-founders of agentic AI startup Dreamer",
+      "date": "2026-03-23",
+      "snapshot_path": "data/snapshots/dreamer/siliconangle.com_2026_03_23_meta-acqui-hires-co-founders-agentic-ai-startup-dreamer_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 26,
+  "total_loss": "$56M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-07T18:36:51.387381+00:00",
-  "count": 114,
+  "generated_at": "2026-04-07T19:04:08.851537+00:00",
+  "count": 120,
   "startups": [
     {
       "name": "Cove",
@@ -46,6 +46,20 @@
       "created_at": "2026-04-07T12:00:00Z"
     },
     {
+      "name": "Dreamer",
+      "slug": "dreamer",
+      "tagline": "No-code platform for building and remixing AI agents using plain English",
+      "founded": "2024-01",
+      "shutdown": "2026-03",
+      "category": "acqui-hired",
+      "funding_raised": "$56M",
+      "lifetime_months": 26,
+      "total_loss": "$56M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
+    },
+    {
       "name": "Monarch Tractor",
       "slug": "monarch-tractor",
       "tagline": "AI-powered autonomous electric tractor for agriculture",
@@ -69,6 +83,20 @@
       "funding_raised": "Unknown",
       "lifetime_months": 25,
       "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
+    },
+    {
+      "name": "Vercept",
+      "slug": "vercept",
+      "tagline": "Cloud-based computer-use AI agents for desktop automation",
+      "founded": "2024-01",
+      "shutdown": "2026-03",
+      "category": "acqui-hired",
+      "funding_raised": "$50M",
+      "lifetime_months": 26,
+      "total_loss": "$50M",
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07"
@@ -528,9 +556,9 @@
       "founded": "2020",
       "shutdown": "2025-04",
       "category": "platform-absorbed",
-      "funding_raised": "$75M",
+      "funding_raised": "$81.6M",
       "lifetime_months": 63,
-      "total_loss": "$75M",
+      "total_loss": "$81.6M",
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
@@ -564,15 +592,29 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "Edukoya",
+      "slug": "edukoya",
+      "tagline": "AI-powered online learning platform for Nigerian students",
+      "founded": "2021",
+      "shutdown": "2025-02",
+      "category": "market",
+      "funding_raised": "$3.5M",
+      "lifetime_months": 46,
+      "total_loss": "$3.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
+    },
+    {
       "name": "Humane",
       "slug": "humane-ai-pin",
       "tagline": "AI-powered wearable pin pitched as a smartphone replacement",
       "founded": "2018",
       "shutdown": "2025-02",
       "category": "technical",
-      "funding_raised": "$241M",
+      "funding_raised": "$230M",
       "lifetime_months": 85,
-      "total_loss": "$241M",
+      "total_loss": "$230M",
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
@@ -984,6 +1026,20 @@
       "created_at": "2026-04-01T12:00:00Z"
     },
     {
+      "name": "Gro Intelligence",
+      "slug": "gro-intelligence",
+      "tagline": "AI-powered agriculture and climate data analytics platform",
+      "founded": "2014",
+      "shutdown": "2024-06",
+      "category": "market",
+      "funding_raised": "$125M",
+      "lifetime_months": 120,
+      "total_loss": "$125M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
+    },
+    {
       "name": "Aerit",
       "slug": "aerit",
       "tagline": "AI-powered autonomous drone delivery in Sweden",
@@ -1052,6 +1108,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "Phantom Auto",
+      "slug": "phantom-auto",
+      "tagline": "Remote driving teleoperation platform for autonomous vehicles and forklifts",
+      "founded": "2017",
+      "shutdown": "2024-03",
+      "category": "funding",
+      "funding_raised": "$95M",
+      "lifetime_months": 84,
+      "total_loss": "$95M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-07"
     },
     {
       "name": "Drift",
@@ -1248,6 +1318,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Booth AI",
+      "slug": "booth-ai",
+      "tagline": "AI-powered product photography for e-commerce",
+      "founded": "2022",
+      "shutdown": "2023-08",
+      "category": "no-moat",
+      "funding_raised": "$500K",
+      "lifetime_months": 18,
+      "total_loss": "$500K",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-04-07"
     },
     {
       "name": "Vowel",

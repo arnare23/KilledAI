@@ -1,0 +1,67 @@
+{
+  "name": "Vercept",
+  "slug": "vercept",
+  "tagline": "Cloud-based computer-use AI agents for desktop automation",
+  "description": "Vercept built Vy, a computer-use AI agent that could operate a remote Mac to automate complex desktop workflows. Founded by AI2 alumni with $50M raised, the startup lasted just over a year before Anthropic acquired the team and killed the product in March 2026.",
+  "story": "Vercept emerged in early 2024 from Seattle's Allen Institute for AI (AI2) with a powerhouse founding team: Kiana Ehsani, who had led AI2's robotics and embodied AI research; Luca Weihs, AI2's former research manager and infrastructure lead; Ross Girshick, a deep learning and computer vision pioneer who had worked at both Meta AI and AI2; Oren Etzioni, AI2's founding CEO; and Matt Deitke, who had worked on AI2 projects including Molmo and Objaverse. Their product, Vy, was a vision-powered Mac application that could observe and replicate complex workflows from a single natural language command -- no APIs, connectors, or hardcoded steps required.\n\nThe startup raised a $16 million seed round in January 2025 led by Seth Bannon's Fifty Years, with participation from Point Nine and the AI2 Incubator. The angel investor list read like a tech hall of fame: former Google CEO Eric Schmidt, Google DeepMind chief scientist Jeff Dean, Cruise founder Kyle Vogt, and Dropbox co-founder Arash Ferdowsi. Vercept would go on to raise $50 million total across multiple rounds, with an eight-person team building a product that CEO Ehsani said had 'exceeded expectations' in early adoption.\n\nThen the team began to fracture. Meta's Superintelligence Lab made a direct play for co-founder Matt Deitke, reportedly offering approximately $250 million over four years -- an offer from Mark Zuckerberg himself. Deitke left. Co-founder Oren Etzioni, who was also an investor, grew increasingly frustrated with the company's direction. On February 25, 2026, Anthropic announced it had acquired Vercept -- its second-ever acquisition after Bun -- to advance Claude's computer-use capabilities. Ehsani, Weihs, and Girshick joined Anthropic. Etzioni and Deitke did not.\n\nVy was given 30 days to live, shutting down on March 25, 2026. Etzioni did not go quietly. On LinkedIn, he wrote that Vercept was 'throwing in the towel and giving customers 30 days to get off the platform,' and publicly accused lead investor Bannon of being 'partly responsible' for not hiring the right business leaders. The dispute laid bare the tensions of a rapid acqui-hire: $50 million raised, strong early traction, and a product that worked -- but a team pulled apart by Big Tech talent wars and an investor-founder relationship that couldn't hold.",
+  "founded": "2024-01",
+  "shutdown": "2026-03",
+  "funding_raised": "$50M",
+  "funding_stage": "seed",
+  "employee_count": 8,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-agents",
+    "computer-use",
+    "desktop-automation",
+    "anthropic",
+    "acqui-hire",
+    "ai2"
+  ],
+  "url": "https://vercept.ai",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+      "date": "2026-02-25",
+      "snapshot_path": "data/snapshots/vercept/techcrunch.com_2026_02_25_anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors_.html"
+    },
+    {
+      "url": "https://www.geekwire.com/2026/anthropic-acquires-vercept-in-early-exit-for-one-of-seattles-standout-ai-startups/",
+      "title": "Anthropic acquires Vercept in early exit for one of Seattle's standout AI startups",
+      "date": "2026-02-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.anthropic.com/news/acquires-vercept",
+      "title": "Anthropic acquires Vercept to advance Claude's computer-use capabilities",
+      "date": "2026-02-25",
+      "snapshot_path": "data/snapshots/vercept/www.anthropic.com_news_acquires-vercept.html"
+    },
+    {
+      "url": "https://entrepreneurloop.com/anthropic-acquires-vercept-ai-meta-poaches-cofounder/",
+      "title": "Anthropic Acquires Vercept AI as Meta Poaches Co-Founder in High-Stakes Talent War",
+      "date": "2026-02-26",
+      "snapshot_path": "data/snapshots/vercept/entrepreneurloop.com_anthropic-acquires-vercept-ai-meta-poaches-cofounder_.html"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/02/26/anthropic-acquires-ai-startup-vercept-475965/",
+      "title": "Anthropic acquires AI startup Vercept",
+      "date": "2026-02-26",
+      "snapshot_path": "data/snapshots/vercept/americanbazaaronline.com_2026_02_26_anthropic-acquires-ai-startup-vercept-475965_.html"
+    },
+    {
+      "url": "https://www.benzinga.com/news/topics/25/06/45895934/vercept-raises-16m-with-google-legend-and-dropbox-co-founder-backing-to-build-future-of-workflows-wit",
+      "title": "Vercept Raises $16M With Google Legend And Dropbox Co-Founder Backing",
+      "date": "2025-06-11",
+      "snapshot_path": "data/snapshots/vercept/www.benzinga.com_news_topics_25_06_45895934_vercept-raises-16m-with-google-legend-and-dropbox-co-founder-backing-to-build-future-of-workflows-wit.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 26,
+  "total_loss": "$50M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

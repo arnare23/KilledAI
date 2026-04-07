@@ -1,0 +1,68 @@
+{
+  "name": "Gro Intelligence",
+  "slug": "gro-intelligence",
+  "tagline": "AI-powered agriculture and climate data analytics platform",
+  "description": "Gro Intelligence used AI to aggregate and analyze global agriculture and climate data for enterprise clients like Unilever. Co-founded in 2014 by Sara Menker, Sewit Ahderom, and Nemo Semret, the company raised $125M over a decade before collapsing in June 2024 amid a leadership ouster, mass layoffs, employee lawsuits, and an SEC investigation.",
+  "story": "Gro Intelligence was founded in 2014 in Nairobi, Kenya by Sara Menker, Sewit Ahderom, and Nemo Semret. Menker, an Ethiopia-born former commodities trader, had spent years at Morgan Stanley watching how opaque and fragmented agricultural data was. She envisioned a platform that could ingest thousands of data sources — satellite imagery, weather patterns, soil conditions, crop yields, trade flows — and use machine learning to surface actionable insights for commodity traders, food companies, and governments. Ahderom, a former Citigroup investment banker and VP at Helios Investment Partners, served as COO. Semret, who had spent eight years as a software engineer at Google working on search ranking algorithms, built the technical infrastructure as CTO.\n\nThe vision attracted serious capital and recognition. Over a decade, Gro raised over $125 million, anchored by an $85 million Series B co-led by Intel Capital in January 2021. The company was named one of TIME's 100 Most Influential Companies, and Menker herself appeared on the TIME100 Most Influential People list. Gro counted Unilever, Bayer, and several major banks among its clients, and its platform aggregated data from governments, trade organizations, weather agencies, and financial markets worldwide.\n\nBut beneath the accolades, Gro struggled with a fundamental problem: it could not convert its impressive technology into scalable, repeatable revenue. The company became heavily dependent on a handful of large clients — Unilever chief among them — and much of its work devolved into bespoke consultancy-style projects rather than self-serve software subscriptions. The company lacked a CFO for much of its existence, hampering financial reporting and discipline. By late 2023, Gro was struggling to meet payroll. In late January 2024, the company cut 10% of staff. On February 23, 2024, the board removed Menker as CEO — her Slack account was deactivated shortly before the announcement — and installed CTO James Cariello as her replacement. COO Ahderom departed entirely. An emergency attempt to raise capital through convertible bonds failed to stabilize the company. Between February and March 2024, Gro abruptly terminated over 90 employees, roughly two-thirds of its workforce, without notice or severance.\n\nThe aftermath was brutal. Former employees filed a putative class action lawsuit alleging violations of the WARN Act, which requires 60 days' notice before mass layoffs at companies with more than 100 employees. A separate lawsuit by former marketing executive Allison Tepley alleged discrimination and a hostile work environment under Menker. The U.S. Securities and Exchange Commission opened an investigation into whether Gro had misrepresented its financial health and growth prospects to investors. By June 2024, the remaining skeleton crew announced the company was shutting down for good. A decade of work, $125 million in investor capital, and a mission to secure the world's food supply ended not with a pivot or a quiet wind-down, but with courtrooms and federal investigators.",
+  "founded": "2014",
+  "shutdown": "2024-06",
+  "funding_raised": "$125M",
+  "funding_stage": "late",
+  "employee_count": 112,
+  "category": "market",
+  "tags": [
+    "agritech",
+    "climate-data",
+    "analytics",
+    "enterprise",
+    "agriculture",
+    "sec-investigation",
+    "africa"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/06/04/2024/kenyan-ai-data-gro-intelligence-startup-shuts-down",
+      "title": "Sara Menker's Gro Intelligence startup shuts down",
+      "date": "2024-06-04",
+      "snapshot_path": "data/snapshots/gro-intelligence/www.semafor.com_article_06_04_2024_kenyan-ai-data-gro-intelligence-startup-shuts-down.html"
+    },
+    {
+      "url": "https://weetracker.com/2024/06/02/why-gro-intelligence-shutdown/",
+      "title": "How Gro Intelligence Went Under Following Decade Of False Dawns",
+      "date": "2024-06-02",
+      "snapshot_path": "data/snapshots/gro-intelligence/weetracker.com_2024_06_02_why-gro-intelligence-shutdown_.html"
+    },
+    {
+      "url": "https://launchbaseafrica.com/2024/06/02/african-agtech-startup-gro-intelligence-funded-by-echovc-crashes-despite-100m-investment/",
+      "title": "African Agtech Startup Gro Intelligence Crashes Despite $100M+ Investment",
+      "date": "2024-06-02",
+      "snapshot_path": "data/snapshots/gro-intelligence/launchbaseafrica.com_2024_06_02_african-agtech-startup-gro-intelligence-funded-by-echovc-crashes-despite-100m-investment_.html"
+    },
+    {
+      "url": "https://launchbaseafrica.com/2024/08/22/now-defunct-agritech-startup-gro-intelligence-has-a-mountain-of-court-cases-to-climb/",
+      "title": "Now Defunct, Agritech Startup Gro Intelligence Has a Mountain of Court Cases to Climb",
+      "date": "2024-08-22",
+      "snapshot_path": "data/snapshots/gro-intelligence/launchbaseafrica.com_2024_08_22_now-defunct-agritech-startup-gro-intelligence-has-a-mountain-of-court-cases-to-climb_.html"
+    },
+    {
+      "url": "https://agfundernews.com/exclusive-ag-insights-platform-gro-intelligence-unable-to-make-payroll-replaces-founder-with-new-ceo",
+      "title": "Exclusive: Ag insights platform Gro Intelligence unable to make payroll, replaces founder with new CEO",
+      "date": "2024-02-23",
+      "snapshot_path": "data/snapshots/gro-intelligence/agfundernews.com_exclusive-ag-insights-platform-gro-intelligence-unable-to-make-payroll-replaces-founder-with-new-ceo.html"
+    },
+    {
+      "url": "https://agfundernews.com/gro-intelligence-sued-by-ex-employees-for-failing-to-provide-advance-notice-of-mass-layoffs",
+      "title": "Gro Intelligence sued by ex-employees for failing to provide advance notice of mass layoffs",
+      "date": "2024-03-15",
+      "snapshot_path": "data/snapshots/gro-intelligence/agfundernews.com_gro-intelligence-sued-by-ex-employees-for-failing-to-provide-advance-notice-of-mass-layoffs.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 120,
+  "total_loss": "$125M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

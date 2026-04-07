@@ -1,0 +1,61 @@
+{
+  "name": "Edukoya",
+  "slug": "edukoya",
+  "tagline": "AI-powered online learning platform for Nigerian students",
+  "description": "Edukoya built an AI-driven edtech platform with live classes and adaptive learning for Nigerian students. After raising Africa's largest pre-seed round of $3.5M, the startup shut down in February 2025, citing market readiness challenges and failed M&A attempts.",
+  "story": "Edukoya was founded in 2021 by Honey Ogundeyi, a serial entrepreneur who had previously founded fashion e-commerce startup Fashpa, served as the first Chief Marketing Officer at Nigerian neobank Kuda, and held roles at McKinsey, Ericsson, and Google. Her mission was to make quality education accessible to Nigerian students through AI-powered adaptive learning and live online classes.\n\nThe startup attracted immediate investor confidence. Edukoya raised $3.5 million in what became Africa's largest pre-seed round, led by European VC Target Global with angel participation from Paystack CEO Shola Akinlade, Kuda co-founders Babs Ogundeyi and Musty Mustapha, and Stash co-founders Brandon Krieg and Ed Robinson. Based in Lagos with a small office in Cape Town, the team of roughly 29 employees built a platform that gained real traction: over 80,000 students, more than 15 million questions answered, and thousands of daily live classes.\n\nBut Edukoya's synchronous learning model clashed with Nigeria's infrastructure realities. Stable internet was scarce, smartphone penetration limited, and most families lacked disposable income for premium digital education. The naira's steep devaluation made matters worse, shrinking the already thin addressable market. By 2022 the company was showing a net liability position despite the capital injection, a red flag that suggested the business model was burning faster than it could grow.\n\nAfter exploring partnerships, pivots, and M&A deals without finding a viable path, Ogundeyi made the decision to wind down operations and return remaining capital to investors rather than deplete resources chasing scale in a hostile market. In her words, Edukoya was 'ahead of its time.' An anonymous investor praised the decision, telling Techpoint Africa it 'demonstrates an ability to recognise when market forces make VC-scale outcomes unviable and return investor capital, thus upholding investor confidence.' The shutdown added to a growing list of African edtech casualties, raising broader questions about whether VC-funded digital education models can work in markets where basic connectivity remains a luxury.",
+  "founded": "2021",
+  "shutdown": "2025-02",
+  "funding_raised": "$3.5M",
+  "funding_stage": "pre-seed",
+  "employee_count": 29,
+  "category": "market",
+  "tags": [
+    "edtech",
+    "africa",
+    "education",
+    "adaptive-learning",
+    "nigeria",
+    "ai-wrapper"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://nairametrics.com/2025/02/26/nigerian-edtech-startup-edukoya-shuts-down-4-years-after-raising-3-5-million/",
+      "title": "Nigerian edtech startup Edukoya shuts down 4 years after raising $3.5 million",
+      "date": "2025-02-26",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techpoint.africa/2025/02/26/edukoya-shuts-down/",
+      "title": "Edukoya shuts down, to return investment after three years in Nigeria's edtech space",
+      "date": "2025-02-26",
+      "snapshot_path": "data/snapshots/edukoya/techpoint.africa_2025_02_26_edukoya-shuts-down_.html"
+    },
+    {
+      "url": "https://startupgraveyard.africa/blog/why-nigerian-edtech-startup-edukoya-shut-down-despite-early-success",
+      "title": "Case Study: Why Nigerian EdTech Startup Edukoya Shut Down Despite Early Success",
+      "date": "2025-02-27",
+      "snapshot_path": "data/snapshots/edukoya/startupgraveyard.africa_blog_why-nigerian-edtech-startup-edukoya-shut-down-despite-early-success.html"
+    },
+    {
+      "url": "https://launchbaseafrica.com/2025/02/27/what-went-wrong-at-edukoya-nigerian-edtech-closure-raises-market-questions-and-financial-red-flags/",
+      "title": "What Went Wrong at Edukoya? Nigerian Edtech Closure Raises Market Questions and Financial Red Flags",
+      "date": "2025-02-27",
+      "snapshot_path": "data/snapshots/edukoya/launchbaseafrica.com_2025_02_27_what-went-wrong-at-edukoya-nigerian-edtech-closure-raises-market-questions-and-financial-red-flags_.html"
+    },
+    {
+      "url": "https://technext24.com/2025/02/26/edukoya-shuts-down-amid-market-challenge/",
+      "title": "Nigerian edtech Edukoya Shuts Down after 3 years, to Return Investment",
+      "date": "2025-02-26",
+      "snapshot_path": "data/snapshots/edukoya/technext24.com_2025_02_26_edukoya-shuts-down-amid-market-challenge_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 46,
+  "total_loss": "$3.5M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

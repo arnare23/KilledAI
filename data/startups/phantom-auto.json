@@ -1,0 +1,62 @@
+{
+  "name": "Phantom Auto",
+  "slug": "phantom-auto",
+  "tagline": "Remote driving teleoperation platform for autonomous vehicles and forklifts",
+  "description": "Phantom Auto developed a teleoperation platform allowing remote drivers to operate vehicles from thousands of miles away. Founded in 2017 by Shai Magzimof, Ohad Dvir, and Andrew Gryaznov, the company raised $95M and pivoted from autonomous cars to logistics forklifts before shutting down in March 2024 when a critical funding round fell through.",
+  "story": "Phantom Auto was founded in 2017 in Mountain View, California by Shai Magzimof (CEO), Ohad Dvir (COO), and Andrew Gryaznov (CTO). Their premise was elegant: autonomous vehicles would sometimes need a human in the loop, and that human did not have to be sitting in the car. Phantom Auto built a teleoperation platform that let a remote driver, potentially located thousands of miles away, see through the vehicle's cameras and take full control using a steering wheel and pedals at a workstation. The initial target was robotaxis and self-driving trucks on public roads.\n\nThe vision attracted serious early backing. Bessemer Venture Partners led the $5.5M seed round in 2017, and the $13.5M Series A followed in April 2019 with participation from Lightspeed Venture Partners and Greycroft. But by 2019, Magzimof recognized that the timeline for mass deployment of driverless vehicles on public roads was stretching far beyond original projections. Phantom Auto pivoted sharply toward logistics — forklifts, yard trucks, and autonomous sidewalk delivery robots — environments with low speeds, confined spaces, and no pedestrians to endanger. The pivot unlocked a $43M Series C in January 2022 and a $25M private equity round from InfraBridge in mid-2023, bringing the total raised to roughly $95 million. Strategic investors ArcBest and ConGlobal, both logistics operators, also came on board.\n\nAt its peak, Phantom Auto employed about 120 people across offices in the United States and Israel. But the remote-driving market for logistics forklifts never scaled the way the company needed. Warehouses and yards proved harder to sell into than anticipated — customers were cautious, integration was complex, and each deployment was a bespoke project rather than a scalable software sale. The unit economics never fully worked. In early 2024, Phantom Auto came close to securing another round of funding, but the deal collapsed at the last minute. On March 12, 2024, Magzimof posted on LinkedIn: \"After seven years of efforts to reshape the future of physical labor at Phantom Auto, we've made the tough decision to close operations. There are various factors contributing to this, including market conditions and insufficient funding.\" All remaining employees — a little over 100 — were laid off.\n\nPhantom Auto's story is a cautionary tale about pivots in deep tech. The company executed a well-reasoned strategic shift from autonomous vehicles to logistics teleoperation, and raised substantial capital to pursue it. But finding product-market fit in industrial logistics turned out to be just as grueling as the autonomous driving problem they had abandoned. In the end, $95 million and seven years were not enough to prove that remote-driving forklifts was a venture-scale business.",
+  "founded": "2017",
+  "shutdown": "2024-03",
+  "funding_raised": "$95M",
+  "funding_stage": "late",
+  "employee_count": 120,
+  "category": "funding",
+  "tags": [
+    "autonomous-driving",
+    "teleoperation",
+    "logistics",
+    "remote-driving",
+    "robotics",
+    "deep-tech",
+    "forklifts"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/03/12/remote-driving-startup-phantom-auto-is-shutting-down/",
+      "title": "Remote driving startup Phantom Auto is shutting down",
+      "date": "2024-03-12",
+      "snapshot_path": "data/snapshots/phantom-auto/techcrunch.com_2024_03_12_remote-driving-startup-phantom-auto-is-shutting-down_.html"
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/b1vnckyca",
+      "title": "Remote driving startup Phantom Auto announces closure, lays off over 100 employees",
+      "date": "2024-03-13",
+      "snapshot_path": "data/snapshots/phantom-auto/www.calcalistech.com_ctechnews_article_b1vnckyca.html"
+    },
+    {
+      "url": "https://digitalmarketreports.com/news/12154/phantom-autos-shuts-down/",
+      "title": "Phantom Auto's Seven-Year Ride Ends After Funding Falls Through",
+      "date": "2024-03-14",
+      "snapshot_path": "data/snapshots/phantom-auto/digitalmarketreports.com_news_12154_phantom-autos-shuts-down_.html"
+    },
+    {
+      "url": "https://distilinfo.com/it/2024/03/14/phantom-autos-rise-and-fall-in-remote/",
+      "title": "Phantom Auto's Rise and Fall in Remote Driving 2024",
+      "date": "2024-03-14",
+      "snapshot_path": "data/snapshots/phantom-auto/distilinfo.com_it_2024_03_14_phantom-autos-rise-and-fall-in-remote_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2019/04/18/phantom-auto-raises-13-5m-to-expand-remote-driving-business-to-delivery-bots-and-forklifts/",
+      "title": "Phantom Auto raises $13.5M to expand remote driving business to delivery bots and forklifts",
+      "date": "2019-04-18",
+      "snapshot_path": "data/snapshots/phantom-auto/techcrunch.com_2019_04_18_phantom-auto-raises-13-5m-to-expand-remote-driving-business-to-delivery-bots-and-forklifts_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$95M",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

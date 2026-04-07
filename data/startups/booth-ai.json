@@ -1,0 +1,54 @@
+{
+  "name": "Booth AI",
+  "slug": "booth-ai",
+  "tagline": "AI-powered product photography for e-commerce",
+  "description": "Booth AI used generative AI to create lifestyle product photos for e-commerce sellers without expensive photoshoots. Despite Y Combinator backing, the startup struggled with poor reviews, an oversaturated market, and insufficient funding, going silent by mid-2023.",
+  "story": "Booth AI was founded in 2022 by Nick Locascio, a former Director of Engineering at Standard AI and MIT graduate, and Ian Baldwin, a machine learning scientist with a PhD from Oxford who had worked at NASA's Jet Propulsion Lab and autonomous vehicle company Zoox. Their pitch was simple and compelling: e-commerce sellers could upload basic product photos and receive hundreds of styled lifestyle images in seconds, eliminating the cost and logistics of traditional photoshoots.\n\nThe company joined Y Combinator's Winter 2023 batch, debuted at NRF 2023, and was featured in an a16z consumer AI roundup. With a three-person team, they raised $500K in seed funding from Y Combinator, Pioneer Fund, Foundation Capital, Amino Capital, and TRAC. Booth AI branded itself as 'virtual photoshoot as a service' and charged around $24.99 per month or roughly $2.50 per image.\n\nBut the timing that made Booth AI possible also made it vulnerable. By 2023, the explosion of generative AI image tools meant over 200 direct competitors offered similar capabilities, many with freemium models and better support. Trustpilot reviews from August 2023 were damning: users complained of unreliable outputs, credits vanishing mid-use, and generic customer support responses. With only $500K in runway, there was no room to iterate on product quality or outspend competitors on infrastructure and model improvements.\n\nAfter a SXSW demo in May 2023, Booth AI went completely silent -- no blog posts, no tweets, no product updates. The original product photography service is no longer operational. YC lists the company as 'Acquired,' though no acquirer has been publicly identified, and the domain later pivoted to an unrelated no-code AI app builder. For the original vision of democratizing product photography with AI, Booth AI stands as a textbook case of the wrapper trap: building a thin layer atop commoditized AI models in a market where differentiation is nearly impossible.",
+  "founded": "2022",
+  "shutdown": "2023-08",
+  "funding_raised": "$500K",
+  "funding_stage": "pre-seed",
+  "employee_count": 3,
+  "category": "no-moat",
+  "tags": [
+    "e-commerce",
+    "generative-ai",
+    "product-photography",
+    "yc-backed",
+    "ai-wrapper"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://dang.ai/tool/ai-product-photography-tool-booth",
+      "title": "AI Product Photography Tool - Booth - What happened to booth.ai? Why Did Booth Shut Down?",
+      "date": "2025-05-01",
+      "snapshot_path": "data/snapshots/booth-ai/dang.ai_tool_ai-product-photography-tool-booth.html"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/booth-ai",
+      "title": "Booth AI: Generative AI Photographer for E-Commerce | Y Combinator",
+      "date": "2023-01-01",
+      "snapshot_path": "data/snapshots/booth-ai/www.ycombinator.com_companies_booth-ai.html"
+    },
+    {
+      "url": "https://www.crunchbase.com/organization/booth-ai",
+      "title": "Booth AI - Crunchbase Company Profile & Funding",
+      "date": "2024-01-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.marktechpost.com/2024/07/09/meet-booth-ai-an-ai-powered-solution-that-builds-no-code-gen-ai-apps/",
+      "title": "Meet Booth AI: An AI-Powered Solution that Builds No-Code Gen AI Apps",
+      "date": "2024-07-09",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 18,
+  "total_loss": "$500K",
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-07"
+}

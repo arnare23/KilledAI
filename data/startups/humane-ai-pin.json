@@ -2,11 +2,11 @@
   "name": "Humane",
   "slug": "humane-ai-pin",
   "tagline": "AI-powered wearable pin pitched as a smartphone replacement",
-  "description": "Humane's AI Pin was a screenless wearable device that projected information onto the user's palm. Despite $241M in funding, it was plagued by reliability, heat, and battery issues.",
-  "story": "Founded in 2018 by former Apple employees Imran Chaudhri and Bethany Bongiorno, Humane raised $241 million to build the AI Pin \u2014 a screenless wearable that used a laser projector to display information on the user's palm. Pitched as a post-smartphone device, the AI Pin launched to devastating reviews. Critics called it 'bad at almost everything it does,' citing persistent overheating, poor battery life, and an interface that was slow and confusing. The company sold roughly 10,000 units against a target of 100,000. Humane attempted to find a buyer at $750 million to $1 billion in mid-2024, but no offers materialized. In February 2025, HP acquired the company's assets for just $116 million \u2014 a fraction of the capital invested \u2014 and shut down the AI Pin's servers, bricking all devices in the field.",
+  "description": "Humane's AI Pin was a screenless wearable device that projected information onto the user's palm. Despite $230M in funding, it was plagued by reliability, heat, and battery issues.",
+  "story": "Founded in 2018 by former Apple employees Imran Chaudhri and Bethany Bongiorno, Humane raised over $230 million to build the AI Pin \u2014 a screenless wearable that used a laser projector to display information on the user's palm. Pitched as a post-smartphone device, the AI Pin launched to devastating reviews. Critics called it 'bad at almost everything it does,' citing persistent overheating, poor battery life, and an interface that was slow and confusing. The company sold roughly 10,000 units against a target of 100,000. Humane attempted to find a buyer at $750 million to $1 billion in mid-2024, but no offers materialized. In February 2025, HP acquired the company's assets for just $116 million \u2014 a fraction of the capital invested \u2014 and shut down the AI Pin's servers, bricking all devices in the field.",
   "founded": "2018",
   "shutdown": "2025-02",
-  "funding_raised": "$241M",
+  "funding_raised": "$230M",
   "funding_stage": "series-c",
   "employee_count": 200,
   "category": "technical",
@@ -36,10 +36,7 @@
   "status": "published",
   "confidence": "high",
   "created_at": "2026-04-01T22:00:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-07",
   "lifetime_months": 85,
-  "total_loss": "$241M",
-  "review_flags": [
-    "Funding of $241M conflicts with Wikipedia which states $230M raised by November 2023. The $241M figure may include a later undisclosed round. Difference is minor ($11M) but should be verified."
-  ]
+  "total_loss": "$230M"
 }
