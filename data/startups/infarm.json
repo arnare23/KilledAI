@@ -1,0 +1,49 @@
+{
+  "name": "Infarm",
+  "slug": "infarm",
+  "tagline": "Europe's billion-dollar vertical farming unicorn that wilted country by country",
+  "description": "Berlin-based vertical farming startup founded by Israeli siblings Erez and Guy Galonska alongside Osnat Michaeli. Infarm built a distributed network of AI and IoT-powered indoor farms, placing modular growing units directly inside supermarkets. At its peak, the company was valued at $1 billion, employed over 1,000 people across 10 countries, and raised $604 million before going insolvent in 2023.",
+  "story": "The idea was irresistible: what if your lettuce grew right inside the supermarket where you bought it? In 2013, Israeli siblings Erez and Guy Galonska, along with Osnat Michaeli, launched Infarm from a modest Berlin apartment with exactly that vision. Their modular, glass-enclosed growing units used IoT sensors, cloud analytics, and AI to cultivate herbs and greens in the aisles of grocery stores. The produce was hyperlocal, pesticide-free, and visually striking. Supermarket chains across Europe signed up -- Edeka, Marks and Spencer, Albert Heijn -- and the company expanded into North America and Japan with partners like Kroger and Safeway.\n\nVenture capital flooded in. Infarm raised nearly $604 million across rounds through Series D, reaching a $1 billion valuation in 2022. The company employed over 1,000 people across 10 countries. But scaling a distributed network of tiny farms proved far more expensive than scaling a single large one. Each in-store unit required maintenance, logistics, and energy, and Europe's 2022 energy crisis doubled electricity costs virtually overnight. The math that barely worked before became impossible.\n\nIn November 2022, Infarm laid off more than half its workforce, citing escalating energy prices and tough financial markets. The exits followed in rapid succession: France, Denmark, the UK, the Netherlands -- one market after another went dark. By September 2023, the German parent company entered administration, and the Dutch arm was declared bankrupt. Sifted ran a headline that captured the arc perfectly: this vertical farming company raised $500 million, and then it all but disappeared.\n\nInfarm's story illustrates the gap between a compelling demo and a viable business. The in-store units were a brilliant piece of theater -- customers loved watching their herbs grow behind glass. But theater does not scale. The company that promised to make cities self-sufficient in food production could not make itself self-sufficient in revenue.",
+  "founded": "2013-01",
+  "shutdown": "2023-09",
+  "funding_raised": "$604M",
+  "funding_stage": "Series D",
+  "employee_count": 1000,
+  "category": "funding",
+  "tags": [
+    "ai",
+    "vertical-farming",
+    "iot",
+    "agriculture",
+    "europe",
+    "germany"
+  ],
+  "url": "https://infarm.com",
+  "sources": [
+    {
+      "url": "https://sifted.eu/articles/infarm-raised-500m-and-disappeared",
+      "title": "This vertical farming company raised $500m, and then it all but disappeared",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/infarm/sifted.eu_articles_infarm-raised-500m-and-disappeared.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/infarm-bankrupt-netherlands",
+      "title": "Dutch arm of vertical farming startup Infarm declared bankrupt",
+      "date": "2023-11-01",
+      "snapshot_path": "data/snapshots/infarm/sifted.eu_articles_infarm-bankrupt-netherlands.html"
+    },
+    {
+      "url": "https://agfundernews.com/infarm-to-lay-off-more-than-half-of-its-workforce",
+      "title": "Infarm to lay off more than half of workforce, downsize operations",
+      "date": "2022-11-01",
+      "snapshot_path": "data/snapshots/infarm/agfundernews.com_infarm-to-lay-off-more-than-half-of-its-workforce.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 128,
+  "total_loss": "$604M",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}

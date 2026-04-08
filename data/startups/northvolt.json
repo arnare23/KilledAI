@@ -1,0 +1,49 @@
+{
+  "name": "Northvolt",
+  "slug": "northvolt",
+  "tagline": "Europe's $14B answer to Chinese batteries that never learned to make them",
+  "description": "Swedish battery manufacturing startup founded in 2015 by former Tesla executives Peter Carlsson and Paolo Cerruti. Northvolt raised over $14 billion and built a gigafactory in northern Sweden, using AI and machine learning to optimize production. But the factory managed only a fraction of its planned 16 GWh capacity, BMW cancelled a 2 billion euro order, and the company filed for Chapter 11 bankruptcy in November 2024 with $5.8 billion in debts -- the largest industrial bankruptcy in modern Swedish history.",
+  "story": "Northvolt was Europe's industrial champion, the continent's answer to Asian battery dominance and proof that the West could compete in the energy transition. Founded in 2015 by Peter Carlsson and Paolo Cerruti, two former Tesla supply chain executives, the Swedish company raised a staggering $14 billion-plus in equity and debt to build gigafactories that would supply batteries for the coming electric vehicle revolution. Volkswagen, Goldman Sachs, and the European Investment Bank were among the backers. At its peak, Northvolt employed 6,000 people and was valued at $12 billion.\n\nThe vision was grand, but the execution stumbled at the most fundamental level: making batteries. Northvolt's flagship gigafactory in Skelleftea, in Sweden's far north, was commissioned in 2021 with a target of 16 GWh of annual production capacity. By late 2024, it had achieved roughly 1 GWh -- barely six percent of the plan. Workers reported that substantial parts of the production process were dysfunctional. The scrap rate remained stubbornly high; in battery manufacturing, each percentage point of waste costs roughly 30,000 euros per day. AI and machine learning were supposed to optimize yield, but no algorithm could compensate for a production line that had not been properly established in the first place.\n\nThe consequences cascaded. In May 2024, BMW cancelled a 2 billion euro battery order, a devastating vote of no confidence from a marquee customer. Other contracts wobbled. By the third quarter of 2024, Northvolt had delivered just 0.5 percent of its planned annual capacity. On November 21, the company filed for Chapter 11 bankruptcy in the United States with $5.8 billion in debts and only $30 million in cash -- enough to operate for one more week. CEO Peter Carlsson resigned the next day, saying the company needed at least $1 billion to continue. In March 2025, Northvolt filed for bankruptcy in Sweden as well, marking the largest industrial insolvency in modern Swedish history.\n\nThe failure shook European industrial policy. Northvolt had been positioned as the linchpin of the continent's strategy to build a domestic battery supply chain, insulated from Chinese dominance. Instead, it demonstrated that political will and capital alone cannot shortcut the decades of manufacturing expertise that Asian competitors had accumulated. Carlsson moved on quickly, securing funding for a new AI manufacturing startup. The wreckage of his previous one -- $14 billion in capital, 6,000 jobs, and Europe's battery ambitions -- was left behind in the Arctic cold.",
+  "founded": "2015-01",
+  "shutdown": "2024-11",
+  "funding_raised": "$14B+",
+  "funding_stage": "Late Stage",
+  "employee_count": 6000,
+  "category": "technical",
+  "tags": [
+    "ai",
+    "batteries",
+    "manufacturing",
+    "ev",
+    "europe",
+    "sweden"
+  ],
+  "url": "https://northvolt.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/",
+      "title": "Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns",
+      "date": "2024-11-22",
+      "snapshot_path": "data/snapshots/northvolt/techcrunch.com_2024_11_22_battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns_.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/northvolt-bankrupt-sweden-tech-latest",
+      "title": "From pioneer to bankruptcy: The rise and fall of Northvolt",
+      "date": "2024-11-22",
+      "snapshot_path": "data/snapshots/northvolt/sifted.eu_articles_northvolt-bankrupt-sweden-tech-latest.html"
+    },
+    {
+      "url": "https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/",
+      "title": "Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden",
+      "date": "2025-03-12",
+      "snapshot_path": "data/snapshots/northvolt/techcrunch.com_2025_03_12_battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 118,
+  "total_loss": "$5.8B+",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}

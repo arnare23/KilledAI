@@ -1,0 +1,2046 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+<script>
+	// Set defaults for Google Analytics and Ads
+	window.googletag = window.googletag || { cmd: [] };
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push(arguments); }
+	gtag('consent', 'default', {
+		'ad_storage': 'granted', // Allow ads to load immediately
+		'analytics_storage': 'granted', // Deny analytics without consent
+		'ad_user_data': 'denied',
+		'ad_personalization': 'denied', // Default to non-personalized
+		'personalization_storage': 'denied',
+		'functionality_storage': 'granted',
+		'security_storage': 'granted',
+		// 'wait_for_update': 500
+	});
+	gtag("set", "ads_data_redaction", true);
+</script>
+
+<script>
+	/**
+	 * Initialize Osano
+	 */
+	(function (w, o, d) {
+		w[o] = w[o] || function () { w[o][d].push(arguments); };
+		w[o][d] = w[o][d] || [];
+	})(window, 'Osano', 'data');
+</script>
+<style>
+.osano-cm-widget {
+	display: none !important;
+}
+</style>
+
+<script src='https://cmp.osano.com/AzqBmEUU91e314HKV/9c9da8e7-a14d-490e-b4af-8da7c1cc41e9/osano.js'></script>
+
+<script>
+	window.Osano('onInitialized', (consent) => {
+		osanoEvents();
+	});
+
+	/**
+	 * Load additional function after Osano is initialized
+	 */
+	function osanoEvents() {
+		var cX = window.cX || { options: { tcf20: true } };
+		// Update ads preferences dynamically on consent save
+		Osano.cm.addEventListener('osano-cm-consent-saved', (change) => {
+			const marketingConsent = change['MARKETING'] === 'ACCEPT';
+			localStorage.setItem('comscore.ccpa-opt-in', String(marketingConsent ? 1 : 0));
+		});
+
+		const customCookieLink = document.getElementsByClassName('osano-custom-cookie-link');
+		
+		if(customCookieLink.length > 0) {
+			const osanoPref = customCookieLink[0];
+			
+			osanoPref.addEventListener('click', (event) => {
+				event.preventDefault();
+				if (window.Osano && window.Osano.cm) {
+					// Attempt to open the slideout directly
+					window.Osano.cm.showDrawer();
+				} else {
+					// Fallback: Trigger the default dialog (which includes the banner)
+					console.warn('Osano slideout cannot be opened directly. Falling back to showDialog().');
+					if (window.Osano && window.Osano.cm) {
+						window.Osano.cm.showDialog();
+					}
+				}
+			});
+		}
+	}
+</script>
+	
+<script>
+	window.PianoESPConfig = {
+		hashId: "65BDB153-CFE3-4F42-8F1C-8464C721F5FF"
+	};
+	window.tp = window["tp"] || [];
+	window.tp.push(["setAid", "3CgcRbFCpu"]);
+	window.tp.push(["setSandbox", false]);
+	// window.tp.push(["setDebug", false]);
+	window.tp.push(['setUsePianoIdUserProvider', true]);
+
+			window.tp.push(['setComposerHost','https://c2.entrepreneur.com']);
+		window.tp.push(['setPianoIdUrl', 'https://auth.entrepreneur.com']);
+		window.tp.push(['setEndpoint', 'https://vx.entrepreneur.com']);
+		window.tp.push(['setStaticDomain', 'https://cdn.entrepreneur.com']);
+	
+	window.tp.push(["init", function() {
+		window.tp.pianoId.init();
+		window.tp.experience.init();
+	}]);
+
+	window.tp.push(['addHandler', 'meterExpired', function(params) {
+		const heroImage = document.getElementById('singleVideoImage');
+		const videoPlayer = document.getElementById('singleVideoPlayer');
+		const bottomAd = document.getElementById('articleBottomAd');
+
+		if (heroImage) {
+			heroImage.classList.remove('tw:hidden');
+		}
+
+		if (videoPlayer) {
+			videoPlayer.remove();
+		}
+
+		if (bottomAd) {
+			bottomAd.remove();
+		}
+	}]);
+
+			tp.push( [ "setZone", [ "edition_in" ] ] );
+	
+			tp.push( [ "setTags", [ ["News and Trends"] ] ] );
+				tp.push( [ "setContentSection", "article" ] );
+	
+</script>
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>GenAI Startup InsurStaq.ai Shuts Shop In 16 months</title>
+	<link rel="canonical" href="https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="GenAI Startup InsurStaq.ai Shuts Shop In 16 months" />
+	<meta property="og:description" content="It was funded by Faad Network, an early-stage fund" />
+	<meta property="og:url" content="https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627" />
+	<meta property="og:site_name" content="Entrepreneur India" />
+	<meta property="article:published_time" content="2024-09-10T11:58:00+00:00" />
+	<meta property="article:modified_time" content="2025-10-04T04:33:39+00:00" />
+	<meta property="og:image" content="https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg" />
+	<meta property="og:image:width" content="2000" />
+	<meta property="og:image:height" content="1333" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#article","isPartOf":{"@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627"},"author":{"@type":"Person","name":"Entrepreneur Staff","sameAs":"[\"https://www.facebook.com/entmagazine\",\"https://x.com/entrepreneur\",\"https://www.linkedin.com/company/entrepreneur-media\",\"https://www.instagram.com/entrepreneur\",\"https://www.entrepreneur.com\",\"https://www.entrepreneur.com/bookstore/isbn/9781642011357/start-your-own-business\"]","description":"For more than 30 years, Entrepreneur has set the course for success for millions of entrepreneurs and small business owners. We'll teach you the secrets of the winners and give you exactly what you need to lay the groundwork for success.","worksFor":"Entrepreneur Media, LLC","jobTitle":"Editor","url":"https://india.entrepreneur.com/author/entrepreneur-staff"},"headline":"GenAI Startup InsurStaq.ai Shuts Shop In 16 months","datePublished":"2024-09-10T11:58:00+00:00","dateModified":"2025-10-04T04:33:39+00:00","mainEntityOfPage":{"@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627"},"wordCount":309,"commentCount":0,"image":{"@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#primaryimage"},"thumbnailUrl":"https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg","keywords":["News and Trends"],"articleSection":["Business News"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#respond"]}]},{"@type":"WebPage","@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627","url":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627","name":"GenAI Startup InsurStaq.ai Shuts Shop In 16 months","isPartOf":{"@id":"https://india.entrepreneur.com/#website"},"primaryImageOfPage":{"@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#primaryimage"},"image":{"@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#primaryimage"},"thumbnailUrl":"https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg","datePublished":"2024-09-10T11:58:00+00:00","dateModified":"2025-10-04T04:33:39+00:00","author":{"@id":""},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627#primaryimage","url":"https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg","contentUrl":"https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg","width":2000,"height":1333},{"@type":"WebSite","@id":"https://india.entrepreneur.com/#website","url":"https://india.entrepreneur.com/","name":"Entrepreneur India","description":"Stay updated with Entrepreneur Media India for the latest business news, innovative startup ideas, and inspiring success stories. Discover insights, trends, and resources to fuel your entrepreneurial journey.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://india.entrepreneur.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<meta property="article:author" content="Entrepreneur Staff" />
+<meta name="author" content="Entrepreneur Staff" />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//js.hsforms.net' />
+<link rel='dns-prefetch' href='//c2.entrepreneur.com' />
+<link rel='dns-prefetch' href='//s.skimresources.com' />
+<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//cdn.adsafeprotected.com' />
+<link rel='dns-prefetch' href='//assets.entrepreneur.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//players.brightcove.net' />
+<link rel="alternate" type="application/rss+xml" title="Entrepreneur India &raquo; Feed" href="https://india.entrepreneur.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Entrepreneur India &raquo; Comments Feed" href="https://india.entrepreneur.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Entrepreneur India &raquo; GenAI Startup InsurStaq.ai Shuts Shop In 16 months Comments Feed" href="https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627/feed" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://india.entrepreneur.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.5' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{fill:currentColor;height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='wp-parsely-recommendations-style-inline-css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<style id='entrepreneur-modal-style-inline-css'>
+.wp-block-entrepreneur-modal-dialog,.wp-block-entrepreneur-modal-wrapper{--modal-border-radius:1.5rem;--modal-padding:1.5rem;--modal-background-color:var(--wp--preset--color--white);--modal-backdrop-color:rgba(0,0,0,.7)}.wp-block-entrepreneur-modal-dialog{background-color:var(--modal-background-color);border:none;border-radius:var(--modal-border-radius);padding:var(--modal-padding);width:min(calc(100vw - var(--modal-padding)*2),30rem)}.wp-block-entrepreneur-modal-dialog::backdrop{background-color:var(--modal-backdrop-color)}.wp-block-entrepreneur-modal__close-button{-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:transparent;background-image:url(/wp-content/themes/entrepreneur/dist/blocks/modal/../../svg/menu-toggle-close.svg);background-position:50%;background-repeat:no-repeat;background-size:80%;border:none;cursor:pointer;height:1.5rem;margin-left:auto;width:1.5rem}.wp-block-entrepreneur-modal__header{display:flex;margin-bottom:var(--spacing-m)}
+
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://india.entrepreneur.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://india.entrepreneur.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.5' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='elasticpress-facet-style-inline-css'>
+.widget_ep-facet input[type=search],.wp-block-elasticpress-facet input[type=search]{margin-bottom:1rem}.widget_ep-facet .searchable .inner,.wp-block-elasticpress-facet .searchable .inner{max-height:20em;overflow:scroll}.widget_ep-facet .term.hide,.wp-block-elasticpress-facet .term.hide{display:none}.widget_ep-facet .empty-term,.wp-block-elasticpress-facet .empty-term{opacity:.5;position:relative}.widget_ep-facet .empty-term:after,.wp-block-elasticpress-facet .empty-term:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;width:100%;z-index:2}.widget_ep-facet .level-1,.wp-block-elasticpress-facet .level-1{padding-left:20px}.widget_ep-facet .level-2,.wp-block-elasticpress-facet .level-2{padding-left:40px}.widget_ep-facet .level-3,.wp-block-elasticpress-facet .level-3{padding-left:60px}.widget_ep-facet .level-4,.wp-block-elasticpress-facet .level-4{padding-left:5pc}.widget_ep-facet .level-5,.wp-block-elasticpress-facet .level-5{padding-left:75pt}.widget_ep-facet input[disabled],.wp-block-elasticpress-facet input[disabled]{cursor:pointer;opacity:1}.widget_ep-facet .term a,.wp-block-elasticpress-facet .term a{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.widget_ep-facet .term a:hover .ep-checkbox,.wp-block-elasticpress-facet .term a:hover .ep-checkbox{background-color:#ccc}.ep-checkbox{-webkit-box-align:center;-ms-flex-align:center;-ms-flex-negative:0;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;background-color:#eee;display:-webkit-box;display:-ms-flexbox;display:flex;flex-shrink:0;height:1em;justify-content:center;margin-right:.25em;width:1em}.ep-checkbox:after{border:solid #fff;border-width:0 .125em .125em 0;content:"";display:none;height:.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.25em}.ep-checkbox.checked{background-color:#5e5e5e}.ep-checkbox.checked:after{display:block}
+
+</style>
+<link rel='stylesheet' id='elasticpress-related-posts-block-css' href='https://india.entrepreneur.com/wp-content/mu-plugins/search/elasticpress/dist/css/related-posts-block-styles.min.css?ver=4.2.2' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #020618;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary-yellow: #FDC700;--wp--preset--color--primary-blue: #193CB8;--wp--preset--color--primary-red: #9F0712;--wp--preset--color--slate-800: #0F172B;--wp--preset--color--slate-600: #45556C;--wp--preset--color--slate-500: #62748E;--wp--preset--color--slate-400: #90A1B9;--wp--preset--color--slate-300: #CAD5E2;--wp--preset--color--slate-200: #E2E8F0;--wp--preset--color--slate-100: #F1F5F9;--wp--preset--color--slate-50: #F8FAFC;--wp--preset--color--red-700: #C10007;--wp--preset--color--red-50: #fef2f2;--wp--preset--color--green-800: #0D542B;--wp--preset--color--green-700: #008236;--wp--preset--color--green-100: #F0FDF4;--wp--preset--color--green-50: #F0FDF4;--wp--preset--color--yellow-400: #FDC700;--wp--preset--color--yellow-50: #FEFCE8;--wp--preset--color--orange-100: #ffedd4;--wp--preset--color--orange-50: #FFF7ED;--wp--preset--color--blue-900: #1C398E;--wp--preset--color--blue-100: #DBEAFE;--wp--preset--color--blue-50: #EFF6FF;--wp--preset--color--light-blue: #EFF6FF;--wp--preset--color--light-biege: #FFF7ED;--wp--preset--color--light-orange: #ffedd4;--wp--preset--color--teal-green: #008236;--wp--preset--color--off-white: #F8FAFC;--wp--preset--color--dark-navy: #020618;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 24px;--wp--preset--font-size--large: 40px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xxlarge: 60px;--wp--preset--font-size--xlarge: 48px;--wp--preset--font-size--medium-large: 32px;--wp--preset--font-size--small-medium: 20px;--wp--preset--font-size--xsmall: 16px;--wp--preset--font-size--xxsmall: 14px;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--spacing--20: 1rem;--wp--preset--spacing--30: 1.5rem;--wp--preset--spacing--40: 2rem;--wp--preset--spacing--50: 3rem;--wp--preset--spacing--60: 4rem;--wp--preset--spacing--70: 6rem;--wp--preset--spacing--80: 8rem;--wp--preset--spacing--10: 0.5rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);--wp--preset--shadow--sm: 0 0.0625rem 0.25rem 0.0625rem rgb(0 0 0 / 8%);--wp--preset--shadow--md: 0 0.25rem 0.5rem rgb(0 0 0 / 15%);--wp--preset--shadow--soft: 0 0 2rem rgb(0 0 0 / 10%);--wp--custom--stroke-contrast: var(--wp--preset--color--slate-800);--wp--custom--stroke-subtle: var(--wp--preset--color--slate-400);--wp--custom--stroke-lightest: var(--wp--preset--color--slate-50);--wp--custom--site-background: var(--wp--preset--color--white);--wp--custom--color-primary: var(--wp--preset--color--primary-blue);--wp--custom--color-primary-invert: var(--wp--preset--color--white);--wp--custom--thumbnail-border-radius: 0.5rem;--wp--custom--gutter: 1rem;}:root { --wp--style--global--content-size: 48.75rem;--wp--style--global--wide-size: 73.75rem; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){color: var(--wp--custom--color-primary);text-decoration: none;}h1{color: var(--wp--preset--color--black);}h2{color: var(--wp--preset--color--black);}h3{color: var(--wp--preset--color--black);}h4{color: var(--wp--preset--color--black);}h5{color: var(--wp--preset--color--black);}h6{color: var(--wp--preset--color--black);}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-yellow-color{color: var(--wp--preset--color--primary-yellow) !important;}.has-primary-blue-color{color: var(--wp--preset--color--primary-blue) !important;}.has-primary-red-color{color: var(--wp--preset--color--primary-red) !important;}.has-slate-800-color{color: var(--wp--preset--color--slate-800) !important;}.has-slate-600-color{color: var(--wp--preset--color--slate-600) !important;}.has-slate-500-color{color: var(--wp--preset--color--slate-500) !important;}.has-slate-400-color{color: var(--wp--preset--color--slate-400) !important;}.has-slate-300-color{color: var(--wp--preset--color--slate-300) !important;}.has-slate-200-color{color: var(--wp--preset--color--slate-200) !important;}.has-slate-100-color{color: var(--wp--preset--color--slate-100) !important;}.has-slate-50-color{color: var(--wp--preset--color--slate-50) !important;}.has-red-700-color{color: var(--wp--preset--color--red-700) !important;}.has-red-50-color{color: var(--wp--preset--color--red-50) !important;}.has-green-800-color{color: var(--wp--preset--color--green-800) !important;}.has-green-700-color{color: var(--wp--preset--color--green-700) !important;}.has-green-100-color{color: var(--wp--preset--color--green-100) !important;}.has-green-50-color{color: var(--wp--preset--color--green-50) !important;}.has-yellow-400-color{color: var(--wp--preset--color--yellow-400) !important;}.has-yellow-50-color{color: var(--wp--preset--color--yellow-50) !important;}.has-orange-100-color{color: var(--wp--preset--color--orange-100) !important;}.has-orange-50-color{color: var(--wp--preset--color--orange-50) !important;}.has-blue-900-color{color: var(--wp--preset--color--blue-900) !important;}.has-blue-100-color{color: var(--wp--preset--color--blue-100) !important;}.has-blue-50-color{color: var(--wp--preset--color--blue-50) !important;}.has-light-blue-color{color: var(--wp--preset--color--light-blue) !important;}.has-light-biege-color{color: var(--wp--preset--color--light-biege) !important;}.has-light-orange-color{color: var(--wp--preset--color--light-orange) !important;}.has-teal-green-color{color: var(--wp--preset--color--teal-green) !important;}.has-off-white-color{color: var(--wp--preset--color--off-white) !important;}.has-dark-navy-color{color: var(--wp--preset--color--dark-navy) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-yellow-background-color{background-color: var(--wp--preset--color--primary-yellow) !important;}.has-primary-blue-background-color{background-color: var(--wp--preset--color--primary-blue) !important;}.has-primary-red-background-color{background-color: var(--wp--preset--color--primary-red) !important;}.has-slate-800-background-color{background-color: var(--wp--preset--color--slate-800) !important;}.has-slate-600-background-color{background-color: var(--wp--preset--color--slate-600) !important;}.has-slate-500-background-color{background-color: var(--wp--preset--color--slate-500) !important;}.has-slate-400-background-color{background-color: var(--wp--preset--color--slate-400) !important;}.has-slate-300-background-color{background-color: var(--wp--preset--color--slate-300) !important;}.has-slate-200-background-color{background-color: var(--wp--preset--color--slate-200) !important;}.has-slate-100-background-color{background-color: var(--wp--preset--color--slate-100) !important;}.has-slate-50-background-color{background-color: var(--wp--preset--color--slate-50) !important;}.has-red-700-background-color{background-color: var(--wp--preset--color--red-700) !important;}.has-red-50-background-color{background-color: var(--wp--preset--color--red-50) !important;}.has-green-800-background-color{background-color: var(--wp--preset--color--green-800) !important;}.has-green-700-background-color{background-color: var(--wp--preset--color--green-700) !important;}.has-green-100-background-color{background-color: var(--wp--preset--color--green-100) !important;}.has-green-50-background-color{background-color: var(--wp--preset--color--green-50) !important;}.has-yellow-400-background-color{background-color: var(--wp--preset--color--yellow-400) !important;}.has-yellow-50-background-color{background-color: var(--wp--preset--color--yellow-50) !important;}.has-orange-100-background-color{background-color: var(--wp--preset--color--orange-100) !important;}.has-orange-50-background-color{background-color: var(--wp--preset--color--orange-50) !important;}.has-blue-900-background-color{background-color: var(--wp--preset--color--blue-900) !important;}.has-blue-100-background-color{background-color: var(--wp--preset--color--blue-100) !important;}.has-blue-50-background-color{background-color: var(--wp--preset--color--blue-50) !important;}.has-light-blue-background-color{background-color: var(--wp--preset--color--light-blue) !important;}.has-light-biege-background-color{background-color: var(--wp--preset--color--light-biege) !important;}.has-light-orange-background-color{background-color: var(--wp--preset--color--light-orange) !important;}.has-teal-green-background-color{background-color: var(--wp--preset--color--teal-green) !important;}.has-off-white-background-color{background-color: var(--wp--preset--color--off-white) !important;}.has-dark-navy-background-color{background-color: var(--wp--preset--color--dark-navy) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-yellow-border-color{border-color: var(--wp--preset--color--primary-yellow) !important;}.has-primary-blue-border-color{border-color: var(--wp--preset--color--primary-blue) !important;}.has-primary-red-border-color{border-color: var(--wp--preset--color--primary-red) !important;}.has-slate-800-border-color{border-color: var(--wp--preset--color--slate-800) !important;}.has-slate-600-border-color{border-color: var(--wp--preset--color--slate-600) !important;}.has-slate-500-border-color{border-color: var(--wp--preset--color--slate-500) !important;}.has-slate-400-border-color{border-color: var(--wp--preset--color--slate-400) !important;}.has-slate-300-border-color{border-color: var(--wp--preset--color--slate-300) !important;}.has-slate-200-border-color{border-color: var(--wp--preset--color--slate-200) !important;}.has-slate-100-border-color{border-color: var(--wp--preset--color--slate-100) !important;}.has-slate-50-border-color{border-color: var(--wp--preset--color--slate-50) !important;}.has-red-700-border-color{border-color: var(--wp--preset--color--red-700) !important;}.has-red-50-border-color{border-color: var(--wp--preset--color--red-50) !important;}.has-green-800-border-color{border-color: var(--wp--preset--color--green-800) !important;}.has-green-700-border-color{border-color: var(--wp--preset--color--green-700) !important;}.has-green-100-border-color{border-color: var(--wp--preset--color--green-100) !important;}.has-green-50-border-color{border-color: var(--wp--preset--color--green-50) !important;}.has-yellow-400-border-color{border-color: var(--wp--preset--color--yellow-400) !important;}.has-yellow-50-border-color{border-color: var(--wp--preset--color--yellow-50) !important;}.has-orange-100-border-color{border-color: var(--wp--preset--color--orange-100) !important;}.has-orange-50-border-color{border-color: var(--wp--preset--color--orange-50) !important;}.has-blue-900-border-color{border-color: var(--wp--preset--color--blue-900) !important;}.has-blue-100-border-color{border-color: var(--wp--preset--color--blue-100) !important;}.has-blue-50-border-color{border-color: var(--wp--preset--color--blue-50) !important;}.has-light-blue-border-color{border-color: var(--wp--preset--color--light-blue) !important;}.has-light-biege-border-color{border-color: var(--wp--preset--color--light-biege) !important;}.has-light-orange-border-color{border-color: var(--wp--preset--color--light-orange) !important;}.has-teal-green-border-color{border-color: var(--wp--preset--color--teal-green) !important;}.has-off-white-border-color{border-color: var(--wp--preset--color--off-white) !important;}.has-dark-navy-border-color{border-color: var(--wp--preset--color--dark-navy) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.has-medium-large-font-size{font-size: var(--wp--preset--font-size--medium-large) !important;}.has-small-medium-font-size{font-size: var(--wp--preset--font-size--small-medium) !important;}.has-xsmall-font-size{font-size: var(--wp--preset--font-size--xsmall) !important;}.has-xxsmall-font-size{font-size: var(--wp--preset--font-size--xxsmall) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+:root :where(.wp-block-heading){font-weight: var(--fw-extra-bold);}
+</style>
+<link rel='stylesheet' id='entrepreneur_plugin_shared-css' href='https://india.entrepreneur.com/wp-content/client-mu-plugins/entrepreneur/dist/css/shared.css?ver=d1a06dafad47fdb089c0' media='all' />
+<link rel='stylesheet' id='entrepreneur_plugin_frontend-css' href='https://india.entrepreneur.com/wp-content/client-mu-plugins/entrepreneur/dist/css/frontend.css?ver=0501709c2ac12f7de675' media='all' />
+<link rel='stylesheet' id='styles-css' href='https://india.entrepreneur.com/wp-content/themes/entrepreneur/dist/css/frontend.css?ver=ba38d6ef7b9a6a19ce3e' media='all' />
+<link rel='stylesheet' id='brightcove-pip-css-css' href='https://players.brightcove.net/videojs-pip/1/videojs-pip.css?ver=2.8.8' media='all' />
+<link rel='stylesheet' id='brightcove-playlist-css' href='https://india.entrepreneur.com/wp-content/plugins/brightcove-video-connect/assets/css/brightcove_playlist.min.css?ver=2.8.8' media='all' />
+<link rel='stylesheet' id='classifai-plugin-text-to-speech-frontend-css-css' href='https://india.entrepreneur.com/wp-content/themes/entrepreneur/assets/css/frontend/plugins/classifai-plugin-text-to-speech-frontend.css?ver=1.1.11' media='all' />
+<script type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js" id="hubspot-form-js"></script>
+<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=1a5df9ba3bb07d91ad83" id="gpt-js" defer="defer" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://cdn.adsafeprotected.com/iasPET.1.js?ver=1a5df9ba3bb07d91ad83" id="iasPET-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="ad-manager-js-extra">
+/* <![CDATA[ */
+var EPAdData = {"env":"production","rootAdUnit":"\/1057625\/Entrepreneur-in","keyValues":{"ed":"india","campaign":"edition_in","category":["business-news"],"tag":["news-and-trends"],"author":"entrepreneur-staff","post_id":7848,"page_type":"post","slug":"genai-startup-insurstaqai-shuts-shop-in-16-months","kw":"business-news,news-and-trends,id-7848,article"},"adTemplate":"post"};
+var EPAdAnalyticsSettings = {"enable_analytics":"1","ad_partners":["Piano Audience","ComScore"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/themes/entrepreneur/dist/js/ads.js?ver=1a5df9ba3bb07d91ad83" id="ad-manager-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://assets.entrepreneur.com/ent-components/ent-components-loader.umd.js?ver=1775641469" id="ent-components-loader-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://india.entrepreneur.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://india.entrepreneur.com/wp-json/wp/v2/posts/7848" /><link rel='shortlink' href='https://india.entrepreneur.com/?p=7848' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://india.entrepreneur.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Findia.entrepreneur.com%2Fnews-and-trends%2Fgenai-startup-insurstaqai-shuts-shop-in-16-months%2F479627" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://india.entrepreneur.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Findia.entrepreneur.com%2Fnews-and-trends%2Fgenai-startup-insurstaqai-shuts-shop-in-16-months%2F479627&#038;format=xml" />
+<!-- HubSpot WordPress Plugin v11.3.39: embed JS disabled as a portalId has not yet been configured -->	<style>img#wpstats{display:none}</style>
+		<meta name="parsely-title" content="GenAI Startup InsurStaq.ai Shuts Shop In 16 months" />
+<meta name="parsely-link" content="http://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-image-url" content="https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg?w=150&amp;h=150&amp;crop=1" />
+<meta name="parsely-pub-date" content="2024-09-10T11:58:00Z" />
+<meta name="parsely-section" content="Business News" />
+<meta name="parsely-tags" content="news and trends" />
+<meta name="parsely-author" content="Entrepreneur Staff" />
+<meta name="campaignKeyword" content="edition_in" /><link rel="icon" href="https://india.entrepreneur.com/wp-content/uploads/sites/5/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://india.entrepreneur.com/wp-content/uploads/sites/5/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://india.entrepreneur.com/wp-content/uploads/sites/5/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=180" />
+<meta name="msapplication-TileImage" content="https://india.entrepreneur.com/wp-content/uploads/sites/5/2025/03/cropped-Ent_Logo_Circle_Black_300.png?w=270" />
+</head>
+<body class="wp-singular post-template-default single single-post postid-7848 single-format-standard wp-theme-entrepreneur has-campaign">
+<a href="#main" class="skip-to-content-link visually-hidden-focusable">
+	Skip to main content</a>
+
+<div class="site--header site--menus" id="site--menus">
+	<div class="tw:bg-slate-50 tw:border-b-1 tw:border-slate-200 tw:px-2">
+		
+<div
+	class="ad__wrapper top_leaderboard"
+	id="top_leaderboard"
+>
+	
+	<div class="ad" id="div-gpt-ad-top-leaderboard">
+		<script>
+			function loadAdId_top_leaderboard() {
+							cX.callQueue.push(['invoke', function() {
+								googletag.cmd.push(function() {
+						const adSlot = googletag
+							.defineSlot(window.EPAdData.adUnitPath, [[300,250],[728,90]], 'top_leaderboard')
+							.addService(googletag.pubads())
+							.setTargeting('pos', 'topanchor');
+
+						
+													const sizeMap = googletag
+								.sizeMapping()
+								.addSize([1200, 300], [[728,90],[970,90],[970,250]])
+								.addSize([1024, 300], [[728,90],[970,90],[970,250]])
+								.addSize([768, 300], [[728,90]])
+								.addSize([0, 300], [[300,50],[320,50],[300,100],[320,100]])
+								.build();
+
+							adSlot.defineSizeMapping(sizeMap);
+						
+						googletag.display('top_leaderboard');
+					});
+							}]);
+						}
+		</script>
+	</div>
+</div>
+	</div>
+
+	
+	<div class="tw:px-4 tw:lg:px-10 tw:border-b-2 tw:border-slate-200">
+		<div class="tw:hidden tw:lg:block tw:pt-4">
+			<div class="tw:flex tw:justify-between tw:items-center">
+				<div class="tw:flex tw:items-center">
+					
+<div class="header-toggle-menu tw:cursor-pointer header-main-nav-toggle" id="header-main-nav">
+	<svg class="tw:w-[48px] tw:h-[48px] tw:hidden tw:lg:block" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#010D22" viewBox="0 -960 960 960"><path d="M240-160q-33 0-56.5-23.5T160-240t23.5-56.5T240-320t56.5 23.5T320-240t-23.5 56.5T240-160m240 0q-33 0-56.5-23.5T400-240t23.5-56.5T480-320t56.5 23.5T560-240t-23.5 56.5T480-160m240 0q-33 0-56.5-23.5T640-240t23.5-56.5T720-320t56.5 23.5T800-240t-23.5 56.5T720-160M240-400q-33 0-56.5-23.5T160-480t23.5-56.5T240-560t56.5 23.5T320-480t-23.5 56.5T240-400m240 0q-33 0-56.5-23.5T400-480t23.5-56.5T480-560t56.5 23.5T560-480t-23.5 56.5T480-400m240 0q-33 0-56.5-23.5T640-480t23.5-56.5T720-560t56.5 23.5T800-480t-23.5 56.5T720-400M240-640q-33 0-56.5-23.5T160-720t23.5-56.5T240-800t56.5 23.5T320-720t-23.5 56.5T240-640m240 0q-33 0-56.5-23.5T400-720t23.5-56.5T480-800t56.5 23.5T560-720t-23.5 56.5T480-640m240 0q-33 0-56.5-23.5T640-720t23.5-56.5T720-800t56.5 23.5T800-720t-23.5 56.5T720-640"/></svg></div>
+					<div class="site-header__logo tw:pl-3">
+						
+<a href="https://india.entrepreneur.com/" title="Return to the home page">
+		<svg class="tw:block tw:h-auto tw:w-[160px] tw:md:w-[210px]" xmlns="http://www.w3.org/2000/svg" width="998.305" height="251.976" viewBox="0 0 998.305 251.976"><g fill="#020000;"><path d="M760.24 0h11.259v40.127H760.24zM812.983 20.635 798.971 0h-9.516v40.127h11.259V19.526l14.094 20.493.074.108h9.36V0h-11.259zM868.232 2.4C865.235.808 861.638 0 857.541 0h-15.343v40.127h15.497c4.047 0 7.608-.807 10.586-2.4 2.983-1.596 5.322-3.921 6.951-6.912 1.625-2.984 2.449-6.602 2.449-10.752s-.827-7.769-2.459-10.752a16.86 16.86 0 0 0-6.99-6.911m-14.775 7.233h3.542c2.019 0 3.745.312 5.133.927 1.362.604 2.414 1.664 3.126 3.149.722 1.505 1.088 3.644 1.088 6.354s-.359 4.849-1.069 6.356c-.698 1.485-1.725 2.544-3.05 3.148-1.348.614-3.002.926-4.918.926h-3.852zM895.483 0h11.259v40.127h-11.259zM936.532 0l-13.245 40.127h12.141l2.29-7.585h12.695l2.29 7.585h12.141L951.599 0zm3.766 23.993 3.768-12.478 3.767 12.478h-7.534Z"/></g><g fill="#020000;"><path d="M238.876 192.376c-4.903 0-7.714-2.997-7.714-8.223V86.449l16.891-1.88 1.453-14.885H230.81v-21.57l-18.679.862-5.784 20.112-13.628.636-.526 14.797 11.909 1.892v97.895c0 21.688 15.688 24.926 25.038 24.926 11.734 0 19.269-2.82 21.299-3.683l.597-.255-1.233-12.92h-10.928ZM319.272 73.714h-.331c-11.754 0-22.434 3.125-31.01 9.057v-.628l-2.269-8.37-32.138 4.455v12.888l11.258 1.101v100.859l-9.507 2.192-.538 12.442h46.892l.897-12.441-10.685-2.211V95.493c2.387-1.587 5.317-2.667 9.125-3.362l1.7 15.066 18.472.686 3.269-29.721-5.136-4.45ZM913.779 82.742l-2.909-9.926-35.877 4.103V88.42l12.197 1.103v95.029c-1.511 2.172-2.923 3.923-4.31 5.339-2.329.953-5.156 1.436-8.411 1.436-8.714 0-12.95-5.415-12.95-16.555v-92.03l-2.903-9.927-35.527 4.104v11.498l11.843 1.103v88.395c0 9.431 3.06 31.367 31.41 31.367 11.126 0 18.005-4.581 23.64-9.781l2.433 8.209h30.613l1.429-12.756-10.679-2.059zM186.254 102.721c0-18.574-11.063-30.112-28.871-30.112-9.901 0-18.377 3.498-25.848 10.68v-2.093l-2.516-7.426-31.112 4.454v12.889l11.844 1.102v100.686l-10.093 2.037-.538 12.773h47.01l.896-12.763-10.686-2.053V98.53c1.175-1.615 2.428-3.254 3.764-4.366 2.407-.752 4.509-1.321 7.427-1.321 8.277 0 12.132 4.86 12.132 15.296v99.572h36.667l.714-12.767-10.789-2.051zM72.571 167.42l-2.661 24.847H43.56v-74.441h10.549l2.971 12.726h14.058V91.56l-14.216-.351-2.817 12.428H43.56V32.483h26.145l1.094 22.756 19.66.517 2.297-38.085H.883L0 32.216l14.514 1.89v156.407l-12.868 2.035-.7 15.162H94.61l-1.471-39.606zM993.168 73.714h-.331c-11.751 0-22.432 3.125-31.012 9.057v-.628l-2.268-8.37-32.136 4.455v12.888l11.257 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.896-12.441-10.686-2.211V95.494c2.39-1.587 5.319-2.668 9.126-3.363l1.699 15.066 18.475.686 3.269-29.721-5.137-4.45ZM561.925 73.714h-.331c-11.753 0-22.432 3.125-31.01 9.057v-.628l-2.27-8.37-32.136 4.455v12.888l11.259 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.895-12.441-10.686-2.211V95.494c2.39-1.587 5.321-2.668 9.13-3.363l1.697 15.066 18.475.686 3.267-29.721-5.137-4.45ZM734.483 102.721c0-18.574-11.062-30.112-28.871-30.112-9.899 0-18.376 3.498-25.849 10.68v-2.093l-2.513-7.426-31.112 4.454v12.889l11.845 1.102v100.686l-10.094 2.037-.536 12.773h47.008l.893-12.763-10.682-2.053V98.53c1.171-1.613 2.421-3.249 3.763-4.365 2.409-.753 4.512-1.322 7.427-1.322 8.279 0 12.136 4.86 12.136 15.296v99.572h36.662l.715-12.767-10.792-2.051zM365.544 72.404c-14.361-.25-26.014 7.236-33.763 21.654-6.357 11.826-10.03 28.26-10.344 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.196 0 23.677-4.679 32.407-13.227l.442-.433-4.655-10.336-.845.473c-7.8 4.377-13.961 6.11-21.214 5.983-14.326-.251-21.531-22.22-21.349-44.086l50.135.291 2.961-7.035.07-.328c.74-42.514-12.977-68.143-36.69-68.558Zm-16.713 62.503c.243-9.071 2.653-32.864 7.621-43.388 3.589-2.353 5.465-2.753 7.99-2.708 8.055.141 12.873 16.094 13.589 44.945l-29.201 1.151Z"/><path d="M461.082 73.3c-13.746 0-21.308 6.93-25.012 11.186v-.991l-2.915-9.943-32.13 4.454v12.39l11.864 1.572v145.669l-9.993 2.033-.54 12.306h46.963l.898-12.297-10.702-2.05v-38.451c4.453 2.145 10.184 3.359 15.984 3.359 39.166 0 39.166-50.564 39.166-67.181 0-30-8.822-62.057-33.583-62.057Zm2.812 109.806c-3.625 1.753-7.485 2.571-12.113 2.571-4.983 0-9.003-.81-12.265-2.475V98.526c1.448-2.214 3.209-4.238 4.473-5.628 2.873-.986 5.695-1.447 8.863-1.447 7.228 0 15.524 5.518 15.524 48.547 0 24.115-3.525 39.96-4.48 43.108ZM609.429 72.404c-14.4-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.8 4.377-13.92 6.105-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.07 2.649-32.858 7.621-43.388 3.588-2.352 5.44-2.752 7.99-2.708 8.057.141 12.876 16.091 13.589 44.945l-29.199 1.151ZM787.616 72.404c-14.378-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.802 4.376-13.92 6.103-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.071 2.649-32.863 7.621-43.389 3.587-2.354 5.459-2.759 7.99-2.707 11.154.195 13.229 30.804 13.589 44.945l-29.199 1.151ZM984.705 194.864c-3.755 0-6.696 2.941-6.696 6.696s2.941 6.693 6.696 6.693 6.695-2.94 6.695-6.693-2.941-6.696-6.695-6.696m0 1.809c2.737 0 4.801 2.101 4.801 4.887 0 1.406-.528 2.634-1.402 3.509l-1.978-2.957c1.073-.295 1.658-1.052 1.658-2.161 0-1.475-.867-2.224-2.578-2.224h-2.993v7.667h1.347v-3.204h1.136l2.027 3.204h.99a4.76 4.76 0 0 1-3.008 1.05c-2.737 0-4.801-2.1-4.801-4.884s2.064-4.887 4.801-4.887m1.729 3.277c0 .956-.765 1.027-1.931 1.027h-.944v-2.038h1.397c1.324 0 1.478.577 1.478 1.011"/></g></svg>	</a>
+					</div>
+				</div>
+							</div>
+			<div class="tw:flex tw:flex-row tw:justify-between tw:items-center tw:mt-4 tw:pb-4">
+				<div class="tw:hidden tw:md:block">
+					
+<nav id="site-navigation" class="main-navigation tw:text-sm tw:font-semibold" aria-label="Primary desktop menu">
+	<div class="tw:block">
+		<div class="menu-header-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-82534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82534"><a href="/starting-a-business">Starting a Business</a></li>
+<li id="menu-item-82535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82535"><a href="/growth-strategies">Growth Strategies</a></li>
+<li id="menu-item-82536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82536"><a href="/leadership">Leadership</a></li>
+<li id="menu-item-82537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82537"><a href="/business-news">Business News</a></li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+				</div>
+				<div class="tw:flex tw:justify-end tw:items-start tw:gap-5 tw:text-sm tw:font-semibold">
+					
+<a
+	href="/search"
+	class="nav-hover tw:px-2 tw:border-0"
+	aria-label="Search"
+>
+	<svg class="tw:w-[24px] tw:h-[24px]" xmlns="http://www.w3.org/2000/svg" width="31" height="27" fill="none" viewBox="0 0 31 27"><path fill="#010D22" d="M18.611 17.38 26 24.77 23.77 27l-7.39-7.389v-1.185l-.417-.418c-1.673 1.464-3.904 2.3-6.274 2.3C4.322 20.308 0 15.987 0 10.69A9.67 9.67 0 0 1 9.689 1c5.298 0 9.62 4.322 9.62 9.689 0 2.37-.837 4.6-2.301 6.273l.418.419zm-8.922 0a6.693 6.693 0 0 0 6.692-6.691 6.693 6.693 0 0 0-6.692-6.692 6.693 6.693 0 0 0-6.692 6.692 6.693 6.693 0 0 0 6.692 6.692"/><path fill="#010D22" stroke="#010D22" stroke-width=".5" d="m27.567 9.915.015.004.015.002.181.026h.003c.032.005.077.011.106.011.314 0 .59-.12.818-.348a1.13 1.13 0 0 0 .337-.86l-.044-1.795 1.211-1.719a1.1 1.1 0 0 0 .169-.339q.05-.17.05-.345 0-.377-.217-.687a1.1 1.1 0 0 0-.598-.433l-1.873-.628-1.236-1.6a1.1 1.1 0 0 0-.422-.346 1.2 1.2 0 0 0-.997 0 1.1 1.1 0 0 0-.422.346l-1.236 1.6-1.876.629h-.003a1.184 1.184 0 0 0-.58 1.802l1.2 1.708-.043 1.807c-.01.334.103.627.337.86.227.227.503.348.818.348q.07 0 .147-.006a.7.7 0 0 0 .184-.04l1.972-.551zm-3.35-5.87.074-.025.047-.061 1.245-1.63 1.245 1.63.047.06.072.025 1.907.649-1.23 1.755-.046.067.001.082.039 1.863-1.967-.55-.067-.02-.067.019-1.968.541.038-1.853.002-.081-.046-.067-1.23-1.776z"/></svg></a>
+					
+<nav id="header-sign-in" class="header-dropdown-parent">
+	<div class="tw:px-2 user-action-sync-icon">
+		<svg class="tw:w-[24px] tw:h-[24px] tw:animate-spin" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M15.55 5.55 11 1v3.07C7.06 4.56 4 7.92 4 12s3.05 7.44 7 7.93v-2.02c-2.84-.48-5-2.94-5-5.91s2.16-5.43 5-5.91V10zM19.93 11a7.9 7.9 0 0 0-1.62-3.89l-1.42 1.42c.54.75.88 1.6 1.02 2.47zM13 17.9v2.02c1.39-.17 2.74-.71 3.9-1.61l-1.44-1.44c-.75.54-1.59.89-2.46 1.03m3.89-2.42 1.42 1.41c.9-1.16 1.45-2.5 1.62-3.89h-2.02c-.14.87-.48 1.72-1.02 2.48"/></svg>	</div>
+	<div class="user-action-entries tw:hidden tw:relative">
+					<button class="nav-hover header-dropdown-toggle is-signin-button is-avatar tw:border-0 tw:px-2" aria-label="Sign in" id="is-avatar-button">
+				<svg aria-hidden="true" class="tw:w-[24px] tw:h-[24px] tw:fill-current is-avatar" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#010D22" viewBox="0 -960 960 960"><path d="M234-276q51-39 114-61.5T480-360t132 22.5T726-276q35-41 54.5-93T800-480q0-133-93.5-226.5T480-800t-226.5 93.5T160-480q0 59 19.5 111t54.5 93m246-164q-59 0-99.5-40.5T340-580t40.5-99.5T480-720t99.5 40.5T620-580t-40.5 99.5T480-440m0 360q-83 0-156-31.5T197-197t-85.5-127T80-480t31.5-156T197-763t127-85.5T480-880t156 31.5T763-763t85.5 127T880-480t-31.5 156T763-197t-127 85.5T480-80m0-80q53 0 100-15.5t86-44.5q-39-29-86-44.5T480-280t-100 15.5-86 44.5q39 29 86 44.5T480-160m0-360q26 0 43-17t17-43-17-43-43-17-43 17-17 43 17 43 43 17m0 300"/></svg>				<div id="is-signin-elem" class="tw:lg:ml-2 tw:hidden tw:lg:block">Sign in</div>
+			</button>
+			<div id="user-menu" aria-hidden="true" class="header-dropdown-menu tw:hidden">
+				<div class="menu-user-menu-container"><ul id="user-actions-menu" class="menu"><li id="menu-item-82548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82548"><a href="/dashboard">My Account</a></li>
+<li id="menu-item-82550" class="hidden is-eln-element menu-item menu-item-type-custom menu-item-object-custom menu-item-82550"><a href="https://cms.entrepreneur.com">Submit Article</a></li>
+<li id="menu-item-82551" class="is-logout-button menu-item menu-item-type-custom menu-item-object-custom menu-item-82551"><a href="#">Sign Out</a></li>
+</ul></div>			</div>
+			</div>
+</nav>
+					
+<nav id="header-edition-selection" class="header-dropdown-parent tw:relative" aria-label="Select Edition">
+	<button id="edition-dropdown" class="nav-hover header-dropdown-toggle tw:border-0 tw:px-2" aria-controls="header-edition-options" aria-expanded="false">
+		<svg aria-hidden="true" class="tw:w-[24px] tw:h-[24px] tw:md:mr-2 tw:fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2m6.93 6h-2.95a15.7 15.7 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.92 8M12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96M4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56A8 8 0 0 1 5.08 16m2.95-8H5.08a8 8 0 0 1 4.33-3.56A15.7 15.7 0 0 0 8.03 8M12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96M14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2m.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 0 1-4.33 3.56M16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2z"/></svg>		<div class="">Edition</div>
+	</button>
+	<div id="header-edition-options" class="header-dropdown-menu tw:hidden" aria-labelledby="edition-dropdown">
+		<div class="editions-container"><ul id="header-edition-menu-panel" class="menu"><li id="menu-item-82539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82539"><a href="https://www.entrepreneur.com">United States</a></li>
+<li id="menu-item-82540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82540"><a href="https://spanish.entrepreneur.com">Spanish</a></li>
+<li id="menu-item-82541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82541"><a href="https://www.entrepreneur.com/ka">Georgia</a></li>
+<li id="menu-item-82542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-82542"><a href="https://india.entrepreneur.com/">India</a></li>
+<li id="menu-item-82543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82543"><a href="https://apac.entrepreneur.com/">Asia Pacific</a></li>
+<li id="menu-item-82544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82544"><a href="https://mena.entrepreneur.com/">Middle East</a></li>
+<li id="menu-item-82545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82545"><a href="https://uk.entrepreneur.com/">United Kingdom</a></li>
+<li id="menu-item-82546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82546"><a href="https://eu.entrepreneur.com/">Europe</a></li>
+</ul></div>	</div>
+</nav>				</div>
+			</div>
+
+			<div class="tw:hidden">
+				
+<div class="header-dropdown-panel">
+	<div class="header-dropdown-panel__search">
+		
+<div class="search-form">
+	<form action="https://india.entrepreneur.com/" role="search" aria-label="Search the site">
+		<label for="search" class="visually-hidden">
+			Search		</label>
+		<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left tw:relative tw:p-[4px] tw:bg-gradient-to-r tw:from-green-600 tw:to-blue-700 tw:rounded-full">
+			<button
+				aria-label="Submit search"
+				class="tw:w-10 tw:h-10 tw:inline-flex tw:items-center tw:justify-center tw:font-semibold tw:border-0 tw:bg-transparent tw:absolute tw:z-20 tw:top-1/2 tw:left-6 tw:transform tw:-translate-y-1/2"
+				type="submit"
+			>
+
+				<svg class="" xmlns="http://www.w3.org/2000/svg" width="31" height="27" fill="none" viewBox="0 0 31 27"><path fill="#010D22" d="M18.611 17.38 26 24.77 23.77 27l-7.39-7.389v-1.185l-.417-.418c-1.673 1.464-3.904 2.3-6.274 2.3C4.322 20.308 0 15.987 0 10.69A9.67 9.67 0 0 1 9.689 1c5.298 0 9.62 4.322 9.62 9.689 0 2.37-.837 4.6-2.301 6.273l.418.419zm-8.922 0a6.693 6.693 0 0 0 6.692-6.691 6.693 6.693 0 0 0-6.692-6.692 6.693 6.693 0 0 0-6.692 6.692 6.693 6.693 0 0 0 6.692 6.692"/><path fill="#010D22" stroke="#010D22" stroke-width=".5" d="m27.567 9.915.015.004.015.002.181.026h.003c.032.005.077.011.106.011.314 0 .59-.12.818-.348a1.13 1.13 0 0 0 .337-.86l-.044-1.795 1.211-1.719a1.1 1.1 0 0 0 .169-.339q.05-.17.05-.345 0-.377-.217-.687a1.1 1.1 0 0 0-.598-.433l-1.873-.628-1.236-1.6a1.1 1.1 0 0 0-.422-.346 1.2 1.2 0 0 0-.997 0 1.1 1.1 0 0 0-.422.346l-1.236 1.6-1.876.629h-.003a1.184 1.184 0 0 0-.58 1.802l1.2 1.708-.043 1.807c-.01.334.103.627.337.86.227.227.503.348.818.348q.07 0 .147-.006a.7.7 0 0 0 .184-.04l1.972-.551zm-3.35-5.87.074-.025.047-.061 1.245-1.63 1.245 1.63.047.06.072.025 1.907.649-1.23 1.755-.046.067.001.082.039 1.863-1.967-.55-.067-.02-.067.019-1.968.541.038-1.853.002-.081-.046-.067-1.23-1.776z"/></svg>				<span class="visually-hidden">
+					Search				</span>
+			</button>
+			<input
+				type="search"
+				id="search"
+				name="s"
+				placeholder="How can we help you today?"
+				aria-label="Search"
+				value=""
+				class="tw:block tw:pl-16 tw:w-full tw:bg-white tw:border-transparent tw:border-5 tw:rounded-full tw:shadow-lg tw:focus:shadow-xl tw:p-3 tw:text-lg tw:font-medium tw:text-slate-900 tw:outline-1 tw:-outline-offset-1 tw:outline-gray-300 tw:placeholder:text-gray-400 tw:focus:outline-5 tw:focus:outline-blue-500"
+				required
+			>
+		</div>
+	</form>
+</div>
+	</div>
+
+	<nav id="user-navigation-panel" class="user-actions-navigation" aria-label="User Menu">
+		<div class="menu-user-menu-container"><ul id="user-actions-menu-panel" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82548"><a href="/dashboard">My Account</a></li>
+<li class="hidden is-eln-element menu-item menu-item-type-custom menu-item-object-custom menu-item-82550"><a href="https://cms.entrepreneur.com">Submit Article</a></li>
+<li class="is-logout-button menu-item menu-item-type-custom menu-item-object-custom menu-item-82551"><a href="#">Sign Out</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+
+	<nav id="site-navigation-panel" class="main-navigation" aria-label="Primary dropdown menu">
+		<div class="menu-header-menu-container"><ul id="primary-menu-panel" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82534"><a href="/starting-a-business">Starting a Business</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82535"><a href="/growth-strategies">Growth Strategies</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82536"><a href="/leadership">Leadership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82537"><a href="/business-news">Business News</a></li>
+</ul></div>	</nav><!-- #site-navigation -->
+</div>
+			</div>
+		</div>
+		<div class="tw:flex tw:lg:hidden tw:justify-between tw:items-center tw:text-[0px] tw:py-2">
+			
+<a href="https://india.entrepreneur.com/" title="Return to the home page">
+		<svg class="tw:block tw:h-auto tw:w-[160px] tw:md:w-[210px]" xmlns="http://www.w3.org/2000/svg" width="998.305" height="251.976" viewBox="0 0 998.305 251.976"><g fill="#020000;"><path d="M760.24 0h11.259v40.127H760.24zM812.983 20.635 798.971 0h-9.516v40.127h11.259V19.526l14.094 20.493.074.108h9.36V0h-11.259zM868.232 2.4C865.235.808 861.638 0 857.541 0h-15.343v40.127h15.497c4.047 0 7.608-.807 10.586-2.4 2.983-1.596 5.322-3.921 6.951-6.912 1.625-2.984 2.449-6.602 2.449-10.752s-.827-7.769-2.459-10.752a16.86 16.86 0 0 0-6.99-6.911m-14.775 7.233h3.542c2.019 0 3.745.312 5.133.927 1.362.604 2.414 1.664 3.126 3.149.722 1.505 1.088 3.644 1.088 6.354s-.359 4.849-1.069 6.356c-.698 1.485-1.725 2.544-3.05 3.148-1.348.614-3.002.926-4.918.926h-3.852zM895.483 0h11.259v40.127h-11.259zM936.532 0l-13.245 40.127h12.141l2.29-7.585h12.695l2.29 7.585h12.141L951.599 0zm3.766 23.993 3.768-12.478 3.767 12.478h-7.534Z"/></g><g fill="#020000;"><path d="M238.876 192.376c-4.903 0-7.714-2.997-7.714-8.223V86.449l16.891-1.88 1.453-14.885H230.81v-21.57l-18.679.862-5.784 20.112-13.628.636-.526 14.797 11.909 1.892v97.895c0 21.688 15.688 24.926 25.038 24.926 11.734 0 19.269-2.82 21.299-3.683l.597-.255-1.233-12.92h-10.928ZM319.272 73.714h-.331c-11.754 0-22.434 3.125-31.01 9.057v-.628l-2.269-8.37-32.138 4.455v12.888l11.258 1.101v100.859l-9.507 2.192-.538 12.442h46.892l.897-12.441-10.685-2.211V95.493c2.387-1.587 5.317-2.667 9.125-3.362l1.7 15.066 18.472.686 3.269-29.721-5.136-4.45ZM913.779 82.742l-2.909-9.926-35.877 4.103V88.42l12.197 1.103v95.029c-1.511 2.172-2.923 3.923-4.31 5.339-2.329.953-5.156 1.436-8.411 1.436-8.714 0-12.95-5.415-12.95-16.555v-92.03l-2.903-9.927-35.527 4.104v11.498l11.843 1.103v88.395c0 9.431 3.06 31.367 31.41 31.367 11.126 0 18.005-4.581 23.64-9.781l2.433 8.209h30.613l1.429-12.756-10.679-2.059zM186.254 102.721c0-18.574-11.063-30.112-28.871-30.112-9.901 0-18.377 3.498-25.848 10.68v-2.093l-2.516-7.426-31.112 4.454v12.889l11.844 1.102v100.686l-10.093 2.037-.538 12.773h47.01l.896-12.763-10.686-2.053V98.53c1.175-1.615 2.428-3.254 3.764-4.366 2.407-.752 4.509-1.321 7.427-1.321 8.277 0 12.132 4.86 12.132 15.296v99.572h36.667l.714-12.767-10.789-2.051zM72.571 167.42l-2.661 24.847H43.56v-74.441h10.549l2.971 12.726h14.058V91.56l-14.216-.351-2.817 12.428H43.56V32.483h26.145l1.094 22.756 19.66.517 2.297-38.085H.883L0 32.216l14.514 1.89v156.407l-12.868 2.035-.7 15.162H94.61l-1.471-39.606zM993.168 73.714h-.331c-11.751 0-22.432 3.125-31.012 9.057v-.628l-2.268-8.37-32.136 4.455v12.888l11.257 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.896-12.441-10.686-2.211V95.494c2.39-1.587 5.319-2.668 9.126-3.363l1.699 15.066 18.475.686 3.269-29.721-5.137-4.45ZM561.925 73.714h-.331c-11.753 0-22.432 3.125-31.01 9.057v-.628l-2.27-8.37-32.136 4.455v12.888l11.259 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.895-12.441-10.686-2.211V95.494c2.39-1.587 5.321-2.668 9.13-3.363l1.697 15.066 18.475.686 3.267-29.721-5.137-4.45ZM734.483 102.721c0-18.574-11.062-30.112-28.871-30.112-9.899 0-18.376 3.498-25.849 10.68v-2.093l-2.513-7.426-31.112 4.454v12.889l11.845 1.102v100.686l-10.094 2.037-.536 12.773h47.008l.893-12.763-10.682-2.053V98.53c1.171-1.613 2.421-3.249 3.763-4.365 2.409-.753 4.512-1.322 7.427-1.322 8.279 0 12.136 4.86 12.136 15.296v99.572h36.662l.715-12.767-10.792-2.051zM365.544 72.404c-14.361-.25-26.014 7.236-33.763 21.654-6.357 11.826-10.03 28.26-10.344 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.196 0 23.677-4.679 32.407-13.227l.442-.433-4.655-10.336-.845.473c-7.8 4.377-13.961 6.11-21.214 5.983-14.326-.251-21.531-22.22-21.349-44.086l50.135.291 2.961-7.035.07-.328c.74-42.514-12.977-68.143-36.69-68.558Zm-16.713 62.503c.243-9.071 2.653-32.864 7.621-43.388 3.589-2.353 5.465-2.753 7.99-2.708 8.055.141 12.873 16.094 13.589 44.945l-29.201 1.151Z"/><path d="M461.082 73.3c-13.746 0-21.308 6.93-25.012 11.186v-.991l-2.915-9.943-32.13 4.454v12.39l11.864 1.572v145.669l-9.993 2.033-.54 12.306h46.963l.898-12.297-10.702-2.05v-38.451c4.453 2.145 10.184 3.359 15.984 3.359 39.166 0 39.166-50.564 39.166-67.181 0-30-8.822-62.057-33.583-62.057Zm2.812 109.806c-3.625 1.753-7.485 2.571-12.113 2.571-4.983 0-9.003-.81-12.265-2.475V98.526c1.448-2.214 3.209-4.238 4.473-5.628 2.873-.986 5.695-1.447 8.863-1.447 7.228 0 15.524 5.518 15.524 48.547 0 24.115-3.525 39.96-4.48 43.108ZM609.429 72.404c-14.4-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.8 4.377-13.92 6.105-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.07 2.649-32.858 7.621-43.388 3.588-2.352 5.44-2.752 7.99-2.708 8.057.141 12.876 16.091 13.589 44.945l-29.199 1.151ZM787.616 72.404c-14.378-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.802 4.376-13.92 6.103-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.071 2.649-32.863 7.621-43.389 3.587-2.354 5.459-2.759 7.99-2.707 11.154.195 13.229 30.804 13.589 44.945l-29.199 1.151ZM984.705 194.864c-3.755 0-6.696 2.941-6.696 6.696s2.941 6.693 6.696 6.693 6.695-2.94 6.695-6.693-2.941-6.696-6.695-6.696m0 1.809c2.737 0 4.801 2.101 4.801 4.887 0 1.406-.528 2.634-1.402 3.509l-1.978-2.957c1.073-.295 1.658-1.052 1.658-2.161 0-1.475-.867-2.224-2.578-2.224h-2.993v7.667h1.347v-3.204h1.136l2.027 3.204h.99a4.76 4.76 0 0 1-3.008 1.05c-2.737 0-4.801-2.1-4.801-4.884s2.064-4.887 4.801-4.887m1.729 3.277c0 .956-.765 1.027-1.931 1.027h-.944v-2.038h1.397c1.324 0 1.478.577 1.478 1.011"/></g></svg>	</a>
+			<div class="tw:flex tw:gap-5">
+				
+<a
+	href="/search"
+	class="nav-hover tw:px-2 tw:border-0"
+	aria-label="Search"
+>
+	<svg class="tw:w-[24px] tw:h-[24px]" xmlns="http://www.w3.org/2000/svg" width="31" height="27" fill="none" viewBox="0 0 31 27"><path fill="#010D22" d="M18.611 17.38 26 24.77 23.77 27l-7.39-7.389v-1.185l-.417-.418c-1.673 1.464-3.904 2.3-6.274 2.3C4.322 20.308 0 15.987 0 10.69A9.67 9.67 0 0 1 9.689 1c5.298 0 9.62 4.322 9.62 9.689 0 2.37-.837 4.6-2.301 6.273l.418.419zm-8.922 0a6.693 6.693 0 0 0 6.692-6.691 6.693 6.693 0 0 0-6.692-6.692 6.693 6.693 0 0 0-6.692 6.692 6.693 6.693 0 0 0 6.692 6.692"/><path fill="#010D22" stroke="#010D22" stroke-width=".5" d="m27.567 9.915.015.004.015.002.181.026h.003c.032.005.077.011.106.011.314 0 .59-.12.818-.348a1.13 1.13 0 0 0 .337-.86l-.044-1.795 1.211-1.719a1.1 1.1 0 0 0 .169-.339q.05-.17.05-.345 0-.377-.217-.687a1.1 1.1 0 0 0-.598-.433l-1.873-.628-1.236-1.6a1.1 1.1 0 0 0-.422-.346 1.2 1.2 0 0 0-.997 0 1.1 1.1 0 0 0-.422.346l-1.236 1.6-1.876.629h-.003a1.184 1.184 0 0 0-.58 1.802l1.2 1.708-.043 1.807c-.01.334.103.627.337.86.227.227.503.348.818.348q.07 0 .147-.006a.7.7 0 0 0 .184-.04l1.972-.551zm-3.35-5.87.074-.025.047-.061 1.245-1.63 1.245 1.63.047.06.072.025 1.907.649-1.23 1.755-.046.067.001.082.039 1.863-1.967-.55-.067-.02-.067.019-1.968.541.038-1.853.002-.081-.046-.067-1.23-1.776z"/></svg></a>
+				
+<nav id="header-sign-in" class="header-dropdown-parent">
+	<div class="tw:px-2 user-action-sync-icon">
+		<svg class="tw:w-[24px] tw:h-[24px] tw:animate-spin" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M15.55 5.55 11 1v3.07C7.06 4.56 4 7.92 4 12s3.05 7.44 7 7.93v-2.02c-2.84-.48-5-2.94-5-5.91s2.16-5.43 5-5.91V10zM19.93 11a7.9 7.9 0 0 0-1.62-3.89l-1.42 1.42c.54.75.88 1.6 1.02 2.47zM13 17.9v2.02c1.39-.17 2.74-.71 3.9-1.61l-1.44-1.44c-.75.54-1.59.89-2.46 1.03m3.89-2.42 1.42 1.41c.9-1.16 1.45-2.5 1.62-3.89h-2.02c-.14.87-.48 1.72-1.02 2.48"/></svg>	</div>
+	<div class="user-action-entries tw:hidden tw:relative">
+					<button class="nav-hover header-dropdown-toggle is-signin-button is-avatar tw:border-0 tw:px-2" aria-label="Sign in" id="is-avatar-button">
+				<svg aria-hidden="true" class="tw:w-[24px] tw:h-[24px] tw:fill-current is-avatar" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#010D22" viewBox="0 -960 960 960"><path d="M234-276q51-39 114-61.5T480-360t132 22.5T726-276q35-41 54.5-93T800-480q0-133-93.5-226.5T480-800t-226.5 93.5T160-480q0 59 19.5 111t54.5 93m246-164q-59 0-99.5-40.5T340-580t40.5-99.5T480-720t99.5 40.5T620-580t-40.5 99.5T480-440m0 360q-83 0-156-31.5T197-197t-85.5-127T80-480t31.5-156T197-763t127-85.5T480-880t156 31.5T763-763t85.5 127T880-480t-31.5 156T763-197t-127 85.5T480-80m0-80q53 0 100-15.5t86-44.5q-39-29-86-44.5T480-280t-100 15.5-86 44.5q39 29 86 44.5T480-160m0-360q26 0 43-17t17-43-17-43-43-17-43 17-17 43 17 43 43 17m0 300"/></svg>				<div id="is-signin-elem" class="tw:lg:ml-2 tw:hidden tw:lg:block">Sign in</div>
+			</button>
+			<div id="user-menu" aria-hidden="true" class="header-dropdown-menu tw:hidden">
+				<div class="menu-user-menu-container"><ul id="user-actions-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82548"><a href="/dashboard">My Account</a></li>
+<li class="hidden is-eln-element menu-item menu-item-type-custom menu-item-object-custom menu-item-82550"><a href="https://cms.entrepreneur.com">Submit Article</a></li>
+<li class="is-logout-button menu-item menu-item-type-custom menu-item-object-custom menu-item-82551"><a href="#">Sign Out</a></li>
+</ul></div>			</div>
+			</div>
+</nav>
+				
+<div class="header-toggle-menu tw:cursor-pointer header-main-nav-toggle" id="header-main-nav-m" role="button" aria-label="Main menu">
+	<svg class="tw:w-[24px] tw:h-[24px] tw:lg:hidden" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#010D22" viewBox="0 -960 960 960"><path d="M240-160q-33 0-56.5-23.5T160-240t23.5-56.5T240-320t56.5 23.5T320-240t-23.5 56.5T240-160m240 0q-33 0-56.5-23.5T400-240t23.5-56.5T480-320t56.5 23.5T560-240t-23.5 56.5T480-160m240 0q-33 0-56.5-23.5T640-240t23.5-56.5T720-320t56.5 23.5T800-240t-23.5 56.5T720-160M240-400q-33 0-56.5-23.5T160-480t23.5-56.5T240-560t56.5 23.5T320-480t-23.5 56.5T240-400m240 0q-33 0-56.5-23.5T400-480t23.5-56.5T480-560t56.5 23.5T560-480t-23.5 56.5T480-400m240 0q-33 0-56.5-23.5T640-480t23.5-56.5T720-560t56.5 23.5T800-480t-23.5 56.5T720-400M240-640q-33 0-56.5-23.5T160-720t23.5-56.5T240-800t56.5 23.5T320-720t-23.5 56.5T240-640m240 0q-33 0-56.5-23.5T400-720t23.5-56.5T480-800t56.5 23.5T560-720t-23.5 56.5T480-640m240 0q-33 0-56.5-23.5T640-720t23.5-56.5T720-800t56.5 23.5T800-720t-23.5 56.5T720-640"/></svg></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<nav id="site-navigation-desktop" class="main-navigation-desktop tw:font-semibold" aria-label="Primary desktop menu">
+	<div class="tw:px-4 tw:sm:px-8 tw:border-b-2 tw:border-slate-200">
+		<div class="tw:flex tw:justify-between tw:items-center tw:text-[0px] tw:py-4">
+				
+<a href="https://india.entrepreneur.com/" title="Return to the home page">
+		<svg class="tw:block tw:h-auto tw:w-[160px]" xmlns="http://www.w3.org/2000/svg" width="998.305" height="251.976" viewBox="0 0 998.305 251.976"><g fill="#020000;"><path d="M760.24 0h11.259v40.127H760.24zM812.983 20.635 798.971 0h-9.516v40.127h11.259V19.526l14.094 20.493.074.108h9.36V0h-11.259zM868.232 2.4C865.235.808 861.638 0 857.541 0h-15.343v40.127h15.497c4.047 0 7.608-.807 10.586-2.4 2.983-1.596 5.322-3.921 6.951-6.912 1.625-2.984 2.449-6.602 2.449-10.752s-.827-7.769-2.459-10.752a16.86 16.86 0 0 0-6.99-6.911m-14.775 7.233h3.542c2.019 0 3.745.312 5.133.927 1.362.604 2.414 1.664 3.126 3.149.722 1.505 1.088 3.644 1.088 6.354s-.359 4.849-1.069 6.356c-.698 1.485-1.725 2.544-3.05 3.148-1.348.614-3.002.926-4.918.926h-3.852zM895.483 0h11.259v40.127h-11.259zM936.532 0l-13.245 40.127h12.141l2.29-7.585h12.695l2.29 7.585h12.141L951.599 0zm3.766 23.993 3.768-12.478 3.767 12.478h-7.534Z"/></g><g fill="#020000;"><path d="M238.876 192.376c-4.903 0-7.714-2.997-7.714-8.223V86.449l16.891-1.88 1.453-14.885H230.81v-21.57l-18.679.862-5.784 20.112-13.628.636-.526 14.797 11.909 1.892v97.895c0 21.688 15.688 24.926 25.038 24.926 11.734 0 19.269-2.82 21.299-3.683l.597-.255-1.233-12.92h-10.928ZM319.272 73.714h-.331c-11.754 0-22.434 3.125-31.01 9.057v-.628l-2.269-8.37-32.138 4.455v12.888l11.258 1.101v100.859l-9.507 2.192-.538 12.442h46.892l.897-12.441-10.685-2.211V95.493c2.387-1.587 5.317-2.667 9.125-3.362l1.7 15.066 18.472.686 3.269-29.721-5.136-4.45ZM913.779 82.742l-2.909-9.926-35.877 4.103V88.42l12.197 1.103v95.029c-1.511 2.172-2.923 3.923-4.31 5.339-2.329.953-5.156 1.436-8.411 1.436-8.714 0-12.95-5.415-12.95-16.555v-92.03l-2.903-9.927-35.527 4.104v11.498l11.843 1.103v88.395c0 9.431 3.06 31.367 31.41 31.367 11.126 0 18.005-4.581 23.64-9.781l2.433 8.209h30.613l1.429-12.756-10.679-2.059zM186.254 102.721c0-18.574-11.063-30.112-28.871-30.112-9.901 0-18.377 3.498-25.848 10.68v-2.093l-2.516-7.426-31.112 4.454v12.889l11.844 1.102v100.686l-10.093 2.037-.538 12.773h47.01l.896-12.763-10.686-2.053V98.53c1.175-1.615 2.428-3.254 3.764-4.366 2.407-.752 4.509-1.321 7.427-1.321 8.277 0 12.132 4.86 12.132 15.296v99.572h36.667l.714-12.767-10.789-2.051zM72.571 167.42l-2.661 24.847H43.56v-74.441h10.549l2.971 12.726h14.058V91.56l-14.216-.351-2.817 12.428H43.56V32.483h26.145l1.094 22.756 19.66.517 2.297-38.085H.883L0 32.216l14.514 1.89v156.407l-12.868 2.035-.7 15.162H94.61l-1.471-39.606zM993.168 73.714h-.331c-11.751 0-22.432 3.125-31.012 9.057v-.628l-2.268-8.37-32.136 4.455v12.888l11.257 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.896-12.441-10.686-2.211V95.494c2.39-1.587 5.319-2.668 9.126-3.363l1.699 15.066 18.475.686 3.269-29.721-5.137-4.45ZM561.925 73.714h-.331c-11.753 0-22.432 3.125-31.01 9.057v-.628l-2.27-8.37-32.136 4.455v12.888l11.259 1.101v100.859l-9.509 2.192-.538 12.442h46.893l.895-12.441-10.686-2.211V95.494c2.39-1.587 5.321-2.668 9.13-3.363l1.697 15.066 18.475.686 3.267-29.721-5.137-4.45ZM734.483 102.721c0-18.574-11.062-30.112-28.871-30.112-9.899 0-18.376 3.498-25.849 10.68v-2.093l-2.513-7.426-31.112 4.454v12.889l11.845 1.102v100.686l-10.094 2.037-.536 12.773h47.008l.893-12.763-10.682-2.053V98.53c1.171-1.613 2.421-3.249 3.763-4.365 2.409-.753 4.512-1.322 7.427-1.322 8.279 0 12.136 4.86 12.136 15.296v99.572h36.662l.715-12.767-10.792-2.051zM365.544 72.404c-14.361-.25-26.014 7.236-33.763 21.654-6.357 11.826-10.03 28.26-10.344 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.196 0 23.677-4.679 32.407-13.227l.442-.433-4.655-10.336-.845.473c-7.8 4.377-13.961 6.11-21.214 5.983-14.326-.251-21.531-22.22-21.349-44.086l50.135.291 2.961-7.035.07-.328c.74-42.514-12.977-68.143-36.69-68.558Zm-16.713 62.503c.243-9.071 2.653-32.864 7.621-43.388 3.589-2.353 5.465-2.753 7.99-2.708 8.055.141 12.873 16.094 13.589 44.945l-29.201 1.151Z"/><path d="M461.082 73.3c-13.746 0-21.308 6.93-25.012 11.186v-.991l-2.915-9.943-32.13 4.454v12.39l11.864 1.572v145.669l-9.993 2.033-.54 12.306h46.963l.898-12.297-10.702-2.05v-38.451c4.453 2.145 10.184 3.359 15.984 3.359 39.166 0 39.166-50.564 39.166-67.181 0-30-8.822-62.057-33.583-62.057Zm2.812 109.806c-3.625 1.753-7.485 2.571-12.113 2.571-4.983 0-9.003-.81-12.265-2.475V98.526c1.448-2.214 3.209-4.238 4.473-5.628 2.873-.986 5.695-1.447 8.863-1.447 7.228 0 15.524 5.518 15.524 48.547 0 24.115-3.525 39.96-4.48 43.108ZM609.429 72.404c-14.4-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.8 4.377-13.92 6.105-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.07 2.649-32.858 7.621-43.388 3.588-2.352 5.44-2.752 7.99-2.708 8.057.141 12.876 16.091 13.589 44.945l-29.199 1.151ZM787.616 72.404c-14.378-.25-26.014 7.236-33.764 21.654-6.357 11.825-10.03 28.259-10.343 46.273-.715 41.012 16.167 68.871 42.007 69.324q.42.006.837.007c12.197 0 23.676-4.679 32.406-13.227l.444-.433-4.656-10.336-.844.473c-7.802 4.376-13.92 6.103-21.215 5.983-14.326-.251-21.532-22.22-21.349-44.086l50.134.291 2.963-7.035.068-.328c.74-42.514-12.975-68.143-36.688-68.558Zm-16.712 62.503c.242-9.071 2.649-32.863 7.621-43.389 3.587-2.354 5.459-2.759 7.99-2.707 11.154.195 13.229 30.804 13.589 44.945l-29.199 1.151ZM984.705 194.864c-3.755 0-6.696 2.941-6.696 6.696s2.941 6.693 6.696 6.693 6.695-2.94 6.695-6.693-2.941-6.696-6.695-6.696m0 1.809c2.737 0 4.801 2.101 4.801 4.887 0 1.406-.528 2.634-1.402 3.509l-1.978-2.957c1.073-.295 1.658-1.052 1.658-2.161 0-1.475-.867-2.224-2.578-2.224h-2.993v7.667h1.347v-3.204h1.136l2.027 3.204h.99a4.76 4.76 0 0 1-3.008 1.05c-2.737 0-4.801-2.1-4.801-4.884s2.064-4.887 4.801-4.887m1.729 3.277c0 .956-.765 1.027-1.931 1.027h-.944v-2.038h1.397c1.324 0 1.478.577 1.478 1.011"/></g></svg>	</a>
+				<div class="tw:flex tw:gap-1 tw:items-center">
+					
+<a
+	href="/search"
+	class="tw:px-2 tw:border-0"
+	aria-label="Search"
+>
+	<svg class="tw:w-[24px] tw:h-[24px]" xmlns="http://www.w3.org/2000/svg" width="31" height="27" fill="none" viewBox="0 0 31 27"><path fill="#010D22" d="M18.611 17.38 26 24.77 23.77 27l-7.39-7.389v-1.185l-.417-.418c-1.673 1.464-3.904 2.3-6.274 2.3C4.322 20.308 0 15.987 0 10.69A9.67 9.67 0 0 1 9.689 1c5.298 0 9.62 4.322 9.62 9.689 0 2.37-.837 4.6-2.301 6.273l.418.419zm-8.922 0a6.693 6.693 0 0 0 6.692-6.691 6.693 6.693 0 0 0-6.692-6.692 6.693 6.693 0 0 0-6.692 6.692 6.693 6.693 0 0 0 6.692 6.692"/><path fill="#010D22" stroke="#010D22" stroke-width=".5" d="m27.567 9.915.015.004.015.002.181.026h.003c.032.005.077.011.106.011.314 0 .59-.12.818-.348a1.13 1.13 0 0 0 .337-.86l-.044-1.795 1.211-1.719a1.1 1.1 0 0 0 .169-.339q.05-.17.05-.345 0-.377-.217-.687a1.1 1.1 0 0 0-.598-.433l-1.873-.628-1.236-1.6a1.1 1.1 0 0 0-.422-.346 1.2 1.2 0 0 0-.997 0 1.1 1.1 0 0 0-.422.346l-1.236 1.6-1.876.629h-.003a1.184 1.184 0 0 0-.58 1.802l1.2 1.708-.043 1.807c-.01.334.103.627.337.86.227.227.503.348.818.348q.07 0 .147-.006a.7.7 0 0 0 .184-.04l1.972-.551zm-3.35-5.87.074-.025.047-.061 1.245-1.63 1.245 1.63.047.06.072.025 1.907.649-1.23 1.755-.046.067.001.082.039 1.863-1.967-.55-.067-.02-.067.019-1.968.541.038-1.853.002-.081-.046-.067-1.23-1.776z"/></svg></a>
+					
+<nav id="header-sign-in" class="header-dropdown-parent">
+	<div class="tw:px-2 user-action-sync-icon">
+		<svg class="tw:w-[24px] tw:h-[24px] tw:animate-spin" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M15.55 5.55 11 1v3.07C7.06 4.56 4 7.92 4 12s3.05 7.44 7 7.93v-2.02c-2.84-.48-5-2.94-5-5.91s2.16-5.43 5-5.91V10zM19.93 11a7.9 7.9 0 0 0-1.62-3.89l-1.42 1.42c.54.75.88 1.6 1.02 2.47zM13 17.9v2.02c1.39-.17 2.74-.71 3.9-1.61l-1.44-1.44c-.75.54-1.59.89-2.46 1.03m3.89-2.42 1.42 1.41c.9-1.16 1.45-2.5 1.62-3.89h-2.02c-.14.87-.48 1.72-1.02 2.48"/></svg>	</div>
+	<div class="user-action-entries tw:hidden tw:relative">
+					<a href="/dashboard" class="tw:text-slate-900" aria-label="Sign in">
+				<svg aria-hidden="true" class="tw:w-[24px] tw:h-[24px] tw:fill-current is-avatar" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#010D22" viewBox="0 -960 960 960"><path d="M234-276q51-39 114-61.5T480-360t132 22.5T726-276q35-41 54.5-93T800-480q0-133-93.5-226.5T480-800t-226.5 93.5T160-480q0 59 19.5 111t54.5 93m246-164q-59 0-99.5-40.5T340-580t40.5-99.5T480-720t99.5 40.5T620-580t-40.5 99.5T480-440m0 360q-83 0-156-31.5T197-197t-85.5-127T80-480t31.5-156T197-763t127-85.5T480-880t156 31.5T763-763t85.5 127T880-480t-31.5 156T763-197t-127 85.5T480-80m0-80q53 0 100-15.5t86-44.5q-39-29-86-44.5T480-280t-100 15.5-86 44.5q39 29 86 44.5T480-160m0-360q26 0 43-17t17-43-17-43-43-17-43 17-17 43 17 43 43 17m0 300"/></svg>			</a>
+			</div>
+</nav>
+					<a href="#" aria-label="Close menu">
+						<svg class="desktop-hamburger-close tw:cursor-pointer tw:w-[25px] tw:h-[25px]" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="tw:px-4 tw:sm:px-8 tw:pt-2 tw:pb-8">
+		<div class="tw:mb-8">
+			<div class="menu-header-menu-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82534"><a href="/starting-a-business">Starting a Business</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82535"><a href="/growth-strategies">Growth Strategies</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82536"><a href="/leadership">Leadership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82537"><a href="/business-news">Business News</a></li>
+</ul></div>		</div>
+		
+			</div>
+</nav>
+
+<main class="tw:mb-8" id="main" role="main" tabindex="-1">
+
+
+
+
+<div class="tw:w-full" id="skinplacement">
+	<div id="containerDom" class="tw:px-0 tw:mx-auto tw:xl:max-w-screen-xl">
+		<div id="childContainerDom">
+			<div id="outofpage"></div>
+		</div>
+	</div>
+</div>
+
+<script>
+	function loadAdId_skinslot() {
+		if (document.body.clientWidth >= 1000) {
+			googletag.cmd.push(() => {
+				// Use defineOutOfPageSlot instead of defineSlot when working with
+				// out-of-page ads.
+				googletag.defineOutOfPageSlot(window.EPAdData.adUnitPath, 'outofpage')
+					.addService(googletag.pubads())
+					.setTargeting('pos', 'skin');
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			});
+
+			googletag.cmd.push(() => {
+				googletag.display('outofpage');
+			});
+		} else {
+			const skinplacement = document.getElementById("skinplacement");
+			skinplacement.remove();
+		}
+	}
+</script>
+
+
+<div class="page-container">
+			<div class="tw:flex">
+			<div class="tw:sm:mb-8 tw:flex-grow tw:flex-1 tw:w-full">
+				<article id="post-7848" class="entry post-7848 post type-post status-publish format-standard has-post-thumbnail hentry category-business-news tag-news-and-trends ep_author-entrepreneur-staff paywall-open workflow_status-approved">
+					<header class="tw:mb-4">
+						
+	<h1 class="tw:text-slate-900 tw:text-4xl tw:sm:text-5xl tw:font-bold tw:mb-6">
+		GenAI Startup InsurStaq.ai Shuts Shop In 16 months	</h1>
+
+													<div class="tw:text-lg">
+								<p>It was funded by Faad Network, an early-stage fund</p>
+							</div>
+						
+							<div class="tw:text-sm tw:uppercase tw:mb-6 tw:font-sans tw:border-y tw:border-slate-200 tw:py-4 tw:flex tw:items-center">
+					By							<span class="tw:ml-1">
+											<a href="https://india.entrepreneur.com/author/entrepreneur-staff" class="tw:font-semibold tw:hover:underline">
+							Entrepreneur Staff						</a>
+														</span>
+					
+		
+									<span class="tw:px-2" role="separator">
+					|				</span>
+			
+			<span class="">
+				Sep 10, 2024			</span>
+			</div>
+
+						<div class="tw:text-sm tw:sm:flex tw:items-center tw:mb-8 tw:justify-between">
+							<div class="tw:flex tw:justify-between">
+								<div>
+									
+<a
+	href="https://www.google.com/preferences/source?q=entrepreneur.com&utm_source=email&utm_medium=email&utm_campaign=Google_prefered_source"
+	class="tw:font-sans tw:uppercase tw:inline-flex tw:items-center tw:h-10 tw:px-2 tw:mr-2 tw:border tw:border-gray-300 tw:rounded-lg tw:bg-white tw:hover:bg-gray-50 tw:transition-colors tw:font-semibold tw:tracking-3 tw:text-sm tw:text-slate-800"
+	target="_blank" rel="noopener noreferrer"
+>
+	<div class="icon">
+	<svg viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53"/><path fill="none" d="M1 1h22v22H1z"/></svg></div>
+	Add Entrepreneur</a>
+								</div>
+																	<div class="entry__share tw:sm:ml-4">
+										
+<button class="js-share-entry entry__share-button tw:font-sans" type="button">
+	Share	<div class="icon has-background has-light-gray-background-color has-text-color has-dark-navy-color is-style-rounded">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m0 16H8V7h11z"/></svg></div>
+</button>
+
+<div class="share-toast">
+	<p>Copied to clipboard</p>
+	<div class="icon">
+	<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="m18 7-1.41-1.41-6.34 6.34 1.41 1.41zm4.24-1.41L11.66 16.17 7.48 12l-1.41 1.41L11.66 19l12-12zM.41 13.41 6 19l1.41-1.41L1.83 12z"/></svg></div>
+</div>
+									</div>
+															</div>
+
+							
+
+						</div>
+
+													
+<img
+			width="800"
+				height="450"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2024/09/1725969135-Untitleddesign62.jpg?resize=800,450"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:w-full tw:object-contain"
+				role="presentation"
+						loading="lazy"
+/>
+
+															<div class="tw:text-sm tw:text-slate-700 tw:text-right tw:mt-2 tw:italic">Freepik</div>
+																									</header>
+
+					<div class="is-layout-flow tw:prose tw:prose-lg tw:prose-a:text-blue-800 tw:font-serif tw:max-w-[728px] tw:mb-12 tw:mx-auto tw:lg:mx-0">
+											<div class="tw:mb-6" id="piano-article-promo"></div>
+											
+
+
+	<p class="tw:font-normal tw:italic tw:text-sm tw:text-slate-600 tw:mb-4">
+		You&#039;re reading Entrepreneur India, an international franchise of Entrepreneur Media.	</p>
+
+
+
+						<div class="gate-check piano-check">
+														<p>India is home to over 150 Generative AI startups, but not all of them manage to sustain their journeys due to the challenges they face while growing their businesses. Mayan Kansal, co-founder of the GenAI startup InsurStaq.ai, took to LinkedIn to share the news of sun setting the startup.</p><p>&#8220;After more than a year of building, learning, and growing alongside some of the brightest minds in the insurance industry, we&#8217;ve made the difficult decision to shut down InsurStaq.ai.&#8221; Kansal shared.</p><p>Founded by Mayan Kansal, and Shivam Kaushik in 2022, InsurStaq.ai was designed to bring Generative AI solutions to the insurance industry. Last year, it received funding from Faad Network, an early-stage fund, as a part of Faad Accelarator Labs&#8217; &#8216;FinShastra&#8217;.</p>
+<div class="ad ad__wrapper inline_native" id="qw5E3qlzc06Y" data-key="native" data-pos="ab-ntv-0" data-display="article">
+		<script>
+			function loadAdId_qw5E3qlzc06Y() {
+							cX.callQueue.push(['invoke', function() {
+								googletag.cmd.push(function() {
+						const adSlot = googletag
+							.defineSlot(window.EPAdData.adUnitPath, 'fluid', 'qw5E3qlzc06Y')
+							.addService(googletag.pubads())
+							.setTargeting('pos', 'ab-ntv-0');
+
+													adSlot.setTargeting('display', 'article')
+						
+													googletag.pubads().enableSingleRequest();
+							googletag.enableServices();
+						
+						googletag.display('qw5E3qlzc06Y');
+					});
+							}]);
+						}
+		</script>
+</div>
+<p>In a post, Kansal said, &#8220;We set out to revolutionize GenAI applications for the insurance world and, along the way, built cutting-edge products, achieved enterprise-ready compliance, and were recognized as one of the hottest AI startups by media houses and VCs alike.&#8221;</p><p>While sharing its journey he said, &#8220;The relationships we forged with great mentors, advisors, and stakeholders who guided us. We built an amazing team of four—operating more like a high-performing sports team—driven by a shared vision, relentless ambition, and an incredible work culture.&#8221;</p>
+<div class="ad__wrapper articleBody_1" id="articleBody_1">
+	
+	<div class="ad" id="div-gpt-ad-articleBody-1">
+		<script>
+			function loadAdId_articleBody_1() {
+							cX.callQueue.push(['invoke', function() {
+								googletag.cmd.push(function() {
+						const adSlot = googletag
+							.defineSlot(window.EPAdData.adUnitPath, [[300,250],[728,90]], 'articleBody_1')
+							.addService(googletag.pubads())
+							.setTargeting('pos', 'ab-1');
+
+						
+													const sizeMap = googletag
+								.sizeMapping()
+								.addSize([1200, 300], [[728,90],[300,250],[2,1]])
+								.addSize([1024, 300], [[728,90],[300,250],[2,1]])
+								.addSize([768, 300], [[728,90],[300,600],[300,250],[2,1]])
+								.addSize([0, 300], [[300,50],[320,50],[300,100],[320,100],[300,250],[2,1],[1,2]])
+								.build();
+
+							adSlot.defineSizeMapping(sizeMap);
+						
+						googletag.display('articleBody_1');
+					});
+							}]);
+						}
+		</script>
+	</div>
+</div>
+<p>As of April 2024, India has more than six thousand AI startups, with 29 of them reaching the Series D or higher funding stage. However, despite this growth, several startups have struggled to survive. Sridhar Ramaswamy and Vivek Raghunathan&#8217;s startup, Neeva, also shut down last year, citing challenges like the inability to attract enough users, the rise of generative AI and large language models (LLMs), and the current economic environment. Other notable closures include India&#8217;s microblogging app Koo, SaaS-based AI startup Ninety, and ed-tech startup Bluelearn, each shutting down for various reasons.</p>						</div>
+
+						<div class="piano-meter-body tw:hidden">
+							<p>India is home to over 150 Generative AI startups, but not all of them manage to sustain their journeys due to the challenges they face while growing their businesses. Mayan Kansal, co-founder of the GenAI startup InsurStaq.ai, took to LinkedIn to share the news of sun setting the startup.</p><p>&#8220;After more than a year of building, learning, and growing alongside some of the brightest minds in the insurance industry, we&#8217;ve made the difficult decision to shut down InsurStaq.ai.&#8221; Kansal shared.</p><p>Founded by Mayan Kansal, and Shivam Kaushik in 2022, InsurStaq.ai was designed to bring Generative AI solutions to the insurance industry. Last year, it received funding from Faad Network, an early-stage fund, as a part of Faad Accelarator Labs&#8217; &#8216;FinShastra&#8217;.</p>						</div>
+					</div>
+				</article>
+			</div>
+
+			<div class="tw:hidden tw:mb-6 tw:lg:block tw:lg:w-[300px] tw:lg:ml-24 tw:h-min-[250px] tw:pb-8 tw:lg:self-start tw:lg:top-10">
+				<div class="tw:mb-6">
+					
+<div
+	class="ad__wrapper sidebar"
+	id="sidebar"
+>
+	
+	<div class="ad" id="div-gpt-ad-sidebar">
+		<script>
+			function loadAdId_sidebar() {
+							cX.callQueue.push(['invoke', function() {
+								googletag.cmd.push(function() {
+						const adSlot = googletag
+							.defineSlot(window.EPAdData.adUnitPath, [[300,250],[728,90]], 'sidebar')
+							.addService(googletag.pubads())
+							.setTargeting('pos', '');
+
+						
+													const sizeMap = googletag
+								.sizeMapping()
+								.addSize([1200, 300], [[300,250],[300,600]])
+								.addSize([1024, 300], [])
+								.addSize([768, 300], [])
+								.addSize([0, 300], [])
+								.build();
+
+							adSlot.defineSizeMapping(sizeMap);
+						
+						googletag.display('sidebar');
+					});
+							}]);
+						}
+		</script>
+	</div>
+</div>
+				</div>
+
+				
+<div class="tw:mb-2 tw:border-t tw:border-slate-200 tw:pb-2 tw:pt-2 tw:relative">
+	<div class="tw:flex tw:items-center tw:justify-between">
+		<div class="tw:flex tw:items-center">
+			<!-- Heading -->
+							<h2 class='tw:my-0 tw:flex tw:text-slate-800 tw:font-bold tw:leading-none tw:font-heading'>				<a href="/latest">
+					Latest				</a>
+				</h2>					</div>
+
+					<!-- Link -->
+			<div class="tw:flex tw:justify-center tw:ml-4">
+				<a
+					href="/latest"
+					class="tw:flex tw:items-center tw:no-underline tw:hover:underline tw:text-sm tw:text-slate-800 tw:font-bold"
+				>
+					<svg fill="currentColor" class="tw:w-[24px] tw:h-[24px] tw:fill-current tw:ml-2 tw:text-blue-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10m-10 1H8v-2h4V8l4 4-4 4z"/></svg>				</a>
+			</div>
+			</div>
+
+	</div>
+
+				
+					
+						<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow">
+							<ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-95148 post type-post status-publish format-standard has-post-thumbnail hentry category-business-news tag-indian-angel-network tag-news-and-trends ep_author-entrepreneur-staff paywall-open workflow_status-approved">
+								<div class="wp-block-entrepreneur-article-card">
+	
+<article class="tw:mb-12 is-entire-card-clickable">
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+							<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/workongrid-raises-inr-225-cr-funding-led-by-transition/503953"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					WorkOnGrid Raises INR 22.5 Cr Funding Led by Transition Venture Capital				</a>
+							</h3>
+		
+							<div class="tw:flex tw:items-center">
+				<span class="tw:flex tw:bg-slate-500 tw:mr-2 tw:w-[8px] tw:h-[8px] tw:rounded-full"></span>
+				<span
+					class="tw:text-sm tw:text-slate-950 tw:font-sans tw:font-light tw:uppercase"
+					data-datetime="4 hours ago"
+				>
+					4 hours ago				</span>
+			</div>
+		
+		
+		
+			</div>
+	</article>
+</div>
+
+							</li><li class="wp-block-post post-95143 post type-post status-publish format-standard has-post-thumbnail hentry category-leadership tag-community-building tag-education tag-entrepreneurship tag-ngos tag-rural-entrepreneurship tag-trust ep_author-adhrit-malvankar paywall-open workflow_status-approved">
+								<div class="wp-block-entrepreneur-article-card">
+	
+<article class="tw:mb-12 is-entire-card-clickable">
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+							<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/leadership/this-trusts-mission-to-unlock-human-potential-across-rural-india-through-education-and-generational-opportunity"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					This Trust’s Mission to Unlock Human Potential Across Rural India Through Education and Generational Opportunity				</a>
+							</h3>
+		
+							<div class="tw:flex tw:items-center">
+				<span class="tw:flex tw:bg-slate-500 tw:mr-2 tw:w-[8px] tw:h-[8px] tw:rounded-full"></span>
+				<span
+					class="tw:text-sm tw:text-slate-950 tw:font-sans tw:font-light tw:uppercase"
+					data-datetime="5 hours ago"
+				>
+					5 hours ago				</span>
+			</div>
+		
+		
+		
+			</div>
+	</article>
+</div>
+
+							</li><li class="wp-block-post post-95140 post type-post status-publish format-standard has-post-thumbnail hentry category-business-news tag-acquisitions tag-news-and-trends ep_author-entrepreneur-staff paywall-open workflow_status-approved">
+								<div class="wp-block-entrepreneur-article-card">
+	
+<article class="tw:mb-12 is-entire-card-clickable">
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+							<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/fashinza-acquires-qckin-to-strengthen-manufacturing/503942"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					Fashinza Acquires Qckin to Strengthen Manufacturing Capabilities				</a>
+							</h3>
+		
+							<div class="tw:flex tw:items-center">
+				<span class="tw:flex tw:bg-slate-500 tw:mr-2 tw:w-[8px] tw:h-[8px] tw:rounded-full"></span>
+				<span
+					class="tw:text-sm tw:text-slate-950 tw:font-sans tw:font-light tw:uppercase"
+					data-datetime="23 hours ago"
+				>
+					23 hours ago				</span>
+			</div>
+		
+		
+		
+			</div>
+	</article>
+</div>
+
+							</li></ul>
+						</div>
+					
+							</div>
+		</div>
+
+		<div id="articleBottomAd" class="tw:mx-auto tw:mb-8 tw:alignfull">
+			
+<div
+	class="ad__wrapper article_bottom"
+	id="article_bottom"
+>
+	
+	<div class="ad" id="5htBD8ehNZ8M">
+		<script>
+			function loadAdId_article_bottom() {
+							cX.callQueue.push(['invoke', function() {
+								googletag.cmd.push(function() {
+						const adSlot = googletag
+							.defineSlot(window.EPAdData.adUnitPath, [[300,250],[728,90]], 'article_bottom')
+							.addService(googletag.pubads())
+							.setTargeting('pos', '');
+
+						
+													const sizeMap = googletag
+								.sizeMapping()
+								.addSize([1200, 300], [[728,90],[970,90],[970,250],[2,1]])
+								.addSize([1024, 300], [[728,90],[970,90],[970,250],[2,1]])
+								.addSize([768, 300], [[728,90],[2,1]])
+								.addSize([0, 300], [[300,50],[300,100],[300,250],[320,50],[320,100],[2,1],[1,2]])
+								.build();
+
+							adSlot.defineSizeMapping(sizeMap);
+						
+						googletag.display('article_bottom');
+					});
+							}]);
+						}
+		</script>
+	</div>
+</div>
+		</div>
+
+		
+
+<div id="comment-list" class="tw:mb-12"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+	const allowsComments = false;
+
+	const PublicCommentSelectors = {
+		INPUT: 'comment-input',
+		SUBMIT: 'comment-submit',
+		LIST: 'comment-list',
+		ERROR: 'comment-error',
+		USERNAME: 'comment-username',
+		BUTTON_TEXT: 'comment-button-text',
+		BUTTON_LOADER: 'comment-button-loader',
+		USER_AVATAR: 'comment-user-avatar',
+		COMMENT_COUNT: 'comment-count',
+		AVATAR: '.comment-avatar',
+		REPLY_BUTTON: 'ep-reply-button',
+		SORT_CONTROLS: 'comment-sort-controls',
+		SORT_NEWEST: 'comment-sort-newest',
+		SORT_OLDEST: 'comment-sort-oldest',
+	};
+
+	const state = {
+		comments: [],
+		submitCommentButtonRegistered: false,
+		sortOrder: 'newest',
+	};
+
+	const adminAjaxUrl = '/wp-admin/admin-ajax.php';
+
+	function updateReplyFormAvatars() {
+		const user = window?.tp?.pianoId?.getUser() ?? null;
+
+		if (!user) {
+			return;
+		}
+
+		const initials = getInitials(`${user?.firstName ?? ''} ${user?.lastName ?? ''}`);
+
+		document.querySelectorAll('.ep-reply-form .comment-avatar').forEach(function(avatar) {
+			avatar.innerText = initials;
+		});
+	}
+
+	function listenForPianoLogin() {
+		// Update UI with user info when the piano auth check is successful.
+		document.addEventListener('piano:experienceExecute', function() {
+			setupUserAvatar();
+			updateReplyFormAvatars();
+			createCommentAvatars();
+			setupCommentSubmitButton();
+		});
+	}
+
+	function getInitials(fullName) {
+		// Handle extra spaces.
+		const parts = fullName.trim().split(/\s+/);
+		const first = parts[0]?.[0] || '';
+		const last = parts.length > 1 ? parts[parts.length - 1][0] : '';
+		return (first + last).toUpperCase();
+	}
+
+	function createCommentAvatars() {
+		const bgColors = ['#15803d', '#3b82f6', '#c084fc', '#94a3b8', '#fbbf24', '#d97706', '#991b1b'];
+
+		function numberFromText(text) {
+			// numberFromText("AA");
+			const charCodes = text
+				// => ["A", "A"]
+				.split('')
+				// => [65, 65]
+				.map(char => char.charCodeAt(0))
+				// => "6565"
+				.join('');
+			return parseInt(charCodes, 10);
+		}
+
+		const avatars = document.querySelectorAll(PublicCommentSelectors.AVATAR);
+
+		avatars.forEach(avatar => {
+			// => "AA"
+			const text = avatar.innerText;
+			// => "#991b1b"
+			avatar.style.backgroundColor = bgColors[numberFromText(text) % bgColors.length];
+		});
+	}
+
+	function buildReplyHTML(reply, index, allReplies) {
+		const isLast = index === allReplies.length - 1;
+
+		return `
+			<div class="tw:flex tw:flex-row tw:ml-5 tw:border-slate-200 ${isLast ? '' : 'tw:border-l tw:pt-2 tw:pb-6'}">
+				<div class="tw:mr-2 tw:shrink-0 tw:flex">
+					<div class="tw:w-[24px] tw:h-[18px] tw:border-slate-200 tw:border-l tw:border-b tw:flex ${isLast ? '' : 'tw:-ml-[1px]'} tw:rounded-bl-xl"></div>
+					<div class="comment-avatar tw:flex tw:rounded-full tw:font-sans tw:w-[36px] tw:h-[36px] tw:text-sm tw:font-bold tw:items-center tw:justify-center tw:text-white">
+						${getInitials(reply?.comment_author)}
+					</div>
+				</div>
+				<div class="tw:flex tw:flex-col tw:flex-1">
+					<div class="tw:flex tw:flex-row tw:items-center">
+						<div class="tw:font-sans tw:font-bold tw:text-base tw:text-slate-700">
+							${reply?.comment_author}<span class="tw:mx-2">•</span>
+						</div>
+						<div class="tw:font-sans tw:text-base tw:text-slate-700">
+							${reply?.comment_relative_time}
+						</div>
+					</div>
+					<div class="tw:mt-2 tw:text-slate-700 tw:text-base">
+						${reply?.comment_content}
+					</div>
+				</div>
+			</div>
+		`;
+	}
+
+	function createComment(comment, replies, isLastComment) {
+		const commentListDiv = document.getElementById(PublicCommentSelectors.LIST);
+
+		if (!commentListDiv) {
+			return;
+		}
+
+		const borderClasses = isLastComment ? '' : 'tw:border-b tw:border-slate-200';
+
+		const currentUser = window?.tp?.pianoId?.getUser() ?? null;
+		const currentUserInitials = currentUser
+			? getInitials(`${currentUser?.firstName ?? ''} ${currentUser?.lastName ?? ''}`)
+			: '';
+
+		const repliesHTML = replies.length ? `
+			<div class="">
+				${replies.map(buildReplyHTML).join('')}
+			</div>
+		` : '';
+
+		const replyButtonHTML = allowsComments ? `
+			<div class="tw:mt-2">
+				<button
+					class="${PublicCommentSelectors.REPLY_BUTTON} tw:text-sm tw:font-sans tw:font-bold tw:text-blue-800 tw:bg-transparent tw:border-0 tw:p-0 tw:hover:cursor-pointer tw:hover:underline"
+					data-comment-id="${comment?.comment_ID}"
+				>
+					Reply
+				</button>
+			</div>
+		` : '';
+
+		const replyFormHTML = allowsComments ? `
+			<div class="ep-reply-form tw:hidden tw:mt-4 tw:ml-[44px]" data-parent-id="${comment?.comment_ID}">
+				<div class="ep-reply-error tw:hidden tw:text-red-500 tw:mb-2 tw:text-sm tw:font-sans"></div>
+				<div class="tw:flex">
+					<div class="tw:relative tw:mr-2 comment-avatar tw:flex tw:rounded-full tw:font-sans tw:shrink-0 tw:w-[36px] tw:h-[36px] tw:text-base tw:font-bold tw:items-center tw:justify-center tw:text-white">
+						${currentUserInitials}
+					</div>
+					<textarea
+						class="ep-reply-input tw:flex tw:w-full tw:box-border tw:whitespace-pre-wrap tw:break-words tw:h-[80px] tw:p-2
+						tw:border-neutral-300 tw:bg-neutral-100 tw:text-slate-700 tw:font-sans tw:rounded-md tw:text-base
+						tw:focus:outline-blue-800"
+						placeholder="Write a reply..."
+					></textarea>
+				</div>
+				<div class="tw:flex tw:justify-end tw:items-center tw:gap-4 tw:mt-1">
+					<button
+						class="ep-reply-cancel tw:bg-transparent tw:border-0 tw:text-sm tw:font-sans tw:font-medium tw:text-slate-500 tw:p-0 tw:hover:cursor-pointer tw:hover:text-slate-700"
+						data-parent-id="${comment?.comment_ID}"
+					>
+						Cancel
+					</button>
+					<button
+						class="ep-reply-submit tw:bg-blue-800 tw:border-0 tw:text-white tw:text-sm tw:font-sans tw:font-bold tw:rounded-md tw:py-2 tw:px-6 tw:hover:cursor-pointer tw:min-w-[120px] tw:min-h-[36px]"
+						data-parent-id="${comment?.comment_ID}"
+					>
+						<span class="ep-reply-button-text">Post Reply</span>
+					</button>
+				</div>
+			</div>
+		` : '';
+
+		const commentDiv = `
+			<div class="tw:pb-6 tw:mb-6 tw:sm:pr-8 ${borderClasses}">
+				<div class="tw:flex tw:flex-row tw:relative">
+					<div class="tw:mr-2 tw:shrink-0 tw:border-none ${replies.length ? 'tw:before:absolute tw:before:w-[1px] tw:before:bg-slate-200 tw:before:h-full tw:before:left-[20px]' : ''}">
+						<div class="tw:relative tw:z-10 comment-avatar tw:flex tw:rounded-full tw:font-sans tw:w-[36px] tw:h-[36px] tw:text-base tw:font-bold tw:items-center tw:justify-center tw:text-white">
+							${getInitials(comment?.comment_author)}
+						</div>
+					</div>
+					<div class="tw:flex tw:flex-col tw:flex-1 tw:pb-2">
+						<div class="tw:flex tw:flex-row tw:items-center">
+							<div class="tw:font-sans tw:font-bold tw:text-base tw:text-slate-700">
+								${comment?.comment_author}<span class="tw:mx-2">•</span>
+							</div>
+							<div class="tw:font-sans tw:text-base tw:text-slate-700">
+								${comment?.comment_relative_time}
+							</div>
+						</div>
+						<div class="tw:mt-2 tw:text-slate-700 tw:text-base">
+							${comment?.comment_content}
+						</div>
+						${replyButtonHTML}
+					</div>
+				</div>
+				${repliesHTML}
+				${replyFormHTML}
+			</div>
+		`;
+
+		commentListDiv.innerHTML += commentDiv;
+	}
+
+	function displayComments() {
+		// Empty out the comment list container before refreshing comments.
+		const commentListDiv = document.getElementById(PublicCommentSelectors.LIST);
+		commentListDiv.innerHTML = '';
+
+		const comments = state?.comments ?? [];
+
+		if (!comments.length) {
+			return;
+		}
+
+		// Build a threaded structure: separate top-level from replies.
+		const repliesByParent = {};
+		const topLevelComments = [];
+
+		comments.forEach(comment => {
+			if (comment.comment_parent === 0) {
+				topLevelComments.push(comment);
+			} else {
+				const parentId = comment.comment_parent;
+				if (!repliesByParent[parentId]) {
+					repliesByParent[parentId] = [];
+				}
+				repliesByParent[parentId].push(comment);
+			}
+		});
+
+		// Apply top-level sort order. Server returns DESC; reverse for oldest-first.
+		if (state.sortOrder === 'oldest') {
+			topLevelComments.reverse();
+		}
+
+		// Replies always show oldest first within a thread (server returns DESC, so reverse).
+		Object.keys(repliesByParent).forEach(parentId => {
+			repliesByParent[parentId].reverse();
+		});
+
+		topLevelComments.forEach((comment, index) => {
+			const isLastComment = index === topLevelComments.length - 1;
+			const replies = repliesByParent[comment.comment_ID] ?? [];
+			createComment(comment, replies, isLastComment);
+		});
+
+		createCommentAvatars();
+	}
+
+	function updateCommentCount() {
+		const countDiv = document.getElementById(PublicCommentSelectors.COMMENT_COUNT);
+		const sortControls = document.getElementById(PublicCommentSelectors.SORT_CONTROLS);
+
+		if (!countDiv) {
+			return;
+		}
+
+		const count = state?.comments?.length ?? 0;
+
+		// Do not display if there are no comments.
+		if (count === 0) {
+			return;
+		}
+
+		countDiv.innerHTML = `${count} Comment${count > 1 ? 's' : ''}`;
+
+		if (sortControls) {
+			sortControls.classList.remove('tw:hidden');
+			sortControls.classList.add('tw:flex');
+		}
+	}
+
+	function displayLoader(show) {
+		const loader = document.getElementById(PublicCommentSelectors.BUTTON_LOADER);
+		const text = document.getElementById(PublicCommentSelectors.BUTTON_TEXT);
+
+		if (!loader || !text) {
+			return;
+		}
+
+		// Show or hide the loader.
+		if (show) {
+			loader.classList.remove('tw:hidden');
+			text.classList.add('tw:hidden');
+		} else {
+			loader.classList.add('tw:hidden');
+			text.classList.remove('tw:hidden');
+		}
+	}
+
+	function displayError(error) {
+		const errorDiv = document.getElementById(PublicCommentSelectors.ERROR);
+
+		if (!errorDiv) {
+			return;
+		}
+
+		if (error) {
+			errorDiv.classList.add('tw:block');
+			errorDiv.classList.remove('tw:hidden');
+			errorDiv.textContent = `Comment submission error: ${error}`;
+		} else {
+			errorDiv.classList.remove('tw:block');
+			errorDiv.classList.add('tw:hidden');
+			errorDiv.textContent = '';
+		}
+	}
+
+	function clearCommentInput() {
+		const commentField = document.getElementById(PublicCommentSelectors.INPUT);
+
+		if (!commentField) {
+			return;
+		}
+
+		commentField.value = '';
+	}
+
+	function updateComments(comments = []) {
+		state.comments = comments;
+		displayComments();
+		updateCommentCount();
+	}
+
+	function runCommentProcess(type) {
+		if (type === 'postComment') {
+			const comment = document.getElementById(PublicCommentSelectors.INPUT);
+
+			if (!comment || !comment?.value) {
+				return;
+			}
+
+			// Hide errors, show loader.
+			displayError();
+			displayLoader(true);
+		}
+
+		const data = {
+			type,
+			postId: 7848,
+		};
+
+		// Get a fresh nonce and either fetch comments or post comment.
+		fetch(`${adminAjaxUrl}?action=ep_get_public_comment_nonce`, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			body: JSON.stringify(data),
+		})
+		.then((r) => r.json())
+		.then((response) => {
+			// Handle errors.
+			if (!response.success) {
+				displayLoader(false);
+				console.error('Error getting nonce: ', response?.data?.message);
+				return;
+			}
+
+			const nonce = response?.data?.nonce;
+
+			// Get comments.
+			if (type === 'getComments') {
+				getComments(nonce);
+				return;
+			}
+
+			// Post comment.
+			if (type === 'postComment') {
+				postComment(nonce);
+			}
+		})
+			.catch((e) => {
+				displayLoader(false);
+				console.error(`Error running comment process ${type}: `, e);
+		});
+	}
+
+	function getComments(nonce) {
+		const data = {
+			nonce,
+			postId: 7848,
+		};
+
+		// Fetch comments.
+		fetch(`${adminAjaxUrl}?action=ep_get_public_comments`, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			body: JSON.stringify(data),
+		})
+		.then((r) => r.json())
+		.then((response) => {
+			// Handle errors.
+			if (!response.success) {
+				displayLoader(false);
+				console.error('Error getting comments: ', response?.data?.message);
+				return;
+			}
+
+			updateComments(response?.data?.comments);
+			displayLoader(false);
+		})
+			.catch((e) => {
+				displayLoader(false);
+				console.error('Error getting comments: ', e);
+		});
+	}
+
+	function postComment(nonce) {
+		const user = window?.tp?.pianoId?.getUser() ?? null;
+
+		if (!user || !user?.uid) {
+			console.error('Error posting comment: Unauthorized. Submission aborted.');
+			return;
+		}
+
+		const comment = document.getElementById(PublicCommentSelectors.INPUT);
+
+		if (!comment || !comment?.value) {
+			return;
+		}
+
+		const data = {
+			nonce,
+			comment: comment.value,
+			commentParent: 0,
+			postId: 7848,
+			uid: user?.uid,
+		};
+
+		// Post the comment.
+		fetch(`${adminAjaxUrl}?action=ep_create_public_comment`, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			credentials: 'include',
+			body: JSON.stringify(data),
+		})
+		.then((r) => r.json())
+		.then((response) => {
+			// Handle errors.
+			if (!response.success) {
+				displayLoader(false);
+				displayError(response?.data?.message, true);
+				console.error('Error posting comment: ', response?.data?.message);
+				return;
+			}
+
+			// Handle success.
+			clearCommentInput();
+			runCommentProcess('getComments');
+		})
+			.catch((e) => {
+				displayLoader(false);
+				displayError(e);
+				console.error('Error posting comment: ', e);
+		});
+	}
+
+	function toggleReplyForm(commentId) {
+		// Close any other open reply forms.
+		document.querySelectorAll('.ep-reply-form').forEach(function(form) {
+			if (form.dataset.parentId !== String(commentId)) {
+				form.classList.add('tw:hidden');
+			}
+		});
+
+		// Toggle the targeted reply form.
+		const targetForm = document.querySelector('.ep-reply-form[data-parent-id="' + commentId + '"]');
+
+		if (targetForm) {
+			targetForm.classList.toggle('tw:hidden');
+
+			if (!targetForm.classList.contains('tw:hidden')) {
+				targetForm.querySelector('.ep-reply-input')?.focus();
+			}
+		}
+	}
+
+	function setReplyLoading(formEl, isLoading) {
+		const btn = formEl.querySelector('.ep-reply-submit');
+		const btnText = formEl.querySelector('.ep-reply-button-text');
+
+		if (!btn || !btnText) {
+			return;
+		}
+
+		if (isLoading) {
+			btnText.textContent = 'Posting...';
+			btn.disabled = true;
+		} else {
+			btnText.textContent = 'Post Reply';
+			btn.disabled = false;
+		}
+	}
+
+	function displayReplyError(formEl, error) {
+		const errorDiv = formEl.querySelector('.ep-reply-error');
+
+		if (!errorDiv || !error) {
+			return;
+		}
+
+		errorDiv.textContent = 'Reply error: ' + error;
+		errorDiv.classList.remove('tw:hidden');
+		errorDiv.classList.add('tw:block');
+	}
+
+	function clearReplyError(formEl) {
+		const errorDiv = formEl.querySelector('.ep-reply-error');
+
+		if (!errorDiv) {
+			return;
+		}
+
+		errorDiv.textContent = '';
+		errorDiv.classList.add('tw:hidden');
+		errorDiv.classList.remove('tw:block');
+	}
+
+	function postReply(nonce, parentId, replyText, formEl) {
+		const user = window?.tp?.pianoId?.getUser() ?? null;
+
+		if (!user || !user?.uid) {
+			setReplyLoading(formEl, false);
+			return;
+		}
+
+		const data = {
+			nonce,
+			comment: replyText,
+			commentParent: parentId,
+			postId: 7848,
+			uid: user?.uid,
+		};
+
+		fetch(`${adminAjaxUrl}?action=ep_create_public_comment`, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			credentials: 'include',
+			body: JSON.stringify(data),
+		})
+		.then((r) => r.json())
+		.then((response) => {
+			setReplyLoading(formEl, false);
+
+			if (!response.success) {
+				displayReplyError(formEl, response?.data?.message);
+				console.error('Error posting reply: ', response?.data?.message);
+				return;
+			}
+
+			formEl.querySelector('.ep-reply-input').value = '';
+			formEl.classList.add('tw:hidden');
+			runCommentProcess('getComments');
+		})
+			.catch((e) => {
+				setReplyLoading(formEl, false);
+				displayReplyError(formEl, 'Network error. Please try again.');
+				console.error('Error posting reply: ', e);
+		});
+	}
+
+	function submitReply(parentId, formEl) {
+		const input = formEl.querySelector('.ep-reply-input');
+
+		if (!input || !input.value.trim()) {
+			return;
+		}
+
+		const user = window?.tp?.pianoId?.getUser() ?? null;
+
+		if (!user || !user?.uid) {
+			openLoginModal();
+			return;
+		}
+
+		setReplyLoading(formEl, true);
+		clearReplyError(formEl);
+
+		const data = {
+			type: 'postComment',
+			postId: 7848,
+		};
+
+		fetch(`${adminAjaxUrl}?action=ep_get_public_comment_nonce`, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+			},
+			body: JSON.stringify(data),
+		})
+		.then((r) => r.json())
+		.then((response) => {
+			if (!response.success) {
+				setReplyLoading(formEl, false);
+				displayReplyError(formEl, response?.data?.message);
+				return;
+			}
+
+			postReply(response?.data?.nonce, parseInt(parentId, 10), input.value.trim(), formEl);
+		})
+			.catch((e) => {
+				setReplyLoading(formEl, false);
+				displayReplyError(formEl, 'Network error. Please try again.');
+				console.error('Error getting nonce for reply: ', e);
+		});
+	}
+
+	function setupCommentListDelegation() {
+		const commentListDiv = document.getElementById(PublicCommentSelectors.LIST);
+
+		if (!commentListDiv) {
+			return;
+		}
+
+		commentListDiv.addEventListener('click', function(e) {
+			// Reply button: toggle the inline reply form.
+			const replyButton = e.target.closest('.' + PublicCommentSelectors.REPLY_BUTTON);
+			if (replyButton) {
+				const commentId = replyButton.dataset.commentId;
+				const user = window?.tp?.pianoId?.getUser() ?? null;
+
+				if (!user) {
+					openLoginModal();
+					return;
+				}
+
+				toggleReplyForm(commentId);
+				return;
+			}
+
+			// Reply cancel: hide the reply form.
+			const replyCancel = e.target.closest('.ep-reply-cancel');
+			if (replyCancel) {
+				const parentId = replyCancel.dataset.parentId;
+				const form = document.querySelector('.ep-reply-form[data-parent-id="' + parentId + '"]');
+				if (form) {
+					form.classList.add('tw:hidden');
+				}
+				return;
+			}
+
+			// Reply submit: post the reply.
+			const replySubmit = e.target.closest('.ep-reply-submit');
+			if (replySubmit) {
+				const parentId = replySubmit.dataset.parentId;
+				const form = document.querySelector('.ep-reply-form[data-parent-id="' + parentId + '"]');
+				if (form) {
+					submitReply(parentId, form);
+				}
+			}
+		});
+	}
+
+	function setupUserAvatar() {
+		const usernameDiv = document.getElementById(PublicCommentSelectors.USERNAME);
+		const userAvatar = document.getElementById(PublicCommentSelectors.USER_AVATAR);
+
+		if (!usernameDiv || !userAvatar) {
+			return;
+		}
+
+		const user = window?.tp?.pianoId?.getUser() ?? null;
+
+		if (!user) {
+			return;
+		}
+
+		const fullName = `${user?.firstName ?? ''} ${user?.lastName ?? ''}`;
+
+		usernameDiv.innerHTML = fullName;
+		userAvatar.innerHTML = getInitials(fullName);
+	}
+
+	function openLoginModal() {
+		window?.tp?.pianoId?.show({ displayMode: 'modal', screen: 'login' });
+	}
+
+	function setupCommentSubmitButton() {
+		const submitButton = document.getElementById(PublicCommentSelectors.SUBMIT);
+
+		if (!submitButton || state.submitCommentButtonRegistered) {
+			return;
+		}
+
+		// Register a single click handler that checks auth state at click time.
+		submitButton.addEventListener('click', function() {
+			const user = window?.tp?.pianoId?.getUser() ?? null;
+
+			if (!user) {
+				openLoginModal();
+				return;
+			}
+
+			runCommentProcess('postComment');
+		});
+
+		state.submitCommentButtonRegistered = true;
+	}
+
+	function setSortOrder(order) {
+		state.sortOrder = order;
+
+		const newestBtn = document.getElementById(PublicCommentSelectors.SORT_NEWEST);
+		const oldestBtn = document.getElementById(PublicCommentSelectors.SORT_OLDEST);
+
+		if (newestBtn && oldestBtn) {
+			const activeClasses = ['tw:font-bold', 'tw:text-blue-800'];
+			const inactiveClasses = ['tw:font-normal', 'tw:text-slate-500'];
+
+			if (order === 'newest') {
+				newestBtn.classList.add(...activeClasses);
+				newestBtn.classList.remove(...inactiveClasses);
+				oldestBtn.classList.add(...inactiveClasses);
+				oldestBtn.classList.remove(...activeClasses);
+			} else {
+				oldestBtn.classList.add(...activeClasses);
+				oldestBtn.classList.remove(...inactiveClasses);
+				newestBtn.classList.add(...inactiveClasses);
+				newestBtn.classList.remove(...activeClasses);
+			}
+		}
+
+		displayComments();
+	}
+
+	function setupSortControls() {
+		const newestBtn = document.getElementById(PublicCommentSelectors.SORT_NEWEST);
+		const oldestBtn = document.getElementById(PublicCommentSelectors.SORT_OLDEST);
+
+		if (newestBtn) {
+			newestBtn.addEventListener('click', function() {
+				setSortOrder('newest');
+			});
+		}
+
+		if (oldestBtn) {
+			oldestBtn.addEventListener('click', function() {
+				setSortOrder('oldest');
+			});
+		}
+	}
+
+	runCommentProcess('getComments');
+	listenForPianoLogin();
+	setupCommentSubmitButton();
+	setupCommentListDelegation();
+	setupSortControls();
+});
+</script>
+
+		
+<div class="tw:mb-2 tw:border-t tw:border-slate-200 tw:pb-2 tw:pt-2 tw:relative">
+	<div class="tw:flex tw:items-center tw:justify-between">
+		<div class="tw:flex tw:items-center">
+			<!-- Heading -->
+							<h2 class='tw:my-0 tw:flex tw:text-slate-800 tw:font-bold tw:leading-none tw:font-heading'>				<span>
+					Related Content				</span>
+				</h2>					</div>
+
+			</div>
+
+	</div>
+
+<section class="tw:grid tw:sm:grid-cols-2 tw:md:grid-cols-3 tw:gap-x-10">
+	
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775631325-Photo-2026-04-08T121833512.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/exotel-acqui-hires-dubverse-team-to-boost-voice-ai/503961"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					Exotel Acqui-hires Dubverse Team to Boost Voice AI Capabilities				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775631145-Photo-2026-04-08T120141430.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/kreditbee-joins-unicorn-club-after-raising-usd-280-mn-in/503960"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					KreditBee Joins Unicorn Club After Raising USD 280 Mn in Series E				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775628408-Photo-2026-04-08T113630334.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/one-hand-clap-enters-distribution-with-agenseed-acquisition/503956"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					One Hand Clap Enters Distribution with Agenseed Acquisition				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775626312-Photo-2026-04-08T105920860.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/workongrid-raises-inr-225-cr-funding-led-by-transition/503953"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					WorkOnGrid Raises INR 22.5 Cr Funding Led by Transition Venture Capital				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775560824-Photo-2026-04-07T164907654.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/fashinza-acquires-qckin-to-strengthen-manufacturing/503942"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					Fashinza Acquires Qckin to Strengthen Manufacturing Capabilities				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+
+<article class="tw:mb-12 is-entire-card-clickable">
+			<figure class="tw:relative tw:flex tw:rounded-lg tw:leading-0 tw:overflow-hidden tw:items-center tw:aspect-video tw:mb-4">
+			
+			
+<img
+			width="500"
+				height="282"
+				src="https://india.entrepreneur.com/wp-content/uploads/sites/5/2026/04/1775559509-Photo-2026-04-07T162811555.png?resize=500,282"
+				class="tw:rounded-lg tw:shadow tw:prerender tw:h-auto tw:object-contain tw:w-full"
+				role="presentation"
+						loading="lazy"
+/>
+
+		</figure>
+	
+	
+	<div class="tw:flex tw:flex-col tw:gap-2 tw:flex-grow tw:flex-1 tw:items-start tw:text-left">
+		
+	<div class="tw:flex tw:justify-start">
+		<div class="tw:font-sans tw:text-blue-800 tw:text-sm tw:tracking-wider tw:font-semibold tw:leading-none tw:mb-1 tw:uppercase">
+				Business News		</div>
+	</div>
+					<h3 class="tw:text-xl tw:font-bold tw:leading-7">
+								<a
+					href="https://india.entrepreneur.com/news-and-trends/quest-global-acquires-bitsilica-to-boost-semiconductor/503940"
+					data-id=""
+					data-value=""
+					target="_self"
+					class=""
+				>
+					Quest Global Acquires BITSILICA to Boost Semiconductor Capabilities				</a>
+							</h3>
+		
+				
+		
+					<div class="tw:text-sm tw:uppercase tw:font-sans tw:font-semibold tw:mt-2 ">
+				By <a class="tw:hover:underline" href="https://india.entrepreneur.com/author/entrepreneur-staff">Entrepreneur Staff</a>			</div>
+		
+			</div>
+	</article>
+</div>
+	</div>
+		</main>
+		
+<footer id="footer" class="site-footer tw:pt-12 page-container tw:pb-24 tw:lg:pb-40" role="contentinfo">
+	
+	<hr class="tw:border-slate-50 tw:border-dashed tw:mb-12" />
+
+	<div class="site-footer__navigation-legal-container">
+		
+<nav class="footer-navigation tw:font-sans" role="navigation">
+	<ul id="menu-footer-navigation-1" class="footer-navigation__menu"><li id="menu-item-82560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82560"><a href="https://www.entrepreneur.com/terms-of-service">Terms of Use</a></li>
+<li id="menu-item-82561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82561"><a href="https://www.entrepreneur.com/privacy-policy">Privacy Policy</a></li>
+</ul><ul id="menu-footer-navigation-2" class="footer-navigation__menu"><li id="menu-item-82563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82563"><a href="https://www.entrepreneur.com/cookie-policy">Cookies Policy</a></li>
+<li id="menu-item-82564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82564"><a href="https://www.entrepreneur.com/accessibility-statement">Accessibility Statement</a></li>
+</ul><ul id="menu-footer-navigation-3" class="footer-navigation__menu"><li id="menu-item-82566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82566"><a href="https://www.entrepreneur.com/sitemap">Site Map</a></li>
+<li id="menu-item-82567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82567"><a href="https://help.entrepreneur.com/en/knowledge">Contact Support</a></li>
+</ul><ul id="menu-footer-navigation-4" class="footer-navigation__menu"><li id="menu-item-82570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82570"><a href="https://www.entrepreneur.com/media-kit">Advertise</a></li>
+<li id="menu-item-87069" class="osano-custom-cookie-link menu-item menu-item-type-custom menu-item-object-custom menu-item-87069"><a href="/cookie-management">Cookie Management</a></li>
+</ul></nav>
+	</div>
+
+	<hr class="tw:border-slate-50 tw:border-dashed tw:mb-12" />
+
+	<div class="tw:flex tw:flex-col tw:lg:flex-row tw:items-center tw:gap-4 tw:py-4 tw:mb-8">
+		
+<nav class="footer-social tw:flex-1" role="navigation">
+	<ul id="menu-social-links" class="footer-social__menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-facebook"><a href="https://www.facebook.com/EntrepreneurInd">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-x"><a href="https://x.com/EntrepreneurIND">X</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-linkedin"><a href="https://www.linkedin.com/company/entrepreneur-media-india">LinkedIn</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-youtube"><a href="https://www.youtube.com/channel/UCW5Q3EHcO5kH9oaD4oaMvjw">YouTube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-instagram"><a href="https://www.instagram.com/entrepreneurind/">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-rss"><a href="https://www.entrepreneur.com/latest.rss">RSS</a></li>
+</ul></nav>
+		<div class="tw:text-sm tw:flex-1 ">
+	Copyright &copy;
+	2026	Entrepreneur Media, LLC All rights reserved. Entrepreneur&reg; and its
+		related marks are registered trademarks of Entrepreneur Media, LLC.</div>	</div>
+	<div class="tw:text-sm tw:flex-1 tw:mb-12 tw:lg:text-center">
+	We are a proud American independent media company that has never taken a dime of USAID taxpayer money 🇺🇸</div>
+
+	<hr class="tw:border-slate-50 tw:border-dashed tw:mb-12" />
+
+	
+<nav class="footer-subfooter tw:font-sans" role="navigation">
+	<ul id="menu-editions" class="footer-subfooter__menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82539"><a href="https://www.entrepreneur.com">United States</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82540"><a href="https://spanish.entrepreneur.com">Spanish</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82541"><a href="https://www.entrepreneur.com/ka">Georgia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-82542"><a href="https://india.entrepreneur.com/">India</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82543"><a href="https://apac.entrepreneur.com/">Asia Pacific</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82544"><a href="https://mena.entrepreneur.com/">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82545"><a href="https://uk.entrepreneur.com/">United Kingdom</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82546"><a href="https://eu.entrepreneur.com/">Europe</a></li>
+</ul></nav>
+</footer>
+		
+<div id="anchorcontainer" class="tw:fixed tw:-bottom-[50px] tw:sm:-bottom-[90px] tw:transition-all tw:w-full tw:box-content tw:h-min-[50px] tw:sm:h-min-[90px] tw:z-40 tw:bg-slate-50 tw:border-t-1 tw:border-slate-200">
+	<div id="anchorslot" data-pos="anchor" class="ad__wrapper ad--bottom_anchor"></div>
+</div>
+
+<script>
+	function loadAdId_anchorslot() {
+		googletag.cmd.push(() => {
+			const adSlot = googletag
+				.defineSlot(window.EPAdData.adUnitPath, [[728, 90]], 'anchorslot')
+				.addService(googletag.pubads())
+				.setTargeting('pos','anchor');
+
+			const sizeMap = googletag
+				.sizeMapping()
+				.addSize([1200, 300], [[728,90],[970,90]])
+				.addSize([1024, 300], [[728,90],[970,90]])
+				.addSize([768, 300], [[728,90]])
+				.addSize([0, 300], [[300,50],[320,50]])
+				.build();
+
+			adSlot.defineSizeMapping(sizeMap);
+
+			googletag.display('anchorslot');
+		});
+	}
+</script>
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/sites\/5\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/entrepreneur\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script>
+	!function(){"use strict";var e=window.VIP_EXP=window.VIP_EXP||{config:{}};e.loadVIPExp=function(t){var n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{};t&&(e.config=n,e.config.apikey=t,function(e){if(!e)return;var t="https://experiments.parsely.com/vip-experiments.js"+"?apiKey=".concat(e),n=document.createElement("script");n.src=t,n.type="text/javascript",n.fetchPriority="high";var i=document.getElementsByTagName("script")[0];i&&i.parentNode&&i.parentNode.insertBefore(n,i)}(t),n.enableFlickerControl&&function(){var t,n;if(null!==(t=performance)&&void 0!==t&&null!==(n=t.getEntriesByName)&&void 0!==n&&null!==(n=n.call(t,"first-contentful-paint"))&&void 0!==n&&n[0])return;var i="vipexp-fooc-prevention";e.config.disableFlickerControl=function(){var e=document.getElementById(i);null!=e&&e.parentNode&&e.parentNode.removeChild(e)};var o=document.createElement("style");o.setAttribute("type","text/css"),o.appendChild(document.createTextNode("body { visibility: hidden; }")),o.id=i,document.head.appendChild(o),window.setTimeout(e.config.disableFlickerControl,500)}())},
+
+	// your Parse.ly Site ID here
+	e.loadVIPExp("entrepreneur.com",{
+		enableFlickerControl: true
+	})
+	}();
+	</script>
+		<script>
+		function comscoreGFCconsent(data) {
+			let payload = {};
+
+			if (data === 0) {
+				localStorage.setItem('dfp.show-non-personalized-ads', 'true');
+			}
+
+			payload = {
+				c1: '2',
+				c2: '9564200',
+				cs_ucfr: data,
+				options: {
+					enableFirstPartyCookie: true,
+				},
+			};
+
+			window._comscore = window._comscore || [];
+			window._comscore.push(payload);
+
+			(function () {
+				const s = document.createElement('script');
+				const el = document.getElementsByTagName('script')[0];
+				s.async = true;
+				s.src = 'https://sb.scorecardresearch.com/cs/9564200/beacon.js';
+				el.parentNode.insertBefore(s, el);
+			})();
+		}
+
+		document.addEventListener('readystatechange', () => {
+			comscoreGFCconsent(localStorage.getItem('comscore.ccpa-opt-in'));
+		});
+	</script>
+	<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/client-mu-plugins/entrepreneur/dist/js/shared.js?ver=d1a06dafad47fdb089c0" id="entrepreneur_plugin_shared-js"></script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/client-mu-plugins/entrepreneur/dist/js/frontend.js?ver=0501709c2ac12f7de675" id="entrepreneur_plugin_frontend-js"></script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-parsely-loader-js-before">
+/* <![CDATA[ */
+window.wpParselySiteId = 'india.entrepreneur.com';
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/mu-plugins/wp-parsely-3.22/build/loader.js?ver=ecf94842061bea03d54b" id="wp-parsely-loader-js"></script>
+<script type="text/javascript" data-parsely-site="india.entrepreneur.com" src="https://cdn.parsely.com/keys/india.entrepreneur.com/p.js?ver=3.22.1" id="parsely-cfg"></script>
+<script type="text/javascript" id="frontend-js-extra">
+/* <![CDATA[ */
+var epPianoData = {"userTier":"","userPlan":"","isLocked":"","wpId":"0","isLoggedIn":""};
+/* ]]> */
+</script>
+<script type="text/javascript" id="frontend-js-before">
+/* <![CDATA[ */
+const ept = {"spinner":"<?xml version=\"1.0\"?>\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" fill=\"currentColor\" viewBox=\"0 0 24 24\">\n    <title>Spinner<\/title>\n    <path d=\"M0 0h24v24H0z\" fill=\"none\"\/>\n    <path d=\"M15.55 5.55L11 1v3.07C7.06 4.56 4 7.92 4 12s3.05 7.44 7 7.93v-2.02c-2.84-.48-5-2.94-5-5.91s2.16-5.43 5-5.91V10l4.55-4.45zM19.93 11c-.17-1.39-.72-2.73-1.62-3.89l-1.42 1.42c.54.75.88 1.6 1.02 2.47h2.02zM13 17.9v2.02c1.39-.17 2.74-.71 3.9-1.61l-1.44-1.44c-.75.54-1.59.89-2.46 1.03zm3.89-2.42l1.42 1.41c.9-1.16 1.45-2.5 1.62-3.89h-2.02c-.14.87-.48 1.72-1.02 2.48z\"\/>\n<\/svg>\n"}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/themes/entrepreneur/dist/js/frontend.js?ver=ba38d6ef7b9a6a19ce3e" id="frontend-js"></script>
+<script type="text/javascript" id="piano-analytics-js-extra">
+/* <![CDATA[ */
+var EPAnalyticsData = {"page":"GenAI Startup InsurStaq.ai Shuts Shop In 16 months","page_chapter1":"","page_chapter2":"","page_chapter3":"","provider":"","author_type":"staff","categories":["Business News"],"campaign_keyword":"edition_in","content_type":"article"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://india.entrepreneur.com/wp-content/themes/entrepreneur/dist/js/piano-analytics.js?ver=d5cc3188ec86f0fdcf1e" id="piano-analytics-js"></script>
+<script type="text/javascript" src="https://c2.entrepreneur.com/xbuilder/experience/load?aid=3CgcRbFCpu&amp;ver=1.1.11" id="piano-js"></script>
+<script type="text/javascript" src="//s.skimresources.com/js/143769X1608443.skimlinks.js?ver=1.1.11" id="skimlinks-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-before">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"237779295","post":"7848","tz":"0","srv":"india.entrepreneur.com","hp":"vip","j":"1:15.5-beta"} ]);
+_stq.push([ "clickTrackerInit", "237779295", "7848" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stats.wp.com/e-202615.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+		</div>
+	</body>
+</html>

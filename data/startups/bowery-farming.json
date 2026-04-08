@@ -1,0 +1,48 @@
+{
+  "name": "Bowery Farming",
+  "slug": "bowery-farming",
+  "tagline": "$700M and celebrity investors could not make indoor lettuce profitable",
+  "description": "New York City-based vertical farming startup that used its proprietary BoweryOS platform, combining AI, computer vision, and robotics, to automate indoor crop cultivation. Founded by Irving Fain, backed by celebrities including Natalie Portman and Justin Timberlake, and valued at $2.3 billion at its peak, Bowery grew pesticide-free produce for major retailers before ceasing operations in November 2024.",
+  "story": "Irving Fain had already built and sold one company when he turned his attention to agriculture. In 2015 he founded Bowery Farming with the pitch that AI could finally make vertical farming economically viable. The centerpiece was BoweryOS, a proprietary platform that integrated sensors, computer vision, robotics, and machine learning to orchestrate every aspect of indoor crop production -- from lighting schedules to nutrient delivery. Investors loved the narrative. Bowery raised a $325 million Series C in 2021 led by Fidelity, reaching a $2.3 billion valuation. Natalie Portman and Justin Timberlake were among the celebrity backers. The company operated farms in New Jersey, Pennsylvania, Maryland, and Georgia, supplying pesticide-free greens to grocery chains across the East Coast.\n\nBut the economics of vertical farming are brutally simple: growing lettuce indoors costs multiples more than growing it in a field, and consumers have limited appetite for premium-priced produce. Energy bills ran far higher than projected. In early 2022, rather than raise another equity round, Bowery took on $150 million in debt from KKR -- a decision that would later prove fatal. Debt demands regular repayment regardless of revenue, and Bowery's revenue was nowhere near covering its capital-intensive operations.\n\nBy 2024, the company was desperately seeking a buyer or additional financing. Neither materialized. In November 2024, Bowery ceased operations entirely, laying off all 187 remaining employees. Its $70 million Georgia facility eventually headed to liquidation. More than $700 million in total funding vanished alongside the dream of AI-optimized indoor agriculture.\n\nBowery was not alone. AeroFarms, AppHarvest, and Infarm all collapsed in the same period, suggesting the problem was not any single company's execution but the fundamental economics of the sector. The technology worked; the business model did not. BoweryOS could grow a perfect head of lettuce. It just could not grow one cheaply enough for anyone to buy.",
+  "founded": "2015-01",
+  "shutdown": "2024-11",
+  "funding_raised": "$700M+",
+  "funding_stage": "Series C",
+  "employee_count": 187,
+  "category": "funding",
+  "tags": [
+    "ai",
+    "vertical-farming",
+    "agriculture",
+    "iot",
+    "data-analytics"
+  ],
+  "url": "https://boweryfarming.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/",
+      "title": "Bowery Farming is ceasing operations",
+      "date": "2024-11-04",
+      "snapshot_path": "data/snapshots/bowery-farming/techcrunch.com_2024_11_04_bowery-farming-is-ceasing-operations_.html"
+    },
+    {
+      "url": "https://www.agriculturedive.com/news/celebrity-backed-indoor-farming-company-bowery-closes-lays-off-187-workers/732282/",
+      "title": "Celebrity-backed indoor farming company Bowery closes, lays off workers",
+      "date": "2024-11-04",
+      "snapshot_path": "data/snapshots/bowery-farming/www.agriculturedive.com_news_celebrity-backed-indoor-farming-company-bowery-closes-lays-off-187-workers_732282_.html"
+    },
+    {
+      "url": "https://www.axios.com/2024/11/05/bowery-vertical-farming-close",
+      "title": "Vertical farming unicorn Bowery to shut down",
+      "date": "2024-11-05",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 118,
+  "total_loss": "$700M+",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}

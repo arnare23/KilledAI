@@ -1,0 +1,42 @@
+{
+  "name": "GenWise",
+  "slug": "genwise",
+  "tagline": "AI companion for India's elderly that could not bridge the adoption gap",
+  "description": "Indian startup founded by former BharatPe executives that built a lifestyle app for senior citizens featuring an AI-powered companion, digital payments, financial tracking, and healthcare support. Backed by CRED founder Kunal Shah and Z47 with $3.5 million in seed funding, GenWise claimed 30 lakh users but posted just 1 crore in revenue against 12.1 crore in losses before shutting down in December 2025.",
+  "story": "GenWise launched in 2023 with a premise that sounded both noble and timely: India's elderly population was growing fast, largely underserved by technology, and increasingly lonely. Cofounders Nehul Malhotra, Geetanshu Singla, and Rajat Jain -- all former BharatPe executives -- set out to build a comprehensive lifestyle platform for senior citizens. The app combined an AI-powered companion designed to reduce loneliness with practical tools for digital payments, financial tracking, healthcare coordination, and social engagement. CRED founder Kunal Shah backed it personally, and Z47 led a $3.5 million seed round alongside DBR Ventures and Climber Capital.\n\nThe product attracted attention and, on paper, users. GenWise claimed a user base of over 30 lakh (3 million). But the gap between downloads and revenue was vast. In FY25, the company reported just 1 crore rupees (approximately $120,000) in revenue against losses of 12.1 crore rupees -- a ratio that made any path to sustainability invisible. The core challenge was monetization: elderly users in India, even digitally curious ones, were reluctant to pay for an app, and advertisers saw limited value in the demographic.\n\nBy May 2025, GenWise had already laid off 20 percent of its roughly 20-person team. In December, cofounder Nehul Malhotra announced the company had paused active operations, noting that strategic options were being evaluated. The remaining staff were let go. No acquirer materialized.\n\nGenWise joined a growing list of Indian startups that shut down in 2025, but its failure carries a specific lesson about AI companionship products. Building an AI that can talk to lonely seniors is technically straightforward in the age of large language models. Building a business around it -- finding who pays, how much, and why -- remains the harder problem by far.",
+  "founded": "2023-01",
+  "shutdown": "2025-12",
+  "funding_raised": "$3.5M",
+  "funding_stage": "Seed",
+  "employee_count": 20,
+  "category": "market",
+  "tags": [
+    "ai",
+    "companion",
+    "senior-citizens",
+    "healthcare",
+    "india"
+  ],
+  "url": "https://genwise.club",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/exclusive-kunal-shah-backed-genwise-shuts-down-operations/",
+      "title": "Exclusive: Kunal Shah-Backed GenWise Shuts Down Operations",
+      "date": "2025-12-10",
+      "snapshot_path": "data/snapshots/genwise/inc42.com_buzz_exclusive-kunal-shah-backed-genwise-shuts-down-operations_.html"
+    },
+    {
+      "url": "https://inc42.com/features/25-indian-startups-shut-down-in-2025/",
+      "title": "From Burn To Breakdown: 25 Startups That Shut Down In 2025",
+      "date": "2025-12-31",
+      "snapshot_path": "data/snapshots/genwise/inc42.com_features_25-indian-startups-shut-down-in-2025_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 35,
+  "total_loss": "$3.5M",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}

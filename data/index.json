@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-08T09:05:38.408989+00:00",
-  "count": 127,
+  "generated_at": "2026-04-08T09:44:40.424421+00:00",
+  "count": 133,
   "startups": [
     {
       "name": "Cove",
@@ -58,6 +58,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07"
+    },
+    {
+      "name": "Drift",
+      "slug": "drift",
+      "tagline": "Coined 'conversational marketing,' then a security breach killed the conversation",
+      "founded": "2015",
+      "shutdown": "2026-03",
+      "category": "acqui-hired",
+      "funding_raised": "$107M",
+      "lifetime_months": 132,
+      "total_loss": "$107M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Monarch Tractor",
@@ -226,6 +240,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07"
+    },
+    {
+      "name": "GenWise",
+      "slug": "genwise",
+      "tagline": "AI companion for India's elderly that could not bridge the adoption gap",
+      "founded": "2023-01",
+      "shutdown": "2025-12",
+      "category": "market",
+      "funding_raised": "$3.5M",
+      "lifetime_months": 35,
+      "total_loss": "$3.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
     },
     {
       "name": "iRobot",
@@ -478,6 +506,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Attabotics",
+      "slug": "attabotics",
+      "tagline": "Calgary's robotic warehouse darling burned through $200M before a fire finished the job",
+      "founded": "2016-01",
+      "shutdown": "2025-06",
+      "category": "funding",
+      "funding_raised": "$200M+",
+      "lifetime_months": 113,
+      "total_loss": "$200M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
     },
     {
       "name": "Moonhub",
@@ -914,6 +956,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "Bowery Farming",
+      "slug": "bowery-farming",
+      "tagline": "$700M and celebrity investors could not make indoor lettuce profitable",
+      "founded": "2015-01",
+      "shutdown": "2024-11",
+      "category": "funding",
+      "funding_raised": "$700M+",
+      "lifetime_months": 118,
+      "total_loss": "$700M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
+    },
+    {
       "name": "Forward Health",
       "slug": "forward-health",
       "tagline": "AI-powered 'doctor in a box' CarePods for primary care",
@@ -940,6 +996,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Northvolt",
+      "slug": "northvolt",
+      "tagline": "Europe's $14B answer to Chinese batteries that never learned to make them",
+      "founded": "2015-01",
+      "shutdown": "2024-11",
+      "category": "technical",
+      "funding_raised": "$14B+",
+      "lifetime_months": 118,
+      "total_loss": "$5.8B+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
     },
     {
       "name": "Prophesee",
@@ -982,6 +1052,20 @@
       "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "InsurStaq.ai",
+      "slug": "insurstaq-ai",
+      "tagline": "Built a vertical LLM for insurance, but the industry was not buying",
+      "founded": "2022",
+      "shutdown": "2024-09",
+      "category": "market",
+      "funding_raised": "Undisclosed",
+      "lifetime_months": 24,
+      "total_loss": "Undisclosed",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
     },
     {
       "name": "Character.AI",
@@ -1194,20 +1278,6 @@
       "created_at": "2026-04-07"
     },
     {
-      "name": "Drift",
-      "slug": "drift",
-      "tagline": "AI-powered conversational marketing and sales platform",
-      "founded": "2015",
-      "shutdown": "2024-02",
-      "category": "acqui-hired",
-      "funding_raised": "$107M",
-      "lifetime_months": 109,
-      "total_loss": "$107M",
-      "status": "rejected",
-      "confidence": "high",
-      "created_at": "2026-04-01T23:30:00Z"
-    },
-    {
       "name": "Small Robot Company",
       "slug": "small-robot-company",
       "tagline": "AI-powered agricultural robots for precision per-plant farming",
@@ -1346,6 +1416,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Infarm",
+      "slug": "infarm",
+      "tagline": "Europe's billion-dollar vertical farming unicorn that wilted country by country",
+      "founded": "2013-01",
+      "shutdown": "2023-09",
+      "category": "funding",
+      "funding_raised": "$604M",
+      "lifetime_months": 128,
+      "total_loss": "$604M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08T00:00:00Z"
     },
     {
       "name": "Soulmate AI",

@@ -1,0 +1,56 @@
+{
+  "name": "InsurStaq.ai",
+  "slug": "insurstaq-ai",
+  "tagline": "Built a vertical LLM for insurance, but the industry was not buying",
+  "description": "InsurStaq.ai built InsurGPT, a specialized Large Language Model for insurance, plus a sales co-pilot to help insurance professionals search products, check compliance, and compare offerings. Founded in 2022 by Mayan Kansal and Shivam Kaushik in Delhi, India, it was backed by Faad Network's FinShastra accelerator, NVIDIA Inception, and Microsoft for Startups. The four-person team shut down after 16 months, pivoting to GenStaq.ai, a broader developer platform for building and deploying AI applications.",
+  "story": "Mayan Kansal and Shivam Kaushik founded InsurStaq.ai in 2022 with a bet on vertical AI: rather than building general-purpose tools, they would create InsurGPT, a large language model purpose-built for the insurance industry, paired with an AI sales co-pilot that helped professionals search products, check compliance, and compare offerings across providers. The Delhi-based duo secured backing from Faad Network's FinShastra accelerator and earned spots in both the NVIDIA Inception and Microsoft for Startups programs.\n\nThe beta launched in May 2023, drawing several hundred early adopters and landing InsurStaq on Inc42's list of the 30 hottest AI startups to watch. But press recognition did not translate into enterprise contracts. The team was four people trying to sell AI tooling to one of the most conservative, regulation-heavy industries in India. Insurance companies move slowly on technology adoption, and a tiny startup with undisclosed funding had little leverage to close deals at the pace needed to survive.\n\nSixteen months after launch, Kansal posted the shutdown announcement on LinkedIn in September 2024. The team had built the product and achieved enterprise-ready compliance, he wrote, but could not overcome the challenges of scaling in the insurance vertical. The founders pivoted immediately, launching GenStaq.ai under the same legal entity -- a broader developer platform for building and deploying AI applications, betting that the infrastructure behind InsurGPT could be generalized beyond a single industry.\n\nInsurStaq illustrates a recurring pattern in vertical AI: the narrower the niche, the deeper the domain expertise required to sell into it, and the smaller the addressable market to sustain the effort. The technology was sound. The market simply was not ready to buy it from a four-person startup.",
+  "founded": "2022",
+  "shutdown": "2024-09",
+  "funding_raised": "Undisclosed",
+  "funding_stage": "pre-seed",
+  "employee_count": 4,
+  "category": "market",
+  "tags": [
+    "ai",
+    "insurtech",
+    "llm",
+    "enterprise",
+    "india",
+    "vertical-ai",
+    "pivot"
+  ],
+  "url": "https://www.insurstaq.ai/",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/faad-network-backed-gen-ai-startup-insurstaq-ai-shuts-operations/",
+      "title": "Faad Network-Backed Gen AI Startup InsurStaq.ai Shuts Operations",
+      "date": "2024-09-25",
+      "snapshot_path": "data/snapshots/insurstaq-ai/inc42.com_buzz_faad-network-backed-gen-ai-startup-insurstaq-ai-shuts-operations_.html"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news-updates/genai-startup-insurstaq-ai-shuts-down-after-a-year-of-operations/",
+      "title": "GenAI Startup InsurStaq.ai Shuts Down After a Year of Operations",
+      "date": "2024-09-27",
+      "snapshot_path": "data/snapshots/insurstaq-ai/analyticsindiamag.com_ai-news-updates_genai-startup-insurstaq-ai-shuts-down-after-a-year-of-operations_.html"
+    },
+    {
+      "url": "https://india.entrepreneur.com/news-and-trends/genai-startup-insurstaqai-shuts-shop-in-16-months/479627",
+      "title": "GenAI Startup InsurStaq.ai Shuts Shop In 16 Months",
+      "date": "2024-09-28",
+      "snapshot_path": "data/snapshots/insurstaq-ai/india.entrepreneur.com_news-and-trends_genai-startup-insurstaqai-shuts-shop-in-16-months_479627.html"
+    },
+    {
+      "url": "https://rizevault.razorpay.com/p/mayan-kansal-insuring-the-future",
+      "title": "Mayan: Founder Story of InsurStaq, a Leading AI-First Indian Company",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/insurstaq-ai/rizevault.razorpay.com_p_mayan-kansal-insuring-the-future.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 24,
+  "total_loss": "Undisclosed",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}

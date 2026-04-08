@@ -1,35 +1,62 @@
 {
   "name": "Drift",
   "slug": "drift",
-  "tagline": "AI-powered conversational marketing and sales platform",
-  "description": "Drift pioneered conversational marketing with AI chatbots, raised $107M and was valued at $1B by Vista Equity. Acquired by Salesloft in 2024, the brand and product are being phased out.",
-  "story": "Drift was founded in 2015 and essentially created the 'conversational marketing' category — AI chatbots that engaged website visitors, qualified leads, and booked meetings in real time. The company raised $107 million from General Catalyst, Sequoia Capital, and Founder Collective. In 2021, Vista Equity Partners acquired a majority stake at a $1 billion valuation. But growth stalled under Vista's ownership. In February 2024, Salesloft acquired Drift. The Drift brand is being systematically phased out — new customers buy Salesloft packages, customer support features have been deprioritized, and the general-purpose automation capabilities are being dismantled. For the teams that built their marketing stack around Drift as a standalone product, the acquisition was effectively a product kill.",
+  "tagline": "Coined 'conversational marketing,' then a security breach killed the conversation",
+  "description": "Drift pioneered the 'conversational marketing' category with AI chatbots that engaged website visitors, qualified leads, and booked meetings. Founded in 2015 by David Cancel and Elias Torres, it raised $107M from General Catalyst, Sequoia, and CRV, reaching unicorn status after Vista Equity Partners took a majority stake in 2021. Acquired by Salesloft in February 2024, Drift suffered a massive OAuth security breach in August 2025 that compromised 700+ organizations, and was officially sunset in March 2026.",
+  "story": "David Cancel and Elias Torres had already built and sold one company together -- Performable, acquired by HubSpot in 2011 -- when they launched Drift in 2015. Cancel had served as HubSpot's Chief Product Officer but left weeks before the company's IPO, restless enough to start over. Their new venture began with a simple chat widget aimed at replacing the static lead capture forms that dominated B2B websites, and they coined a term for it: conversational marketing.\n\nThe framing worked. Drift surged from zero to over 10,000 customers within two years, building an entire category around AI-powered chatbots that engaged website visitors in real time, qualified leads, and booked meetings automatically. The company raised $107 million from General Catalyst, Sequoia, and CRV. By 2021, Drift had roughly 500 employees, more than 50,000 customers, and enough momentum for Vista Equity Partners to acquire a majority stake at a valuation exceeding $1 billion.\n\nThe Vista era marked the beginning of the end. Growth stalled under private equity ownership. In 2023, Drift cut 59 positions. In early 2024, Vista sold Drift to Salesloft, a sales engagement platform that was itself owned by Vista portfolio company Clari. The Drift brand began to be systematically phased out.\n\nThe final blow was not financial but catastrophic. Between August 8 and 18, 2025, a cyberattack attributed to threat group UNC6395 exploited vulnerabilities in Drift's OAuth token management. The attackers had first compromised Salesloft's GitHub account months earlier, gaining the foothold needed for reconnaissance. Stolen OAuth tokens gave them access to Salesforce, Slack, Google Workspace, AWS, Azure, and OpenAI integrations across more than 700 organizations -- including Cloudflare, Palo Alto Networks, and Zscaler. API keys, cloud credentials, and customer records were exposed in what became one of the most significant supply-chain breaches of 2025.\n\nSalesloft took Drift offline on September 5, 2025. It never came back. On March 6, 2026, Clari and Salesloft officially announced the sunset of Drift, naming 1mind as the exclusive successor for customer migration. The company that invented conversational marketing ended not with a pivot or a graceful wind-down, but with a security catastrophe that made its own product too dangerous to keep running.",
   "founded": "2015",
-  "shutdown": "2024-02",
+  "shutdown": "2026-03",
   "funding_raised": "$107M",
   "funding_stage": "late",
+  "employee_count": 500,
   "category": "acqui-hired",
   "tags": [
     "marketing",
     "chatbot",
     "conversational-marketing",
     "sales",
-    "vista-equity"
+    "vista-equity",
+    "security-breach",
+    "private-equity"
   ],
+  "url": "https://www.drift.com",
   "sources": [
     {
       "url": "https://martech.org/drift-acquired-by-sales-engagement-platform-salesloft/",
       "title": "Drift acquired by Salesloft",
       "date": "2024-02-15",
-      "snapshot_path": null,
-      "status": "active"
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.cxtoday.com/customer-analytics-intelligence/the-salesloft-drift-chatbot-is-set-to-go-offline-after-customers-suffer-big-breaches/",
+      "title": "The Salesloft Drift Chatbot Is Set to Go Offline After Customers Suffer Big Breaches",
+      "date": "2025-09-15",
+      "snapshot_path": "data/snapshots/drift/www.cxtoday.com_customer-analytics-intelligence_the-salesloft-drift-chatbot-is-set-to-go-offline-after-customers-suffer-big-breaches_.html"
+    },
+    {
+      "url": "https://www.wtwco.com/en-us/insights/2025/09/the-drift-oauth-breach-a-cybersecurity-wake-up-call",
+      "title": "The Drift OAuth breach: A cybersecurity wake-up call",
+      "date": "2025-09-25",
+      "snapshot_path": "data/snapshots/drift/www.wtwco.com_en-us_insights_2025_09_the-drift-oauth-breach-a-cybersecurity-wake-up-call.html"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260306534285/en/Clari-Salesloft-and-1mind-Partner-to-Advance-AI-Driven-Revenue-Orchestration",
+      "title": "Clari + Salesloft and 1mind Partner to Advance AI-Driven Revenue Orchestration (Drift sunset announcement)",
+      "date": "2026-03-06",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2021/09/01/vista-equity-takes-majority-stake-in-saas-startup-drift-taking-it-to-unicorn-status/",
+      "title": "Vista Equity takes majority stake in SaaS startup Drift, taking it to unicorn status",
+      "date": "2021-09-01",
+      "snapshot_path": "data/snapshots/drift/techcrunch.com_2021_09_01_vista-equity-takes-majority-stake-in-saas-startup-drift-taking-it-to-unicorn-status_.html"
     }
   ],
-  "status": "rejected",
-  "rejection_reason": "Not a failure. Vista Equity Partners owned both Drift and Salesloft and merged them as a portfolio consolidation. Drift's chatbot product still exists within Salesloft at $2,500/month as of 2026. No investor loss — Vista controlled the transaction. This is a PE internal merger, not a startup death.",
+  "status": "published",
+  "rejection_reason": null,
   "confidence": "high",
+  "lifetime_months": 132,
+  "total_loss": "$107M",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-07T00:00:00Z",
-  "lifetime_months": 109,
-  "total_loss": "$107M"
+  "updated_at": "2026-04-08T00:00:00Z"
 }

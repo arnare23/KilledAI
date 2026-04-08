@@ -1,0 +1,48 @@
+{
+  "name": "Attabotics",
+  "slug": "attabotics",
+  "tagline": "Calgary's robotic warehouse darling burned through $200M before a fire finished the job",
+  "description": "Calgary-based robotics startup that built a 3D vertical storage and retrieval system using AI-driven robots to manage warehouse inventory. At its peak, Attabotics employed over 300 people and counted major retailers among its clients, but a devastating warehouse fire, reputational damage, and mounting losses led to bankruptcy in 2025.",
+  "story": "Scott Gravelle founded Attabotics in 2016 with a deceptively simple idea: warehouses grow outward, but they should grow upward. His company built a vertical storage and retrieval system that used AI-guided robots shuttling goods through a dense, three-dimensional grid structure, promising to shrink warehouse footprints by 85 percent. The concept attracted over $200 million in venture funding across multiple rounds, and by 2022, Attabotics was Calgary's most celebrated tech startup, with more than 300 employees and contracts with major North American retailers.\n\nThen came the fire. In 2023, a blaze broke out at a Canadian Tire distribution centre in Brampton, Ontario, where Attabotics had installed its system. The fire destroyed inventory and cost Canadian Tire $74.6 million in quarterly earnings. Attabotics sued Canadian Tire for $32.5 million, alleging the retailer's negligence caused the blaze; the two sides settled in February 2024 with no findings on the fire's cause. But the reputational damage was done. Attabotics later acknowledged that the incident had hurt sales and scared off prospective customers.\n\nThe financial picture deteriorated rapidly. In 2024, Attabotics posted over $50 million CAD in revenue but nearly matched it with a $50 million CAD net loss. The company blamed high interest rates, sluggish consumer spending, and delayed projects. Layoffs followed. By the end of June 2025, it was over: Attabotics filed for bankruptcy protection, terminating 192 of its remaining 203 employees via email on a Sunday evening. Total liabilities stood at approximately $73.8 million.\n\nThe Calgary tech community mourned what might have been. Attabotics had a genuinely novel product in a market that rewards innovation, but the combination of a reputational crisis, capital-intensive hardware development, and a funding environment that had turned hostile proved fatal. As one local tech leader told CBC: sometimes it just does not work out.",
+  "founded": "2016-01",
+  "shutdown": "2025-06",
+  "funding_raised": "$200M+",
+  "funding_stage": "Series C",
+  "employee_count": 300,
+  "category": "funding",
+  "tags": [
+    "ai",
+    "robotics",
+    "warehouse-automation",
+    "logistics",
+    "canada"
+  ],
+  "url": "https://attabotics.com",
+  "sources": [
+    {
+      "url": "https://betakit.com/robotics-startup-attabotics-closes-down-and-terminates-employees/",
+      "title": "Robotics startup Attabotics closes down and terminates employees",
+      "date": "2025-07-01",
+      "snapshot_path": "data/snapshots/attabotics/betakit.com_robotics-startup-attabotics-closes-down-and-terminates-employees_.html"
+    },
+    {
+      "url": "https://globalnews.ca/news/11272699/calgary-tech-attabotics-bankruptcy-layoffs/",
+      "title": "Calgary tech darling shuts down suddenly, hundreds of employees lose jobs",
+      "date": "2025-07-01",
+      "snapshot_path": "data/snapshots/attabotics/globalnews.ca_news_11272699_calgary-tech-attabotics-bankruptcy-layoffs_.html"
+    },
+    {
+      "url": "https://theaiinsider.tech/2025/07/03/calgary-robotics-firm-attabotics-files-for-bankruptcy-protection/",
+      "title": "Calgary Robotics Firm Attabotics Files for Bankruptcy Protection",
+      "date": "2025-07-03",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 113,
+  "total_loss": "$200M+",
+  "created_at": "2026-04-08T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z"
+}
