@@ -1,0 +1,56 @@
+{
+  "name": "Spotlight Therapeutics",
+  "slug": "spotlight-therapeutics",
+  "tagline": "CRISPR gene editing delivery platform backed by Google Ventures",
+  "description": "Spotlight Therapeutics developed a proprietary TAGE (Targeted Active Gene Editors) platform to deliver CRISPR therapies directly into the body using antibody-like conjugates instead of viral vectors or lipid nanoparticles. Founded by UC Berkeley and UCSF scientists and backed by $66.5M from GV and others, the company shut down in February 2025 after its precision edits failed to achieve the in vivo stability needed for systemic administration in human trials for eye diseases.",
+  "story": "Spotlight Therapeutics had an elegant thesis: CRISPR gene editing was revolutionary, but delivering it safely into the human body remained the field's central unsolved problem — and Spotlight claimed to have cracked it. Founded in 2018 by scientists from UC Berkeley and UCSF, the company developed TAGE (Targeted Active Gene Editors), a platform that used antibody-like conjugates to ferry CRISPR machinery directly to diseased cells without relying on the viral vectors or lipid nanoparticles that plagued competitors with toxicity and immunogenicity issues. Google Ventures led a $30 million Series A in 2020, followed by a $36.5 million Series B in 2022, giving Spotlight $66.5 million to prove that its precision delivery approach could work in living patients. The company set its sights on inherited retinal diseases — a relatively contained target where small amounts of edited cells could make a measurable difference. But biology refused to cooperate. The TAGE conjugates that looked promising in cell cultures and animal models could not achieve the stability and potency required for systemic administration in humans. The edits were too transient, the delivery too inconsistent, and the path to clinical trials grew longer with each round of data. By early 2025, with approximately 40 employees and no viable path to human dosing, Spotlight shut down entirely. It was a reminder that in gene therapy, the science of editing DNA has outpaced the engineering of getting those edits where they need to go — and that even $66.5 million and backing from Silicon Valley's most prestigious health-tech investors cannot will biology past its limitations.",
+  "founded": "2018",
+  "shutdown": "2025-02",
+  "funding_raised": "$66.5M",
+  "funding_stage": "Series B",
+  "employee_count": 40,
+  "category": "technical",
+  "tags": [
+    "biotech",
+    "crispr",
+    "gene-editing",
+    "healthcare",
+    "google-ventures",
+    "uc-berkeley",
+    "ucsf"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.fiercebiotech.com/biotech/its-curtain-close-spotlight-gene-editing-biotech-shutters",
+      "title": "It's curtain close for Spotlight: Gene editing biotech shutters",
+      "date": "2025-02-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://endpoints.news/exclusive-crispr-delivery-startup-spotlight-therapeutics-shuts-down/",
+      "title": "Exclusive: CRISPR delivery startup Spotlight Therapeutics shuts down",
+      "date": "2025-02-19",
+      "snapshot_path": "data/snapshots/spotlight-therapeutics/endpoints.news_exclusive-crispr-delivery-startup-spotlight-therapeutics-shuts-down_.html"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20201130005055/en/Spotlight-Therapeutics-Closes-$30M-Series-A-Led-by-GV-to-Advance-Pipeline-of-Non-viral-CRISPR-Gene-Editing-Biologics",
+      "title": "Spotlight Therapeutics Closes $30M Series A Led by GV",
+      "date": "2020-11-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20220322005265/en/Spotlight-Therapeutics-Raises-$36.5-Million-Series-B-to-Advance-a-Pipeline-of-Cell-Targeted-In-Vivo-CRISPR-Gene-Editing-Biologics",
+      "title": "Spotlight Therapeutics Raises $36.5 Million Series B",
+      "date": "2022-03-22",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$66.5M",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

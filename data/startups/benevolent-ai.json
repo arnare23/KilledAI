@@ -25,10 +25,14 @@
       "status": "active"
     }
   ],
-  "status": "published",
-  "confidence": "high",
+  "status": "rejected",
+  "rejection_reason": "Company still operating under private ownership (Osaka Holdings) as of April 2026 with projected runway into 2027. Delisted from stock exchange but not shut down.",
+  "confidence": "medium",
   "created_at": "2026-04-01T23:30:00Z",
-  "updated_at": "2026-04-02T00:00:00Z",
+  "updated_at": "2026-04-08T00:00:00Z",
   "lifetime_months": 146,
-  "total_loss": "$282M"
+  "total_loss": "$282M",
+  "review_flags": [
+    "NEEDS RE-VERIFICATION: BenevolentAI is still operating as of April 2026. The company delisted from Euronext Amsterdam in March 2025 and merged into private entity Osaka Holdings, but it continues drug discovery operations with a cash runway projected into 2027. Delisting from a stock exchange is not the same as shutting down. The entry says shutdown 2025-03 but the company is alive under private ownership. Consider rejecting — the project criteria require the company to have actually shut down, not just gone private."
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-07T19:04:08.851537+00:00",
-  "count": 120,
+  "generated_at": "2026-04-08T09:05:38.408989+00:00",
+  "count": 127,
   "startups": [
     {
       "name": "Cove",
@@ -480,6 +480,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Moonhub",
+      "slug": "moonhub",
+      "tagline": "AI recruiting agent absorbed by the platform it was built to disrupt",
+      "founded": "2022",
+      "shutdown": "2025-06",
+      "category": "acqui-hired",
+      "funding_raised": "$14.4M",
+      "lifetime_months": 36,
+      "total_loss": "$14.4M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
+    },
+    {
       "name": "Pesto AI",
       "slug": "pesto-ai",
       "tagline": "AI-powered remote developer recruiting platform",
@@ -573,8 +587,8 @@
       "funding_raised": "$282M",
       "lifetime_months": 146,
       "total_loss": "$282M",
-      "status": "published",
-      "confidence": "high",
+      "status": "rejected",
+      "confidence": "medium",
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
@@ -634,6 +648,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "MoeMate",
+      "slug": "moemate",
+      "tagline": "Six million users, zero viable business model",
+      "founded": "2023-10",
+      "shutdown": "2025-02",
+      "category": "pricing",
+      "funding_raised": "Unknown",
+      "lifetime_months": 16,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
+    },
+    {
       "name": "Omega Therapeutics",
       "slug": "omega-therapeutics",
       "tagline": "AI-driven epigenetic mRNA medicines platform",
@@ -646,6 +674,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Spotlight Therapeutics",
+      "slug": "spotlight-therapeutics",
+      "tagline": "CRISPR gene editing delivery platform backed by Google Ventures",
+      "founded": "2018",
+      "shutdown": "2025-02",
+      "category": "technical",
+      "funding_raised": "$66.5M",
+      "lifetime_months": 84,
+      "total_loss": "$66.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
     },
     {
       "name": "Bloop",
@@ -702,6 +744,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Habana Labs",
+      "slug": "habana-labs",
+      "tagline": "AI training chip startup acquired by Intel for $2B then effectively killed",
+      "founded": "2016",
+      "shutdown": "2025",
+      "category": "acqui-hired",
+      "funding_raised": "$2B (acquisition)",
+      "lifetime_months": 108,
+      "total_loss": "$2B",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
     },
     {
       "name": "Rethink Robotics",
@@ -1068,6 +1124,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Cue Health",
+      "slug": "cue-health",
+      "tagline": "AI-powered portable molecular diagnostic testing platform",
+      "founded": "2010",
+      "shutdown": "2024-05",
+      "category": "market",
+      "funding_raised": "$635M+",
+      "lifetime_months": 170,
+      "total_loss": "$635M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
+    },
+    {
       "name": "Ghost Autonomy",
       "slug": "ghost-autonomy",
       "tagline": "Autonomous driving software for automaker partners",
@@ -1334,6 +1404,20 @@
       "created_at": "2026-04-07"
     },
     {
+      "name": "Health IQ",
+      "slug": "health-iq",
+      "tagline": "AI-powered life insurance platform for health-conscious consumers",
+      "founded": "2014",
+      "shutdown": "2023-08",
+      "category": "funding",
+      "funding_raised": "$136M+",
+      "lifetime_months": 114,
+      "total_loss": "$136M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
+    },
+    {
       "name": "Vowel",
       "slug": "vowel",
       "tagline": "AI-powered video meeting platform with real-time transcription and collaboration",
@@ -1500,6 +1584,20 @@
       "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "Proteus Digital Health",
+      "slug": "proteus-digital-health",
+      "tagline": "The $532M digital pill that no one wanted to swallow",
+      "founded": "2001",
+      "shutdown": "2020-06",
+      "category": "market",
+      "funding_raised": "$532M",
+      "lifetime_months": 228,
+      "total_loss": "$517M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-08"
     },
     {
       "name": "ScaleFactor",

@@ -1,0 +1,56 @@
+{
+  "name": "Habana Labs",
+  "slug": "habana-labs",
+  "tagline": "AI training chip startup acquired by Intel for $2B then effectively killed",
+  "description": "Habana Labs built AI training accelerator chips (Gaudi) to compete with NVIDIA, raising $120M before Intel acquired it for $2 billion in December 2019. Intel's bureaucratic integration, competing internal AI strategies, and Gaudi's immature software ecosystem led to the chip missing its $500M 2024 revenue target. Intel cancelled the next-gen Falcon Shores chip after negative customer feedback, vacated Habana's Caesarea offices, and dispersed the remaining staff across Intel's other Israeli sites, effectively killing the product line.",
+  "story": "Habana Labs was Israel's answer to NVIDIA's dominance in AI training hardware — and Intel's $2 billion bet that it could buy its way into the AI chip race. Founded in 2016 in Caesarea, Israel, by a team of semiconductor veterans including David Dahan and Ran Halutz, Habana built the Gaudi line of AI training accelerators designed to undercut NVIDIA's GPUs on price while delivering competitive performance. The startup raised $120 million in venture capital and attracted enough industry attention that Intel swooped in with a $2 billion acquisition in December 2019 — at the time, one of the largest AI chip deals ever. The thesis was straightforward: Intel had missed the GPU revolution, and Habana's Gaudi chips would be its shortcut to relevance in the exploding AI infrastructure market. Instead, Intel's bureaucratic integration machinery chewed up everything that made Habana work. The startup's engineers were absorbed into Intel's sprawling organizational chart, competing for resources against Intel's own Nervana and Ponte Vecchio programs — other AI chip efforts that Intel couldn't bring itself to kill. Gaudi's software ecosystem, critical for convincing developers to switch from NVIDIA's CUDA, remained immature and underdocumented. Gaudi 2 shipped late and underwhelmed. Gaudi 3 was supposed to close the gap, but Intel set a $500 million revenue target for 2024 that the product line missed badly. Customer feedback on Falcon Shores — the planned next-generation successor that would merge Gaudi and GPU architectures — was so negative that Intel cancelled it outright in early 2025. The Caesarea offices were vacated, remaining staff dispersed across other Intel sites in Israel, and the Habana brand quietly disappeared. Two billion dollars, five years, and Intel had managed to turn one of the most promising AI chip startups in the world into a cautionary tale about why large corporations struggle to integrate acquisitions in fast-moving markets.",
+  "founded": "2016",
+  "shutdown": "2025",
+  "funding_raised": "$2B (acquisition)",
+  "funding_stage": "Acquired",
+  "employee_count": 900,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-chips",
+    "hardware",
+    "semiconductors",
+    "intel",
+    "nvidia",
+    "israel",
+    "acquisition-failure"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/rkudepmaxx",
+      "title": "Intel's Habana Labs shut down, but its founders are moving back in",
+      "date": "2025-10-15",
+      "snapshot_path": "data/snapshots/habana-labs/www.calcalistech.com_ctechnews_article_rkudepmaxx.html"
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/s1tra0sfye",
+      "title": "How Intel ruined an Israeli startup it bought for $2B—and lost the AI race",
+      "date": "2025-06-15",
+      "snapshot_path": "data/snapshots/habana-labs/www.calcalistech.com_ctechnews_article_s1tra0sfye.html"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/intel-just-gutted-its-ai-chip-ambitions",
+      "title": "Intel Just Gutted Its AI Chip Ambitions",
+      "date": "2025-02-02",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/",
+      "title": "Intel buys AI chipmaker Habana for $2 billion",
+      "date": "2019-12-16",
+      "snapshot_path": "data/snapshots/habana-labs/techcrunch.com_2019_12_16_intel-buys-ai-chipmaker-habana-for-2-billion_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 108,
+  "total_loss": "$2B",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

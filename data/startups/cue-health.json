@@ -1,0 +1,56 @@
+{
+  "name": "Cue Health",
+  "slug": "cue-health",
+  "tagline": "AI-powered portable molecular diagnostic testing platform",
+  "description": "Cue Health built a palm-sized molecular testing device that used AI algorithms to deliver lab-quality PCR results at point of care. The company soared during COVID-19, supplying the NBA, MLB, and Department of Defense, reaching a $2.3B IPO valuation in 2021. It collapsed when pandemic demand evaporated, revenue plunged from $483.5M to $70.9M in a year, and the FDA issued a safety alert ordering users to discard its products, triggering a Chapter 7 bankruptcy filing in May 2024.",
+  "story": "Cue Health was a pandemic darling that couldn't survive peacetime. Founded in 2010 by Ayub Khattak in San Diego, the company spent a decade quietly developing a palm-sized molecular testing device that could deliver lab-quality PCR results in twenty minutes — a technological feat that attracted little attention until COVID-19 turned rapid diagnostics into a matter of national urgency. Suddenly, Cue was everywhere. The NBA used it to keep its bubble season running. Major League Baseball adopted it for dugout testing. The Department of Defense placed massive orders. Revenue exploded from near-zero to $483.5 million in 2022, and the company rode the wave to a September 2021 IPO on the Nasdaq that valued it at $2.3 billion, raising over $200 million in the offering alone. Total funding exceeded $635 million. At its peak, Cue employed 1,250 people and appeared to be building the future of at-home molecular diagnostics. Then the pandemic receded, and so did everything else. Revenue cratered to $70.9 million in 2023 — an 85% drop in a single year. The company attempted to pivot toward flu and respiratory panel tests, but in September 2023, the FDA issued a safety communication warning that Cue's COVID tests could produce false negatives, advising users to discard the product entirely. That was the killing blow. Cue laid off its remaining workforce and filed for Chapter 7 liquidation in May 2024 — not Chapter 11 reorganization, but outright dissolution. The company that had once seemed poised to revolutionize point-of-care testing became one of the starkest examples of what happens when a single-product business loses its only market overnight.",
+  "founded": "2010",
+  "shutdown": "2024-05",
+  "funding_raised": "$635M+",
+  "funding_stage": "IPO",
+  "employee_count": 1250,
+  "category": "market",
+  "tags": [
+    "healthcare",
+    "diagnostics",
+    "covid-19",
+    "medical-devices",
+    "fda",
+    "ipo",
+    "bankruptcy"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.medtechdive.com/news/cue-health-layoff-shut-down/716929/",
+      "title": "Cue Health to lay off remaining employees, shut down",
+      "date": "2024-05-22",
+      "snapshot_path": "data/snapshots/cue-health/www.medtechdive.com_news_cue-health-layoff-shut-down_716929_.html"
+    },
+    {
+      "url": "https://www.statnews.com/2024/05/22/cue-health-covid-19-test-maker-layoffs/",
+      "title": "Cue Health, Covid-19 testing company, to lay off all employees",
+      "date": "2024-05-22",
+      "snapshot_path": "data/snapshots/cue-health/www.statnews.com_2024_05_22_cue-health-covid-19-test-maker-layoffs_.html"
+    },
+    {
+      "url": "https://www.thestreet.com/retail/a-once-hot-healthcare-company-is-a-covid-victim",
+      "title": "Key healthcare company files unexpected Chapter 7 bankruptcy",
+      "date": "2024-05-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://medcitynews.com/2021/09/portable-diagnostics-company-cue-raises-200m-in-ipo/",
+      "title": "Portable diagnostics company Cue raises $200M in IPO",
+      "date": "2021-09-24",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 170,
+  "total_loss": "$635M+",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

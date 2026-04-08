@@ -1,0 +1,56 @@
+{
+  "name": "Proteus Digital Health",
+  "slug": "proteus-digital-health",
+  "tagline": "The $532M digital pill that no one wanted to swallow",
+  "description": "Proteus Digital Health developed the world's first FDA-approved ingestible sensor that tracked medication adherence using AI-powered analytics. Once valued at $1.5 billion after raising $532 million through Series H, the company filed for Chapter 11 bankruptcy in June 2020 and was sold to Otsuka Pharmaceutical for just $15 million.",
+  "story": "Proteus Digital Health had one of the most audacious ideas in digital medicine: a tiny ingestible sensor, embedded in a pill, that would signal to a wearable patch when a patient swallowed their medication — with AI analyzing the data to predict adherence patterns and alert caregivers. Founded in 2001 in Redwood City by Andrew Thompson, the company spent nearly two decades and $532 million in venture capital pursuing this vision, attracting backing from Novartis, Oracle founder Larry Ellison, and Otsuka Pharmaceutical. By 2017 it had earned FDA approval for the first-ever digital pill — Abilify MyCite, an antipsychotic paired with Proteus's sensor — and reached a $1.5 billion valuation. The problem was that almost nobody wanted it. Insurers balked at reimbursing a sensor that cost more than the drug it was tracking. Physicians questioned whether surveilling patients' pill-taking would erode trust rather than build it. The partnership with Otsuka, meant to be the commercial breakthrough, produced underwhelming adoption numbers. Revenue never came close to justifying the burn rate. In June 2020, Proteus filed for Chapter 11 bankruptcy, and two months later Otsuka — its closest partner — picked up the remains in a $15 million stalking-horse bid. A company that once commanded a billion-dollar valuation sold for less than three cents on the dollar, a stark reminder that regulatory approval and technological novelty mean nothing without a customer willing to pay.",
+  "founded": "2001",
+  "shutdown": "2020-06",
+  "funding_raised": "$532M",
+  "funding_stage": "Series H",
+  "employee_count": 300,
+  "category": "market",
+  "tags": [
+    "healthcare",
+    "digital-health",
+    "medical-devices",
+    "wearables",
+    "medication-adherence",
+    "bankruptcy",
+    "unicorn"
+  ],
+  "url": "https://www.proteus.com",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2020/06/15/proteus-digital-health-once-worth-1point5-billion-files-for-chapter-11.html",
+      "title": "Proteus Digital Health, once valued at $1.5 billion, files for Chapter 11 bankruptcy",
+      "date": "2020-06-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.fiercehealthcare.com/tech/from-billions-to-bankruptcy-proteus-digital-health-fell-short-its-promise-here-s-what-other",
+      "title": "From big deals to bankruptcy, a digital health unicorn falls short",
+      "date": "2020-06-16",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://medcitynews.com/2020/06/proteus-files-for-bankruptcy-where-did-it-falter/",
+      "title": "Proteus files for bankruptcy: Where did it falter?",
+      "date": "2020-06-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.fiercehealthcare.com/tech/proteus-digital-health-could-exit-bankruptcy-15m-stalking-horse-from-otsuka",
+      "title": "Proteus Digital Health was once valued at $1.5B. It may be acquired in a $15M 'stalking horse' bid",
+      "date": "2020-07-23",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 228,
+  "total_loss": "$517M",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

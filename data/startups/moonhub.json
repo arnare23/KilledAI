@@ -1,0 +1,55 @@
+{
+  "name": "Moonhub",
+  "slug": "moonhub",
+  "tagline": "AI recruiting agent absorbed by the platform it was built to disrupt",
+  "description": "Moonhub was an AI-powered recruiting startup that built autonomous agents to source, vet, and engage job candidates. Founded in 2022 by Stanford AI PhD Nancy Xu and backed by $14.4 million from Khosla Ventures, GV, and Salesforce, it wound down in June 2025 when Salesforce acqui-hired most of the team for its Agentforce platform.",
+  "story": "Moonhub set out to replace the recruiter, not augment them. Founded in 2022 by Nancy Xu — a Stanford AI PhD who had previously built machine learning systems at Scale AI — the San Francisco startup developed an autonomous AI agent that could scour the internet for job candidates, evaluate their qualifications, and reach out with personalized messages, all without human intervention. The pitch landed. Khosla Ventures led the seed round, with GV and Salesforce Ventures joining to bring the total to $14.4 million. Fortune 500 companies signed on as clients, and the product worked well enough that some hiring managers reported cutting sourcing time by over 80 percent. But the AI recruiting space was getting crowded fast, and Moonhub's biggest investor was also its most dangerous competitor. Salesforce had been aggressively building Agentforce, its own AI agent platform, and needed talent who understood autonomous agent design at a deep level. In June 2025, barely three years after founding, Moonhub announced it was winding down operations. Salesforce hired most of the team in what the industry recognized as a clean acqui-hire — the product died, but the people and their expertise lived on inside the very platform ecosystem that had made Moonhub's independent existence untenable. It was a familiar pattern in AI: build something impressive enough to get noticed, then get absorbed by the giant whose orbit you never escaped.",
+  "founded": "2022",
+  "shutdown": "2025-06",
+  "funding_raised": "$14.4M",
+  "funding_stage": "Seed",
+  "employee_count": 25,
+  "category": "acqui-hired",
+  "tags": [
+    "recruiting",
+    "hr-tech",
+    "enterprise",
+    "ai-agent",
+    "acqui-hire",
+    "salesforce"
+  ],
+  "url": "https://www.moonhub.ai",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/",
+      "title": "Salesforce buys Moonhub, a startup building AI tools for hiring",
+      "date": "2025-06-02",
+      "snapshot_path": "data/snapshots/moonhub/techcrunch.com_2025_06_02_salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring_.html"
+    },
+    {
+      "url": "https://www.maginative.com/article/salesforce-just-bought-a-stealthy-ai-hiring-startup-heres-why-it-matters/",
+      "title": "Salesforce Snaps Up Moonhub's AI Team as Startup Winds Down",
+      "date": "2025-06-02",
+      "snapshot_path": "data/snapshots/moonhub/www.maginative.com_article_salesforce-just-bought-a-stealthy-ai-hiring-startup-heres-why-it-matters_.html"
+    },
+    {
+      "url": "https://www.salesforceben.com/salesforce-picks-up-talent-from-closing-ai-startup-moonhub/",
+      "title": "Salesforce Picks Up Talent from Closing AI Startup Moonhub",
+      "date": "2025-06-02",
+      "snapshot_path": "data/snapshots/moonhub/www.salesforceben.com_salesforce-picks-up-talent-from-closing-ai-startup-moonhub_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2023/02/07/moonhub-wants-to-transform-the-way-companies-find-job-candidates-using-ai/",
+      "title": "Moonhub wants to transform the way companies find job candidates using AI",
+      "date": "2023-02-07",
+      "snapshot_path": "data/snapshots/moonhub/techcrunch.com_2023_02_07_moonhub-wants-to-transform-the-way-companies-find-job-candidates-using-ai_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 36,
+  "total_loss": "$14.4M",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

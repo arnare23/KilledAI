@@ -1,0 +1,55 @@
+{
+  "name": "MoeMate",
+  "slug": "moemate",
+  "tagline": "Six million users, zero viable business model",
+  "description": "MoeMate was a multimodal AI companion platform that let users create customizable characters with voice, image, and text interactions. Launched in October 2023 by Webaverse and growing to over six million users, it shut down in February 2025 after GPU and API costs proved unsustainable and a last-ditch crypto token launch failed to save it.",
+  "story": "MoeMate proved that millions of users mean nothing if every one of them costs you money. Launched in October 2023 by Webaverse — a startup founded by Ahad Shams — the platform let users create and interact with customizable AI characters through text, voice, and image generation, positioning itself as a more personal and creative alternative to Character.AI. It found an audience immediately. By January 2025, MoeMate had amassed over six million users who were building intricate AI companions, complete with unique personalities and voice profiles. The problem was the economics. Every conversation burned through GPU compute and third-party API calls, and with no significant funding round and a free-tier-heavy user base, the cost structure was devastating. Infrastructure instability compounded the financial pressure — users reported frequent outages and degraded response quality as the team scrambled to keep servers running on a thinning budget. Content moderation proved equally overwhelming, with the open-ended character creation system generating an endless stream of policy violations the small team could not keep up with. In a desperate pivot, Webaverse launched the MATES crypto token in January 2025, hoping to monetize the community through a token economy. The token collapsed almost immediately. One month later, in February 2025, MoeMate shut down entirely — a case study in how viral consumer AI products can scale users far faster than they can scale revenue, and how a crypto Hail Mary rarely changes the outcome.",
+  "founded": "2023-10",
+  "shutdown": "2025-02",
+  "funding_raised": "Unknown",
+  "funding_stage": "",
+  "employee_count": null,
+  "category": "pricing",
+  "tags": [
+    "ai-companion",
+    "consumer",
+    "chatbot",
+    "multimodal",
+    "crypto",
+    "webaverse"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://aicreationtool.com/moemate-ai/",
+      "title": "Moemate AI: The Up and Down, Lessons To Be Learned By the 2025 Shutdown",
+      "date": "2025-03-01",
+      "snapshot_path": "data/snapshots/moemate/aicreationtool.com_moemate-ai_.html"
+    },
+    {
+      "url": "https://www.softwarecurio.com/blog/moemate-ai-review-the-untold-story-of-its-rise-and-fall/",
+      "title": "Moemate AI Review 2026: The Untold Story of Its Rise and Fall",
+      "date": "2026-01-15",
+      "snapshot_path": "data/snapshots/moemate/www.softwarecurio.com_blog_moemate-ai-review-the-untold-story-of-its-rise-and-fall_.html"
+    },
+    {
+      "url": "https://cryptoslate.com/press-releases/moemate-starts-ecosystem-development-with-mates-launch-of-6m-users-on-14th-january/",
+      "title": "Moemate Starts Ecosystem Development with $Mates Launch of 6m+ Users on 14th January",
+      "date": "2025-01-13",
+      "snapshot_path": "data/snapshots/moemate/cryptoslate.com_press-releases_moemate-starts-ecosystem-development-with-mates-launch-of-6m-users-on-14th-january_.html"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/webaverse-launches-disruptive-ai-studio-171000724.html",
+      "title": "Webaverse Launches Disruptive New AI Studio Moemate",
+      "date": "2023-10-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 16,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}

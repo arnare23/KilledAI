@@ -1,0 +1,55 @@
+{
+  "name": "Health IQ",
+  "slug": "health-iq",
+  "tagline": "AI-powered life insurance platform for health-conscious consumers",
+  "description": "Health IQ used AI and health data to underwrite life insurance for health-conscious people, promising lower rates for healthy lifestyles. Founded by Munjal Shah and Gaurav Suri and backed by over $136M from Andreessen Horowitz, Aquiline Technology Growth, Ribbit Capital, and Greylock Partners, the company pivoted disastrously into Medicare Advantage in 2019, burned through cash on vendor-dependent lead generation, faced 17 breach-of-contract lawsuits, and filed for Chapter 7 bankruptcy in August 2023 with $256.7M in liabilities against just $1.3M in assets.",
+  "story": "Health IQ pitched a seductively simple idea: if you ran marathons, ate well, and took care of your body, you should pay less for life insurance — and AI could prove it. Founded in 2014 by Munjal Shah and Gaurav Suri, the Mountain View startup built algorithms that correlated health behaviors with mortality risk, then partnered with insurers to offer discounted policies to health-conscious consumers. Andreessen Horowitz led the Series D, joining Aquiline Technology Growth, Ribbit Capital, and Greylock Partners in pouring over $136 million into the company. At its peak, Health IQ employed roughly 2,000 people and had underwritten billions in coverage. But the core life insurance business was never as profitable as the growth metrics suggested, and in 2019 Shah made a fateful pivot into Medicare Advantage — a completely different market with byzantine regulations and entrenched incumbents. The company became dependent on third-party lead generation vendors, spending enormous sums to acquire Medicare enrollees whose lifetime value it had not adequately modeled. Cash evaporated at an alarming rate. Vendors began suing. By 2023, Health IQ faced seventeen breach-of-contract lawsuits from partners it could no longer pay. In August 2023, the company filed for Chapter 7 bankruptcy — the liquidation kind, not reorganization — disclosing $256.7 million in liabilities against a mere $1.3 million in assets. It was a 200-to-1 ratio of debt to value, one of the more spectacular implosions in insurtech history, and a cautionary tale about what happens when a startup chases growth into a market it fundamentally does not understand.",
+  "founded": "2014",
+  "shutdown": "2023-08",
+  "funding_raised": "$136M+",
+  "funding_stage": "Series D",
+  "employee_count": 2000,
+  "category": "funding",
+  "tags": [
+    "insurtech",
+    "healthcare",
+    "fintech",
+    "andreessen-horowitz",
+    "bankruptcy",
+    "medicare"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://finance.yahoo.com/news/andreessen-horowitz-others-poured-200-171609893.html",
+      "title": "Andreessen Horowitz And Others Poured $200 Million Into Startup Health IQ - Now It's Bankrupt",
+      "date": "2023-09-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://siliconvalleyjournals.com/rise-and-fall-of-health-iq-and-bankruptcy/",
+      "title": "The Rise and Fall of Health IQ: A Cautionary Tale for Health-Tech Startups",
+      "date": "2023-10-15",
+      "snapshot_path": "data/snapshots/health-iq/siliconvalleyjournals.com_rise-and-fall-of-health-iq-and-bankruptcy_.html"
+    },
+    {
+      "url": "https://coverager.com/health-iq-files-for-chapter-7/",
+      "title": "Health IQ files for Chapter 7",
+      "date": "2023-08-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://coverager.com/health-iq-from-1-to-0/",
+      "title": "Health IQ: From 1 to 0",
+      "date": "2023-09-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 114,
+  "total_loss": "$136M+",
+  "created_at": "2026-04-08",
+  "updated_at": "2026-04-08"
+}
