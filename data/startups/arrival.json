@@ -1,0 +1,63 @@
+{
+  "name": "Arrival",
+  "slug": "arrival",
+  "tagline": "AI-enabled electric vehicle manufacturer with autonomous driving and robotic microfactories",
+  "description": "Arrival was a UK-based electric vehicle startup founded by Russian-born billionaire Denis Sverdlov that promised to revolutionize EV manufacturing through compact, AI-driven robotic microfactories. After going public via SPAC in 2021 at a $13.6 billion valuation and attracting investments from Hyundai, Kia, BlackRock, and UPS, the company collapsed into administration in February 2024 without ever selling a single vehicle commercially, burning through over $1.5 billion in the process.",
+  "story": "When Denis Sverdlov, a Russian-born telecom billionaire and former Deputy Minister of Communications, founded Arrival in London in 2015, his pitch was seductive: forget the massive, billion-dollar automotive plants. Arrival would build electric vans and buses in small, modular \"microfactories\" housed in ordinary warehouses, using robots and AI to slash both cost and time to market. The plan called for 31 such facilities worldwide by 2025, each producing 10,000 vehicles annually. The vision attracted heavyweight backers. In January 2020, Hyundai and Kia invested 100 million euros. BlackRock put in $118 million a month later. UPS placed a landmark order for 10,000 electric delivery vans valued at $400 million.\n\nThe hype crested in March 2021, when Arrival merged with SPAC CIIG Merger Corp and began trading on Nasdaq. The combined entity was valued at $13.6 billion, making it the largest public listing in British startup history. CNBC's Jim Cramer called Arrival the company with \"the best claim to be the son of Tesla.\" At its peak, Arrival employed roughly 2,700 people across offices in the UK, the US, and Europe.\n\nBut the microfactory concept that looked brilliant on paper proved extraordinarily difficult to execute. Arrival never managed to produce vehicles at scale. By mid-2022, with cash hemorrhaging and no revenue in sight, the company cut 800 jobs and shifted its focus from the UK to the US. In January 2023, another 800 positions were eliminated, halving the remaining workforce. CEO Denis Sverdlov was replaced by Igor Torgov, who scrambled to secure a lifeline. A $50 million bridge round in late 2023 bought only weeks.\n\nIn January 2024, Nasdaq delisted Arrival's shares. On February 5, 2024, the company's UK divisions entered administration, owing secured creditors 87 million pounds, unsecured creditors over 125 million pounds, and shareholders roughly one billion pounds. Operating losses in 2022 alone had totaled 562 million pounds for the UK entity. The once 13-billion-dollar company's remaining assets were sold to Canoo for approximately $10 million in March 2024. Canoo itself filed for bankruptcy less than a year later.\n\nArrival's collapse illustrates the chasm between visionary manufacturing concepts and automotive-grade execution. The microfactory model required solving dozens of simultaneous engineering challenges with startup resources, while competing against incumbents with decades of production experience. Not a single vehicle from Arrival's production lines ever reached a paying customer.",
+  "founded": "2015",
+  "shutdown": "2024-02",
+  "funding_raised": "$1.5B",
+  "funding_stage": "public (SPAC)",
+  "employee_count": 2700,
+  "category": "funding",
+  "tags": [
+    "electric-vehicles",
+    "autonomous-driving",
+    "computer-vision",
+    "robotics",
+    "manufacturing",
+    "microfactory",
+    "uk",
+    "spac"
+  ],
+  "url": "https://arrival.com",
+  "sources": [
+    {
+      "url": "https://fortune.com/europe/2024/02/06/british-ev-maker-valued-13-billion-administration-without-making-sales-nasdaq/",
+      "title": "British EV maker Arrival, once valued at $13 billion, goes into bankruptcy",
+      "date": "2024-02-06",
+      "snapshot_path": "data/snapshots/arrival/fortune.com_europe_2024_02_06_british-ev-maker-valued-13-billion-administration-without-making-sales-nasdaq_.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/arrival-sales-collapse-news",
+      "title": "EV startup Arrival shuts down operations, lays off staff after sale plan collapses",
+      "date": "2024-02-05",
+      "snapshot_path": "data/snapshots/arrival/sifted.eu_articles_arrival-sales-collapse-news.html"
+    },
+    {
+      "url": "https://www.cityam.com/arrival-the-full-story-of-how-a-9bn-electric-vehicle-firm-collapsed-into-administration/",
+      "title": "Arrival: The full story of how 9bn electric vehicle firm collapsed into administration",
+      "date": "2024-02-08",
+      "snapshot_path": "data/snapshots/arrival/www.cityam.com_arrival-the-full-story-of-how-a-9bn-electric-vehicle-firm-collapsed-into-administration_.html"
+    },
+    {
+      "url": "https://techfundingnews.com/from-13b-to-1k-valuation-3-key-reasons-behind-arrivals-failure/",
+      "title": "From $13B to $1K valuation: 3 key reasons behind Arrival's failure",
+      "date": "2024-02-08",
+      "snapshot_path": "data/snapshots/arrival/techfundingnews.com_from-13b-to-1k-valuation-3-key-reasons-behind-arrivals-failure_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2024/03/25/bankrupt-ev-startup-arrival-sold-its-assets-to-canoo/",
+      "title": "Bankrupt EV startup Arrival sold its assets to Canoo",
+      "date": "2024-03-25",
+      "snapshot_path": "data/snapshots/arrival/techcrunch.com_2024_03_25_bankrupt-ev-startup-arrival-sold-its-assets-to-canoo_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 108,
+  "total_loss": "$1.5B",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}

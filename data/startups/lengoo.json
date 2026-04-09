@@ -1,0 +1,62 @@
+{
+  "name": "Lengoo",
+  "slug": "lengoo",
+  "tagline": "AI-powered enterprise translation platform",
+  "description": "Berlin-based AI translation startup founded in 2014 that raised $34M to build a machine-learning-enhanced translation platform for enterprise clients. Despite growing to 50+ enterprise customers across Europe and the US and reaching seven-figure annual revenues, Lengoo accumulated losses of $8-16M, failed to raise additional funding after its 2021 Series B, and filed for bankruptcy in March 2024. Its software assets were later acquired by German AI firm Aleph Alpha.",
+  "story": "Lengoo was founded in 2014 in Berlin by Christopher Kränzler, Alexander Gigga, and Philipp Koch-Büttner with a straightforward premise: use AI to make enterprise translation faster, cheaper, and more consistent. The company started as an online platform automating the project management and administrative overhead of translation services, then pivoted after its early funding rounds to integrate custom neural machine translation models directly into its workflow.\n\nThe timing seemed ideal. Between 2018 and 2021, Lengoo raised $34 million across multiple rounds, including a $20 million Series B in February 2021 led by INKEF Capital with participation from Redalpine, Creathor Ventures, and Techstars. The company expanded aggressively — tripling headcount, opening offices in the US, UK, Scandinavia, and Poland, and onboarding over 50 enterprise customers. By its own account, annual recurring revenue grew nearly tenfold from its Series A baseline. Kränzler, who served as CEO throughout, spoke confidently about building a global presence for the company's enterprise clients.\n\nBut growth came at a steep cost. In 2021 alone, Lengoo posted losses of 7.8 million euros. The company was burning through its Series B capital faster than it could grow into profitability, and the macro environment for fundraising deteriorated sharply in 2022 and 2023 as interest rates rose and tech investors pulled back. Lengoo needed another round to bridge the gap; none came. German news outlets later estimated accumulated losses at somewhere between $8 million and $16 million.\n\nIn March 2024, Lengoo filed for bankruptcy with the Berlin court. Provisional insolvency administrator Joachim Voigt-Salus was appointed. The company did not publicly comment on the filing. By May 2024, Lengoo formally closed its doors.\n\nThe aftermath offered a small silver lining. German AI company Aleph Alpha acquired Lengoo's software assets and hired over 20 of its engineers, product managers, and designers, including former CTO Ahmad Taie and CEO Kränzler himself, who joined Aleph Alpha as VP of Product. The technology survived, even if the company did not. Lengoo's failure illustrates a recurring pattern in AI-powered services: impressive technology and real enterprise customers are not enough if unit economics cannot outrun the burn rate, especially when the fundraising window slams shut.",
+  "founded": "2014",
+  "shutdown": "2024-03",
+  "funding_raised": "$34M",
+  "funding_stage": "Series B",
+  "employee_count": 141,
+  "category": "funding",
+  "tags": [
+    "translation",
+    "nlp",
+    "enterprise",
+    "language-tech",
+    "berlin",
+    "germany",
+    "aleph-alpha"
+  ],
+  "url": "https://www.lengoo.com",
+  "sources": [
+    {
+      "url": "https://slator.com/translation-ai-agency-lengoo-files-for-bankruptcy/",
+      "title": "Translation AI Agency Lengoo Files for Bankruptcy",
+      "date": "2024-03-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2021/02/09/with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round/",
+      "title": "Lengoo attracts new $20M round for AI translation",
+      "date": "2021-02-09",
+      "snapshot_path": "data/snapshots/lengoo/techcrunch.com_2021_02_09_with-ai-translation-service-that-rivals-professionals-lengoo-attracts-new-20m-round_.html"
+    },
+    {
+      "url": "https://www.northdata.com/lengoo+GmbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+193226+B",
+      "title": "Lengoo GmbH Berlin - North Data company profile",
+      "date": "2024-05-01",
+      "snapshot_path": "data/snapshots/lengoo/www.northdata.com_lengoo_GmbH__Berlin_Amtsgericht_Charlottenburg__Berlin__HRB_193226_B.html"
+    },
+    {
+      "url": "https://slator.com/lengoo-raises-usd-20m-series-b-from-inkef-on-ai-agency-investment-thesis/",
+      "title": "Lengoo Raises USD 20m Series B From Inkef on AI Agency Investment Thesis",
+      "date": "2021-02-09",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.linkedin.com/company/lengoo",
+      "title": "Lengoo (acquired by Aleph Alpha/Xtensos) - LinkedIn",
+      "date": "2024-06-01",
+      "snapshot_path": "data/snapshots/lengoo/www.linkedin.com_company_lengoo.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 120,
+  "total_loss": "$34M",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}

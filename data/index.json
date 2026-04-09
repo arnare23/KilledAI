@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-08T09:44:40.424421+00:00",
-  "count": 133,
+  "generated_at": "2026-04-09T10:48:14.191691+00:00",
+  "count": 139,
   "startups": [
     {
       "name": "Cove",
@@ -310,6 +310,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:45:00Z"
+    },
+    {
+      "name": "BharatAgri",
+      "slug": "bharatagri",
+      "tagline": "AI-powered farm advisory and agri-input e-commerce for Indian farmers",
+      "founded": "2017-04",
+      "shutdown": "2025-11",
+      "category": "funding",
+      "funding_raised": "$14M",
+      "lifetime_months": 103,
+      "total_loss": "$14M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
     },
     {
       "name": "K-Scale Labs",
@@ -746,6 +760,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Canoo",
+      "slug": "canoo",
+      "tagline": "AI-powered electric vehicle startup with steer-by-wire and autonomous driving platform",
+      "founded": "2017-12",
+      "shutdown": "2025-01",
+      "category": "funding",
+      "funding_raised": "$600M+",
+      "lifetime_months": 85,
+      "total_loss": "$600M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
+    },
+    {
       "name": "Cushion",
       "slug": "cushion",
       "tagline": "AI-powered bank fee negotiation and BNPL platform",
@@ -1138,6 +1166,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Graphcore",
+      "slug": "graphcore",
+      "tagline": "AI chip startup that built specialized processors for machine learning workloads",
+      "founded": "2016-11",
+      "shutdown": "2024-07",
+      "category": "competition",
+      "funding_raised": "$767M",
+      "lifetime_months": 92,
+      "total_loss": "$267M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
+    },
+    {
       "name": "Adept AI",
       "slug": "adept-ai",
       "tagline": "AI agents that automate software tasks on your behalf",
@@ -1250,6 +1292,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Lengoo",
+      "slug": "lengoo",
+      "tagline": "AI-powered enterprise translation platform",
+      "founded": "2014",
+      "shutdown": "2024-03",
+      "category": "funding",
+      "funding_raised": "$34M",
+      "lifetime_months": 120,
+      "total_loss": "$34M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
+    },
+    {
       "name": "MaaS Global",
       "slug": "maas-global",
       "tagline": "AI-powered mobility-as-a-service platform combining all city transport",
@@ -1276,6 +1332,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07"
+    },
+    {
+      "name": "Arrival",
+      "slug": "arrival",
+      "tagline": "AI-enabled electric vehicle manufacturer with autonomous driving and robotic microfactories",
+      "founded": "2015",
+      "shutdown": "2024-02",
+      "category": "funding",
+      "funding_raised": "$1.5B",
+      "lifetime_months": 108,
+      "total_loss": "$1.5B",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
     },
     {
       "name": "Small Robot Company",
@@ -1542,6 +1612,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Embark Trucks",
+      "slug": "embark-trucks",
+      "tagline": "Self-driving autonomous trucking technology company",
+      "founded": "2016",
+      "shutdown": "2023-03",
+      "category": "funding",
+      "funding_raised": "$731M",
+      "lifetime_months": 84,
+      "total_loss": "$660M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-09T00:00:00Z"
     },
     {
       "name": "Mindstrong Health",

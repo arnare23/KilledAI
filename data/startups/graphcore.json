@@ -1,0 +1,63 @@
+{
+  "name": "Graphcore",
+  "slug": "graphcore",
+  "tagline": "AI chip startup that built specialized processors for machine learning workloads",
+  "description": "British AI chip company founded in Bristol by semiconductor veterans Nigel Toon and Simon Knowles. Graphcore raised $767M over eight funding rounds and was valued at $2.8B building Intelligence Processing Units (IPUs) designed from the ground up for machine learning. Despite backing from Sequoia, Microsoft, Samsung, and BMW, the company generated only $2.7M in revenue in 2022 and $4M in 2023, and was fire-sold to SoftBank in July 2024 for roughly $500M — well below total investment.",
+  "story": "When Nigel Toon and Simon Knowles met at the Marlborough Tavern in Bath to discuss their next venture, they had already built and sold one successful chip company together. Both were veterans of the Bristol semiconductor scene — Knowles as CTO and Toon as CEO of XMOS, a multicore processor startup. Their new idea was ambitious: build a processor from scratch, purpose-designed for machine intelligence. In November 2016, Graphcore was born.\n\nThe early momentum was extraordinary. The company's Intelligence Processing Unit, or IPU, attracted investment from an all-star roster that included Samsung, Bosch, Dell, Microsoft, BMW, and Sequoia Capital. AI luminaries Demis Hassabis, Greg Brockman, and Ilya Sutskever wrote personal checks. By December 2020, Graphcore had raised $767M across eight rounds and achieved a peak valuation of $2.8 billion. The company grew to over 600 employees across offices in Bristol, London, Oslo, Palo Alto, Beijing, and elsewhere. In 2019, Toon predicted Graphcore would hit $1 billion in revenue by 2024.\n\nThat prediction aged poorly. A landmark deal to sell IPUs to Microsoft fell through. Nvidia's dominance in AI accelerators proved nearly impossible to crack — customers overwhelmingly chose the CUDA ecosystem and its vast software library over Graphcore's alternative, no matter how technically elegant. Revenue in 2022 was just $2.7 million. In 2023, US export controls forced Graphcore to abandon its China growth strategy, cutting off what had been one of its most promising markets. Revenue that year barely improved to $4 million.\n\nBy October 2023, the company warned it would need to raise fresh capital by May 2024 to survive. No new round materialized. After four years without a capital injection and losses widening, Graphcore was running out of road. In July 2024, SoftBank acquired the company for approximately $500 million — a fraction of the $767M invested. Co-founder Simon Knowles departed within a year of the acquisition.\n\nGraphcore's story is a cautionary tale about the gap between technical excellence and commercial traction in the AI chip market. Building a better processor was not enough; Nvidia's entrenched ecosystem, vast software moat, and first-mover advantage in the deep learning boom made it nearly impossible for challengers to gain a foothold. The IPU technology lives on under SoftBank's umbrella, but Graphcore as an independent company — once Britain's most valuable AI startup — is effectively dead.",
+  "founded": "2016-11",
+  "shutdown": "2024-07",
+  "funding_raised": "$767M",
+  "funding_stage": "Series E",
+  "employee_count": 600,
+  "category": "competition",
+  "tags": [
+    "ai-chips",
+    "semiconductors",
+    "hardware",
+    "machine-learning",
+    "uk",
+    "bristol",
+    "fire-sale",
+    "softbank"
+  ],
+  "url": "https://www.graphcore.ai",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/07/11/softbank-acquires-uk-ai-chipmaker-graphcore/",
+      "title": "SoftBank acquires UK AI chipmaker Graphcore",
+      "date": "2024-07-11",
+      "snapshot_path": "data/snapshots/graphcore/techcrunch.com_2024_07_11_softbank-acquires-uk-ai-chipmaker-graphcore_.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/graphcore-company-accounts-2023-news",
+      "title": "Graphcore made $4m in revenue in 2023",
+      "date": "2024-03-15",
+      "snapshot_path": "data/snapshots/graphcore/sifted.eu_articles_graphcore-company-accounts-2023-news.html"
+    },
+    {
+      "url": "https://www.turingpost.com/p/graphcore-unicorn-softbank-acquisition-happened",
+      "title": "Graphcore: From Unicorn to SoftBank Acquisition - What Happened?",
+      "date": "2024-08-09",
+      "snapshot_path": "data/snapshots/graphcore/www.turingpost.com_p_graphcore-unicorn-softbank-acquisition-happened.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Graphcore",
+      "title": "Graphcore - Wikipedia",
+      "date": "2024-07-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://sifted.eu/articles/graphcore-cofounder-exits-company-one-year-on-from-softbank-acquisition",
+      "title": "Graphcore cofounder exits company one year on from SoftBank acquisition",
+      "date": "2025-07-01",
+      "snapshot_path": "data/snapshots/graphcore/sifted.eu_articles_graphcore-cofounder-exits-company-one-year-on-from-softbank-acquisition.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 92,
+  "total_loss": "$267M+",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}

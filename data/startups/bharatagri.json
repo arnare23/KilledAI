@@ -1,0 +1,61 @@
+{
+  "name": "BharatAgri",
+  "slug": "bharatagri",
+  "tagline": "AI-powered farm advisory and agri-input e-commerce for Indian farmers",
+  "description": "BharatAgri was an Indian agritech startup that used AI and GPT models to deliver personalized crop advisory services and sell agricultural inputs to over one million smallholder farmers. Founded in 2017 by IIT Madras alumni, it built a vernacular-language app covering 150+ crops and served farmers across Maharashtra, Madhya Pradesh, and other Indian states before shutting down in November 2025 after failing to raise a $6-8 million Series B round.",
+  "story": "BharatAgri was born in April 2017 when IIT Madras alumni Siddharth Dialani and Sai Gole set out to solve one of Indian agriculture's most persistent problems: the information gap between research institutions and the 140 million smallholder farmers who feed the country. The Bengaluru-based startup built a vernacular-language mobile app that used AI models to deliver personalized crop advisories, covering everything from sowing schedules and pest management to fertilizer dosing for over 150 crops. By 2023, BharatAgri had crossed one million monthly active users and claimed to reach ten million farmers annually through its platform.\n\nThe company raised approximately $14 million across multiple rounds. An early $2 million seed round from 021 Capital and India Quotient was followed by a $6.5 million Series A led by Omnivore in 2021, and an extended Series A of $4.3 million led by Arkam Ventures in October 2023, with participation from Capria Ventures and existing backers. To supplement its advisory service, BharatAgri layered on an agri-input e-commerce platform selling seeds, fertilizers, and crop protection products directly to farmers, attempting to build a full-stack farm commerce model.\n\nThe unit economics looked promising on paper. Revenue grew 78 percent in FY24 to INR 4.8 crore, and losses narrowed 14 percent to INR 22 crore. But the overhead costs required to maintain a tech team, agronomist network, and last-mile logistics across rural India far outpaced what the business generated. CEO Siddharth Dialani later acknowledged that while positive unit economics had been achieved, the scale was not large enough to attract the institutional capital needed for the next phase.\n\nBharatAgri's timing was unlucky. Indian agritech funding collapsed from $802 million in 2022 to $178 million in 2023, a 78 percent decline, and continued falling through 2024 and 2025. The startup attempted to raise a $6-8 million Series B but found no takers. Without fresh capital and unable to reach profitability on existing resources, BharatAgri ceased operations in November 2025 with a team of roughly 37 people. Severance packages were provided to employees, and leftover capital was returned to investors.\n\nThe shutdown underscored a harsh reality for agritech startups in emerging markets: serving smallholder farmers at scale requires enormous patience capital, and even strong user traction does not guarantee investor confidence when the broader funding environment turns hostile. BharatAgri's million-farmer user base vanished overnight, leaving a gap that no single replacement has filled.",
+  "founded": "2017-04",
+  "shutdown": "2025-11",
+  "funding_raised": "$14M",
+  "funding_stage": "Series A",
+  "employee_count": 37,
+  "category": "funding",
+  "tags": [
+    "agritech",
+    "ai-advisory",
+    "india",
+    "gpt-wrapper",
+    "e-commerce",
+    "smallholder-farming"
+  ],
+  "url": "https://company.bharatagri.com",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/agritech-startup-bharatagri-shuts-operations-due-to-funding-crunch/",
+      "title": "Agritech Startup BharatAgri Shuts Operations Due To Funding Crunch",
+      "date": "2025-11-13",
+      "snapshot_path": "data/snapshots/bharatagri/inc42.com_buzz_agritech-startup-bharatagri-shuts-operations-due-to-funding-crunch_.html"
+    },
+    {
+      "url": "https://entrackr.com/exclusive/exclusive-bharatagri-shuts-down-operations-amid-funding-crunch-10646984",
+      "title": "Exclusive: BharatAgri shuts down operations amid funding crunch",
+      "date": "2025-11-12",
+      "snapshot_path": "data/snapshots/bharatagri/entrackr.com_exclusive_exclusive-bharatagri-shuts-down-operations-amid-funding-crunch-10646984.html"
+    },
+    {
+      "url": "https://yourstory.com/2021/09/agritech-startup-bharatagri-raises-seriesa",
+      "title": "Agritech startup BharatAgri raises $6.5M in Series A",
+      "date": "2021-09-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://inc42.com/buzz/bharatagri-bags-4-3-mn-to-strengthen-last-mile-delivery-scale-ecommerce-platform/",
+      "title": "BharatAgri Bags $4.3 Mn To Strengthen Last-Mile Delivery, Scale Ecommerce Platform",
+      "date": "2023-10-01",
+      "snapshot_path": "data/snapshots/bharatagri/inc42.com_buzz_bharatagri-bags-4-3-mn-to-strengthen-last-mile-delivery-scale-ecommerce-platform_.html"
+    },
+    {
+      "url": "https://capria.vc/news/agritech-startup-bharatagri-is-helping-farmers-in-farming-through-ai/",
+      "title": "Here's how BharatAgri is helping farmers through AI",
+      "date": "2023-06-01",
+      "snapshot_path": "data/snapshots/bharatagri/capria.vc_news_agritech-startup-bharatagri-is-helping-farmers-in-farming-through-ai_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 103,
+  "total_loss": "$14M",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}

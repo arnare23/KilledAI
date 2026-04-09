@@ -1,0 +1,63 @@
+{
+  "name": "Canoo",
+  "slug": "canoo",
+  "tagline": "AI-powered electric vehicle startup with steer-by-wire and autonomous driving platform",
+  "description": "Canoo was a California-born EV startup founded in 2017 as Evelozcity by former BMW and Deutsche Bank executives, later going public via SPAC at a $2.4 billion valuation. The company built AI-driven electric vehicles using NVIDIA DRIVE AGX Xavier for autonomous capabilities and steer-by-wire technology, securing deals with Walmart, NASA, and the USPS, but delivered fewer than two dozen vehicles total before filing for Chapter 7 bankruptcy in January 2025 with less than $50,000 in remaining assets.",
+  "story": "Canoo began life in 2017 as Evelozcity, founded by Stefan Krause, formerly Deutsche Bank's CFO, and Ulrich Kranz, a senior BMW executive who had helped develop the i3 and i8 electric cars. Both had left rival EV company Faraday Future after disagreements with its leadership. Renamed Canoo in March 2019, the startup attracted attention with a distinctive pod-shaped \"lifestyle vehicle\" built on a modular skateboard platform, promising a subscription-based ownership model that would upend the traditional dealership system.\n\nThe company merged with SPAC Hennessy Capital Acquisition Corp IV in December 2020, going public at a $2.4 billion valuation and raising around $600 million. But the cash brought turbulence. Co-founder Ulrich Kranz departed in April 2021, replaced as CEO by chairman Tony Aquila, a Texas-based investor who had backed the SPAC deal. Under Aquila, Canoo abandoned its subscription model, pivoted to commercial fleet vehicles, relocated from California to Texas, and announced an ambitious Oklahoma manufacturing campus. The SEC opened an investigation in mid-2021 over the leadership changes and strategic pivots.\n\nDespite the chaos, Canoo landed marquee contracts: Walmart ordered 4,500 electric delivery vehicles with options for 10,000 more; NASA contracted Canoo for Artemis crew transport vehicles; and Kingbee signed a binding order for 9,300 units. But production never materialized at any meaningful scale. By May 2022, the company warned it had enough cash for only one more quarter. Through 2023, Canoo generated just $886,000 in revenue from roughly 22 delivered vehicles. The Walmart fleet never shipped. The Oklahoma factory remained incomplete.\n\nCanoo attempted to survive by purchasing Arrival's assets out of bankruptcy in March 2024, hoping to acquire manufacturing capabilities cheaply. The gamble failed. Through 2024, the company hemorrhaged its remaining cash, attempted unsuccessfully to secure a Department of Energy loan, and watched its workforce dwindle. As of October 2024, fewer than a dozen vehicles from all orders had been delivered.\n\nOn January 17, 2025, Canoo filed for Chapter 7 liquidation in Delaware, declaring less than $50,000 in assets against liabilities of $10-50 million. CEO Tony Aquila later offered $4 million to buy the company's remaining assets. The filing made Canoo the latest and one of the most prominent casualties of the SPAC-era EV boom, a period that saw billions of dollars flow into electric vehicle startups, most of which never produced a car at scale.",
+  "founded": "2017-12",
+  "shutdown": "2025-01",
+  "funding_raised": "$600M+",
+  "funding_stage": "public (SPAC)",
+  "employee_count": 805,
+  "category": "funding",
+  "tags": [
+    "electric-vehicles",
+    "autonomous-driving",
+    "nvidia",
+    "adas",
+    "steer-by-wire",
+    "spac",
+    "texas",
+    "fleet-vehicles"
+  ],
+  "url": "https://www.canoo.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/",
+      "title": "EV startup Canoo files for bankruptcy and ceases operations",
+      "date": "2025-01-17",
+      "snapshot_path": "data/snapshots/canoo/techcrunch.com_2025_01_17_ev-startup-canoo-files-for-bankruptcy-and-ceases-operations_.html"
+    },
+    {
+      "url": "https://www.carscoops.com/2025/01/canoo-goes-bust-with-less-than-50000-left-and-millions-in-debt/",
+      "title": "Canoo Goes Bust With Less Than $50,000 Left And Millions In Debt",
+      "date": "2025-01-18",
+      "snapshot_path": "data/snapshots/canoo/www.carscoops.com_2025_01_canoo-goes-bust-with-less-than-50000-left-and-millions-in-debt_.html"
+    },
+    {
+      "url": "https://fortune.com/2022/08/27/canoo-electric-vehicles-walmart-struggles-tony-aquila/",
+      "title": "EV company Canoo has virtually no revenue and tons of internal chaos and a major deal with Walmart",
+      "date": "2022-08-27",
+      "snapshot_path": "data/snapshots/canoo/fortune.com_2022_08_27_canoo-electric-vehicles-walmart-struggles-tony-aquila_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Canoo",
+      "title": "Canoo - Wikipedia",
+      "date": "2025-01-17",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://electrek.co/2025/01/18/another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy/",
+      "title": "Another one bites the dust as Canoo files for Chapter 7 bankruptcy",
+      "date": "2025-01-18",
+      "snapshot_path": "data/snapshots/canoo/electrek.co_2025_01_18_another-one-bites-the-dust-as-canoo-files-for-chapter-7-bankruptcy_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 85,
+  "total_loss": "$600M+",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}

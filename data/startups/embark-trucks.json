@@ -1,0 +1,62 @@
+{
+  "name": "Embark Trucks",
+  "slug": "embark-trucks",
+  "tagline": "Self-driving autonomous trucking technology company",
+  "description": "Autonomous trucking startup founded in 2016 by University of Waterloo graduates Alex Rodrigues and Brandon Moak. Embark raised $117M in venture funding, went public via SPAC in November 2021 at a $5.2B valuation, then collapsed just 16 months later. After laying off 70% of its 330-person workforce, the company was sold to Applied Intuition for $71M in May 2023 — a 98.6% decline from peak valuation.",
+  "story": "Alex Rodrigues was 20 years old when he and his University of Waterloo classmate Brandon Moak started building a self-driving golf cart in a Calgary garage in the summer of 2015. By 2016, they had formalized their ambition into Embark Trucks, entering Y Combinator with a plan to build autonomous software for long-haul trucking. The pitch resonated: the US freight industry was massive, driver shortages were chronic, and highway driving — with its predictable lanes and limited obstacles — seemed like the most tractable path to autonomous deployment.\n\nThe funding came fast. Between 2016 and 2019, Embark raised $117 million across four rounds — a $2M seed from Maven Ventures, a $15M Series A from DCVC, a $30M Series B from Sequoia Capital, and a $70M Series C from Tiger Global. The company accumulated over 1.5 million miles of autonomous highway testing and built partnerships with major carriers. In November 2021, at the height of the SPAC boom, Embark merged with Northern Genesis Acquisition Corp. II and debuted on the Nasdaq at an implied valuation of $5.2 billion. The deal brought in roughly $614 million in cash — $414M from the SPAC sponsor and $200M from institutional investors. Rodrigues, then 26, became one of the youngest CEOs of a publicly traded company.\n\nThe euphoria was short-lived. Embark had zero revenue and no clear path to commercial deployment. The autonomous trucking timeline kept slipping as truck manufacturers delayed integrating the necessary sensor and compute hardware. Meanwhile, the post-SPAC market correction of 2022 was brutal for pre-revenue companies. Embark's stock plummeted over 90% from its debut price. Capital markets, which had once eagerly funded moonshot autonomy bets, went cold.\n\nOn March 6, 2023 — barely 16 months after going public — CEO Rodrigues emailed employees to announce that 70% of the company's roughly 330-person workforce would be laid off immediately. \"After thoroughly evaluating all alternatives, we have been unable to identify a path forward for the business in its current form,\" he wrote, citing capital markets turning their backs on pre-revenue companies and slipping manufacturer timelines. The remaining staff stayed on to manage a wind-down.\n\nTwo months later, in May 2023, Applied Intuition announced a $71 million all-cash acquisition of Embark, paying shareholders $2.88 per share. For a company that had been valued at $5.2 billion just 16 months earlier, the sale price represented a 98.6% destruction of value. Embark's collapse became one of the starkest examples of the SPAC-era hangover in autonomous vehicles — a reminder that public-market capital and a sky-high valuation cannot substitute for revenue, a viable deployment timeline, or a business model that works without continuous external funding.",
+  "founded": "2016",
+  "shutdown": "2023-03",
+  "funding_raised": "$731M",
+  "funding_stage": "SPAC IPO",
+  "employee_count": 330,
+  "category": "funding",
+  "tags": [
+    "autonomous-vehicles",
+    "trucking",
+    "self-driving",
+    "spac",
+    "fire-sale",
+    "y-combinator",
+    "applied-intuition"
+  ],
+  "url": "https://embarktrucks.com",
+  "sources": [
+    {
+      "url": "https://news.crunchbase.com/transportation/embark-trucks-closes-autonomous-vehicles/",
+      "title": "Autonomous Trucking Upstart Embark Goes From $5B Valuation To Kaput In 16 Months",
+      "date": "2023-03-24",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2023/05/25/applied-intuition-to-buy-autonomous-trucking-spac-embark-for-71m/",
+      "title": "Applied Intuition to buy autonomous trucking SPAC Embark for $71M",
+      "date": "2023-05-25",
+      "snapshot_path": "data/snapshots/embark-trucks/techcrunch.com_2023_05_25_applied-intuition-to-buy-autonomous-trucking-spac-embark-for-71m_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2023/03/03/embark-trucks-lays-off-workers-explores-liquidation-of-self-driving-truck-assets/",
+      "title": "Embark Trucks lays off workers, explores liquidation of self-driving truck assets",
+      "date": "2023-03-03",
+      "snapshot_path": "data/snapshots/embark-trucks/techcrunch.com_2023_03_03_embark-trucks-lays-off-workers-explores-liquidation-of-self-driving-truck-assets_.html"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/embark-trucks-laying-off-70-of-employees-winding-down-business",
+      "title": "Embark Trucks laying off 70% of employees, winding down business",
+      "date": "2023-03-06",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.cnbc.com/2021/11/11/embark-ceo-sees-supply-chain-crisis-as-the-inflection-point-for-autonomous-trucking.html",
+      "title": "26-year-old CEO completes SPAC deal and brings autonomous trucking startup Embark public",
+      "date": "2021-11-11",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$660M+",
+  "created_at": "2026-04-09T00:00:00Z",
+  "updated_at": "2026-04-09T00:00:00Z"
+}
