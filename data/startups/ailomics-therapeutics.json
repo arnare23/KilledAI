@@ -1,0 +1,24 @@
+{
+  "name": "Ailomics Therapeutics",
+  "slug": "ailomics-therapeutics",
+  "tagline": "Chinese AI drug discovery with human-derived biology models",
+  "description": "Shanghai-based Ailomics Therapeutics launched in 2022 combining AI with experimental biology and single-cell data analysis to accelerate drug discovery. Amid a 42% drop in global AI drug discovery funding between 2022-2023 and post-hype disillusionment, whistleblower reports indicate the company is quietly winding down in 2025.",
+  "founded": "2022",
+  "shutdown": "2025",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "category": "funding",
+  "tags": ["drug-discovery", "biotech", "china", "single-cell", "ai-biotech"],
+  "sources": [
+    {
+      "url": "https://www.ctol.digital/news/ailomics-shutdown-ai-biotech-troubles/",
+      "title": "Chinese AI Biotech Sector Faces Downturn as Another Startup Struggles",
+      "date": "2025-06-01"
+    }
+  ],
+  "status": "rejected",
+  "rejection_reason": "Insufficient corroboration of shutdown claim — only a single whistleblower-sourced report; company may still be operating.",
+  "confidence": "low",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

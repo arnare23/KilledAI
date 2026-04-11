@@ -1,0 +1,43 @@
+{
+  "name": "Vicarious",
+  "slug": "vicarious",
+  "tagline": "Brain-inspired AGI startup that pivoted to robot vision and was acqui-hired by Alphabet",
+  "description": "One of the earliest and most famously backed AGI-focused AI startups. Co-founded in 2010 by Scott Phoenix and Dileep George, Vicarious raised roughly $250 million from Mark Zuckerberg, Elon Musk, Jeff Bezos, Marc Benioff, Founders Fund and Khosla Ventures on a brain-inspired vision research agenda. After twelve years without a scaled commercial product, Alphabet's robotics subsidiary Intrinsic acqui-hired the company in April 2022 for an undisclosed amount; the Vicarious brand and roadmap were wound down.",
+  "story": "Vicarious was the pre-deep-learning bet on general intelligence. Co-founded in 2010 by Scott Phoenix and Dileep George, the company raised early money from Founders Fund, Dustin Moskovitz and Adam D'Angelo on a thesis that mainstream neural networks were a dead end and that a brain-inspired probabilistic architecture, which the founders called the Recursive Cortical Network, could learn from orders of magnitude less data. For a stretch in the mid-2010s that thesis attracted arguably the most star-studded cap table in AI history: Mark Zuckerberg, Elon Musk, Jeff Bezos, Marc Benioff, Jerry Yang, Janus Friis and Joe Lonsdale all backed the company, along with institutional investors. Total funding climbed to roughly $250 million across Series A, B and C rounds.\n\nThe research output was real. Vicarious published in Science, demonstrated an RCN model that could break text-based CAPTCHAs at better than 90 percent accuracy, and built a reputation as the most interesting alternative to deep learning in Silicon Valley. But research papers are not a company. For years, Vicarious struggled to identify a market that would pay for its particular flavor of sample-efficient vision, and it eventually pivoted away from the AGI pitch and toward industrial robotics, positioning itself as a vision and manipulation software layer for factory robots.\n\nThat pivot was also where the ChatGPT wave left it stranded. By 2022, large transformer-based foundation models were absorbing most of the remaining oxygen around AI research bets, robotics capital was contracting, and Vicarious still had no meaningfully scaled commercial product after twelve years of operation. On April 22, 2022, Alphabet-owned Intrinsic, its in-house industrial robotics software subsidiary, announced it was acquiring Vicarious for an undisclosed sum. Under the deal, CEO Scott Phoenix moved to Intrinsic as Chief Commercial Officer, while CTO Dileep George and a small research team joined Google DeepMind. The Vicarious brand, standalone product and twelve-year roadmap were effectively retired.\n\nThere is no public reporting that Vicarious's investors recovered their capital, and the acquisition price was never disclosed. For a company that had raised a quarter of a billion dollars from the richest people in tech, an undisclosed price into an Alphabet subsidiary is almost always a polite way of saying that the headline number would have embarrassed someone.\n\nVicarious is the cleanest example in the 2010s AI graveyard of a pattern that predates and survives the generative AI boom: brilliant research, famous backers and a differentiated architectural bet are not a substitute for a customer. Over twelve years Vicarious never figured out what it was selling, to whom, at what price. When the AI hype cycle rotated to foundation models, the remaining value in the company was not the product or the revenue, which barely existed, but the research talent, which Alphabet absorbed and the rest of the org dissolved around.",
+  "founded": "2010",
+  "shutdown": "2022-04",
+  "funding_raised": "$250M",
+  "funding_stage": "series-c",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "agi",
+    "robotics",
+    "computer-vision",
+    "alphabet",
+    "deepmind",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/",
+      "title": "Intrinsic acquires fellow robotic software firm Vicarious",
+      "date": "2022-04-22",
+      "snapshot_path": "data/snapshots/vicarious/techcrunch.com_2022_04_22_alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vicarious_(company)",
+      "title": "Vicarious (company) - Wikipedia",
+      "date": "2022-04-22",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 147,
+  "total_loss": "",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}

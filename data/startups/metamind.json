@@ -1,0 +1,50 @@
+{
+  "name": "MetaMind",
+  "slug": "metamind",
+  "tagline": "Richard Socher's deep learning API startup, absorbed and shut down by Salesforce in 18 months",
+  "description": "Hosted deep learning API for image and text classification founded in July 2014 by Stanford NLP researcher Richard Socher. Raised about $8 million from Khosla Ventures and Marc Benioff. Acquired by Salesforce on April 4, 2016; free services were shut down May 4, 2016 and paid services June 4, 2016. The technology was folded into Salesforce Einstein and the standalone product ceased to exist, making MetaMind an early canonical case of an AI wrapper company being absorbed and killed by a platform incumbent.",
+  "story": "MetaMind is the oldest story in the modern AI wrapper graveyard, and it reads like a premonition of everything the 2023 wave would rediscover. It was founded in July 2014 by Richard Socher, one of the most recognized deep learning researchers of his generation and the author of foundational papers on recursive neural networks for NLP at Stanford. The product was simple and ahead of its time: a hosted API for image classification, text classification and sentiment analysis, so that any developer could call a URL and get a deep learning prediction back without owning a GPU, a dataset, or a PhD. In 2014 that was close to magic.\n\nThe capital backing matched the hype. MetaMind raised around $8 million in seed funding from Khosla Ventures and, notably, from Salesforce CEO Marc Benioff personally. For about eighteen months it was one of the highest-profile deep-learning-as-a-service startups in Silicon Valley. Socher gave conference talks, the press called MetaMind the next Watson, and enterprise prospects tested the API against their own document classification problems.\n\nThen the pattern that would define a decade of AI wrapper failures played out in compressed form. On April 4, 2016, Salesforce announced it had acquired MetaMind for undisclosed terms. The press release framed it as a talent-and-technology deal that would accelerate Salesforce's own machine learning roadmap. Within weeks the product was dead. MetaMind's free service was switched off on May 4, 2016. Its paying customers were given until June 4, 2016 before the APIs were shut down for good. The MetaMind brand, the developer portal and the standalone business all disappeared. Socher became Salesforce's Chief Scientist, and MetaMind's research was repackaged months later as the core of Salesforce Einstein, the AI layer Benioff would use to reposition the entire CRM.\n\nThe economics of the deal were never disclosed, and in all likelihood there was no dramatic exit multiple. The $8 million of seed capital returned in some form, the team landed at a Fortune 500 employer, and the only thing that actually died was the MetaMind product that developers had been building against.\n\nThe lesson in MetaMind is the cleanest early statement of a rule that the generative AI era has done nothing to repeal. A thin-margin API that sits between developers and a commoditizing model layer is a feature inside a platform company, not a company of its own. The first platform incumbent that wanted that feature did the obvious thing: hired the founders, killed the product, and quietly absorbed the roadmap. Seven years before ChatGPT, MetaMind was already the template for how this ends.",
+  "founded": "2014-07",
+  "shutdown": "2016-06",
+  "funding_raised": "$8M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "deep-learning",
+    "nlp",
+    "computer-vision",
+    "api",
+    "salesforce",
+    "platform-absorbed",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://venturebeat.com/business/salesforce-buys-hot-deep-learning-startup-metamind-services-shutting-down-may-4",
+      "title": "Salesforce buys hot deep learning startup MetaMind, services shutting down May 4",
+      "date": "2016-04-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://fortune.com/2016/04/04/salesforce-metamind-acquisition/",
+      "title": "Salesforce Acquires A.I. Startup MetaMind",
+      "date": "2016-04-04",
+      "snapshot_path": "data/snapshots/metamind/fortune.com_2016_04_04_salesforce-metamind-acquisition_.html"
+    },
+    {
+      "url": "https://www.silicon.co.uk/e-innovation/research/salesforce-buys-deep-learning-startup-metamind-189239",
+      "title": "Salesforce Buys Deep Learning Startup MetaMind",
+      "date": "2016-04-05",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 23,
+  "total_loss": "",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}

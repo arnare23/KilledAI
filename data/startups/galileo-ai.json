@@ -1,0 +1,43 @@
+{
+  "name": "Galileo AI",
+  "slug": "galileo-ai",
+  "tagline": "Text-to-UI generative design tool for web and mobile apps",
+  "description": "Galileo AI let designers type a prompt and receive a hi-fi interface mockup. After raising $4.4M from Khosla Ventures and launching a public beta in early 2024, Google acquired the team in May 2025 and rebranded the product as Google Stitch.",
+  "story": "Galileo AI was founded in 2022 by Arnaud Benard and Helen Zhou with a pitch that sat squarely inside the first wave of generative-AI design tools: describe an interface in plain English, and get a high-fidelity mockup out the other side. The product opened in private beta in October 2023 and in February 2024 raised $4.4M in seed funding led by Khosla Ventures, alongside earlier backing from South Park Commons, bringing total disclosed funding to roughly $4.8M. The public beta launched the same week.\n\nThe timing was both the pitch and the problem. Text-to-UI sat directly in the path of every major design-software vendor and every major foundation-model lab. Figma shipped its own AI features. OpenAI and Anthropic kept widening what a general-purpose model could produce. Google itself was experimenting with generative design inside its own tools. For a two-founder seed-stage company with a few million in the bank, defending a wedge that every platform owner was walking toward was never going to be a long game.\n\nIt didn't last long enough to find out. On May 20, 2025, at Google I/O, Google announced it had acquired Galileo AI and folded the product into a Gemini-powered tool rebranded as Google Stitch. Existing users were given a 30-day transition window to export data before Galileo's standalone product was sunset. The founders joined Google; the Galileo brand was retired.\n\nOn paper, the outcome is a successful acqui-hire. In practice, it is the canonical fate of the small AI design tool: a thin wrapper around a good idea, absorbed by the platform that was always going to build the same thing. Galileo's investors likely recouped their capital, the founders landed inside Google, and the product that users signed up for ceased to exist under its original name. The wedge closed faster than the company could widen it.\n\nThe lesson is not that Galileo was a bad product. By most accounts it was a polished one. The lesson is that a $4.8M seed-stage design tool with no distribution moat and no proprietary data was always going to be priced as talent, not as a business. When the platform owner makes the offer, there is rarely a reason to say no.",
+  "founded": "2022-11",
+  "shutdown": "2025-05-20",
+  "funding_raised": "$4.8M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "design-tools",
+    "generative-ai",
+    "google",
+    "ui-design",
+    "acqui-hire",
+    "khosla-ventures"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.maginative.com/article/galileo-ai-raises-launches-public-beta-of-text-to-ui-generative-design-tool/",
+      "title": "Galileo AI Raises $4.4M and Launches Public Beta of Prompt-to-UI AI Design Tool",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/galileo-ai/www.maginative.com_article_galileo-ai-raises-launches-public-beta-of-text-to-ui-generative-design-tool_.html"
+    },
+    {
+      "url": "https://en.webhakim.com/google-acquires-galileo-ai-launches-stitch-for-designers/",
+      "title": "Google Snaps Up Galileo AI to Supercharge UI Creation",
+      "date": "2025-05-21",
+      "snapshot_path": "data/snapshots/galileo-ai/en.webhakim.com_google-acquires-galileo-ai-launches-stitch-for-designers_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 30,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

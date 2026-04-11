@@ -1,0 +1,48 @@
+{
+  "name": "Sentient Technologies",
+  "slug": "sentient-technologies",
+  "tagline": "Evolutionary AI company that was, as of 2016, the most heavily funded AI startup in the world",
+  "description": "San Francisco AI research company co-founded in 2007 by Antoine Blondeau, Babak Hodjat and Siri co-creator Adam Cheyer. Raised over $143 million across Series A, B and C and was briefly the world's best-funded AI startup, running distributed evolutionary algorithms on products spanning algorithmic trading, e-commerce optimization and medical analytics. Dissolved in 2019, with Sentient Ascend sold to Evolv and core AI IP sold to Cognizant.",
+  "story": "Sentient Technologies was the AI bet that Silicon Valley made before Silicon Valley had figured out what AI actually was. Founded in San Francisco in 2007 by Antoine Blondeau, Babak Hodjat and Adam Cheyer, who had previously helped build the natural language technology that became Siri, Sentient raised its first $2 million Series A quietly, then a $38 million Series B led by Horizons Ventures, and then a $103.5 million Series C in November 2014 that pushed total funding past $143 million. By 2016 press coverage was calling it the most heavily funded AI company in the world.\n\nThe company's technical premise was distinctive and, for its moment, genuinely ambitious. While most of the field was marching toward deep learning, Sentient bet on massively distributed evolutionary algorithms, spreading computation across hundreds of thousands of CPU cores harvested from idle enterprise hardware and running generations of candidate models against each other. That substrate was used to spin up a remarkable breadth of products: Sentient Investment Management, an algorithmic trading subsidiary; Sentient Aware, a visual search and personalization engine for e-commerce; Sentient Ascend, launched in September 2016 as a SaaS conversion rate optimization platform that used evolutionary search to test website variants; and research collaborations on medical diagnostics including ICU sepsis prediction.\n\nThe breadth was also the problem. None of the business lines reached the scale that the funding profile implied. Algorithmic trading is unforgiving and crowded, visual search was being commoditized by Google and Amazon, and SaaS CRO was a mid-market category where Sentient Ascend never broke out from incumbents like Optimizely. By 2018 the company was out of momentum. In March 2019 Sentient Ascend was sold to the newly formed Evolv Technologies, which raised a $10 million Series A to finance the deal. Later in 2019 much of Sentient's remaining AI intellectual property, including its evolutionary optimization platform, was sold to Cognizant, where co-founder Babak Hodjat became Chief Technology Officer for AI. The investment arm was spun out separately, and Sentient Technologies itself was formally dissolved.\n\nFor a company that had raised more than any other AI startup of its era, there was no dramatic blow-up and no big headline shutdown. The Information eventually described it simply as a break-up. The $143 million did not return the fund-level multiples it implied; the evolutionary compute fabric was never recognized as the breakthrough it was pitched as; and within a few years of the dissolution, the entire research community had moved on to transformers.\n\nSentient is the reminder that being early and being well-capitalized are not, on their own, edges. A company that tries to be Google Brain, Two Sigma and Optimizely at the same time is, in practice, none of them. When the AI cycle rotated into deep learning and then into foundation models, the evolutionary compute thesis did not have a single commercial beachhead strong enough to survive the pivot.",
+  "founded": "2007",
+  "shutdown": "2019",
+  "funding_raised": "$143M",
+  "funding_stage": "series-c",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "evolutionary-algorithms",
+    "e-commerce",
+    "trading",
+    "enterprise-ai",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sentient_Technologies",
+      "title": "Sentient Technologies - Wikipedia",
+      "date": "2019-12-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.theinformation.com/briefings/88707a",
+      "title": "Sentient, Once the Top-Funded AI Startup, Breaks Up",
+      "date": "2019-04-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.finsmes.com/2019/03/evolv-technologies-raises-10m-in-series-a-funding.html",
+      "title": "Evolv Technologies Raises $10M in Series A Funding and acquires Sentient Ascend",
+      "date": "2019-03-18",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 144,
+  "total_loss": "",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}

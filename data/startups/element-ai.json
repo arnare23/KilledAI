@@ -1,0 +1,61 @@
+{
+  "name": "Element AI",
+  "slug": "element-ai",
+  "tagline": "Montreal enterprise AI services platform co-founded by Yoshua Bengio",
+  "description": "Canadian enterprise AI darling co-founded by Turing Award winner Yoshua Bengio. Raised about US$102 million plus CAD$5 million in government funding, grew to 500 employees, and was generating only $10-12 million in annualized revenue when it sold to ServiceNow in November 2020 for $230 million. Common shareholders and employee stock options were wiped out, and hundreds of staff were laid off within hours of the announcement.",
+  "story": "Element AI was Canada's attempt to matter in the global AI race. Founded in Montreal in October 2016 by Jean-Francois Gagne, Nick Chapados, Anne Martel and Philippe Beaudoin, it launched with Turing Award winner Yoshua Bengio as co-founder and scientific advisor, and it inherited the credibility of the Montreal deep learning community in a single stroke. The pitch was irresistible to investors and to the Canadian federal government: a research-led consultancy that would embed Bengio-adjacent scientists inside Fortune 500 customers and productize the results.\n\nThe money arrived fast. Element AI raised about US$102 million from Data Collective, Microsoft Ventures, Intel Capital, Nvidia and others, plus a CAD$5 million loan from the Government of Canada. By 2019 it was reportedly valued at $600 to $700 million and its headcount had climbed past 500 across offices in Montreal, Toronto, Seoul, Singapore and London. In the Canadian press it was the national AI champion.\n\nThe commercial reality underneath was considerably smaller. Element AI sold bespoke AI projects, not repeatable software, and the engagements stayed bespoke. By late November 2020 the company was generating revenue at an annualized rate of just US$10-12 million against a headcount and R&D burn many times that. It was running out of cash and options. On November 30, 2020 ServiceNow announced it was acquiring Element AI for US$230 million, a price below the total capital the company had taken in once taxes, fees and preferences were applied.\n\nThe mechanics of the sale were brutal. Internal documents later reported by The Globe and Mail showed that the co-founders' combined 8.8 million common shares were essentially worthless under the deal's liquidation waterfall, and employees were told their stock options were void and cancelled with no value provided in lieu. Within hours of the announcement a large share of the roughly 500-person workforce received termination notices. ServiceNow retained the research scientists and patents it wanted for its own AI roadmap and effectively abandoned Element AI's existing business lines. By January 2021 the transaction had closed and Element AI as an independent company no longer existed.\n\nThe lesson of Element AI is the lesson of pre-ChatGPT enterprise AI in general. A roster of world-class researchers and a famous co-founder can raise enormous sums, but research credibility does not automatically produce a repeatable product, and bespoke AI projects have the economics of a consultancy, not a software company. When the gap between hype valuation and actual revenue became impossible to paper over, the equity story collapsed on the people closest to the company first.",
+  "founded": "2016-10",
+  "shutdown": "2020-11",
+  "funding_raised": "$102M",
+  "funding_stage": "series-b",
+  "employee_count": 500,
+  "category": "acqui-hired",
+  "tags": [
+    "enterprise-ai",
+    "canada",
+    "montreal",
+    "consulting",
+    "bengio",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/",
+      "title": "ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises",
+      "date": "2020-11-30",
+      "snapshot_path": "data/snapshots/element-ai/techcrunch.com_2020_11_30_servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises_.html"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out/",
+      "title": "Element AI sold for $230-million as founders saw value mostly wiped out, document reveals",
+      "date": "2020-12-20",
+      "snapshot_path": "data/snapshots/element-ai/www.theglobeandmail.com_business_article-element-ai-sold-for-230-million-as-founders-saw-value-wiped-out_.html"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/article-once-touted-as-a-technology-world-beater-montreals-element-ai-sells/",
+      "title": "Element AI hands out pink slips hours after announcement of sale to ServiceNow",
+      "date": "2020-11-30",
+      "snapshot_path": "data/snapshots/element-ai/www.theglobeandmail.com_business_article-once-touted-as-a-technology-world-beater-montreals-element-ai-sells_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Element_AI",
+      "title": "Element AI - Wikipedia",
+      "date": "2020-11-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://betakit.com/servicenow-closes-230-million-usd-acquisition-of-montreals-element-ai/",
+      "title": "ServiceNow closes $230 million USD acquisition of Montreal's Element AI",
+      "date": "2021-01-08",
+      "snapshot_path": "data/snapshots/element-ai/betakit.com_servicenow-closes-230-million-usd-acquisition-of-montreals-element-ai_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 49,
+  "total_loss": "",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}

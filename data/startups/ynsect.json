@@ -1,0 +1,55 @@
+{
+  "name": "Ÿnsect",
+  "slug": "ynsect",
+  "tagline": "AI-optimized industrial mealworm protein farming",
+  "description": "French agtech Ÿnsect raised more than $600M to build automated mealworm farms using robotics and AI-driven climate control, pitching insect protein as a sustainable feed alternative. Its Ÿnfarm giga-factory in Amiens burned through capital without reaching competitive unit costs, and the company entered judicial liquidation in December 2025.",
+  "story": "Antoine Hubert co-founded Ÿnsect in 2011 around an elegant thesis: that farmed mealworms, processed at industrial scale with robotics and AI-driven climate control, could deliver a sustainable protein alternative to soy and fishmeal. Over the next decade, the French startup became the best-funded insect company in the world, raising more than $600 million from investors including Astanor Ventures, Upfront Ventures, Robert Downey Jr.'s FootPrint Coalition, and a consortium of French public-private backers. Robert Downey Jr. personally hyped the company on the Late Show during Super Bowl weekend 2021.\n\nThe centerpiece of the pitch was Ÿnfarm, a vertical mealworm farm in Amiens, in northern France, billed as the world's largest insect protein facility. The plant used automated handling, sensor-driven environmental control, and machine-learning-optimized feeding schedules to grow Tenebrio molitor larvae at scale. Ÿnsect targeted three markets at once: aquaculture and poultry feed, premium pet food, and insect-waste-derived fertilizer. Each market had a different buyer, a different price point, and a different regulatory path, and the company never fully chose between them.\n\nThe unit economics were the problem. Industry analysts later observed that farmed insects cost two to ten times as much as soy or fishmeal on a per-kilogram protein basis. Animal feed is a commodity market in which sustainability narratives rarely command a premium, and even the higher-margin pet food segment could not absorb the volumes Ÿnfarm was built to produce. Construction and commissioning of the Amiens facility ran long and expensive, consuming capital before the plant generated meaningful revenue. Layoffs began in 2023. By early 2025, Ÿnsect was in court-supervised restructuring, and Hubert stepped down as CEO and spun out a smaller fertilizer-focused venture called Keprea from the pilot site near Dole.\n\nOn December 3, 2025, a French commercial court placed Ÿnsect into judicial liquidation after the company told the court it could not secure financing for its continuation plan, citing broader funding difficulties for climate and agricultural startups. The Amiens industrial facility was slated for closure. Keprea, pivoting to fertilizer from insect frass, was left to carry whatever is salvageable of the original vision.\n\nŸnsect's collapse was not the only one in its category. ENORM in Denmark and Inseco in South Africa went under in the same window, and the insect-farming sector as a whole saw roughly $670 million in disclosed funding evaporate in 2025. The shared lesson is narrow but brutal: automation and AI can optimize a bioreactor, but they cannot rewrite the price of a commodity protein market that was never willing to pay for the story.",
+  "founded": "2011",
+  "shutdown": "2025-12",
+  "funding_raised": "$600M",
+  "funding_stage": "series-c",
+  "employee_count": 300,
+  "category": "market",
+  "tags": [
+    "agtech",
+    "insect-protein",
+    "robotics",
+    "france",
+    "automation",
+    "europe"
+  ],
+  "url": "https://www.ynsect.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
+      "title": "How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming",
+      "date": "2025-12-26",
+      "snapshot_path": "data/snapshots/ynsect/techcrunch.com_2025_12_26_how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming_.html"
+    },
+    {
+      "url": "https://agfundernews.com/judicial-liquidation-for-ynsect-as-insect-farming-sector-struggles-to-become-competitive",
+      "title": "Judicial liquidation for Ÿnsect as insect farming sector struggles to become competitive",
+      "date": "2025-12-03",
+      "snapshot_path": "data/snapshots/ynsect/agfundernews.com_judicial-liquidation-for-ynsect-as-insect-farming-sector-struggles-to-become-competitive.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/ynsect-collapse-industry-analysis",
+      "title": "What does Ÿnsect's slow collapse mean for the insect protein industry?",
+      "date": "2025-12-15",
+      "snapshot_path": "data/snapshots/ynsect/sifted.eu_articles_ynsect-collapse-industry-analysis.html"
+    },
+    {
+      "url": "https://www.agtechnavigator.com/Article/2025/12/08/ynsects-collapse-raises-big-questions-is-feed-and-fertiliser-the-future-of-insect-farming/",
+      "title": "Ÿnsect's collapse raises big questions: Is feed and fertiliser the future of insect farming?",
+      "date": "2025-12-08",
+      "snapshot_path": "data/snapshots/ynsect/www.agtechnavigator.com_Article_2025_12_08_ynsects-collapse-raises-big-questions-is-feed-and-fertiliser-the-future-of-insect-farming_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 170,
+  "total_loss": "$600M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

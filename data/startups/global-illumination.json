@@ -1,0 +1,49 @@
+{
+  "name": "Global Illumination",
+  "slug": "global-illumination",
+  "tagline": "AI design studio building Biomes, an open-source Minecraft-style MMO",
+  "description": "Global Illumination was a New York AI design studio founded in 2021 by ex-Instagram, YouTube, and Riot Games engineers, building an open-source sandbox MMO called Biomes. OpenAI acquired the entire team in August 2023 in its first public acquisition.",
+  "story": "Global Illumination was founded in 2021 by Thomas Dimson, Taylor Gordon, and Joey Flynn, with a small team pulled from senior individual-contributor roles at Instagram, YouTube, Google, Facebook, and Riot Games. Dimson, the most visible of the three, had led the team behind Instagram's original ranking and discovery systems. The company positioned itself as an AI-native design studio building creative tools and consumer experiences, and by 2023 its most public artifact was Biomes, an open-source Minecraft-style sandbox MMO that ran in the browser.\n\nBiomes was never really a commercial product. It was a showcase: proof that a handful of senior engineers could ship a multiplayer world on the web with AI-generated assets and tooling baked in. Funding and investors were never publicly disclosed. The team stayed small and quiet, which in hindsight made it a clean acquisition target rather than a scaling business.\n\nOn August 16, 2023, OpenAI announced it had acquired Global Illumination, the first public acquisition in OpenAI's roughly seven-year history. Terms were not disclosed. The entire team joined OpenAI to work on core products including ChatGPT, and Biomes was effectively left as an abandoned open-source repository. There was no product migration, no customer transition, no wind-down plan, because there were no paying customers to wind down.\n\nThe category here is acqui-hire in the cleanest possible form. Global Illumination never pretended to be chasing revenue or growth; it was a holding pattern for senior talent building interesting things until a frontier lab wanted the talent. OpenAI got a team with shipping experience in consumer-scale design and infrastructure, and Biomes became a footnote in the timeline of OpenAI's M&A activity.\n\nWhat makes this entry worth cataloguing is not that a company failed, but that a product quietly ceased to exist the moment the acquisition closed. Biomes had users, a community, and an open codebase, and then it had none of those things. For the people building on top of it, the difference between an acqui-hire and a shutdown is a matter of framing, not effect.",
+  "founded": "2021",
+  "shutdown": "2023-08-16",
+  "funding_raised": "Unknown",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "openai",
+    "gaming",
+    "creative-tools",
+    "acqui-hire",
+    "open-source",
+    "biomes"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/",
+      "title": "OpenAI acquires AI design studio Global Illumination",
+      "date": "2023-08-16",
+      "snapshot_path": "data/snapshots/global-illumination/techcrunch.com_2023_08_16_openai-acquires-ai-design-studio-global-illumination_.html"
+    },
+    {
+      "url": "https://openai.com/index/openai-acquires-global-illumination/",
+      "title": "OpenAI acquires Global Illumination",
+      "date": "2023-08-16",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://venturebeat.com/ai/openai-acquires-startup-founded-by-ex-instagram-talent-for-undisclosed-sum",
+      "title": "OpenAI acquires startup founded by ex-Instagram talent for undisclosed sum",
+      "date": "2023-08-16",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 31,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-09T10:48:14.191691+00:00",
-  "count": 139,
+  "generated_at": "2026-04-11T11:22:15.733877+00:00",
+  "count": 156,
   "startups": [
     {
       "name": "Cove",
@@ -270,6 +270,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "Luminar Technologies",
+      "slug": "luminar-technologies",
+      "tagline": "AI-powered LiDAR for autonomous vehicles",
+      "founded": "2012-12",
+      "shutdown": "2025-12",
+      "category": "market",
+      "funding_raised": "$820M",
+      "lifetime_months": 156,
+      "total_loss": "$820M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
       "name": "Play.ai",
       "slug": "play-ai",
       "tagline": "YC-backed voice AI platform acquired by Meta, then shut down with 40,000 users left stranded",
@@ -310,6 +324,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:45:00Z"
+    },
+    {
+      "name": "Ÿnsect",
+      "slug": "ynsect",
+      "tagline": "AI-optimized industrial mealworm protein farming",
+      "founded": "2011",
+      "shutdown": "2025-12",
+      "category": "market",
+      "funding_raised": "$600M",
+      "lifetime_months": 170,
+      "total_loss": "$600M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "BharatAgri",
@@ -366,6 +394,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "ENORM",
+      "slug": "enorm",
+      "tagline": "Danish industrial black soldier fly protein farming",
+      "founded": "2017",
+      "shutdown": "2025-10",
+      "category": "market",
+      "funding_raised": "$57M",
+      "lifetime_months": 105,
+      "total_loss": "$57M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
+      "name": "Inseco",
+      "slug": "inseco",
+      "tagline": "South African black soldier fly protein farming",
+      "founded": "2018",
+      "shutdown": "2025-10",
+      "category": "other",
+      "funding_raised": "$5.3M",
+      "lifetime_months": 88,
+      "total_loss": "$5.3M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "Visual Electric",
@@ -592,6 +648,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Galileo AI",
+      "slug": "galileo-ai",
+      "tagline": "Text-to-UI generative design tool for web and mobile apps",
+      "founded": "2022-11",
+      "shutdown": "2025-05-20",
+      "category": "acqui-hired",
+      "funding_raised": "$4.8M",
+      "lifetime_months": 30,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
       "name": "Builder.ai",
       "slug": "builder-ai",
       "tagline": "AI-powered no-code app development platform",
@@ -646,6 +716,20 @@
       "status": "rejected",
       "confidence": "medium",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Benson Hill",
+      "slug": "benson-hill",
+      "tagline": "AI-driven CropOS platform for plant breeding",
+      "founded": "2012",
+      "shutdown": "2025-03",
+      "category": "funding",
+      "funding_raised": "$600M",
+      "lifetime_months": 155,
+      "total_loss": "$600M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "Volocopter",
@@ -800,6 +884,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Ailomics Therapeutics",
+      "slug": "ailomics-therapeutics",
+      "tagline": "Chinese AI drug discovery with human-derived biology models",
+      "founded": "2022",
+      "shutdown": "2025",
+      "category": "funding",
+      "funding_raised": "Unknown",
+      "lifetime_months": 36,
+      "total_loss": "",
+      "status": "rejected",
+      "confidence": "low",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "CodeParrot",
@@ -984,6 +1082,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "Fable",
+      "slug": "fable-motion",
+      "tagline": "Web-based collaborative motion design studio with generative AI",
+      "founded": "2019",
+      "shutdown": "2024-11-15",
+      "category": "no-moat",
+      "funding_raised": "$4.4M",
+      "lifetime_months": 65,
+      "total_loss": "$4.4M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
       "name": "Bowery Farming",
       "slug": "bowery-farming",
       "tagline": "$700M and celebrity investors could not make indoor lettuce profitable",
@@ -1052,6 +1164,20 @@
       "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Rockset",
+      "slug": "rockset",
+      "tagline": "Real-time analytics and search database for operational workloads",
+      "founded": "2016",
+      "shutdown": "2024-09-30",
+      "category": "acqui-hired",
+      "funding_raised": "$105.5M",
+      "lifetime_months": 101,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "AllHere Education",
@@ -1150,6 +1276,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Multi",
+      "slug": "multi-remote",
+      "tagline": "Video-first remote collaboration and screensharing app for Mac teams",
+      "founded": "2019",
+      "shutdown": "2024-07-24",
+      "category": "acqui-hired",
+      "funding_raised": "$13M",
+      "lifetime_months": 60,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
     },
     {
       "name": "BYJU'S",
@@ -1530,6 +1670,20 @@
       "created_at": "2026-04-07T00:00:00Z"
     },
     {
+      "name": "Global Illumination",
+      "slug": "global-illumination",
+      "tagline": "AI design studio building Biomes, an open-source Minecraft-style MMO",
+      "founded": "2021",
+      "shutdown": "2023-08-16",
+      "category": "acqui-hired",
+      "funding_raised": "Unknown",
+      "lifetime_months": 31,
+      "total_loss": "Unknown",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
       "name": "Babylon Health",
       "slug": "babylon-health",
       "tagline": "AI-powered virtual primary care and symptom checker",
@@ -1642,6 +1796,20 @@
       "created_at": "2026-04-01T23:30:00Z"
     },
     {
+      "name": "Brodmann17",
+      "slug": "brodmann17",
+      "tagline": "Lightweight deep learning computer vision for automotive ADAS",
+      "founded": "2016",
+      "shutdown": "2022-12",
+      "category": "funding",
+      "funding_raised": "$30M",
+      "lifetime_months": 80,
+      "total_loss": "$30M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
+    },
+    {
       "name": "Kite",
       "slug": "kite",
       "tagline": "AI-powered code completion tool for developers",
@@ -1684,6 +1852,20 @@
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
+      "name": "Vicarious",
+      "slug": "vicarious",
+      "tagline": "Brain-inspired AGI startup that pivoted to robot vision and was acqui-hired by Alphabet",
+      "founded": "2010",
+      "shutdown": "2022-04",
+      "category": "acqui-hired",
+      "funding_raised": "$250M",
+      "lifetime_months": 147,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
+    },
+    {
       "name": "Zebra Medical Vision",
       "slug": "zebra-medical",
       "tagline": "AI-powered medical imaging analytics with 7 FDA-cleared algorithms",
@@ -1710,6 +1892,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "Element AI",
+      "slug": "element-ai",
+      "tagline": "Montreal enterprise AI services platform co-founded by Yoshua Bengio",
+      "founded": "2016-10",
+      "shutdown": "2020-11",
+      "category": "acqui-hired",
+      "funding_raised": "$102M",
+      "lifetime_months": 49,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
     },
     {
       "name": "Curious AI",
@@ -1810,6 +2006,20 @@
       "created_at": "2026-04-01T23:00:00Z"
     },
     {
+      "name": "Drive.ai",
+      "slug": "drive-ai",
+      "tagline": "Deep-learning self-driving car startup from Andrew Ng's Stanford lab",
+      "founded": "2015",
+      "shutdown": "2019-06",
+      "category": "acqui-hired",
+      "funding_raised": "$77M",
+      "lifetime_months": 48,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
+    },
+    {
       "name": "Anki",
       "slug": "anki",
       "tagline": "AI-powered consumer robotics company behind Cozmo and Vector robots",
@@ -1836,6 +2046,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Sentient Technologies",
+      "slug": "sentient-technologies",
+      "tagline": "Evolutionary AI company that was, as of 2016, the most heavily funded AI startup in the world",
+      "founded": "2007",
+      "shutdown": "2019",
+      "category": "market",
+      "funding_raised": "$143M",
+      "lifetime_months": 144,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
     },
     {
       "name": "Ansaro",
@@ -1892,6 +2116,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "MetaMind",
+      "slug": "metamind",
+      "tagline": "Richard Socher's deep learning API startup, absorbed and shut down by Salesforce in 18 months",
+      "founded": "2014-07",
+      "shutdown": "2016-06",
+      "category": "acqui-hired",
+      "funding_raised": "$8M",
+      "lifetime_months": 23,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-11T10:57:17Z"
     },
     {
       "name": "Brisk",

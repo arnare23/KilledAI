@@ -1,0 +1,55 @@
+{
+  "name": "Benson Hill",
+  "slug": "benson-hill",
+  "tagline": "AI-driven CropOS platform for plant breeding",
+  "description": "St. Louis agtech Benson Hill used machine learning, simulations and genetics in its CropOS platform to design high-protein soybean varieties. A 2021 SPAC merger valued it near $2B; mounting losses and a failed plant-protein strategy ended in a Chapter 11 filing in March 2025.",
+  "story": "Benson Hill launched in 2012 with a quietly ambitious premise: that plant breeding, a field historically dominated by a handful of seed conglomerates, could be reinvented by pairing machine learning with genomics. Founders Matt Crisp, Todd Mockler, and Tom Brutnell built CropOS, a platform that combined ML models, physiological simulations, and genetic data to design higher-protein, better-tasting soybeans faster than a traditional breeding program ever could. The pitch resonated during the plant-based food boom, and by 2020 the company had raised a $150 million Series D on its way to more than $280 million in private capital.\n\nIn September 2021, Benson Hill merged with Star Peak Corp II, a SPAC, at an enterprise value of roughly $2 billion. The deal brought in another $319 million in gross proceeds and a listing on the NYSE under the ticker BHIL. Capital raised across private rounds and the public debut topped $600 million. Benson Hill positioned itself as a picks-and-shovels play on the alt-protein wave: sell proprietary soy varieties to food companies, license CropOS to partners, and build a vertically integrated ingredient business around it.\n\nThe integration never worked. Benson Hill bought processing assets to try to capture more margin, but the plant-protein market softened even as the company's operating losses widened. Net losses reached $99.7 million in 2022 and $111.3 million in 2023. Management spent 2023 and 2024 undoing the strategy, divesting its processing facilities, cutting roughly 36% of staff, and pivoting toward a cleaner licensing model. By early 2025 the company was unable to file its 2024 annual results with the SEC, furloughed employees, and retained restructuring advisors.\n\nOn March 20, 2025, Benson Hill filed for Chapter 11 in Delaware, reporting $137.5 million in assets against $110.7 million in liabilities and roughly 120 remaining employees. A court-supervised sale process moved quickly. By May 23, 2025, substantially all of Benson Hill's assets, including CropOS and more than 350 patents, were acquired through a credit bid by Confluence Genetics, an entity backed by Expedition Ag Partners and S2G Investments. Common shareholders received nothing; BHIL stock was declared worthless.\n\nThe CropOS platform outlived its corporate parent, but Benson Hill as an independent AI-for-agriculture company did not. The lesson reads as a warning to every data-driven seed startup that followed: the analytics may scale, the crops may yield, and the science may be genuine, but running a capital-intensive ingredient business at commodity margins will test any valuation a SPAC is willing to write down on paper.",
+  "founded": "2012",
+  "shutdown": "2025-03",
+  "funding_raised": "$600M",
+  "funding_stage": "public",
+  "employee_count": 120,
+  "category": "funding",
+  "tags": [
+    "agtech",
+    "crop-science",
+    "machine-learning",
+    "spac",
+    "bankruptcy",
+    "plant-protein"
+  ],
+  "url": "https://bensonhill.com",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20250320235229/en/Benson-Hill-Files-Voluntary-Chapter-11-Petitions",
+      "title": "Benson Hill Files Voluntary Chapter 11 Petitions",
+      "date": "2025-03-20",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.stlpr.org/news-briefs/2025-03-20/st-louis-benson-hill-agtech-bankruptcy-protection",
+      "title": "St. Louis-based AgTech company Benson Hill has filed for bankruptcy protection",
+      "date": "2025-03-20",
+      "snapshot_path": "data/snapshots/benson-hill/www.stlpr.org_news-briefs_2025-03-20_st-louis-benson-hill-agtech-bankruptcy-protection.html"
+    },
+    {
+      "url": "https://elevenflo.com/blog/benson-hill-bankruptcy",
+      "title": "Benson Hill: From $2B SPAC Valuation to Credit Bid Sale",
+      "date": "2025-06-01",
+      "snapshot_path": "data/snapshots/benson-hill/elevenflo.com_blog_benson-hill-bankruptcy.html"
+    },
+    {
+      "url": "https://www.stlmag.com/business/confluence-genetics-benson-hill-bankruptcy/",
+      "title": "Confluence Genetics is picking up where Benson Hill's bankruptcy left off",
+      "date": "2025-06-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 155,
+  "total_loss": "$600M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

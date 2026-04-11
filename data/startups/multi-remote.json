@@ -1,0 +1,44 @@
+{
+  "name": "Multi",
+  "slug": "multi-remote",
+  "tagline": "Video-first remote collaboration and screensharing app for Mac teams",
+  "description": "Multi, originally Remotion, was a five-person screensharing and video collaboration startup for Mac users. It raised $13M from Greylock and First Round before OpenAI acqui-hired the team in June 2024 and shut the product down within a month.",
+  "story": "Multi was founded in 2019 as Remotion by Alexander Embiricos, a former Dropbox product manager, and Charley Ho, a former Google software engineer. Like a lot of collaboration startups from that cohort, it was built against the backdrop of the pandemic-era remote-work boom. The original pitch was a Zoom-style video and screenshare product aimed at workers using Mac computers, with a focus on always-on, lightweight screensharing that sat closer to a shared desk than a scheduled meeting.\n\nThe company raised $13M across seed and Series A rounds from Greylock and First Round Capital and rebranded from Remotion to Multi. Despite the funding and the brand names behind it, Multi never scaled past a small team — five people at the time of the acquisition — and never broke into the tier of collaboration tools that post-pandemic enterprises were willing to write checks for. Slack huddles, Zoom, Google Meet, and dozens of other well-funded alternatives absorbed the market before any niche Mac-first video tool could establish itself.\n\nOn June 24, 2024, Multi announced it was being acqui-hired by OpenAI. The entire team joined OpenAI's ChatGPT desktop group, which had shipped the macOS ChatGPT app the previous month. The product itself was given a short runway: Multi stopped accepting new users immediately and shut down for existing customers on July 24, 2024, one month after the announcement. Users were told to export any data and move on.\n\nThe terms of the deal were not disclosed, and it is unclear whether Multi's investors recovered their $13M in full, though the framing in press coverage suggested a quiet, orderly outcome rather than a distressed sale. Either way, the product died the moment the team walked into OpenAI. The five engineers and designers kept working on Mac-native software; what they had built for Multi was simply not the thing OpenAI wanted them to build next.\n\nMulti fits a specific slot in the 2024 acqui-hire pattern: small, capable teams with collaboration or desktop-software expertise being absorbed by frontier labs who suddenly needed to ship great-feeling consumer applications on top of their models. The teams land well, the investors get something back, and the product — the actual thing users were paying for — goes away. For a company with five employees, calling this a failure misses the point; for the users who had wired Multi into their daily workflow, the distinction between acqui-hire and shutdown was invisible.",
+  "founded": "2019",
+  "shutdown": "2024-07-24",
+  "funding_raised": "$13M",
+  "funding_stage": "series-a",
+  "employee_count": 5,
+  "category": "acqui-hired",
+  "tags": [
+    "collaboration",
+    "remote-work",
+    "openai",
+    "acqui-hire",
+    "greylock",
+    "first-round",
+    "mac"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/",
+      "title": "OpenAI buys a remote collaboration platform",
+      "date": "2024-06-24",
+      "snapshot_path": "data/snapshots/multi-remote/techcrunch.com_2024_06_24_openai-buys-a-remote-collaboration-platform_.html"
+    },
+    {
+      "url": "https://venturebeat.com/ai/openai-acquires-team-behind-multi-formerly-remotion-startup-focused-on-screensharing-and-collaboration",
+      "title": "OpenAI acquires team behind Multi, formerly Remotion, startup focused on screensharing and collaboration",
+      "date": "2024-06-24",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 60,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

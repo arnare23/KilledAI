@@ -1,0 +1,48 @@
+{
+  "name": "Fable",
+  "slug": "fable-motion",
+  "tagline": "Web-based collaborative motion design studio with generative AI",
+  "description": "Fable was a web-based motion design tool pitched as 'Figma for motion,' founded in 2019 and backed by $4.4M from SIP Global Partners and other investors. It bet its second act on a generative AI feature called Prism before shutting down on November 15, 2024.",
+  "story": "Fable was founded in 2019 by Chris Boardman and Kenta Koga and based in New York. The original pitch was simple and clearly legible to designers: motion graphics tools were desktop-bound, file-locked, and brutal for collaboration, and the web had already eaten static design with Figma. Fable positioned itself as the Figma equivalent for motion — a browser-based, multiplayer, collaborative studio where teams could build animations without After Effects licences or file-sharing gymnastics.\n\nThe company raised a $4.4M round in 2021 from SIP Global Partners and other investors, and spent the next few years building out the collaborative editor, component libraries, and export formats. By 2024 the second act was Prism, a generative AI layer inside Fable that let designers animate, generate, and iterate on motion assets through prompts and constraints. Prism was the bet that the company could ride the generative wave into a category that had historically been small and niche.\n\nIt didn't work. On October 3, 2024, Fable posted a short note titled 'Fable is winding down,' announcing that the service would be switched off on November 15, 2024, and that all project files would be permanently deleted. The official explanation leaned on the generative AI shift: 'by the time we started to take Fable to market, AI was beginning to challenge the very nature of software itself, and our multi-modal bet with Prism wasn't enough to cut through.' Commenters on Hacker News were less generous, reading the post-mortem as a euphemism for running out of capital in a category that was too narrow to absorb the R&D cost of keeping up with the frontier.\n\nThe product mechanics of the shutdown mattered. Fable's file format was proprietary and not transferable to other platforms, so users were told to export to MP4, GIF, or Lottie — lossy, non-editable fallbacks — or lose their work entirely. Customers who had bought into the collaborative, cloud-native pitch were left with exactly the brittle, format-locked outputs they had chosen Fable to avoid.\n\nFable sits cleanly in the no-moat bucket. Motion design is a small market relative to static design. The collaborative web-app playbook that worked for Figma relies on a huge installed base and network effects that a niche category cannot reliably generate. Layering generative AI on top raised the ceiling of what the product could do, but also reset the competitive frontier every few months and forced the team to chase model capability rather than product depth. When the capital ran out before the category caught up, there was no obvious buyer and no obvious second act. The site went dark in November 2024 and the files went with it.",
+  "founded": "2019",
+  "shutdown": "2024-11-15",
+  "funding_raised": "$4.4M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "no-moat",
+  "tags": [
+    "motion-design",
+    "generative-ai",
+    "creative-tools",
+    "figma-for-x",
+    "collaboration"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.fable.app/blog/fable-is-winding-down",
+      "title": "Fable is winding down",
+      "date": "2024-10-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=41850573",
+      "title": "Fable is winding down (Hacker News discussion)",
+      "date": "2024-10-03",
+      "snapshot_path": "data/snapshots/fable-motion/news.ycombinator.com_item_id_41850573.html"
+    },
+    {
+      "url": "https://www.prweb.com/releases/sip_global_partners_and_other_top_tier_investors_invest_4_4m_in_fable_a_highly_disruptive_startup_set_to_reinvent_web_based_motion_design/prweb17587448.htm",
+      "title": "SIP Global Partners and Other Top-Tier Investors Invest $4.4M in Fable",
+      "date": "2021-01-01",
+      "snapshot_path": "data/snapshots/fable-motion/www.prweb.com_releases_sip_global_partners_and_other_top_tier_investors_invest_4_4m_in_fable_a_highly_disruptive_startup_set_to_reinvent_web_based_motion_design_prweb17587448.htm.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 65,
+  "total_loss": "$4.4M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

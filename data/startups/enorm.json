@@ -1,0 +1,43 @@
+{
+  "name": "ENORM",
+  "slug": "enorm",
+  "tagline": "Danish industrial black soldier fly protein farming",
+  "description": "ENORM Biofactory raised €50M from Danish agricultural cooperative DLG and others to run one of Europe's largest black soldier fly facilities, a 22,000-square-meter automated plant in Jutland. After demand softened through 2024 and a court-supervised restructuring failed, ENORM was declared bankrupt in October 2025.",
+  "story": "ENORM Biofactory was built on the assumption that Europe's feed industry was about to pay a premium for domestically produced insect protein. In 2022, the Danish startup closed a €50 million ($57 million) funding round anchored by DLG, one of Denmark's largest agricultural cooperatives, and broke ground on a 22,000-square-meter facility in Hvirring, in Jutland, designed to produce roughly 11,000 tonnes of black soldier fly larvae meal and oil per year, enough to feed millions of farmed fish and poultry.\n\nThe facility opened in 2023 with automated larvae handling, sensor-driven environmental control, and machine-learning-optimized feeding cycles. DLG was both investor and customer, and ENORM positioned itself as a ready-made protein supplier for European aquaculture and pet food brands trying to reduce their dependence on imported soy and fishmeal. COO Jane Lind Sam said the early months brought strong interest and premium pricing potential, particularly from buyers looking to de-risk their supply chains in 2022 and 2023.\n\nThat interest faded. Through the back half of 2024, premium pricing eroded and commercial momentum, in the COO's words, waned significantly. The core problem was structural: insect protein still costs several times more per kilogram than soy or fishmeal, and feed is a commodity market where buyers switch back the moment a cheaper supply returns. ENORM was producing a premium product into a price-sensitive category, and the volumes the Hvirring plant needed to break even never materialized.\n\nIn late April 2025, ENORM entered a court-supervised reconstruction process, hoping to restructure its debts and find new capital. Over six months, the reconstruction failed to attract a buyer or an investor willing to commit to the plant's operating burn. On October 30, 2025, a Danish court issued the formal bankruptcy decree, appointing attorney Henrik Selchau Poulsen as trustee. The Hvirring facility, one of Europe's largest insect farms, went dark.\n\nENORM joined France's Ÿnsect and South Africa's Inseco in a brutal 2025 cluster of insect-protein failures. Each company had a slightly different story, but the underlying math rhymed: capex-heavy automated farms, thin commodity margins, and a sustainability premium the feed market never agreed to pay.",
+  "founded": "2017",
+  "shutdown": "2025-10",
+  "funding_raised": "$57M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "agtech",
+    "insect-protein",
+    "automation",
+    "denmark",
+    "europe",
+    "black-soldier-fly"
+  ],
+  "url": "https://enorm.ag",
+  "sources": [
+    {
+      "url": "https://agfundernews.com/breaking-danish-insect-ag-firm-enorm-declared-bankrupt-after-failed-reconstruction-process",
+      "title": "Breaking: Danish insect ag firm ENORM declared bankrupt after failed reconstruction process",
+      "date": "2025-10-30",
+      "snapshot_path": "data/snapshots/enorm/agfundernews.com_breaking-danish-insect-ag-firm-enorm-declared-bankrupt-after-failed-reconstruction-process.html"
+    },
+    {
+      "url": "https://eagmark.net/news/danish-insect-producer-declares-bankruptcy",
+      "title": "Danish Insect Firm ENORM Declares Bankruptcy After €50M Investment",
+      "date": "2025-11-01",
+      "snapshot_path": "data/snapshots/enorm/eagmark.net_news_danish-insect-producer-declares-bankruptcy.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": null,
+  "total_loss": "$57M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

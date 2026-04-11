@@ -1,0 +1,61 @@
+{
+  "name": "Drive.ai",
+  "slug": "drive-ai",
+  "tagline": "Deep-learning self-driving car startup from Andrew Ng's Stanford lab",
+  "description": "Stanford AI Lab spinout that built end-to-end deep learning self-driving software and ran a small Nissan NV200 shuttle pilot in Frisco, Texas. Raised about $77 million and was once valued at $200 million before Apple acqui-hired the remains in June 2019 as Drive.ai prepared to wind down and lay off its roughly 90-person staff.",
+  "story": "Drive.ai was born with as much pedigree as any pre-ChatGPT AI startup could have. It was founded in 2015 by a group of masters and PhD students out of Andrew Ng's Stanford Artificial Intelligence Lab, with Ng himself eventually joining the board. Its technical premise was purist: instead of the modular self-driving stacks Waymo and Cruise were building, Drive.ai would lean on end-to-end deep learning for perception and prediction. That bet made the company a darling of the AI press, and the money followed. A $50 million Series B led by New Enterprise Associates arrived in June 2017, another roughly $15 million came later that year, and by 2018 Drive.ai was reportedly valued at around $200 million on total funding of about $77 million.\n\nThe company tried to convert the hype into something tangible. In July 2018 it launched a small driverless shuttle pilot in Frisco, Texas, ferrying workers between an office park and a shopping center on a single fixed route using retrofitted Nissan NV200 vans. It was genuine, limited autonomy on public roads, and for a brief window Drive.ai looked like the cheapest credible path to commercial self-driving. Then the cost reality set in. Frisco declined to renew the pilot after the initial term, citing the price tag, and Drive.ai wound down the service on March 29, 2019.\n\nLosing the pilot removed the last fig leaf. By mid-2019 autonomous vehicle timelines across the industry were slipping from months to years, capital was rotating out of the category, and Drive.ai was running out of cash with no commercial wedge and no obvious next round. In June 2019 the company filed WARN Act paperwork in California to lay off roughly 90 employees and close its Mountain View headquarters. It was preparing to die.\n\nDays before the planned shutdown, Apple stepped in. On June 25, 2019 it acquired Drive.ai to supplement Project Titan, taking dozens of engineers, the test vehicles and the IP. The price was undisclosed but widely described as a classic acqui-hire, far below the company's last valuation. The Drive.ai brand, product and roadmap ceased to exist the same week. Employees not hired into Apple were laid off.\n\nDrive.ai is a clean example of a pre-generative-AI failure mode that the ChatGPT era has not cured. A team with world-class research credentials shipped real autonomy, but shipped it into a market where the economics of safety, regulation and fleet operations eat research advantages for breakfast. When the capital cycle turned, no amount of Stanford pedigree could save a company that had not yet found a customer willing to pay for what it built.",
+  "founded": "2015",
+  "shutdown": "2019-06",
+  "funding_raised": "$77M",
+  "funding_stage": "series-b",
+  "employee_count": 90,
+  "category": "acqui-hired",
+  "tags": [
+    "autonomous-vehicles",
+    "self-driving",
+    "deep-learning",
+    "stanford",
+    "apple",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2019/06/25/self-driving-startup-drive-ai-is-closing-down/",
+      "title": "Apple acquires self-driving startup Drive.ai on the brink of closure",
+      "date": "2019-06-25",
+      "snapshot_path": "data/snapshots/drive-ai/techcrunch.com_2019_06_25_self-driving-startup-drive-ai-is-closing-down_.html"
+    },
+    {
+      "url": "https://www.axios.com/2019/06/25/apple-buy-driveai",
+      "title": "Apple acquires self-driving startup Drive.ai",
+      "date": "2019-06-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Drive.ai",
+      "title": "Drive.ai - Wikipedia",
+      "date": "2019-06-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://venturebeat.com/ai/self-driving-vehicle-startup-drive-ai-slams-the-brakes-lays-off-employees/",
+      "title": "Self-driving vehicle startup Drive.ai slams the brakes, lays off employees",
+      "date": "2019-06-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://communityimpact.com/dallas-fort-worth/frisco/top-stories/2019/03/25/no-more-autonomous-vehicles-in-frisco-drive-ais-pilot-program-ending-march-29/",
+      "title": "No more autonomous vehicles in Frisco: Drive.ai's pilot program ending March 29",
+      "date": "2019-03-25",
+      "snapshot_path": "data/snapshots/drive-ai/communityimpact.com_dallas-fort-worth_frisco_top-stories_2019_03_25_no-more-autonomous-vehicles-in-frisco-drive-ais-pilot-program-ending-march-29_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 48,
+  "total_loss": "",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}

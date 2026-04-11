@@ -1,0 +1,50 @@
+{
+  "name": "Rockset",
+  "slug": "rockset",
+  "tagline": "Real-time analytics and search database for operational workloads",
+  "description": "Rockset was a real-time indexing database founded by ex-Facebook engineers that raised ~$105M from Sequoia, Greylock, and Icon Ventures. OpenAI acquired the company in June 2024 in a nine-figure all-stock deal and wound down the customer-facing product by the end of September.",
+  "story": "Rockset was founded in 2016 by Venkat Venkataramani, Dhruba Borthakur, and a small group of former Facebook engineers who had built and operated the social network's online data infrastructure. The thesis was simple and technically credible: most analytics systems were built for dashboards that ran overnight, not for applications that needed to query fresh data in milliseconds. Rockset built a database optimized for real-time indexing and search, pitched at developers building user-facing data products on top of fast-moving event streams.\n\nThe company raised through the standard Silicon Valley cadence. Sequoia and Greylock co-led the seed and Series A, Sequoia led a $40M Series B in October 2020, and a $44M round in August 2023 added Icon Ventures and Glynn Capital alongside the existing investors. Total disclosed funding was roughly $105M. By 2023 Rockset had repositioned to emphasize vector search and retrieval infrastructure for AI applications, which made the eventual outcome look pre-negotiated in hindsight.\n\nOn June 21, 2024, OpenAI announced it was acquiring Rockset. The financial terms were not disclosed publicly, but Reuters and other outlets reported it was an all-stock nine-figure deal. OpenAI framed the acquisition as bolstering its retrieval infrastructure for enterprise AI, and Rockset's leadership and engineering team joined OpenAI to work on that problem internally.\n\nWhat happened to the product is the part that matters for this catalogue. Rockset stopped accepting new customers almost immediately after the acquisition announcement, and the hosted service was sunset by the end of September 2024. Existing customers were given a short runway to migrate off the platform to alternatives. The Rockset engineering team was absorbed into OpenAI; the Rockset brand, the product, and the commercial business simply ceased to exist.\n\nRockset is not a story of failure in the usual sense. The technology worked, the team was respected, and investors were likely made whole or better in the stock deal. But it is a story of a product dying, and of paying customers being told to find somewhere else to run their workloads on a few months' notice. The nine-figure outcome for shareholders did not change the fact that the database they were running in production was gone. In the current cycle, frontier labs buying enterprise infrastructure companies for the engineering team is a recurring pattern, and the customers of the acquired product are almost always the ones who pay the switching cost.",
+  "founded": "2016",
+  "shutdown": "2024-09-30",
+  "funding_raised": "$105.5M",
+  "funding_stage": "series-b",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "database",
+    "real-time-analytics",
+    "openai",
+    "vector-search",
+    "acqui-hire",
+    "sequoia",
+    "greylock"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/",
+      "title": "OpenAI buys Rockset to bolster its enterprise AI",
+      "date": "2024-06-21",
+      "snapshot_path": "data/snapshots/rockset/techcrunch.com_2024_06_21_openai-buys-rockset-to-bolster-its-enterprise-ai_.html"
+    },
+    {
+      "url": "https://openai.com/index/openai-acquires-rockset/",
+      "title": "OpenAI acquires Rockset",
+      "date": "2024-06-21",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2020/10/27/rockset-announces-40m-series-b-as-data-analytics-solution-gains-momentum/",
+      "title": "Rockset announces $40M Series B as data analytics solution gains momentum",
+      "date": "2020-10-27",
+      "snapshot_path": "data/snapshots/rockset/techcrunch.com_2020_10_27_rockset-announces-40m-series-b-as-data-analytics-solution-gains-momentum_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 101,
+  "total_loss": "Unknown",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

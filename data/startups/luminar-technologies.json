@@ -1,0 +1,55 @@
+{
+  "name": "Luminar Technologies",
+  "slug": "luminar-technologies",
+  "tagline": "AI-powered LiDAR for autonomous vehicles",
+  "description": "Founded by a 17-year-old Austin Russell in 2012, Luminar went public via SPAC in 2020 and became the face of automotive LiDAR. When anchor customer Volvo terminated its contract in 2025, the business unravelled, ending in a Chapter 11 filing that December.",
+  "story": "Austin Russell dropped out of Stanford at 17 with a Thiel Fellowship and a single idea: that long-range LiDAR, paired with AI perception software, was the missing piece of the self-driving car. Luminar spent nearly a decade building that thesis in Orlando and Palo Alto, racking up partnerships with Volvo, Mercedes-Benz, Nissan, Audi, and Toyota along the way. In December 2020, a SPAC merger with Gores Metropoulos took it public at roughly $3.4 billion. Russell, then 25, briefly became the world's youngest self-made billionaire.\n\nThe pitch was simple. Other LiDAR makers were racing to commoditize short-range sensors; Luminar's Iris unit promised the resolution and 250-meter reach that serious production-vehicle programs needed, and Volvo had agreed to make it standard on the EX90. Wall Street loved the story. At its 2021 peak, Luminar traded above $30 a share and carried a market cap north of $10 billion. The company hired aggressively, crossing 600 employees, and began building its own chip capability through a semiconductor subsidiary.\n\nThe reality of automotive LiDAR turned out to be grimmer than the slide deck. Autonomous driving timelines slipped industry-wide. Unit economics stayed ugly as carmakers demanded sensor prices that no LiDAR startup could meet profitably. Volvo's EX90 launched late and sold modestly, and by 2025 the Swedish automaker moved to terminate the Luminar supply agreement entirely, then sued over the fallout. Rounds of layoffs followed, executives departed, and the share price, battered by reverse splits, collapsed below a dollar.\n\nOn December 15, 2025, Luminar filed for Chapter 11 in the Southern District of Texas with the backing of roughly 90% of its noteholders. The petition listed assets of $100 to $500 million against liabilities of $500 million to $1 billion. Nasdaq suspended trading and moved to delist the stock within the week. The company's Luminar Semiconductors unit was sold to Quantum Computing Inc. for $110 million, and what remained of the core LiDAR business went to MicroVision for roughly $33 million. Courts approved the final wind-down plan in early 2026.\n\nLuminar's story is not about bad technology. The hardware worked, the partnerships were real, and the AI perception stack was credible. It is a story about a capital-intensive hardware company that bet everything on one customer's timeline, in an industry where that timeline kept moving. When autonomy slipped from 2020 to 2025 to eventually, Luminar ran out of runway before the market showed up.",
+  "founded": "2012-12",
+  "shutdown": "2025-12",
+  "funding_raised": "$820M",
+  "funding_stage": "public",
+  "employee_count": 600,
+  "category": "market",
+  "tags": [
+    "lidar",
+    "autonomous-vehicles",
+    "perception",
+    "spac",
+    "hardware",
+    "bankruptcy"
+  ],
+  "url": "https://www.luminartech.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/",
+      "title": "Lidar-maker Luminar files for bankruptcy",
+      "date": "2025-12-15",
+      "snapshot_path": "data/snapshots/luminar-technologies/techcrunch.com_2025_12_15_lidar-maker-luminar-files-for-bankruptcy_.html"
+    },
+    {
+      "url": "https://investors.luminartech.com/news-events/press-releases/detail/110/luminar-technologies-inc-initiates-voluntary-chapter-11",
+      "title": "Luminar Technologies, Inc. Initiates Voluntary Chapter 11 Proceedings",
+      "date": "2025-12-15",
+      "snapshot_path": "data/snapshots/luminar-technologies/investors.luminartech.com_news-events_press-releases_detail_110_luminar-technologies-inc-initiates-voluntary-chapter-11.html"
+    },
+    {
+      "url": "https://www.manufacturingdive.com/news/sensor-luminar-technologies-chapter-11-bankruptcy-chip-sale-quantum-computing/808129/",
+      "title": "Sensor maker Luminar Technologies files for Chapter 11 bankruptcy",
+      "date": "2025-12-16",
+      "snapshot_path": "data/snapshots/luminar-technologies/www.manufacturingdive.com_news_sensor-luminar-technologies-chapter-11-bankruptcy-chip-sale-quantum-computing_808129_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luminar_Technologies",
+      "title": "Luminar Technologies",
+      "date": "2026-01-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 156,
+  "total_loss": "$820M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

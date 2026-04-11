@@ -1,0 +1,49 @@
+{
+  "name": "Inseco",
+  "slug": "inseco",
+  "tagline": "South African black soldier fly protein farming",
+  "description": "Cape Town's Inseco raised $5.3M to farm black soldier fly larvae on food waste, producing protein meal and oil for pet food, aquaculture and poultry. Months of rolling power cuts, a slow pivot and over-hiring left the company unable to continue; operations ceased in October 2025.",
+  "story": "Jack Chennells and Simon Hazell founded Inseco in Cape Town in 2018 with a thesis suited to its geography: South Africa generates enormous volumes of organic waste from food processors, and black soldier fly larvae can convert that waste into high-protein meal and oil for pet food, aquaculture and poultry. For a while, the model seemed to work. Inseco closed a $5.3 million seed round in 2022, expanded its Cape Town facility, and became the highest-profile insect protein company on the continent.\n\nThen the lights started going out. South Africa's loadshedding crisis worsened through 2023 and 2024, with Eskom imposing rolling four-hour power cuts that stretched across entire operating days. An insect farm is a climate-controlled bioreactor. Larvae need stable temperature and humidity; feed needs to move on schedule; sensors and automation need power. Inseco spent months trying to run a precision agricultural operation on a grid that failed multiple times a day, and the losses, both in larvae and in customer confidence, piled up faster than the company could compensate with diesel generators.\n\nCo-founder Hazell was candid in his post-mortem. Loadshedding was the proximate cause, but not the only one. The company had scaled too quickly on the back of its seed round, made some bad hires at senior levels, and pivoted too slowly when it became clear that the economics of black soldier fly protein were not going to support the growth plan investors had been pitched. Backup power investments came too late. By the time Inseco reached for emergency capital, the global insect-protein sector was already unraveling: Ÿnsect was in restructuring, ENORM was on its way to bankruptcy, and institutional investors had largely closed the sector's funding window.\n\nIn October 2025, Inseco confirmed it was ceasing operations. The team sold facility equipment and intellectual property to other players in insect production and adjacent industries, preserving a fraction of the work but ending Inseco as an independent company. Hazell framed the outcome with a phrase that traveled: we ran out of time.\n\nInseco's collapse added a third continent to 2025's insect-protein body count. Taken together with Ÿnsect and ENORM, the cluster erased roughly $670 million in disclosed funding. The specific failure modes differed, but the shared reality was the same: a commodity protein market that would not pay the premium the factories needed, and operating environments less forgiving than the pitch decks assumed.",
+  "founded": "2018",
+  "shutdown": "2025-10",
+  "funding_raised": "$5.3M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "other",
+  "tags": [
+    "agtech",
+    "insect-protein",
+    "south-africa",
+    "africa",
+    "black-soldier-fly",
+    "loadshedding"
+  ],
+  "url": "https://inseco.co.za",
+  "sources": [
+    {
+      "url": "https://agfundernews.com/south-african-insect-ag-co-inseco-calls-it-quits-amid-power-cuts-pivots-we-ran-out-of-time",
+      "title": "South African insect ag co Inseco calls it quits amid power cuts, pivots: We ran out of time",
+      "date": "2025-10-17",
+      "snapshot_path": "data/snapshots/inseco/agfundernews.com_south-african-insect-ag-co-inseco-calls-it-quits-amid-power-cuts-pivots-we-ran-out-of-time.html"
+    },
+    {
+      "url": "https://launchbaseafrica.com/2025/10/17/south-african-insect-protein-startup-inseco-shuts-down-after-raising-5-3m-we-made-some-bad-hires/",
+      "title": "South African Insect Protein Startup Inseco Shuts Down After Raising $5.3M",
+      "date": "2025-10-17",
+      "snapshot_path": "data/snapshots/inseco/launchbaseafrica.com_2025_10_17_south-african-insect-protein-startup-inseco-shuts-down-after-raising-5-3m-we-made-some-bad-hires_.html"
+    },
+    {
+      "url": "https://www.techinafrica.com/inseco-south-africas-leading-insect-protein-startup-shuts-down-after-struggling-with-power-crisis-and-operational-challenges/",
+      "title": "Inseco, South Africa's Leading Insect Protein Startup, Shuts Down",
+      "date": "2025-10-20",
+      "snapshot_path": "data/snapshots/inseco/www.techinafrica.com_inseco-south-africas-leading-insect-protein-startup-shuts-down-after-struggling-with-power-crisis-and-operational-challenges_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 88,
+  "total_loss": "$5.3M",
+  "created_at": "2026-04-11T00:00:00Z",
+  "updated_at": "2026-04-11T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Brodmann17",
+  "slug": "brodmann17",
+  "tagline": "Lightweight deep learning computer vision for automotive ADAS",
+  "description": "Israeli computer vision startup that built software-based ADAS perception capable of running on low-end automotive chips. Raised about $30 million from Samsung NEXT, Sony Innovation Fund and OurCrowd before failing to secure a follow-on round and shutting down in December 2022.",
+  "story": "Brodmann17 was one of dozens of pre-ChatGPT computer vision startups that believed deep learning alone was a defensible business. Founded in 2016 in Tel Aviv by Adi Pinhas, Amir Alush and Assaf Mushinsky, the company took its name from the region of the human brain that processes visual signals, and it pitched itself as a software-only challenger to Mobileye. Its core claim was that its neural networks were lightweight enough to run advanced driver-assistance features on the cheap, general-purpose processors already inside most cars, instead of the dedicated silicon that Mobileye and Nvidia shipped.\n\nThe idea attracted real money. Brodmann17 raised about $30 million in total, including a $2.5 million seed in 2017 and an $11 million Series A in 2019 led by OurCrowd with participation from Samsung NEXT and Sony Innovation Fund. For a while the pitch resonated. Automakers were publicly anxious about being captive to Mobileye, and a lean Israeli team promising portable perception software was exactly the kind of bet European and Japanese Tier 1s said they wanted to make.\n\nThe problem was that pilots did not turn into design wins. Automotive procurement cycles are long, risk-averse and dominated by incumbents who already ship at volume. By 2022 Brodmann17 was still under thirty people, still pre-revenue at any meaningful scale, and raising money into an automotive supplier base that was cutting, not expanding, its experimental bets. CEO Adi Pinhas told employees the company could not pay its debts. On December 8, 2022 the entire staff received layoff letters. Two employees filed insolvency proceedings in court seeking unpaid wages.\n\nSeveral acquirers circled the company on the way down, but every deal fell through on timing. There was no lifeboat. The technology worked, and that was not enough.\n\nThe lesson Brodmann17 leaves behind is one that the 2023 generative AI wave has not made obsolete: a better model is not a business. In a market with a dominant incumbent and multi-year sales cycles, a small team with clever inference tricks needs either a distribution partner or a vertical where the incumbent cannot reach. Brodmann17 had neither, and when the capital markets tightened, clever was not enough to keep the lights on.",
+  "founded": "2016",
+  "shutdown": "2022-12",
+  "funding_raised": "$30M",
+  "funding_stage": "series-a",
+  "employee_count": 30,
+  "category": "funding",
+  "tags": [
+    "computer-vision",
+    "automotive",
+    "adas",
+    "deep-learning",
+    "israel",
+    "pre-chatgpt"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/",
+      "title": "Computer vision technology startup Brodmann17 has shut down",
+      "date": "2022-12-09",
+      "snapshot_path": "data/snapshots/brodmann17/techcrunch.com_2022_12_09_computer-vision-technology-startup-brodmann17-has-shut-down_.html"
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/rypx2ohkj",
+      "title": "Computer vision startup Brodmann17 facing liquidation",
+      "date": "2022-12-08",
+      "snapshot_path": "data/snapshots/brodmann17/www.calcalistech.com_ctechnews_article_rypx2ohkj.html"
+    },
+    {
+      "url": "https://jewishbusinessnews.com/2022/12/14/israeli-computer-startup-brodmann17-shutting-down/",
+      "title": "Israeli Computer Startup Brodmann17 Shutting Down",
+      "date": "2022-12-14",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 80,
+  "total_loss": "$30M",
+  "created_at": "2026-04-11T10:57:17Z",
+  "updated_at": "2026-04-11T11:15:00Z"
+}
