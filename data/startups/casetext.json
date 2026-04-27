@@ -1,0 +1,56 @@
+{
+  "name": "Casetext",
+  "slug": "casetext",
+  "tagline": "AI legal research and assistant platform acquired then sunset by Thomson Reuters",
+  "description": "San Francisco-based legal research startup founded in 2013 that built a free case-law database and later pivoted into AI with CoCounsel, a GPT-4-powered assistant for lawyers. After raising roughly $64M from Union Square Ventures, 8VC, Touchdown Ventures, and others, Casetext was acquired by Thomson Reuters in August 2023 for $650M in cash. Less than two years later, Thomson Reuters folded CoCounsel into its own platform and shut down the standalone Casetext product on April 1, 2025.",
+  "story": "Casetext was founded in 2013 by Jake Heller, Laura Safdie, and Pablo Arredondo with a deceptively simple goal: take U.S. case law, which is technically in the public domain, and make it actually usable for lawyers without paying enterprise prices to Westlaw or LexisNexis. The early product was a free, searchable case-law database with annotations from practicing attorneys. Over the next decade, Casetext layered on machine-learning features such as Compose for brief generation and Parallel Search for semantic case retrieval, and raised roughly $64 million across seed, Series A, B, and C rounds from Union Square Ventures, 8VC, Touchdown Ventures, Y Combinator, and others.\n\nThe company's fortunes turned sharply with GPT-4. Casetext was one of OpenAI's earliest pre-release partners, and it spent months building CoCounsel, an \"AI legal assistant\" that could draft memos, summarize depositions, review contracts, and answer research questions in natural language. CoCounsel launched in March 2023 to a level of legal-industry attention almost no SaaS product had ever received. Within months, hundreds of law firms and corporate legal departments were paying for it.\n\nThomson Reuters moved quickly. In June 2023 it announced an agreement to acquire Casetext for $650 million in cash, an enormous multiple on Casetext's roughly $25 million in annual revenue. The deal closed in August 2023 and was widely treated as the first major AI exit in legal tech and a reset of the competitive landscape. Heller, Safdie, and Arredondo joined Thomson Reuters; CoCounsel became the centerpiece of the parent company's generative-AI strategy.\n\nThe Casetext brand did not survive the integration. Thomson Reuters absorbed the AI engine into its own Westlaw and Practical Law products as \"CoCounsel,\" continued raising prices, and then officially shut down the Casetext platform on April 1, 2025, with existing customers migrated to the larger Thomson Reuters stack. By any conventional measure, Casetext was a successful exit: investors made money, founders cashed out, the team stayed employed. But the product itself, the brand, and the independent company that had become a touchstone for AI in law no longer exist. For a project that catalogs AI startups that no longer exist as independent products, Casetext is a textbook acqui-hire: bought, used, and turned off.",
+  "founded": "2013",
+  "shutdown": "2025-04",
+  "funding_raised": "$64M",
+  "funding_stage": "Acquired",
+  "employee_count": 130,
+  "category": "acqui-hired",
+  "tags": [
+    "legal-tech",
+    "gpt-4",
+    "openai",
+    "thomson-reuters",
+    "cocounsel",
+    "san-francisco",
+    "y-combinator"
+  ],
+  "url": "https://casetext.com",
+  "sources": [
+    {
+      "url": "https://www.abajournal.com/web/article/thomson-reuters-to-acquire-legal-tech-startup-casetext-for-650-million",
+      "title": "Thomson Reuters will acquire legal tech startup Casetext for $650M",
+      "date": "2023-06-26",
+      "snapshot_path": "data/snapshots/casetext/www.abajournal.com_web_article_thomson-reuters-to-acquire-legal-tech-startup-casetext-for-650-million.html"
+    },
+    {
+      "url": "https://www.legal.io/articles/5440938/Thomson-Reuters-Completes-650-Million-Acquisition-of-AI-Driven-Legal-Research-Company-Casetext",
+      "title": "Thomson Reuters Completes $650 Million Acquisition of AI-Driven Legal Research Company Casetext",
+      "date": "2023-08-18",
+      "snapshot_path": "data/snapshots/casetext/www.legal.io_articles_5440938_Thomson-Reuters-Completes-650-Million-Acquisition-of-AI-Driven-Legal-Research-Company-Casetext.html"
+    },
+    {
+      "url": "https://strongsuit.com/blog/casetext-shut-down/",
+      "title": "Casetext Shut Down: Here's What It Means",
+      "date": "2025-04-02",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.artificiallawyer.com/2024/09/18/the-end-of-the-legal-ai-pioneers-a-new-beginning/",
+      "title": "The End of the Legal AI Pioneers + A New Beginning",
+      "date": "2024-09-18",
+      "snapshot_path": "data/snapshots/casetext/www.artificiallawyer.com_2024_09_18_the-end-of-the-legal-ai-pioneers-a-new-beginning_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 144,
+  "total_loss": "",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

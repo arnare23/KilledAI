@@ -1,0 +1,64 @@
+{
+  "name": "AeroFarms",
+  "slug": "aerofarms",
+  "tagline": "AI-powered indoor vertical farming pioneer that filed Chapter 11",
+  "description": "Newark, New Jersey-based vertical farming company founded in 2004 that pioneered aeroponic indoor cultivation of leafy greens, using machine vision, sensor networks, and proprietary AI to optimize plant growth. AeroFarms raised over $300M and operated commercial farms in Newark, Danville (Virginia), and Abu Dhabi, but filed for Chapter 11 bankruptcy on June 8, 2023, listing $50–100M in liabilities. The company emerged from bankruptcy in a much narrower form, killing its R&D operations and most of its expansion plans.",
+  "story": "AeroFarms was founded in 2004 by Ed Harwood, David Rosenberg, and Marc Oshima, and for almost two decades it was treated as the flagship of the vertical farming industry. The company pioneered aeroponic cultivation, in which plant roots dangle in misted chambers rather than soil or hydroponic water, and built a sophisticated control system that combined machine vision, sensor data, and predictive models to manage every plant in its growing towers. By the time it opened its 70,000-square-foot Newark, New Jersey headquarters and farm in 2016, AeroFarms had become the company every other indoor farm was benchmarked against.\n\nThe capital followed the story. Across nearly two decades AeroFarms raised more than $300 million from investors including Ingka Group (the IKEA holding company), Wheatsheaf Group, Cibus Fund, and ADQ, the Abu Dhabi sovereign wealth-linked vehicle. The company announced an Abu Dhabi research and growing facility in 2020, opened a flagship commercial farm in Danville, Virginia in 2022, and announced a planned SPAC merger with Spring Valley Acquisition Corp. at a $1.2 billion valuation in 2021. That deal was scrapped in 2022 amid deteriorating market conditions, the first concrete sign that AeroFarms' financing position was weakening.\n\nBy 2023 the entire vertical-farming category had broken. Energy prices were up sharply; produce prices were not. Distribution into grocery retailers proved less profitable than projected; consumers showed only a modest willingness to pay a premium for indoor-grown leafy greens; and capital-intensive expansion had outrun revenue. AeroFarms cut staff, paused R&D, and looked for fresh capital. None came on workable terms.\n\nOn June 8, 2023, AeroFarms filed voluntary petitions for Chapter 11 in the U.S. Bankruptcy Court for the District of Delaware, listing $50 million to $100 million of liabilities and securing a $10 million debtor-in-possession loan from existing investors. CEO and co-founder David Rosenberg stepped down on the day of filing; CFO Guy Blanchard took over as president. The company shut down R&D facilities in Newark and Abu Dhabi, laid off roughly half of its staff, and concentrated remaining operations on its Danville, Virginia farm growing microgreens.\n\nA recapitalized, much smaller AeroFarms emerged from bankruptcy later in 2023 and was, as of 2025, still operating Danville. But the original company, with its sovereign-fund backers, R&D facilities on three continents, and ambitions to be the dominant indoor farm operator in the world, no longer exists. AeroFarms' Chapter 11 filing was the moment the broader investment community accepted that AI-and-sensor-driven vertical farming, at least at the prices and energy costs of the early 2020s, was not a viable mass-market business.",
+  "founded": "2004",
+  "shutdown": "2023-06",
+  "funding_raised": "$300M+",
+  "funding_stage": "Late stage",
+  "employee_count": 200,
+  "category": "market",
+  "tags": [
+    "agtech",
+    "vertical-farming",
+    "aeroponics",
+    "computer-vision",
+    "newark",
+    "abu-dhabi",
+    "leafy-greens",
+    "ingka",
+    "spac"
+  ],
+  "url": "https://www.aerofarms.com",
+  "sources": [
+    {
+      "url": "https://njbiz.com/newark-based-aerofarms-files-for-chapter-11-bankruptcy-protection/",
+      "title": "Newark-based AeroFarms files for Chapter 11 bankruptcy protection",
+      "date": "2023-06-08",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.fooddive.com/news/aerofarms-files-chapter-11-bankruptcy-protection/652598/",
+      "title": "AeroFarms files for Chapter 11 bankruptcy protection",
+      "date": "2023-06-08",
+      "snapshot_path": "data/snapshots/aerofarms/www.fooddive.com_news_aerofarms-files-chapter-11-bankruptcy-protection_652598_.html"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/indoor-vertical-farmer-aerofarms-files-for-chapter-11-bankruptcy",
+      "title": "Indoor Vertical Farmer AeroFarms Files for Chapter 11 Bankruptcy",
+      "date": "2023-06-09",
+      "snapshot_path": "data/snapshots/aerofarms/news.bloomberglaw.com_bankruptcy-law_indoor-vertical-farmer-aerofarms-files-for-chapter-11-bankruptcy.html"
+    },
+    {
+      "url": "https://www.fastcompany.com/91330232/aeorfarms-turned-itself-around-after-bankruptcy-is-it-a-sign-that-vertical-farming-can-succeed",
+      "title": "AeroFarms turned itself around after bankruptcy",
+      "date": "2025-04-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/",
+      "title": "Lessons from vertical farming bankruptcies, layoffs, and closures in 2023",
+      "date": "2024-01-15",
+      "snapshot_path": "data/snapshots/aerofarms/www.verticalfarmdaily.com_article_9537965_lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 230,
+  "total_loss": "",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

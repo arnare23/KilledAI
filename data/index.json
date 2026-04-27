@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-11T11:22:15.733877+00:00",
-  "count": 156,
+  "generated_at": "2026-04-27T17:04:03.897513+00:00",
+  "count": 169,
   "startups": [
     {
       "name": "Cove",
@@ -326,6 +326,20 @@
       "created_at": "2026-04-01T23:45:00Z"
     },
     {
+      "name": "Wherehouse.io",
+      "slug": "wherehouse-io",
+      "tagline": "AI-driven micro-warehouse network that shut down after years without follow-on funding",
+      "founded": "2021-01",
+      "shutdown": "2025-12",
+      "category": "competition",
+      "funding_raised": "Undisclosed",
+      "lifetime_months": 59,
+      "total_loss": "Undisclosed",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-04-27T16:56:57Z"
+    },
+    {
       "name": "Ÿnsect",
       "slug": "ynsect",
       "tagline": "AI-optimized industrial mealworm protein farming",
@@ -438,6 +452,20 @@
       "created_at": "2026-04-04T00:00:00Z"
     },
     {
+      "name": "Olympia",
+      "slug": "olympia-chat",
+      "tagline": "AI \"virtual staffing\" platform offering role-based AI consultants for solopreneurs",
+      "founded": "2023",
+      "shutdown": "2025-09",
+      "category": "platform-absorbed",
+      "funding_raised": "Bootstrapped",
+      "lifetime_months": 24,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Sunshine",
       "slug": "sunshine",
       "tagline": "AI-powered contact management and photo sharing app by ex-Yahoo CEO Marissa Mayer",
@@ -548,6 +576,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:45:00Z"
+    },
+    {
+      "name": "Marin Software",
+      "slug": "marin-software",
+      "tagline": "AI-driven cross-channel ad management pioneer that dissolved after years of losses",
+      "founded": "2006-04",
+      "shutdown": "2025-07",
+      "category": "platform-absorbed",
+      "funding_raised": "$105M IPO",
+      "lifetime_months": 231,
+      "total_loss": "$500M+ market cap",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T16:56:57Z"
     },
     {
       "name": "Retrain.ai",
@@ -690,6 +732,20 @@
       "created_at": "2026-04-02T12:00:00Z"
     },
     {
+      "name": "Casetext",
+      "slug": "casetext",
+      "tagline": "AI legal research and assistant platform acquired then sunset by Thomson Reuters",
+      "founded": "2013",
+      "shutdown": "2025-04",
+      "category": "acqui-hired",
+      "funding_raised": "$64M",
+      "lifetime_months": 144,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Tome",
       "slug": "tome",
       "tagline": "AI-powered presentation and storytelling tool",
@@ -730,6 +786,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
+      "name": "Plenty",
+      "slug": "plenty",
+      "tagline": "AI-driven indoor vertical farming network backed by SoftBank, Bezos, and Walmart",
+      "founded": "2014",
+      "shutdown": "2025-03",
+      "category": "market",
+      "funding_raised": "$941M",
+      "lifetime_months": 134,
+      "total_loss": "$941M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
     },
     {
       "name": "Volocopter",
@@ -1404,6 +1474,34 @@
       "created_at": "2026-04-08"
     },
     {
+      "name": "StoryFile",
+      "slug": "storyfile",
+      "tagline": "Conversational AI video startup that filed Chapter 11 after running out of cash",
+      "founded": "2017-01",
+      "shutdown": "2024-05",
+      "category": "funding",
+      "funding_raised": "$9.5M",
+      "lifetime_months": 88,
+      "total_loss": "$9.5M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T16:56:57Z"
+    },
+    {
+      "name": "FarmWise",
+      "slug": "farmwise",
+      "tagline": "AI-powered autonomous weeding and cultivation robots for row crops",
+      "founded": "2016",
+      "shutdown": "2024-04",
+      "category": "funding",
+      "funding_raised": "$65M",
+      "lifetime_months": 96,
+      "total_loss": "$65M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Ghost Autonomy",
       "slug": "ghost-autonomy",
       "tagline": "Autonomous driving software for automaker partners",
@@ -1416,6 +1514,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Banana.dev",
+      "slug": "banana-dev",
+      "tagline": "Serverless GPU platform for ML inference that sunset after GPU shortage crushed unit economics",
+      "founded": "2021-01",
+      "shutdown": "2024-03",
+      "category": "pricing",
+      "funding_raised": "$5M+",
+      "lifetime_months": 38,
+      "total_loss": "$5M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T16:56:57Z"
     },
     {
       "name": "Inflection AI",
@@ -1740,6 +1852,20 @@
       "created_at": "2026-04-04T00:00:00Z"
     },
     {
+      "name": "AeroFarms",
+      "slug": "aerofarms",
+      "tagline": "AI-powered indoor vertical farming pioneer that filed Chapter 11",
+      "founded": "2004",
+      "shutdown": "2023-06",
+      "category": "market",
+      "funding_raised": "$300M+",
+      "lifetime_months": 230,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Neeva",
       "slug": "neeva",
       "tagline": "Ad-free AI-powered search engine challenging Google",
@@ -1752,6 +1878,20 @@
       "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Kalera",
+      "slug": "kalera",
+      "tagline": "AI-driven hydroponic vertical farming network that filed Chapter 11 and was liquidated",
+      "founded": "2010",
+      "shutdown": "2023-04",
+      "category": "market",
+      "funding_raised": "$300M+",
+      "lifetime_months": 158,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
     },
     {
       "name": "Pear Therapeutics",
@@ -1838,6 +1978,20 @@
       "created_at": "2026-04-02T00:00:00Z"
     },
     {
+      "name": "Fifth Season",
+      "slug": "fifth-season",
+      "tagline": "Robotic vertical farming startup using AI and computer vision to grow leafy greens",
+      "founded": "2016",
+      "shutdown": "2022-10",
+      "category": "funding",
+      "funding_raised": "$75M",
+      "lifetime_months": 80,
+      "total_loss": "$75M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Peltarion",
       "slug": "peltarion",
       "tagline": "AI platform for building and deploying neural networks",
@@ -1866,6 +2020,20 @@
       "created_at": "2026-04-11T10:57:17Z"
     },
     {
+      "name": "Trōv",
+      "slug": "trov",
+      "tagline": "On-demand AI insurtech platform whose direct-to-consumer business shut down before assets were acqui-hired by Travelers",
+      "founded": "2012",
+      "shutdown": "2022-02",
+      "category": "acqui-hired",
+      "funding_raised": "$114M",
+      "lifetime_months": 122,
+      "total_loss": "",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
       "name": "Zebra Medical Vision",
       "slug": "zebra-medical",
       "tagline": "AI-powered medical imaging analytics with 7 FDA-cleared algorithms",
@@ -1892,6 +2060,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:00:00Z"
+    },
+    {
+      "name": "ROSS Intelligence",
+      "slug": "ross-intelligence",
+      "tagline": "AI-powered legal research platform",
+      "founded": "2014",
+      "shutdown": "2021-01",
+      "category": "regulatory",
+      "funding_raised": "$13M",
+      "lifetime_months": 79,
+      "total_loss": "$13M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-27T00:00:00Z"
     },
     {
       "name": "Element AI",

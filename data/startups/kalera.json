@@ -1,0 +1,58 @@
+{
+  "name": "Kalera",
+  "slug": "kalera",
+  "tagline": "AI-driven hydroponic vertical farming network that filed Chapter 11 and was liquidated",
+  "description": "Orlando, Florida-based vertical farming company founded in 2010 that operated a network of large hydroponic indoor farms across the U.S. growing leafy greens for foodservice and grocery customers, using machine vision and proprietary growing software to manage plant health and yield. Listed on Nasdaq via SPAC merger in 2022 with a valuation north of $400M, Kalera filed for Chapter 11 bankruptcy in April 2023, was delisted from Nasdaq, sold its assets to Sandton Capital Partners, and was wound down via a liquidating trust later that year.",
+  "story": "Kalera was founded in Orlando, Florida in 2010 by Cristian Toma, who served as the company's chief science officer. Its core technology combined deep hydroponic growing systems, LED lighting, and a software stack that used machine vision and sensor data to monitor each tray of plants and adjust nutrients, lighting, and harvest timing. By 2020 the company had opened a flagship farm in Orlando and announced plans for a national network supplying leafy greens to foodservice and grocery customers, pitching itself as a more energy-efficient and operationally disciplined alternative to AeroFarms and Plenty.\n\nThe expansion came fast. Kalera opened farms in Atlanta, Houston, Denver, and Honolulu, and announced facilities in Seattle, Saint Paul, Columbus, and others. It listed on the Nasdaq Stockholm First North Growth Market and then merged with the U.S.-listed SPAC Agrico Acquisition Corp. in June 2022, taking Kalera PLC public on Nasdaq. The deal valued the combined company at roughly $400–500 million and gave it cash to continue building.\n\nThe operating reality did not match the deck. Kalera's losses widened, several of its newly opened farms ran below planned utilization, and the post-SPAC market for unprofitable agtech companies collapsed in late 2022. CEO Jim Leighton departed at the end of March 2023, and on April 4, 2023, Kalera Inc., the company's main operating subsidiary, filed for Chapter 11 bankruptcy in the U.S. Bankruptcy Court for the Southern District of Texas. Kalera PLC, the parent, received notice of delisting from Nasdaq.\n\nThe company appointed a chief restructuring officer and ran a court-supervised sale process. In November 2023, Sandton Capital Partners, a private equity lender, won the bid for substantially all of Kalera's assets. The bankruptcy court approved a liquidating Chapter 11 plan that wound the company down and created a liquidating trust to distribute proceeds to unsecured creditors. Kalera as an operating company ceased to exist; some of its farms were eventually closed, others sold or repurposed.\n\nKalera's collapse, alongside AeroFarms' Chapter 11 in June 2023 and Plenty's bankruptcy in March 2025, marked one of the clearest sectoral failures of the AI-augmented agtech era: a company that had used the public markets to scale an indoor-farming model whose unit economics could not survive a year of higher energy prices and lower-than-projected demand.",
+  "founded": "2010",
+  "shutdown": "2023-04",
+  "funding_raised": "$300M+",
+  "funding_stage": "SPAC / Public",
+  "employee_count": 350,
+  "category": "market",
+  "tags": [
+    "agtech",
+    "vertical-farming",
+    "hydroponics",
+    "computer-vision",
+    "spac",
+    "nasdaq",
+    "orlando",
+    "leafy-greens",
+    "sandton-capital"
+  ],
+  "url": "https://kalera.com",
+  "sources": [
+    {
+      "url": "https://www.thepacker.com/news/packer-tech/vertical-farmer-kalera-files-chapter-11-bankruptcy",
+      "title": "Vertical farmer Kalera files for Chapter 11 bankruptcy",
+      "date": "2023-04-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2023/04/04/2640808/0/en/KALERA-PLC-ANNOUNCES-ITS-WHOLLY-OWNED-AND-MAIN-OPERATING-SUBSIDIARY-KALERA-INC-FILES-FOR-CHAPTER-11-PROTECTION-TO-PURSUE-FINANCIAL-AND-OPERATIONAL-REOGRANIZATION.html",
+      "title": "Kalera PLC announces Kalera, Inc. files for Chapter 11 protection",
+      "date": "2023-04-04",
+      "snapshot_path": "data/snapshots/kalera/www.globenewswire.com_news-release_2023_04_04_2640808_0_en_KALERA-PLC-ANNOUNCES-ITS-WHOLLY-OWNED-AND-MAIN-OPERATING-SUBSIDIARY-KALERA-INC-FILES-FOR-CHAPTER-11-PROTECTION-TO-PURSUE-FINANCIAL-AND-OPERAT.html"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/vertical-farmer-kalera-gets-liquidating-bankruptcy-plan-approved",
+      "title": "Vertical Farmer Kalera Gets Liquidating Bankruptcy Plan Approved",
+      "date": "2023-11-15",
+      "snapshot_path": "data/snapshots/kalera/news.bloomberglaw.com_bankruptcy-law_vertical-farmer-kalera-gets-liquidating-bankruptcy-plan-approved.html"
+    },
+    {
+      "url": "https://www.stocktitan.net/news/KAL/kalera-plc-receives-notice-of-delisting-from-sv8i0v50rltf.html",
+      "title": "KALERA PLC RECEIVES NOTICE OF DELISTING FROM NASDAQ",
+      "date": "2023-04-12",
+      "snapshot_path": "data/snapshots/kalera/www.stocktitan.net_news_KAL_kalera-plc-receives-notice-of-delisting-from-sv8i0v50rltf.html.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 158,
+  "total_loss": "",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

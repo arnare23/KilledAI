@@ -1,0 +1,63 @@
+{
+  "name": "Trōv",
+  "slug": "trov",
+  "tagline": "On-demand AI insurtech platform whose direct-to-consumer business shut down before assets were acqui-hired by Travelers",
+  "description": "Danville, California-based insurtech founded in 2012 by Scott Walchek that built an on-demand mobile insurance platform letting consumers turn coverage on and off for individual items by the hour, claim damage via chat, and (later) offered an embedded white-label insurance API for brands. Trōv raised roughly $114M from Suncorp, Munich Re, Oak HC/FT, and others before shutting down its consumer business in 2019, pivoting to B2B, and ultimately seeing its technology assets and most of its team acquired by Travelers Insurance in February 2022. The Trōv brand and consumer product no longer exist.",
+  "story": "Trōv was founded in 2012 by Scott Walchek, a serial entrepreneur whose previous companies included DebitAI and C2B Technologies (acquired by Inktomi). The original product was an inventory app that let users catalogue their possessions and store value information; the model that made the company famous came later, when Trōv pivoted to on-demand microduration insurance. Customers could open the Trōv app, swipe to insure their bike or laptop or camera for a few hours or days, and file claims through an AI-driven chatbot rather than a phone call.\n\nThe pitch landed in a moment when insurtech was a hot category and machine-learning-driven underwriting was an exciting investor narrative. Trōv launched its consumer product in Australia in 2016 with Suncorp, then in the UK with AXA in 2017, and in the U.S. in 2018 with Munich Re subsidiary American Modern. Investors including Suncorp, Munich Re/HSB Ventures, Oak HC/FT, Anthemis, Guidewire, and others pushed the company's disclosed funding to roughly $114 million across its life.\n\nThe consumer business never grew into the kind of premium volume that made the underwriting math work. In 2019, Trōv announced it would discontinue its direct-to-consumer mobile product and pivot fully to a B2B \"insurance-as-a-service\" platform, selling its underwriting, claims, and embedded-insurance technology to other insurers and to brands that wanted to offer insurance inside their own apps. The pivot was real and produced some customers, but it also reflected the failure of Trōv's original consumer thesis: most users did not actually want, or remember, to insure their possessions by the hour.\n\nIn February 2022, Travelers Insurance announced it had acquired Trōv's technology assets and most of its team. The terms were not disclosed. Trōv's tooling was folded into Travelers' Personal Insurance segment; the Trōv brand and product were discontinued; the founders moved into Travelers' organization. By the standard \"Killed by Google\"-style definition, Trōv is a clean acqui-hire: the technology survived in someone else's stack, but the original AI-driven on-demand insurance product, the brand, and the company that built them no longer exist.",
+  "founded": "2012",
+  "shutdown": "2022-02",
+  "funding_raised": "$114M",
+  "funding_stage": "Series E",
+  "employee_count": 80,
+  "category": "acqui-hired",
+  "tags": [
+    "insurtech",
+    "on-demand-insurance",
+    "embedded-insurance",
+    "chatbot",
+    "claims-ai",
+    "travelers",
+    "munich-re",
+    "danville"
+  ],
+  "url": "https://www.trov.com",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/trv-technology-assets-acquired-by-travelers-301488447.html",
+      "title": "Trōv Technology Assets Acquired by Travelers",
+      "date": "2022-02-23",
+      "snapshot_path": "data/snapshots/trov/www.prnewswire.com_news-releases_trv-technology-assets-acquired-by-travelers-301488447.html.html"
+    },
+    {
+      "url": "https://www.insurancebusinessmag.com/us/news/technology/travelers-snaps-up-trov-326533.aspx",
+      "title": "Travelers snaps up Trōv",
+      "date": "2022-02-24",
+      "snapshot_path": "data/snapshots/trov/www.insurancebusinessmag.com_us_news_technology_travelers-snaps-up-trov-326533.aspx.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trov",
+      "title": "Trov - Wikipedia",
+      "date": "2024-01-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://fintech.global/2022/02/24/trovs-technology-acquired-by-travelers/",
+      "title": "Trov's technology acquired by Travelers",
+      "date": "2022-02-24",
+      "snapshot_path": "data/snapshots/trov/fintech.global_2022_02_24_trovs-technology-acquired-by-travelers_.html"
+    },
+    {
+      "url": "https://blog.trov.com/trov-is-a-part-of-travelers-insurance",
+      "title": "Our Technology and Team Members Have Become Part of Travelers!",
+      "date": "2022-02-23",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 122,
+  "total_loss": "",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

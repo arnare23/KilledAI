@@ -1,0 +1,49 @@
+{
+  "name": "Wherehouse.io",
+  "slug": "wherehouse-io",
+  "tagline": "AI-driven micro-warehouse network that shut down after years without follow-on funding",
+  "description": "Wherehouse.io was a Delhi-based supply-chain intelligence startup that operated a network of micro-warehouses across more than 20 Indian cities, using machine learning to predict demand clusters and place inventory closer to customers for faster D2C delivery. Founded in 2021 by Vaibhav Chawla, Jeevan Prakash, and Lavelesh Sharma, the company raised an undisclosed seed round from Better Capital and Titan Capital but failed to attract follow-on investment. Cofounder Chawla announced the shutdown on LinkedIn in December 2025, days before he and other team members were detained by Delhi Police following what he later described as a 'frivolous' complaint. At its peak, the company claimed roughly 2,500 warehouses on its network.",
+  "story": "Wherehouse.io was built on a thesis that became a cliché in Indian e-commerce by the mid-2020s: brands that could place inventory closest to demand would win the 30-minute delivery war. The founding team — Vaibhav Chawla, Jeevan Prakash, and Lavelesh Sharma — raised an undisclosed seed round from Better Capital and Titan Capital in 2021 and built a network of small warehouses across more than 20 Indian cities, layering on a software platform that ingested customer data, identified geographic demand clusters, and recommended where each direct-to-consumer brand should hold stock.\n\nFor a while, the model worked on paper. Wherehouse.io claimed roughly 2,500 warehouses across its network at its peak, and its software-led pitch positioned it as a supply-chain intelligence platform rather than a pure 3PL. But the asset-light story collided with reality once Zepto, Blinkit, and Swiggy Instamart began pouring billions into their own quick-commerce dark stores. The advantage of being early evaporated, and Wherehouse.io's smaller D2C customers churned to bigger platforms or built their own fulfillment.\n\nThe company never closed another round after its 2021 seed. By December 2025, with cash gone and no investor interest, Chawla wrote a LinkedIn post announcing that operations were ending. Days later, he and members of the Wherehouse.io team were detained and questioned by Delhi Police in connection with what Chawla publicly described as a 'frivolous' complaint, and were released hours later. The shutdown closed one of the early India quick-commerce supply-chain bets and underscored how brutal the segment had become for sub-scale players: AI-driven inventory placement could not overcome the gravitational pull of a market dominated by hyperscale 10-minute delivery networks.",
+  "founded": "2021-01",
+  "shutdown": "2025-12",
+  "funding_raised": "Undisclosed",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "supply-chain",
+    "logistics",
+    "india",
+    "quick-commerce",
+    "warehousing",
+    "d2c"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/features/25-indian-startups-shut-down-in-2025/",
+      "title": "From Burn To Breakdown: 25 Startups That Shut Down In 2025 - Inc42",
+      "date": "2025-12-23",
+      "snapshot_path": "data/snapshots/wherehouse-io/inc42.com_features_25-indian-startups-shut-down-in-2025_.html"
+    },
+    {
+      "url": "https://techstartups.com/2025/12/05/technology-news-today-the-latest-in-tech-ai-startup-news-december-5-2025/",
+      "title": "Technology News Today: The Latest in Tech, AI & Startup News, December 5, 2025",
+      "date": "2025-12-05",
+      "snapshot_path": "data/snapshots/wherehouse-io/techstartups.com_2025_12_05_technology-news-today-the-latest-in-tech-ai-startup-news-december-5-2025_.html"
+    },
+    {
+      "url": "https://yourstory.com/companies/wherehouseio",
+      "title": "Wherehouse.io Company Profile - YourStory",
+      "date": "2025-12-10",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 59,
+  "total_loss": "Undisclosed",
+  "created_at": "2026-04-27T16:56:57Z",
+  "updated_at": "2026-04-27T16:56:57Z"
+}

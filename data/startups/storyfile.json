@@ -1,0 +1,55 @@
+{
+  "name": "StoryFile",
+  "slug": "storyfile",
+  "tagline": "Conversational AI video startup that filed Chapter 11 after running out of cash",
+  "description": "StoryFile was a Los Angeles-based conversational AI company that recorded subjects answering hundreds of questions on video, then used machine learning to let viewers ask their own questions and receive realistic Q&A responses from the recorded subject. Founded in 2017 by Heather Maio-Smith and Stephen Smith, the company became best known for its Holocaust survivor archives at the USC Shoah Foundation and a William Shatner conversational avatar released in 2021. Despite raising more than $9 million in seed funding and signing partnerships with museums and brands, StoryFile filed for Chapter 11 bankruptcy on May 5, 2024 in the U.S. Bankruptcy Court in White Plains, listing $1.5 million in assets against $10.5 million in liabilities. Its assets were later sold to Key 7 Investment Company in early 2025.",
+  "story": "StoryFile was built on a simple, emotionally resonant idea: capture a person on video answering hundreds of questions, then use machine learning to retrieve and play the right answer when a viewer asks a related question of their own. The result felt like a conversation with someone who was no longer in the room. Cofounders Heather Maio-Smith and Stephen Smith brought the technology to the USC Shoah Foundation, where it was used to preserve the testimony of Holocaust survivors as interactive conversational archives, and the company expanded into museums including the National WWII Museum, the Japanese American National Museum, and the Illinois Holocaust Museum.\n\nThe consumer breakthrough came in October 2021, when actor and early backer William Shatner sat for five days of recordings to create a conversational version of himself. The Shatner StoryFile drew widespread press coverage and helped position the company as a pioneer of what some outlets called 'deadbots' — AI-powered avatars that let descendants and fans interact with people after they died. StoryFile raised more than $9 million in seed funding and long teased a Series A that never closed.\n\nBy May 2024, the company had run out of options. Its Chapter 11 filing in the U.S. Bankruptcy Court for the Southern District of New York reported $1.5 million in assets against $10.5 million in liabilities, including $2.2 million in personal loans, $1.1 million in unpaid legal fees, and $150,000 owed in customer refunds. Interim CEO James Fong wrote that StoryFile had 'continued to hemorrhage cash' despite new revenue streams. The U.S. Trustee challenged the proposed sale process, but the assets eventually passed to Key 7 Investment Company in early 2025. StoryFile's website continued to operate under new ownership, but the original venture-backed company that built it was wound up — investors and unsecured creditors took the loss.",
+  "founded": "2017-01",
+  "shutdown": "2024-05",
+  "funding_raised": "$9.5M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "conversational-ai",
+    "video",
+    "consumer",
+    "media",
+    "memorial",
+    "william-shatner"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://aibusiness.com/verticals/startup-behind-ai-william-shatner-files-for-bankruptcy",
+      "title": "Startup Behind AI William Shatner Files for Bankruptcy",
+      "date": "2024-05-09",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://westfaironline.com/courts/white-plains-bankruptcy-interrupts-talk-with-the-dead/",
+      "title": "White Plains bankruptcy interrupts talk with the dead",
+      "date": "2024-05-13",
+      "snapshot_path": "data/snapshots/storyfile/westfaironline.com_courts_white-plains-bankruptcy-interrupts-talk-with-the-dead_.html"
+    },
+    {
+      "url": "https://www.law360.com/bankruptcy-authority/articles/1851460/ai-video-startup-storyfile-gets-ok-for-ch-11-loan",
+      "title": "AI Video Startup StoryFile Gets OK For Ch. 11 Loan - Law360",
+      "date": "2024-06-01",
+      "snapshot_path": "data/snapshots/storyfile/www.law360.com_bankruptcy-authority_articles_1851460_ai-video-startup-storyfile-gets-ok-for-ch-11-loan.html"
+    },
+    {
+      "url": "https://www.avinteractive.com/territories-news/us-canada/conversational-ai-video-pioneer-emerges-from-chapter-11-03-03-2025/",
+      "title": "Conversational AI video pioneer emerges from Chapter 11 - AV Magazine",
+      "date": "2025-03-03",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 88,
+  "total_loss": "$9.5M+",
+  "created_at": "2026-04-27T16:56:57Z",
+  "updated_at": "2026-04-27T16:56:57Z"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Banana.dev",
+  "slug": "banana-dev",
+  "tagline": "Serverless GPU platform for ML inference that sunset after GPU shortage crushed unit economics",
+  "description": "Banana was a Y Combinator-backed serverless GPU platform that let developers deploy machine learning models with scale-to-zero infrastructure, billed by the second. Founded in 2021, it raised more than $5 million from investors including S28 Capital. The company became popular during the 2022-2023 generative AI boom but announced its sunset on February 1, 2024, shutting down its serverless GPU service on March 31, 2024. Cofounder Erik Dunteman cited supply-constrained GPU markets, the engineering complexity required to maintain reliable scale-to-zero inference, and an unsustainable runway as the reasons for closing the product down.",
+  "story": "Banana.dev rode the early generative AI wave by selling exactly what every ML developer wanted in 2022: GPUs that scaled to zero, billed by the second, with no Kubernetes work required. Cofounders Erik Dunteman and Kyle Morris pitched it as a way to deploy models without managing infrastructure, and the product attracted thousands of developers building on top of Stable Diffusion and the early wave of open-source LLMs. The company raised a seed round of more than $5 million and called itself one of the fastest serverless GPU providers on the market.\n\nThe problem was the underlying economics. Running a true scale-to-zero GPU service meant Banana had to keep idle hardware warm to deliver low cold-start times, but renting that hardware from cloud providers during a global GPU shortage was punishingly expensive. Margins on inference were compressed further by larger competitors like Replicate, Modal, and the hyperscalers' own inference services, all of which could subsidize compute or sign multi-year supply deals that a small startup could not match.\n\nIn the February 2024 sunset post, Dunteman wrote that the team had achieved 'promise market fit' in 2022-2023 but could not turn that into a sustainable business given runway, retention, supply-constrained GPU markets, and the deeper engineering required to make scale-to-zero work reliably. The serverless GPU service shut down on March 31, 2024, with Banana publishing extensive migration guides pointing customers toward Replicate, RunPod, Modal, and other providers. The company said it would pivot to a new direction, but the product that had defined Banana for three years was dead.",
+  "founded": "2021-01",
+  "shutdown": "2024-03",
+  "funding_raised": "$5M+",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "pricing",
+  "tags": [
+    "infrastructure",
+    "gpu",
+    "ml-inference",
+    "serverless",
+    "y-combinator",
+    "developer-tools"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.banana.dev/blog/sunset",
+      "title": "Sunsetting Serverless GPUs - Banana",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/banana-dev/www.banana.dev_blog_sunset.html"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=39288915",
+      "title": "Banana to sunset their serverless GPU platform | Hacker News",
+      "date": "2024-02-01",
+      "snapshot_path": "data/snapshots/banana-dev/news.ycombinator.com_item_id_39288915.html"
+    },
+    {
+      "url": "https://dang.ai/tool/ai-machine-learning-model-hosting-tool-bananadev",
+      "title": "What happened to banana.dev? Why Did BananaDev Shut Down?",
+      "date": "2024-04-01",
+      "snapshot_path": "data/snapshots/banana-dev/dang.ai_tool_ai-machine-learning-model-hosting-tool-bananadev.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 38,
+  "total_loss": "$5M+",
+  "created_at": "2026-04-27T16:56:57Z",
+  "updated_at": "2026-04-27T16:56:57Z"
+}

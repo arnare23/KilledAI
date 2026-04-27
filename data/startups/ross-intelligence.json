@@ -1,0 +1,63 @@
+{
+  "name": "ROSS Intelligence",
+  "slug": "ross-intelligence",
+  "tagline": "AI-powered legal research platform",
+  "description": "Toronto-founded legal AI startup that built a natural-language research tool for lawyers, marketing it as the \"first artificially intelligent attorney.\" Founded in 2014, ROSS raised roughly $13 million from Y Combinator, iNovia Capital, Comcast Ventures, and others before Thomson Reuters sued it in May 2020 for allegedly copying its Westlaw legal research platform. Cut off from financing while the lawsuit dragged on, ROSS announced in December 2020 that it would shut down its product on January 31, 2021.",
+  "story": "ROSS Intelligence was founded in 2014 by Andrew Arruda, Jimoh Ovbiagele, and Pargles Dall'Oglio at the University of Toronto. The pitch was straightforward: lawyers spent enormous amounts of time hunting through case law, and a natural-language search tool built on top of IBM Watson could surface relevant precedents in seconds rather than hours. The company moved to San Francisco, joined Y Combinator's Winter 2015 batch, and raised about $13 million across seed and Series A rounds from Y Combinator, iNovia Capital, Comcast Ventures, Real Ventures, and other investors. Big-law firms including Latham & Watkins and BakerHostetler signed on as early customers, and ROSS became a frequent reference point in early conversations about AI in the legal profession.\n\nThe trouble began in May 2020, when Thomson Reuters filed a copyright and tortious-interference lawsuit in the U.S. District Court for the District of Delaware. Thomson Reuters alleged that ROSS, after being denied a license to train on Westlaw, had paid a third party called LegalEase Solutions to generate \"Bulk Memos\" summarizing legal issues, and that those memos were drawn from Westlaw's headnotes and Key Number System. ROSS argued it was a transformative fair use; Thomson Reuters argued it was wholesale copying of editorial work.\n\nWhatever the merits, the litigation was ruinous. Co-founder Andrew Arruda announced on the company's blog in December 2020 that the lawsuit had \"made it very difficult to operate and grow our business,\" cut ROSS off from new financing, and forced the company to wind down. The product was switched off on January 31, 2021. ROSS itself continued in name only, kept alive by litigation insurance to defend the case rather than to build anything.\n\nThe story did not end with the shutdown. In February 2025, after years of motions, summary judgment, and appeals, a federal judge ruled that ROSS had infringed Westlaw's copyrights and that the use was not fair use, a decision widely covered as the first significant U.S. ruling on copyright and AI training data. By then ROSS was long dead as a product, but the case became a precedent other AI defendants would have to reckon with. ROSS's failure is one of the cleanest examples in AI of a startup killed not by the market or the model, but by a single lawsuit it could not afford to fight while still building.",
+  "founded": "2014",
+  "shutdown": "2021-01",
+  "funding_raised": "$13M",
+  "funding_stage": "Series A",
+  "employee_count": 35,
+  "category": "regulatory",
+  "tags": [
+    "legal-tech",
+    "nlp",
+    "ai-research",
+    "copyright",
+    "ibm-watson",
+    "y-combinator",
+    "san-francisco",
+    "toronto"
+  ],
+  "url": "https://blog.rossintelligence.com",
+  "sources": [
+    {
+      "url": "https://www.lawnext.com/2020/12/legal-research-company-ross-to-shut-down-under-pressure-of-thomson-reuters-lawsuit.html",
+      "title": "Legal Research Company ROSS to Shut Down Under Pressure of Thomson Reuters' Lawsuit",
+      "date": "2020-12-11",
+      "snapshot_path": "data/snapshots/ross-intelligence/www.lawnext.com_2020_12_legal-research-company-ross-to-shut-down-under-pressure-of-thomson-reuters-lawsuit.html.html"
+    },
+    {
+      "url": "https://www.artificiallawyer.com/2020/12/11/legal-ai-pioneer-ross-to-close-marking-end-of-era/",
+      "title": "Legal AI Pioneer ROSS to Close, Marking End of Era",
+      "date": "2020-12-11",
+      "snapshot_path": "data/snapshots/ross-intelligence/www.artificiallawyer.com_2020_12_11_legal-ai-pioneer-ross-to-close-marking-end-of-era_.html"
+    },
+    {
+      "url": "https://www.abajournal.com/news/article/ross-intelligence-to-shut-down-amid-thomson-reuters-lawsuit",
+      "title": "ROSS Intelligence will shut down amid lawsuit from Thomson Reuters",
+      "date": "2020-12-14",
+      "snapshot_path": "data/snapshots/ross-intelligence/www.abajournal.com_news_article_ross-intelligence-to-shut-down-amid-thomson-reuters-lawsuit.html"
+    },
+    {
+      "url": "https://blog.rossintelligence.com/post/announcement",
+      "title": "Announcement (ROSS Intelligence shutdown)",
+      "date": "2020-12-11",
+      "snapshot_path": "data/snapshots/ross-intelligence/blog.rossintelligence.com_post_announcement.html"
+    },
+    {
+      "url": "https://legaltechnology.com/2025/02/12/judge-rules-that-ross-intelligence-infringed-westlaws-copyright-in-landmark-ai-opinion/",
+      "title": "Judge rules that Ross Intelligence infringed Westlaw's copyright in landmark AI opinion",
+      "date": "2025-02-12",
+      "snapshot_path": "data/snapshots/ross-intelligence/legaltechnology.com_2025_02_12_judge-rules-that-ross-intelligence-infringed-westlaws-copyright-in-landmark-ai-opinion_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 79,
+  "total_loss": "$13M",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

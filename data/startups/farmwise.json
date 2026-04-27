@@ -1,0 +1,57 @@
+{
+  "name": "FarmWise",
+  "slug": "farmwise",
+  "tagline": "AI-powered autonomous weeding and cultivation robots for row crops",
+  "description": "San Francisco-based agtech startup founded in 2016 that built large self-driving robots using computer vision to identify and mechanically remove weeds between rows of vegetables, replacing herbicides and hand labor. FarmWise raised roughly $65M across Series A and a $45M Series B led by Fall Line Capital, and its Titan FT-35 weeders worked commercially across California, Arizona, and the Pacific Northwest. The company was unable to raise additional capital amid weakening farm economics and tariff-driven component cost increases, and announced an April 1, 2024 shutdown of its services and manufacturing operations.",
+  "story": "FarmWise was founded in 2016 by Sebastien Boyer and Thomas Palomares, both MIT graduates who had become fixated on the cost and chemical intensity of weed control in vegetable agriculture. Their answer was a large, slow, autonomous machine that drove between rows of lettuce, broccoli, and other leafy greens; identified each individual plant using onboard cameras and computer vision; and used mechanical blades to remove weeds without herbicide. The first commercial machine, the Titan FT-35, was a striking white-and-orange contraption that looked like a piece of industrial equipment from a science fiction film and weighed over five tons.\n\nThe company raised roughly $20 million in Series A funding and a $45 million Series B in June 2022, led by Fall Line Capital and Middleland Capital, with strategic participation from grower Taylor Farms. Total disclosed funding came to about $65 million. By 2022 and 2023, FarmWise's robots were running on commercial vegetable acreage in California's Salinas Valley, Yuma, Arizona, and the Pacific Northwest. The technical case for AI-driven weeding was real: customers reported meaningful reductions in hand-weeding labor and herbicide use, and the company shifted from selling machines to a weeding-as-a-service model.\n\nThe economics never closed. Specialty-crop margins are thin and volatile, and 2023 brought a sharp downturn in commodity prices that hit FarmWise's customers directly. The company's machines were expensive to manufacture and to keep in the field, and the broader agtech funding environment had collapsed: vertical farms were going bankrupt, robotics rounds were drying up, and lenders were retreating. Tariffs and component-cost increases on industrial hardware made the bill of materials worse. FarmWise tried to extend its runway by restructuring and cutting staff in 2023, but a planned Series C never materialized.\n\nIn early 2024, CEO Sebastien Boyer informed customers and partners that FarmWise would cease its weeding service and manufacturing operations on April 1, 2024. AgFunderNews and Farm Progress reported the closure, with Boyer attributing the wind-down to \"macro pressures driven by low commodity prices, future economic uncertainty, and rising component costs due to tariffs,\" and noting that the underlying technology was, in his words, commercially ready. The IP and remaining assets were positioned for a potential sale, but the company as an operating business was finished. FarmWise's failure is a case study in capital-intensive applied AI: the model worked, the product worked in the field, and the customers were real, but the unit economics could not survive a downturn in the underlying industry it served.",
+  "founded": "2016",
+  "shutdown": "2024-04",
+  "funding_raised": "$65M",
+  "funding_stage": "Series B",
+  "employee_count": 80,
+  "category": "funding",
+  "tags": [
+    "agtech",
+    "computer-vision",
+    "robotics",
+    "autonomous",
+    "weeding",
+    "san-francisco",
+    "salinas",
+    "row-crops"
+  ],
+  "url": "https://farmwise.io",
+  "sources": [
+    {
+      "url": "https://www.farmprogress.com/technology/farmwise-closure-leaves-farmers-in-limbo-as-ag-tech-faces-investment-hurdles",
+      "title": "Ag tech startup FarmWise shuts down April 1",
+      "date": "2024-03-22",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://agfundernews.com/farmwise-ai-powered-weeding-tech-commercially-ready-despite-company-restructuring-and-wind-down",
+      "title": "FarmWise AI-powered weeding tech 'commercially ready' despite company restructuring and wind down",
+      "date": "2024-03-22",
+      "snapshot_path": "data/snapshots/farmwise/agfundernews.com_farmwise-ai-powered-weeding-tech-commercially-ready-despite-company-restructuring-and-wind-down.html"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-us-farms-301558575.html",
+      "title": "FarmWise Raises $45M Series B To Expand AI-Powered Farm Equipment in U.S. Farms",
+      "date": "2022-06-01",
+      "snapshot_path": "data/snapshots/farmwise/www.prnewswire.com_news-releases_farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-us-farms-301558575.html.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/FarmWise",
+      "title": "FarmWise - Wikipedia",
+      "date": "2024-04-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "$65M",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

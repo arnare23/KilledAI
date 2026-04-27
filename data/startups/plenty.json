@@ -1,0 +1,58 @@
+{
+  "name": "Plenty",
+  "slug": "plenty",
+  "tagline": "AI-driven indoor vertical farming network backed by SoftBank, Bezos, and Walmart",
+  "description": "South San Francisco-based vertical farming company founded in 2014 that used AI, computer vision, and robotics to grow leafy greens and strawberries in tall, hydroponic indoor towers. Plenty raised nearly $1 billion from SoftBank Vision Fund, Jeff Bezos's Bezos Expeditions, Walmart, Driscoll's, and others, peaking at a $1.9B Series E valuation in 2022. After closing its flagship Compton, California greens farm in December 2024 and burning through a recapitalization attempt, Plenty filed for Chapter 11 bankruptcy in March 2025 and emerged 60 days later as a much smaller strawberry-only business.",
+  "story": "Plenty was founded in 2014 by Matt Barnard and Nate Storey on a thesis that has since become almost folklore in agtech: indoor vertical farming, powered by AI and automation, would let growers produce produce close to cities, free of pesticides, with dramatically lower water use and far higher yields per square foot. The company built tall growing towers, ran them under LED lighting, and used computer vision and machine learning to optimize plant health, harvest timing, and labor allocation across thousands of plant sites simultaneously.\n\nThe pitch attracted historic amounts of capital. SoftBank Vision Fund led a $200 million Series B in 2017 (then the largest agtech round on record), Driscoll's joined as a strategic partner, Walmart led a $400 million Series E in 2022 at a roughly $1.9 billion valuation, and Bezos Expeditions backed multiple rounds. By 2023, Plenty had raised close to $1 billion in disclosed funding, opened a vertical strawberry farm in Richmond, Virginia in partnership with Driscoll's, and built a flagship leafy-greens farm in Compton, California to supply West Coast retailers.\n\nThe economics did not work. Vertical farms are extraordinarily capital-intensive and energy-hungry: artificial lighting at scale eats roughly 30 to 60 percent of operating costs, and energy prices in California rose sharply through 2023 and 2024. Lower commodity-greens prices, distribution challenges, and the lack of any meaningful taste premium over conventional field-grown lettuce meant Plenty's unit economics never closed at scale. Other vertical farms (AeroFarms, Fifth Season, Bowery, Infarm, Kalera, AppHarvest) had already been collapsing across 2022 and 2023, demonstrating that the underlying business model was structurally broken.\n\nPlenty closed the Compton facility in December 2024, less than two years after opening it, citing rising energy costs. By January 2025 the company was in talks for a $125 million recapitalization that would have valued existing equity at less than $15 million, a more than 90 percent down round from its 2022 peak. The recapitalization fell through. On March 23, 2025, Plenty Unlimited Inc. filed for Chapter 11 bankruptcy in the U.S. Bankruptcy Court for the Southern District of Texas, listing more than $100 million in liabilities and lining up roughly $20.7 million in debtor-in-possession financing.\n\nPlenty emerged from Chapter 11 about 60 days later, on May 29, 2025, as a much narrower business: a single strawberry farm in Virginia (operated with Driscoll's) and a plant-science R&D center in Wyoming. The leafy greens product, the celebrity-investor narrative, and the original AI-vertical-farming thesis were effectively gone. Plenty's collapse is the most expensive failure in the AI-driven vertical farming wave: nearly a billion dollars of capital, a stack of marquee investors, real working technology, and unit economics that energy prices and food retail margins simply would not support.",
+  "founded": "2014",
+  "shutdown": "2025-03",
+  "funding_raised": "$941M",
+  "funding_stage": "Series E",
+  "employee_count": 500,
+  "category": "market",
+  "tags": [
+    "agtech",
+    "vertical-farming",
+    "computer-vision",
+    "robotics",
+    "softbank",
+    "walmart",
+    "bezos",
+    "indoor-farming",
+    "leafy-greens"
+  ],
+  "url": "https://www.plenty.ag",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/",
+      "title": "Vertical farming company Plenty files for bankruptcy after raising nearly $1B",
+      "date": "2025-03-24",
+      "snapshot_path": "data/snapshots/plenty/techcrunch.com_2025_03_24_vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b_.html"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-03-24/bezos-softbank-backed-vertical-farmer-plenty-files-bankruptcy",
+      "title": "Bezos-, Softbank-Backed Vertical Farmer Plenty Files Bankruptcy",
+      "date": "2025-03-24",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://pitchbook.com/news/articles/indoor-farm-plenty-declares-bankruptcy-as-last-ditch-pivot-to-strawberries-crumbles",
+      "title": "SoftBank-backed indoor farming startup Plenty declares bankruptcy",
+      "date": "2025-03-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.plenty.ag/plenty-completes-restructuring-emerges-from-chapter-11/",
+      "title": "Plenty completes restructuring, emerges from Chapter 11",
+      "date": "2025-05-29",
+      "snapshot_path": "data/snapshots/plenty/www.plenty.ag_plenty-completes-restructuring-emerges-from-chapter-11_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 134,
+  "total_loss": "$941M",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

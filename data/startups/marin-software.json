@@ -1,0 +1,55 @@
+{
+  "name": "Marin Software",
+  "slug": "marin-software",
+  "tagline": "AI-driven cross-channel ad management pioneer that dissolved after years of losses",
+  "description": "Marin Software was a San Francisco-based digital advertising management platform that pioneered AI-driven bid optimization and cross-channel campaign management for search and social ads. Founded in April 2006, it went public on the Nasdaq in 2013 under the ticker MRIN at a peak market cap exceeding $500 million. The company spent the late 2010s and early 2020s rebuilding around generative AI features in its Marin Connect, Marin Ascend, and Marin One products, but was unable to compete with the free and low-cost AI tools offered natively by Google and Meta. After a 26 percent workforce cut in Q3 2024, the board announced a Plan of Dissolution on April 10, 2025, the stock was delisted from Nasdaq on June 17, 2025, and the company filed a pre-negotiated Chapter 11 on July 1, 2025. Affiliate Kaxxa Holdings funded the wind-down with $5.5 million, cancelling existing equity entirely.",
+  "story": "Marin Software was once one of the names that defined ad-tech. Founded in 2006 by Christopher Lien, the company built a cross-channel platform that let big-spending search advertisers optimize Google and Bing campaigns from a single console, with proprietary algorithms doing the bidding work that humans had been doing manually. By 2013 it had ridden that wave to a Nasdaq IPO, raising roughly $105 million and reaching a market cap above $500 million.\n\nThe rest of the story was a slow-motion collapse. From 2016 onward Marin posted consistent annual losses and declining revenue as Google and Meta absorbed more campaign-management functions into their own free tools. The company tried to reinvent itself by leaning hard into AI, rebranding its products as Marin Connect, Marin Ascend, and Marin One, with AI-driven budget allocation and forecasting features pitched as the differentiator that would arrest the decline. But the same cycle that produced ChatGPT also produced Performance Max and Advantage+ — Google and Meta's own AI campaign products that bundled the optimization Marin sold into the platforms it depended on.\n\nThe end came in stages. In Q3 2024 Marin cut 26 percent of its workforce to preserve cash, but it could not generate enough revenue to keep going. On April 10, 2025 the board announced a Plan of Dissolution and Liquidation; on June 17 the stock was delisted from Nasdaq; on July 1 Marin filed a pre-negotiated Chapter 11 in Delaware. Affiliate Kaxxa Holdings, an ESW Capital vehicle, provided $5.5 million to repay creditors and complete a 66-day sale, with the company emerging on September 5, 2025 — but with all existing equity cancelled. The Marin Software that had once been a poster child for ad-tech AI was effectively wiped out, its remaining customer base absorbed into a private successor.",
+  "founded": "2006-04",
+  "shutdown": "2025-07",
+  "funding_raised": "$105M IPO",
+  "funding_stage": "public",
+  "employee_count": null,
+  "category": "platform-absorbed",
+  "tags": [
+    "adtech",
+    "search-ads",
+    "ppc",
+    "public-company",
+    "ipo",
+    "campaign-management"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://searchengineland.com/marin-software-shutting-down-454228",
+      "title": "Marin Software plans to shut down after years of decline - Search Engine Land",
+      "date": "2025-04-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250410517913/en/Marin-Software-Announces-Plan-of-Dissolution",
+      "title": "Marin Software Announces Plan of Dissolution",
+      "date": "2025-04-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.panabee.com/news/marin-software-files-chapter-11-after-nasdaq-delisting-secures-5-5-million-for-ai-push",
+      "title": "Marin Software Files Chapter 11 After Nasdaq Delisting, Secures $5.5 Million",
+      "date": "2025-07-10",
+      "snapshot_path": "data/snapshots/marin-software/www.panabee.com_news_marin-software-files-chapter-11-after-nasdaq-delisting-secures-5-5-million-for-ai-push.html"
+    },
+    {
+      "url": "https://elevenflo.com/blog/marin-software-bankruptcy-pre-negotiated-chapter-11",
+      "title": "Marin Software Bankruptcy: Ad-Tech Pioneer's 66-Day Sale - ElevenFlo",
+      "date": "2025-09-05",
+      "snapshot_path": "data/snapshots/marin-software/elevenflo.com_blog_marin-software-bankruptcy-pre-negotiated-chapter-11.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 231,
+  "total_loss": "$500M+ market cap",
+  "created_at": "2026-04-27T16:56:57Z",
+  "updated_at": "2026-04-27T16:56:57Z"
+}

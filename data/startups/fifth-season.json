@@ -1,0 +1,57 @@
+{
+  "name": "Fifth Season",
+  "slug": "fifth-season",
+  "tagline": "Robotic vertical farming startup using AI and computer vision to grow leafy greens",
+  "description": "Pittsburgh-based vertical farming startup founded as RoBotany in 2016 by Carnegie Mellon roboticists, later renamed Fifth Season. The company built a 60,000-square-foot indoor farm in Braddock, Pennsylvania that used proprietary robotics, computer vision, and AI to grow and pack leafy greens with minimal human labor. After raising roughly $75M from Drive Capital and others, Fifth Season abruptly shut its doors in late October 2022, laid off about 100 staff, and filed for bankruptcy in November 2023.",
+  "story": "Fifth Season was founded in 2016 as RoBotany by brothers Austin and Brac Webb together with Grant Vandenbussche, all spun out of Carnegie Mellon University's robotics community in Pittsburgh. The premise was that vertical farming had failed to scale not because the agronomy was wrong but because the labor model was: human workers walking among growing towers were the single largest operating cost. RoBotany rebranded to Fifth Season and built an end-to-end robotic vertical farm where machines, not people, moved trays through the growing cycle and harvested and packed the finished product, while computer-vision systems monitored every plant and AI scheduled the operation.\n\nThe flagship facility opened in Braddock, Pennsylvania, just outside Pittsburgh, in 2020 in a 60,000-square-foot former industrial site. Fifth Season sold leafy greens and ready-to-eat salad kits into regional grocery chains including Giant Eagle and Whole Foods across the U.S. Mid-Atlantic and Midwest. The company raised roughly $75 million across multiple rounds, with Drive Capital as the lead investor.\n\nThe end was abrupt. On October 28, 2022, Fifth Season notified employees it was shutting down operations effective immediately, laying off approximately 100 staff. Customers were notified that salad kits would no longer be available. According to a former vice president quoted by AgFunderNews, the underlying issue was a familiar one: building a vertical farm at the scale Fifth Season had targeted required hundreds of millions in additional capital that the 2022 funding environment was unwilling to provide, while burn from energy, growing inputs, and customer-acquisition costs was running at a level the existing business could not sustain. Investors, faced with the choice between writing another large check and writing the business off, chose the latter.\n\nA year later, in November 2023, Fifth Season filed for Chapter 7 bankruptcy in U.S. Bankruptcy Court for the Western District of Pennsylvania, formalizing the wind-down. The Braddock facility eventually changed hands and was repurposed for cold storage and food manufacturing. Fifth Season's failure was an early warning shot in what became a long line of vertical-farming collapses (Bowery, AeroFarms, Kalera, AppHarvest, Plenty), and a specific lesson for AI-and-robotics-heavy operators: replacing labor with machines does not, by itself, fix an industry whose underlying problem is the cost of light and water.",
+  "founded": "2016",
+  "shutdown": "2022-10",
+  "funding_raised": "$75M",
+  "funding_stage": "Series B",
+  "employee_count": 100,
+  "category": "funding",
+  "tags": [
+    "agtech",
+    "vertical-farming",
+    "robotics",
+    "computer-vision",
+    "carnegie-mellon",
+    "pittsburgh",
+    "leafy-greens",
+    "drive-capital"
+  ],
+  "url": "https://www.fifthseasonfresh.com",
+  "sources": [
+    {
+      "url": "https://agfundernews.com/robotic-vertical-farming-startup-fifth-season-shuts-down",
+      "title": "Robotic vertical farming startup Fifth Season shuts down",
+      "date": "2022-10-28",
+      "snapshot_path": "data/snapshots/fifth-season/agfundernews.com_robotic-vertical-farming-startup-fifth-season-shuts-down.html"
+    },
+    {
+      "url": "https://technical.ly/startups/fifth-season-shutting-down/",
+      "title": "Another Pittsburgh tech company is reportedly shutting down: Fifth Season",
+      "date": "2022-10-28",
+      "snapshot_path": "data/snapshots/fifth-season/technical.ly_startups_fifth-season-shutting-down_.html"
+    },
+    {
+      "url": "https://www.post-gazette.com/business/tech-news/2023/11/12/fifth-season-bankruptcy-vertical-farm-braddock/stories/202311080101",
+      "title": "How a promising vertical farm in Braddock ended up in bankruptcy",
+      "date": "2023-11-12",
+      "snapshot_path": "data/snapshots/fifth-season/www.post-gazette.com_business_tech-news_2023_11_12_fifth-season-bankruptcy-vertical-farm-braddock_stories_202311080101.html"
+    },
+    {
+      "url": "https://agfundernews.com/fifth-seasons-former-vp-on-why-it-failed-and-how-vertical-farming-must-change",
+      "title": "Q&A: Fifth Season's former VP on why it failed and how vertical farming must change",
+      "date": "2023-01-30",
+      "snapshot_path": "data/snapshots/fifth-season/agfundernews.com_fifth-seasons-former-vp-on-why-it-failed-and-how-vertical-farming-must-change.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 80,
+  "total_loss": "$75M",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Olympia",
+  "slug": "olympia-chat",
+  "tagline": "AI \"virtual staffing\" platform offering role-based AI consultants for solopreneurs",
+  "description": "Bootstrapped AI startup founded in 2023 by Ruby on Rails veteran Obie Fernandez that offered subscription access to a small team of role-based AI consultants (strategist, copywriter, legal expert) sharing memory and tools in a single workspace. After two years and a small subscriber base, founder Fernandez announced a 45-day wind-down on August 7, 2025, citing failed acquisition talks, founder misalignment, and an inability to build a venture-scale business in a market overrun by horizontal AI assistants from OpenAI, Anthropic, and Google.",
+  "story": "Olympia was started in 2023 by longtime Ruby on Rails author and consultant Obie Fernandez, who described the project as building \"your winning AI team\" — a small group of role-specific AI consultants (strategist, copywriter, legal expert, business analyst) working in a shared chat workspace with persistent memory, web access, and light task automation. The product was aimed at solopreneurs and small businesses who could not justify the cost of a full team but wanted something more structured than a single ChatGPT tab. Olympia was bootstrapped, ran on Rails, and grew slowly through Fernandez's audience and community.\n\nThe core problem was the same one that killed many wrapper-style AI consumer products: the major foundation-model labs kept eating the niche from above. OpenAI shipped persistent memory, Custom GPTs, and a marketplace; Anthropic and Google launched comparable assistants; ChatGPT's free tier alone was good enough for most of the use cases Olympia targeted. By 2025, Olympia's revenue was, by Fernandez's own admission, less than a thousand dollars a month in profit, and growth had stalled.\n\nFernandez attempted to find a softer landing through an asset sale to another founder, but the deal collapsed in mid-2025 over the cost and complexity of legal due diligence and a lack of alignment with the prospective acquirer, who had full-time obligations elsewhere. Rather than keep a barely profitable product on life support indefinitely, Fernandez chose to wind Olympia down cleanly.\n\nOn August 7, 2025, he published a long postmortem on Medium titled \"Winding Down Olympia,\" announcing a 45-day shutdown plan: auto-renewals disabled, new charges paused, data export tools shipped, and customer accounts closed by mid-September. The essay was unusually candid about the structural problem that had killed the product — a single founder cannot indefinitely outrun OpenAI's roadmap on a horizontal assistant — and about the smaller human factors that had ultimately made winding down preferable to selling: misaligned co-founders, a thin moat, and a customer base too small to justify another fundraise. Olympia is a representative case in the 2024–2025 wave of AI wrappers that died not from any single dramatic event but from the slow grind of being commodified by the foundation-model platforms they were built on.",
+  "founded": "2023",
+  "shutdown": "2025-09",
+  "funding_raised": "Bootstrapped",
+  "funding_stage": "Bootstrapped",
+  "employee_count": 2,
+  "category": "platform-absorbed",
+  "tags": [
+    "ai-assistant",
+    "wrapper",
+    "openai",
+    "anthropic",
+    "ruby-on-rails",
+    "bootstrapped",
+    "solopreneur",
+    "saas"
+  ],
+  "url": "https://olympia.chat",
+  "sources": [
+    {
+      "url": "https://obie.medium.com/winding-down-olympia-41ff8f1e5c83",
+      "title": "Winding Down Olympia. What We Built, What I Learned, and Why",
+      "date": "2025-08-07",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://twitter.com/OlympiaChat",
+      "title": "Olympia | Your winning AI team (@OlympiaChat) on X",
+      "date": "2025-08-07",
+      "snapshot_path": "data/snapshots/olympia-chat/twitter.com_OlympiaChat.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 24,
+  "total_loss": "",
+  "created_at": "2026-04-27T00:00:00Z",
+  "updated_at": "2026-04-27T00:00:00Z"
+}
