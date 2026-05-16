@@ -1,0 +1,49 @@
+{
+  "name": "Frame AI",
+  "slug": "frame-ai",
+  "tagline": "AI-powered conversation intelligence platform for customer-facing teams",
+  "description": "Frame AI was a New York-based conversation intelligence startup that used AI to analyze customer support, sales, and success conversations across channels, surfacing trends, churn risk, and revenue signals from unstructured chat and call data. Founded in 2016 by George Davis and Jeff Lopez, the company raised approximately $34 million across seed and Series A rounds from investors including Greycroft, Boldstart, and G20 Ventures. HubSpot acquired Frame AI on January 6, 2025, absorbing the team and folding the conversation intelligence engine into HubSpot's Breeze AI platform — ending Frame as a standalone product.",
+  "story": "Frame AI was one of the longer-running bets on the idea that the unstructured text in a company's CRM — support tickets, chat transcripts, call recordings — held more signal about customer churn and expansion than the structured fields most analytics tools focused on. Founded in 2016 by George Davis (ex-Greycroft principal) and Jeff Lopez, Frame built a platform that ingested conversations from Zendesk, Intercom, Gong, and other systems and used NLP and later LLMs to extract themes, predict at-risk accounts, and surface revenue signals. The company raised around $34 million across multiple rounds from Greycroft, Boldstart, G20 Ventures, and others, and signed brands like SiriusXM and TIME for its Streaming Analytics API.\n\nThe market Frame had spent eight years building toward arrived in 2023 and 2024 — and then promptly commoditized. ChatGPT made conversation summarization trivial. Every CRM, helpdesk, and call-recording vendor shipped their own AI-powered analytics features as table stakes. Frame's value proposition — analyzing your customer conversations with AI — was suddenly something a customer's existing software either already did or would do within a release cycle, often included in the same seat price they were already paying. The differentiated NLP pipeline that took years to build became a commodity API call.\n\nOn December 6, 2024 HubSpot announced it would acquire Frame AI to power its Breeze AI customer platform. The deal closed on January 6, 2025. Terms were not disclosed, but the structure was a classic AI-era acqui-hire: HubSpot got the team, the IP, and the conversational data pipelines, and Frame's standalone product disappeared into Breeze. The roughly $34 million in venture funding that had paid for nearly a decade of patient infrastructure work was now feeding HubSpot's race to keep up with Salesforce on AI features, and Frame's existing customers were given migration paths into HubSpot's stack whether they wanted them or not.",
+  "founded": "2016",
+  "shutdown": "2025-01",
+  "funding_raised": "$34M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "conversation-intelligence",
+    "nlp",
+    "customer-success",
+    "enterprise-ai",
+    "hubspot-acquisition",
+    "crm"
+  ],
+  "url": "https://frame.ai",
+  "sources": [
+    {
+      "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-completes-acquisition-ai-powered-conversation",
+      "title": "HubSpot Completes Acquisition of AI-Powered Conversation Intelligence Platform, Frame AI",
+      "date": "2025-01-06",
+      "snapshot_path": "data/snapshots/frame-ai/ir.hubspot.com_news-releases_news-release-details_hubspot-completes-acquisition-ai-powered-conversation.html"
+    },
+    {
+      "url": "https://ir.hubspot.com/news-releases/news-release-details/hubspot-acquire-frame-ai-unlocking-power-conversational-data-ai",
+      "title": "HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI",
+      "date": "2024-12-06",
+      "snapshot_path": "data/snapshots/frame-ai/ir.hubspot.com_news-releases_news-release-details_hubspot-acquire-frame-ai-unlocking-power-conversational-data-ai.html"
+    },
+    {
+      "url": "https://www.crunchbase.com/organization/frame-ai",
+      "title": "Frame AI (acquired by HubSpot) - Crunchbase Company Profile",
+      "date": "2025-01-06",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 108,
+  "total_loss": "$34M",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

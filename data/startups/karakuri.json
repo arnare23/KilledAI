@@ -1,0 +1,62 @@
+{
+  "name": "Karakuri",
+  "slug": "karakuri",
+  "tagline": "UK kitchen-robotics startup using AI-assembled hot and cold meal kiosks",
+  "description": "London-based Karakuri, founded in 2018 by ex-Universal Music exec Barney Wragg with Simon Watt and Brent Hoberman, built robotic food-assembly systems (notably the DK-One) that used computer vision and AI portion-control to combine cold and hot ingredients into prepared meals at canteens and quick-service restaurants. Backed by Ocado Ventures (26% stake), Hoxton Ventures, Firstminute Capital and the UK government's Future Fund, it raised approximately GBP 13.5m. After failing to close a fundraise and a stalled acquisition deal with US foodservice equipment maker Henny Penny, Karakuri appointed RSM as administrators in June 2023 with 30 staff losing their jobs. A pre-pack asset sale to Henny Penny on 28 July 2023 transferred three prototypes and IP for GBP 350k.",
+  "story": "Karakuri was founded in 2018 by former Universal Music executive Barney Wragg, robotics engineer Simon Watt, and serial founder Brent Hoberman, the cofounder of Lastminute.com and Founders Factory. The London startup's flagship product was the DK-One, a kiosk-sized robotic system that combined cold and hot ingredients into custom prepared meals using computer vision for portion control and AI-driven kitchen logic to manage cook times across orders. The pitch targeted corporate canteens, hospitals, and quick-service restaurants struggling with rising labour costs.\n\nThe company raised approximately GBP 13.5m. Ocado Ventures, the investment arm of the British grocery and warehouse-robotics group, took a 26 percent stake. Other backers included Hoxton Ventures, Firstminute Capital, and the UK government's Future Fund. Karakuri ran trials with corporate-catering customers and demonstrated working units, but never moved beyond a handful of pilot installations to a commercial deployment base that could absorb its fixed costs.\n\nThe company failed to close a follow-on financing round in 2023 and entered exclusive sale discussions with US foodservice equipment maker Henny Penny. The acquisition deal stalled. On 20 June 2023, RSM was appointed administrator and Karakuri's 30 staff were made redundant. The shutdown placed Karakuri alongside Zume, Chowbotics, and Small Robot Company in a wave of kitchen- and food-robotics startups that ran out of runway in 2022 and 2023.\n\nA pre-pack asset sale closed on 28 July 2023, transferring three DK-One prototypes and Karakuri's IP to Henny Penny for GBP 350,000, roughly 2.6 percent of capital raised. Ocado Ventures' second high-profile food-tech write-down, after its earlier stake in Karakuri followed losses on indoor-farming and last-mile robotics bets, foreshadowed its 2025 write-down on Jones Food Company.",
+  "founded": "2018",
+  "shutdown": "2023-06-20",
+  "funding_raised": "GBP 13.5m",
+  "funding_stage": "series-a",
+  "employee_count": 30,
+  "category": "funding",
+  "tags": [
+    "robotics",
+    "food-service",
+    "uk",
+    "kitchen-automation",
+    "computer-vision",
+    "ocado",
+    "qsr"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://thespoon.tech/karakuri-joins-the-growing-list-of-food-robot-startups-that-have-shut-down/",
+      "title": "Karakuri Joins The Growing List of Food Robot Startups That Have Shut Down",
+      "date": "2023-06-21",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/food-robotics-startup-karakuri-shutting-down/",
+      "title": "Food robotics startup Karakuri shutting down",
+      "date": "2023-06-20",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.uktech.news/foodtech/karakuri-assets-350k-20230821",
+      "title": "Assets of robotics startup Karakuri sold for GBP 350k",
+      "date": "2023-08-21",
+      "snapshot_path": "data/snapshots/karakuri/www.uktech.news_foodtech_karakuri-assets-350k-20230821.html"
+    },
+    {
+      "url": "https://www.uktech.news/foodtech/karakuri-appoints-administrators-20230620",
+      "title": "Kitchen robotics startup Karakuri appoints administrators",
+      "date": "2023-06-20",
+      "snapshot_path": "data/snapshots/karakuri/www.uktech.news_foodtech_karakuri-appoints-administrators-20230620.html"
+    },
+    {
+      "url": "https://www.grocerygazette.co.uk/2023/08/21/ocado-robotics-start-up-sold/",
+      "title": "Ocado-backed robotics start-up sold for under half a million",
+      "date": "2023-08-21",
+      "snapshot_path": "data/snapshots/karakuri/www.grocerygazette.co.uk_2023_08_21_ocado-robotics-start-up-sold_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 60,
+  "total_loss": "GBP 13.5m raised; assets sold for GBP 350k; 30 staff redundant",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

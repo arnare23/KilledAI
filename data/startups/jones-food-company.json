@@ -1,0 +1,62 @@
+{
+  "name": "Jones Food Company",
+  "slug": "jones-food-company",
+  "tagline": "Ocado-backed UK vertical farming operator using AI-driven climate control",
+  "description": "Jones Food Company (JFC) operated two large-scale UK vertical farms growing herbs and leafy greens with AI-managed climate control and hydroponic automation. JFC1 in Scunthorpe (opened 2018) was billed as Europe's largest vertical farm at launch and supplied roughly 30% of the UK's cut basil; JFC2 in Lydney, Gloucestershire (opened 2024) was a second flagship facility. Ocado Ventures held a 54.6% controlling stake. Despite the new farm, JFC operated at only a third to half of capacity, never turned a profit, and entered administration on 7 April 2025 owing GBP 22m to 88 creditors. 61 staff were made redundant.",
+  "story": "Jones Food Company was founded in 2017 by James Lloyd-Jones and Paul Challinor with the ambition of building Europe's largest vertical farm. Its first site, JFC1, opened in Scunthorpe in 2018 across 5,120 square metres of LED-lit growing trays and at one point supplied roughly 30 percent of the UK's cut basil. The pitch combined hydroponics with AI-driven climate control: software optimizing humidity, light spectrum, and irrigation across thousands of trays to push yield per square foot higher than open-field agriculture.\n\nOcado Ventures, the investment arm of the British online-grocery giant, became the controlling shareholder with a 54.6 percent stake, and JFC raised more than GBP 45m in total. In 2024 the company opened JFC2 in Lydney, Gloucestershire, a second flagship facility intended to double output. The site never came close to its design capacity. According to the administrators, JFC was operating at between a third and a half of nameplate volume across both farms, never turned a profit, and depended on continued investor cash to cover operating losses.\n\nOn 7 April 2025, Jones Food Company entered administration. Filings later showed GBP 22m owed to 88 creditors, with Ocado Ventures alone writing off more than GBP 13.3m. Sixty-one staff were made redundant. Administrators put the business and assets up for sale and began winding down operations at both Scunthorpe and Lydney.\n\nJFC's collapse came in the same window that AeroFarms restructured in Chapter 11, Plenty filed for bankruptcy, and Infarm and Fifth Season disappeared. The UK's would-be category leader had the cheapest energy contracts a vertical farmer was likely to get, a marquee retail backer, and AI-tuned operations, and it still could not sell a punnet of basil at a price the unit economics required.",
+  "founded": "2017",
+  "shutdown": "2025-04-07",
+  "funding_raised": "GBP 45m+",
+  "funding_stage": "growth",
+  "employee_count": 61,
+  "category": "market",
+  "tags": [
+    "vertical-farming",
+    "agtech",
+    "uk",
+    "automation",
+    "controlled-environment-agriculture",
+    "hydroponics",
+    "ocado"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.just-food.com/news/vertical-farming-business-jones-food-placed-into-administration/",
+      "title": "UK vertical farmer Jones Food Company placed into administration",
+      "date": "2025-04-14",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.agtechnavigator.com/Article/2025/04/14/vertical-farmer-jones-food-company-enters-administration/",
+      "title": "Vertical farmer Jones Food Company enters administration",
+      "date": "2025-04-14",
+      "snapshot_path": "data/snapshots/jones-food-company/www.agtechnavigator.com_Article_2025_04_14_vertical-farmer-jones-food-company-enters-administration_.html"
+    },
+    {
+      "url": "https://www.thegrocer.co.uk/news/jones-food-company-collapsed-owing-creditors-22m/706276.article",
+      "title": "Jones Food Company collapsed owing creditors GBP 22m",
+      "date": "2025-07-01",
+      "snapshot_path": "data/snapshots/jones-food-company/www.thegrocer.co.uk_news_jones-food-company-collapsed-owing-creditors-22m_706276.article.html"
+    },
+    {
+      "url": "https://www.fruitnet.com/fresh-produce-journal/jones-food-company-falls-into-administration/266151.article",
+      "title": "Jones Food Company falls into administration",
+      "date": "2025-04-14",
+      "snapshot_path": "data/snapshots/jones-food-company/www.fruitnet.com_fresh-produce-journal_jones-food-company-falls-into-administration_266151.article.html"
+    },
+    {
+      "url": "https://igrownews.com/jones-food-company-latest-news/",
+      "title": "Jones Food Company Enters Administration, Seeking Buyer",
+      "date": "2025-04-15",
+      "snapshot_path": "data/snapshots/jones-food-company/igrownews.com_jones-food-company-latest-news_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 96,
+  "total_loss": "GBP 22m owed to 88 creditors; GBP 13.3m+ from Ocado Ventures alone written off",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

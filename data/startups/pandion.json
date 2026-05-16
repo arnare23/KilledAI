@@ -1,0 +1,55 @@
+{
+  "name": "Pandion",
+  "slug": "pandion",
+  "tagline": "Machine learning-powered parcel delivery network for e-commerce residential shipping",
+  "description": "Pandion was a Bellevue, Washington-based parcel logistics startup founded in 2020 by former Amazon Air executive Scott Ruffin. The company used machine learning to dynamically route packages through a network of five sortation centers, picking from a marketplace of 500,000+ final-mile drivers and partners like USPS. Pandion raised roughly $125 million across multiple rounds — including a $41.5M Series B in March 2024 — and delivered over 100,000 packages a day. It shut down abruptly on January 10, 2025, less than a year after that Series B, after talks with potential acquirers failed and the company ran out of cash.",
+  "story": "Pandion was supposed to be the AI-native answer to UPS and FedEx. Founder Scott Ruffin had spent years building Amazon Air — the e-commerce giant's in-house air cargo network — before leaving in 2020 to start a company that would use machine learning to crack the residential 'middle mile.' The premise was simple but technically ambitious: instead of running trucks and drivers, Pandion would operate sortation centers and let an ML system decide, for each package, which final-mile provider would deliver it fastest and cheapest. By 2024 the network spanned Los Angeles, Dallas, Atlanta, Chicago, and Philadelphia, and the company claimed to reach more than 80% of U.S. homes through 500,000+ drivers from USPS, regional carriers, and gig platforms.\n\nInvestors bought into the vision. Pandion raised roughly $125 million in equity over five years, including $30 million in 2021 and a $41.5 million Series B in March 2024 led by SoftBank Vision Fund 2, with Bloomberg reporting sales were on track to hit $220 million in 2024. The company was named one of Retail Brew's startups to watch. But the e-commerce parcel market shifted hard against new entrants: rates compressed, Amazon expanded its own logistics, and the funding environment for capital-intensive logistics startups dried up. By late 2024, Pandion had cash to last only through the end of the year.\n\nOn January 10, 2025, Ruffin gathered his 63 employees on a Friday afternoon and told them the company was shutting down immediately. Talks with potential acquirers had collapsed. There was no money for severance — the company owed more than it had in the bank — and staff were paid only through January 15. All five sortation centers and the Bellevue headquarters closed within days. Investors who had poured $125 million into the bet that AI-driven routing could disrupt parcel delivery were left with nothing.",
+  "founded": "2020",
+  "shutdown": "2025-01",
+  "funding_raised": "$125M",
+  "funding_stage": "series-b",
+  "employee_count": 63,
+  "category": "funding",
+  "tags": [
+    "logistics",
+    "parcel-delivery",
+    "machine-learning",
+    "e-commerce",
+    "supply-chain",
+    "sortation"
+  ],
+  "url": "https://www.pandion.com",
+  "sources": [
+    {
+      "url": "https://www.geekwire.com/2025/heavily-funded-pandion-delivery-startup-closes-abruptly-in-latest-logistics-industry-fallout/",
+      "title": "Heavily funded Pandion delivery startup closes abruptly in latest logistics industry fallout",
+      "date": "2025-01-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.supplychaindive.com/news/pandion-parcel-delivery-shuts-down/737142/",
+      "title": "Delivery provider Pandion closing",
+      "date": "2025-01-13",
+      "snapshot_path": "data/snapshots/pandion/www.supplychaindive.com_news_pandion-parcel-delivery-shuts-down_737142_.html"
+    },
+    {
+      "url": "https://www.cep-research.com/2025/01/15/pandion-closes-after-burning-through-41m-funding/",
+      "title": "Pandion closes after burning through $41m funding",
+      "date": "2025-01-15",
+      "snapshot_path": "data/snapshots/pandion/www.cep-research.com_2025_01_15_pandion-closes-after-burning-through-41m-funding_.html"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20240321461295/en/Pandion-Secures-%2441.5M-in-Series-B-Funding-Announces-New-Executive-Team-Members-to-Accelerate-the-Growth-of-its-Residential-Parcel-Delivery-Network",
+      "title": "Pandion Secures $41.5M in Series B Funding",
+      "date": "2024-03-21",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 60,
+  "total_loss": "$125M",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

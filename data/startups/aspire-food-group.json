@@ -1,0 +1,62 @@
+{
+  "name": "Aspire Food Group",
+  "slug": "aspire-food-group",
+  "tagline": "Canadian insect-protein startup running the world's largest cricket farm with AI-driven automation",
+  "description": "Aspire Food Group, cofounded in 2013 by Mohammed Ashour and four McGill MBA classmates after winning the Hult Prize, operated what it billed as the world's largest cricket processing facility: a 150,000-sq-ft AI- and robotics-automated plant in London, Ontario, opened in 2022 with backing from Sustainable Development Technologies Canada (SDTC), the NGEN Supercluster and Farm Credit Canada. Targeting 12,000+ tonnes of cricket protein annually for pet food and human consumption, the highly automated facility never reached full capacity due to climate differences from its Texas pilot, equipment issues with hoppers and conveyors, and a collapsing alt-protein market. The Ontario Superior Court ordered Aspire into receivership on 6 May 2025 (effective 15 May) on application by Farm Credit Canada, owed CAD 41.5m (later CAD 44.1m). FTI Consulting was appointed receiver. The London facility was sold to Halali Group Holdings on 28 August 2025 with the price sealed by court order.",
+  "story": "Aspire Food Group started in 2013 as a McGill University MBA project. Cofounders Mohammed Ashour, Shobhita Soor, Gabe Mott, Jesse Pearlstein, and Zev Thompson won the USD 1m Hult Prize that year on a pitch to turn edible insects into a scalable protein source for food-insecure populations. The company built an early operation in Ghana focused on palm weevils, then pivoted to crickets in Texas, then scaled up to a flagship facility in London, Ontario.\n\nThe Ontario plant, opened in 2022, was the company's bet on industrialised insect protein. At 150,000 square feet, it was billed as the world's largest cricket processing facility, with automated handling, sensor-driven climate zones, and AI-managed feeding schedules designed to produce more than 12,000 tonnes of cricket protein a year for pet food and human consumption. The build was financed with backing from Sustainable Development Technologies Canada, the Next Generation Manufacturing supercluster, and Farm Credit Canada. Government grants funded roughly a quarter of the project. Total disclosed financing exceeded CAD 60m.\n\nThe plant never reached design capacity. Aspire later told the receiver that the Ontario climate differed materially from the Texas pilot, that hoppers and conveyor systems built for cricket rearing developed reliability problems, and that buyer interest from the pet-food industry softened as the broader alternative-protein market cooled. Insect-protein peers ENORM in Denmark, Inseco in South Africa, and Ÿnsect in France all collapsed in the same window. On 6 May 2025, the Ontario Superior Court ordered Aspire into receivership on application by Farm Credit Canada, owed CAD 41.5m, with the receivership taking effect on 15 May. FTI Consulting was appointed receiver.\n\nThe debt grew to CAD 44.1m during the process. On 28 August 2025, the receiver completed the sale of the London facility to Halali Group Holdings, with the price sealed by court order. Public funding bodies, including SDTC and the federal Strategic Innovation Fund, are expected to recover only a fraction of their disbursements. The collapse of what was once a Hult Prize success story became a case study, cited by CBC, in how hype, public money, and AI-and-automation narratives can underwrite a factory whose commodity output the market never actually demanded.",
+  "founded": "2013",
+  "shutdown": "2025-05-06",
+  "funding_raised": "CAD 60m+",
+  "funding_stage": "growth",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "insect-protein",
+    "agtech",
+    "canada",
+    "automation",
+    "north-america",
+    "alt-protein",
+    "robotics"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.cbc.ca/news/canada/london/london-ont-cricket-plant-ordered-into-receivership-amid-41m-debt-bill-to-creditor-1.7533755",
+      "title": "London, Ont. cricket plant ordered into receivership amid $41M debt bill to creditor",
+      "date": "2025-05-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://agfundernews.com/exclusive-aspire-food-groups-ontario-cricket-farm-sold-to-halali-as-firm-collapses-under-debt",
+      "title": "Aspire Food Group's Ontario cricket farm sold to Halali as firm collapses under debt",
+      "date": "2025-08-28",
+      "snapshot_path": "data/snapshots/aspire-food-group/agfundernews.com_exclusive-aspire-food-groups-ontario-cricket-farm-sold-to-halali-as-firm-collapses-under-debt.html"
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/canada-aspire-food-cricket-farm-9.7136152",
+      "title": "What the collapse of world's largest cricket farm reveals about hype, markets and public money",
+      "date": "2025-06-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.foodincanada.com/food-business/insect-protein-company-aspire-food-group-goes-into-receivership-160261/",
+      "title": "Insect protein company Aspire Food Group goes into receivership",
+      "date": "2025-05-15",
+      "snapshot_path": "data/snapshots/aspire-food-group/www.foodincanada.com_food-business_insect-protein-company-aspire-food-group-goes-into-receivership-160261_.html"
+    },
+    {
+      "url": "https://insolvencyinsider.ca/p/aspire-food-group-ltd-et-al-receivership",
+      "title": "Aspire Food Group Ltd. et al., Receivership",
+      "date": "2025-05-06",
+      "snapshot_path": "data/snapshots/aspire-food-group/insolvencyinsider.ca_p_aspire-food-group-ltd-et-al-receivership.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 148,
+  "total_loss": "CAD 41.5m debt to Farm Credit Canada (grew to CAD 44.1m); ~25% of plant funded by government grants; assets sold to Halali Group for undisclosed amount",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Agronutris",
+  "slug": "agronutris",
+  "tagline": "French insect-protein producer with AI-managed black soldier fly facilities",
+  "description": "Toulouse-based Agronutris built insect-protein production using AI-monitored rearing systems, originally targeting human food before pivoting to pet food and aquaculture feed. After raising EUR 100m in 2021 to construct a commercial-scale plant in Rethel that started production in 2023, its holding company EAP Group filed for a French commercial-court safeguard procedure on 29 January 2025 amid the wider insect-protein crash that also took down Ynsect.",
+  "story": "",
+  "founded": "2011",
+  "shutdown": "2025-01",
+  "funding_raised": "EUR 100M",
+  "funding_stage": "Series-B",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "insect-protein",
+    "agtech",
+    "france",
+    "europe",
+    "pet-food"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.agtechnavigator.com/Article/2025/01/29/agronutris-placed-under-protection-by-french-commerical-court/",
+      "title": "Another French insect protein producer in financial trouble",
+      "date": "2025-01-29",
+      "snapshot_path": "data/snapshots/agronutris/www.agtechnavigator.com_Article_2025_01_29_agronutris-placed-under-protection-by-french-commerical-court_.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/agronutris-holding-company-safeguarding-news",
+      "title": "Insect protein scaleup Agronutris at risk of insolvency: 'Access to funding has become harder'",
+      "date": "2025-01-29",
+      "snapshot_path": "data/snapshots/agronutris/sifted.eu_articles_agronutris-holding-company-safeguarding-news.html"
+    },
+    {
+      "url": "https://www.petfoodindustry.com/insect-based-cat-and-dog-food/news/15736946/insect-ag-startup-agronutris-files-safeguard-plan",
+      "title": "Insect ag startup Agronutris files safeguard plan",
+      "date": "2025-01-30",
+      "snapshot_path": null
+    }
+  ],
+  "status": "unverified",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 168,
+  "total_loss": "EUR 100m raised; safeguard procedure filed January 2025",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

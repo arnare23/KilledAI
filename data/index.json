@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-04-27T17:04:03.897513+00:00",
-  "count": 169,
+  "generated_at": "2026-05-16T15:19:30.843193+00:00",
+  "count": 182,
   "startups": [
     {
       "name": "Cove",
@@ -228,6 +228,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "EzDubs",
+      "slug": "ezdubs",
+      "tagline": "AI real-time voice translation for phone calls preserving the speaker's original voice",
+      "founded": "2023",
+      "shutdown": "2025-12",
+      "category": "acqui-hired",
+      "funding_raised": "$4.2M",
+      "lifetime_months": 33,
+      "total_loss": "Undisclosed",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
       "name": "Fetch Robotics",
       "slug": "fetch-robotics",
       "tagline": "Autonomous mobile robot maker acquired by Zebra for $290M then wound down three years later",
@@ -268,6 +282,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Limitless AI",
+      "slug": "limitless-ai",
+      "tagline": "AI wearable Pendant and Rewind desktop recorder for personalized memory and meeting transcription",
+      "founded": "2020",
+      "shutdown": "2025-12",
+      "category": "acqui-hired",
+      "funding_raised": "$33M",
+      "lifetime_months": 60,
+      "total_loss": "$33M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "Luminar Technologies",
@@ -352,6 +380,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-11T00:00:00Z"
+    },
+    {
+      "name": "Log9 Materials",
+      "slug": "log9-materials",
+      "tagline": "Indian deeptech startup building AI-optimized lithium-titanate batteries for EVs",
+      "founded": "2015",
+      "shutdown": "2025-11-14",
+      "category": "competition",
+      "funding_raised": "$75M+",
+      "lifetime_months": 122,
+      "total_loss": "Insolvency after ~$75M raised; headcount cut from 350 to ~40; physical centres in Hyderabad, Jaipur, Mumbai, Chennai shut",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "BharatAgri",
@@ -492,6 +534,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-02T00:00:00Z"
+    },
+    {
+      "name": "Vertical Future",
+      "slug": "vertical-future",
+      "tagline": "London vertical farming startup running AI-monitored indoor micro-crop farms",
+      "founded": "2016",
+      "shutdown": "2025-08-05",
+      "category": "market",
+      "funding_raised": "GBP 37m+",
+      "lifetime_months": 112,
+      "total_loss": "GBP 37m+ raised; GBP 10m+ losses in 2024; turnover collapsed from GBP 6.7m to GBP 692k",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "Abata Therapeutics",
@@ -704,6 +760,34 @@
       "created_at": "2026-04-11T00:00:00Z"
     },
     {
+      "name": "Otipy",
+      "slug": "otipy",
+      "tagline": "Indian farm-to-fork agritech using AI for demand forecasting and supply chain optimization",
+      "founded": "2020-06",
+      "shutdown": "2025-05-17",
+      "category": "funding",
+      "funding_raised": "$44M",
+      "lifetime_months": 59,
+      "total_loss": "$44M raised; ~300 employees laid off; salaries unpaid for 1.5 months at closure",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
+      "name": "Aspire Food Group",
+      "slug": "aspire-food-group",
+      "tagline": "Canadian insect-protein startup running the world's largest cricket farm with AI-driven automation",
+      "founded": "2013",
+      "shutdown": "2025-05-06",
+      "category": "market",
+      "funding_raised": "CAD 60m+",
+      "lifetime_months": 148,
+      "total_loss": "CAD 41.5m debt to Farm Credit Canada (grew to CAD 44.1m); ~25% of plant funded by government grants; assets sold to Halali Group for undisclosed amount",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
       "name": "Builder.ai",
       "slug": "builder-ai",
       "tagline": "AI-powered no-code app development platform",
@@ -718,6 +802,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Lepton AI",
+      "slug": "lepton-ai",
+      "tagline": "GPU cloud and AI inference platform for renting Nvidia compute and deploying models",
+      "founded": "2023-03",
+      "shutdown": "2025-05",
+      "category": "acqui-hired",
+      "funding_raised": "$11M",
+      "lifetime_months": 26,
+      "total_loss": "Acquired",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
       "name": "Noogata",
       "slug": "noogata",
       "tagline": "AI-powered enterprise analytics platform for sales, marketing, and operations",
@@ -730,6 +828,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-02T12:00:00Z"
+    },
+    {
+      "name": "Jones Food Company",
+      "slug": "jones-food-company",
+      "tagline": "Ocado-backed UK vertical farming operator using AI-driven climate control",
+      "founded": "2017",
+      "shutdown": "2025-04-07",
+      "category": "market",
+      "funding_raised": "GBP 45m+",
+      "lifetime_months": 96,
+      "total_loss": "GBP 22m owed to 88 creditors; GBP 13.3m+ from Ocado Ventures alone written off",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "Casetext",
@@ -900,6 +1012,20 @@
       "created_at": "2026-04-08"
     },
     {
+      "name": "Agronutris",
+      "slug": "agronutris",
+      "tagline": "French insect-protein producer with AI-managed black soldier fly facilities",
+      "founded": "2011",
+      "shutdown": "2025-01",
+      "category": "funding",
+      "funding_raised": "EUR 100M",
+      "lifetime_months": 168,
+      "total_loss": "EUR 100m raised; safeguard procedure filed January 2025",
+      "status": "unverified",
+      "confidence": "medium",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
       "name": "Bloop",
       "slug": "bloop",
       "tagline": "AI-powered code search engine written in Rust",
@@ -928,20 +1054,6 @@
       "created_at": "2026-04-09T00:00:00Z"
     },
     {
-      "name": "Cushion",
-      "slug": "cushion",
-      "tagline": "AI-powered bank fee negotiation and BNPL platform",
-      "founded": "2016",
-      "shutdown": "2025-01",
-      "category": "market",
-      "funding_raised": "$21.6M",
-      "lifetime_months": 108,
-      "total_loss": "$21.6M",
-      "status": "published",
-      "confidence": "high",
-      "created_at": "2026-04-01T23:30:00Z"
-    },
-    {
       "name": "Equality AI",
       "slug": "equality-ai",
       "tagline": "AI bias detection and risk management tools for healthcare",
@@ -954,6 +1066,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-07T00:00:00Z"
+    },
+    {
+      "name": "Frame AI",
+      "slug": "frame-ai",
+      "tagline": "AI-powered conversation intelligence platform for customer-facing teams",
+      "founded": "2016",
+      "shutdown": "2025-01",
+      "category": "acqui-hired",
+      "funding_raised": "$34M",
+      "lifetime_months": 108,
+      "total_loss": "$34M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
+      "name": "Pandion",
+      "slug": "pandion",
+      "tagline": "Machine learning-powered parcel delivery network for e-commerce residential shipping",
+      "founded": "2020",
+      "shutdown": "2025-01",
+      "category": "funding",
+      "funding_raised": "$125M",
+      "lifetime_months": 60,
+      "total_loss": "$125M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "Ailomics Therapeutics",
@@ -1108,6 +1248,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-02T00:00:00Z"
+    },
+    {
+      "name": "Cushion",
+      "slug": "cushion",
+      "tagline": "AI-powered bank fee negotiation and BNPL platform",
+      "founded": "2016",
+      "shutdown": "2024-12",
+      "category": "market",
+      "funding_raised": "$21.6M",
+      "lifetime_months": 96,
+      "total_loss": "$21.6M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-04-01T23:30:00Z"
     },
     {
       "name": "Embodied (Moxie)",
@@ -1516,6 +1670,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "Splash Music",
+      "slug": "splash-music",
+      "tagline": "Generative AI music creation and beatmaker app from Brisbane studio Popgun",
+      "founded": "2017",
+      "shutdown": "2024-04",
+      "category": "competition",
+      "funding_raised": "$20M",
+      "lifetime_months": 84,
+      "total_loss": "$20M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
       "name": "Banana.dev",
       "slug": "banana-dev",
       "tagline": "Serverless GPU platform for ML inference that sunset after GPU shortage crushed unit economics",
@@ -1850,6 +2018,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "Karakuri",
+      "slug": "karakuri",
+      "tagline": "UK kitchen-robotics startup using AI-assembled hot and cold meal kiosks",
+      "founded": "2018",
+      "shutdown": "2023-06-20",
+      "category": "funding",
+      "funding_raised": "GBP 13.5m",
+      "lifetime_months": 60,
+      "total_loss": "GBP 13.5m raised; assets sold for GBP 350k; 30 staff redundant",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-05-16T00:00:00Z"
     },
     {
       "name": "AeroFarms",

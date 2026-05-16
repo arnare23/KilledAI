@@ -1,0 +1,55 @@
+{
+  "name": "Splash Music",
+  "slug": "splash-music",
+  "tagline": "Generative AI music creation and beatmaker app from Brisbane studio Popgun",
+  "description": "Splash Music — formerly known as Popgun — was a Brisbane, Australia studio that built one of the first viral generative AI music apps, letting users create songs from text prompts with AI-generated vocals and instrumental beats. Founded in 2017, Popgun raised roughly $20 million in a Series A co-led by Amazon's Alexa Fund and Bitkraft Ventures in 2021. The consumer music apps Splash Music & Beatmaker and Splash Pro were both discontinued in 2024, with the company announcing it would return entirely to its roots in video game development.",
+  "story": "Popgun started in 2017 as a research lab betting that AI could compose music. By 2020 the team had pivoted into consumer apps, launching Splash — a free iOS and Android beatmaker that let users build tracks by tapping loops in time with a metronome — and growing into a Roblox phenomenon where millions of monthly active users built and remixed music inside the game. The 2021 Series A, co-led by Amazon's Alexa Fund and Bitkraft Ventures, took total funding to around $20 million and was sized for a future in which generative AI would expand from beats into full songs with vocals.\n\nThat future arrived faster than expected, and not in Splash's favor. Splash Pro launched as a web-based generative AI music tool with AI vocals, riding the wave of consumer interest in tools like ChatGPT and Midjourney. But the ground shifted underneath: Suno and Udio raised hundreds of millions of dollars, shipped vastly better text-to-song models, and absorbed the same consumer demand. Splash Pro's vocal quality and prompt control couldn't keep up, and the consumer mobile beatmaker was a side bet competing with the company's own much more profitable Roblox game.\n\nIn early 2024 the company made the call to abandon the music apps and refocus on gaming. Splash Music & Beatmaker shut down on January 16, 2024. Splash Pro was discontinued on April 22, 2024 after just eight months in business. The company's blog post framed it as a return to roots — and the Roblox game and a new Steam title were genuinely thriving — but it was also a clean admission that an AI music wrapper, even one with $20 million in venture funding and Amazon as an investor, could not compete against well-capitalized model labs that had passed it on the technology curve.",
+  "founded": "2017",
+  "shutdown": "2024-04",
+  "funding_raised": "$20M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "ai-music",
+    "generative-ai",
+    "consumer-app",
+    "australia",
+    "music-generation",
+    "amazon-alexa-fund"
+  ],
+  "url": "https://www.splashmusic.com",
+  "sources": [
+    {
+      "url": "https://www.audiocipher.com/post/splash-music",
+      "title": "Splash Music AI Generator Shuts Down, Pivots Back Into Video Games",
+      "date": "2024-04-22",
+      "snapshot_path": "data/snapshots/splash-music/www.audiocipher.com_post_splash-music.html"
+    },
+    {
+      "url": "https://support.splashmusic.com/hc/en-us/articles/25263012025497-FAQ-Splash-Music-Beatmaker-Shutdown",
+      "title": "FAQ: Splash Music & Beatmaker Shutdown",
+      "date": "2024-01-16",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://support.splashmusic.com/hc/en-us/articles/29728838027033-FAQ-Splash-Pro-Shutdown",
+      "title": "FAQ: Splash Pro Shutdown",
+      "date": "2024-04-22",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://musically.com/2021/11/03/splash-raises-20m-to-develop/",
+      "title": "Splash raises $20m to develop its music game and find stars",
+      "date": "2021-11-03",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 84,
+  "total_loss": "$20M",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

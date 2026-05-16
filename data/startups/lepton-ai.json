@@ -1,0 +1,55 @@
+{
+  "name": "Lepton AI",
+  "slug": "lepton-ai",
+  "tagline": "GPU cloud and AI inference platform for renting Nvidia compute and deploying models",
+  "description": "Lepton AI was a Silicon Valley AI inference startup founded in March 2023 by former Alibaba VP and PyTorch/Caffe creator Yangqing Jia, alongside Junjie Bai. The company rented Nvidia GPU servers and offered tooling to deploy AI models in production. Lepton raised an $11 million seed round in May 2023 from CRV and Fusion Fund and built a roughly 20-person team. Nvidia acquired Lepton AI in May 2025 for several hundred million dollars and merged the product into Nvidia NIM and DGX Cloud, ending Lepton as a standalone offering.",
+  "story": "Lepton AI was a bet on a very specific bottleneck in the early generative AI era: thousands of teams wanted to deploy LLMs in production, none of them wanted to operate Kubernetes and CUDA themselves, and AWS Bedrock was still rough. Yangqing Jia had the resume for the moment — he had created Caffe at Berkeley, co-authored PyTorch at Facebook, and run Alibaba Cloud's AI infrastructure as a VP — and in March 2023 he and Junjie Bai launched Lepton AI with the pitch that any AI team should be able to spin up Nvidia GPUs and deploy a model in minutes. CRV and Fusion Fund led an $11 million seed round in May 2023, and Lepton grew to roughly 20 people serving enterprise inference workloads.\n\nThe product worked — Lepton was widely cited as one of the easier ways to run open-source models like Llama and Mistral at scale — but the strategic position was precarious. Lepton was reselling Nvidia GPUs in a market increasingly dominated by hyperscalers (AWS, Azure, Google Cloud) with their own AI inference stacks, by specialist neoclouds like CoreWeave and Lambda Labs with billions in funding, and by Nvidia itself, which was quietly building its own end-to-end developer platform around NIM and DGX Cloud. A 20-person startup competing with all three was always going to need either a moat or an exit.\n\nIn April 2025 reports emerged that Nvidia was in advanced talks to buy Lepton, and in May 2025 the deal closed — reportedly in the several hundred million dollars range. Yangqing Jia and the entire team joined Nvidia. The Lepton platform was migrated into Nvidia's own AI cloud offerings (NIM and related services), and the standalone product was discontinued. For Nvidia it was a quiet but significant move into competing directly with its own hyperscaler customers; for Lepton's investors it was a clean win on paper. For the open ecosystem, it was one fewer independent place to run inference outside of Big Cloud.",
+  "founded": "2023-03",
+  "shutdown": "2025-05",
+  "funding_raised": "$11M",
+  "funding_stage": "seed",
+  "employee_count": 20,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-infrastructure",
+    "gpu-cloud",
+    "inference",
+    "nvidia-acquisition",
+    "model-deployment",
+    "open-source-ai"
+  ],
+  "url": "https://www.lepton.ai",
+  "sources": [
+    {
+      "url": "https://technode.com/2025/04/09/nvidia-acquires-chinese-gpu-cloud-startup-lepton-ai-report/",
+      "title": "NVIDIA acquires Chinese GPU cloud startup Lepton AI: report",
+      "date": "2025-04-09",
+      "snapshot_path": "data/snapshots/lepton-ai/technode.com_2025_04_09_nvidia-acquires-chinese-gpu-cloud-startup-lepton-ai-report_.html"
+    },
+    {
+      "url": "https://www.aiwire.net/2025/04/01/nvidias-strategic-acquisitions-signal-push-toward-full-stack-ai-control/",
+      "title": "Nvidia's Strategic Acquisitions Signal Push Toward Full-Stack AI Control",
+      "date": "2025-04-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.crunchbase.com/organization/lepton-ai",
+      "title": "Lepton AI - Crunchbase Company Profile & Funding",
+      "date": "2025-05-01",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-acquire-server-rental-company-lepton-ai-report/",
+      "title": "Nvidia in talks to acquire server rental company Lepton AI - report",
+      "date": "2025-03-26",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 26,
+  "total_loss": "Acquired",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Limitless AI",
+  "slug": "limitless-ai",
+  "tagline": "AI wearable Pendant and Rewind desktop recorder for personalized memory and meeting transcription",
+  "description": "Limitless AI — formerly Rewind AI — built an always-on AI memory system, first as a Mac app that recorded everything users saw and heard on their screen, then as a $99 wearable Pendant that captured conversations and made them searchable. Founded in 2020 by former Optimizely CEO Dan Siroker and Brett Bejcek, the company raised more than $33 million from a16z, NEA, and First Round Capital. Meta acqui-hired the team in December 2025 and immediately wound down both products: Pendant sales stopped that day, the Rewind Mac app's recording was disabled on December 19, 2025, and service was cut entirely in the EU, UK, Brazil, China, Israel, South Korea, and Turkey.",
+  "story": "Rewind launched in 2022 with a Black Mirror-style pitch: install our Mac app and we'll record literally everything that crosses your screen and microphone, then let you search your own life with natural language. Founder Dan Siroker had built Optimizely into a unicorn before selling it; for Rewind he leaned into the radical-utility angle, demoing the product by recalling specific Zoom comments and email phrases from weeks earlier. The product struck a nerve with knowledge workers tired of forgetting meeting decisions, and a16z led a round that took total funding past $33 million alongside NEA and First Round Capital.\n\nIn 2024 the company pivoted hard. Desktop recording was a narrow market and ran into thorny privacy questions, so the team rebranded as Limitless AI and launched the Pendant — a $99 clip-on or necklace device that recorded ambient audio and synced it to the cloud, where AI transcribed and indexed every conversation. The Pendant got real traction with a particular slice of power users, but it landed in an increasingly crowded field: Humane's AI Pin had imploded, Friend was preparing to ship, and Meta, OpenAI, and Apple were all working on their own always-listening hardware. Competing on hardware against trillion-dollar platform companies with chips, OS access, and infinite distribution was always going to be punishing.\n\nOn December 5, 2025, Meta announced it was acquiring Limitless and folding the team into Reality Labs. The deal terms were not disclosed, but the operational consequences were brutal for anyone who had bought into the product. Pendant sales ended that day. Subscription fees were waived but the Rewind Mac app stopped recording on December 19. Users in the EU, UK, Brazil, China, Israel, South Korea, and Turkey were cut off entirely and given two weeks to export data before deletion. Existing Pendants would keep working for a year on a free tier, then become paperweights. Rewind's original promise of a personal AI memory you owned and controlled ended the moment its team became part of Meta.",
+  "founded": "2020",
+  "shutdown": "2025-12",
+  "funding_raised": "$33M",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-wearable",
+    "personal-ai",
+    "memory",
+    "transcription",
+    "consumer-hardware",
+    "meta-acquisition"
+  ],
+  "url": "https://www.limitless.ai",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "title": "Meta acquires AI device startup Limitless",
+      "date": "2025-12-05",
+      "snapshot_path": "data/snapshots/limitless-ai/techcrunch.com_2025_12_05_meta-acquires-ai-device-startup-limitless_.html"
+    },
+    {
+      "url": "https://9to5mac.com/2025/12/05/rewind-limitless-meta-acquisition/",
+      "title": "Rewind Mac app shutting down following Meta acquisition",
+      "date": "2025-12-05",
+      "snapshot_path": "data/snapshots/limitless-ai/9to5mac.com_2025_12_05_rewind-limitless-meta-acquisition_.html"
+    },
+    {
+      "url": "https://winbuzzer.com/2025/12/05/meta-acquires-ai-wearables-startup-limitless-kills-pendant-sales-and-sunsets-rewind-app-xcxwbn/",
+      "title": "Meta Acquires AI Wearables Startup Limitless, Kills Pendant Sales and Sunsets Rewind App",
+      "date": "2025-12-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.hedy.ai/post/meta-acquires-limitless-ai-privacy/",
+      "title": "Meta Acquires Limitless AI: Rewind Shuts Down December 19, 2025",
+      "date": "2025-12-05",
+      "snapshot_path": "data/snapshots/limitless-ai/www.hedy.ai_post_meta-acquires-limitless-ai-privacy_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 60,
+  "total_loss": "$33M",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

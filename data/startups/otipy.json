@@ -1,0 +1,62 @@
+{
+  "name": "Otipy",
+  "slug": "otipy",
+  "tagline": "Indian farm-to-fork agritech using AI for demand forecasting and supply chain optimization",
+  "description": "Gurugram-based Otipy, a wholly owned subsidiary of Crofarm Agriproducts founded by Varun Khurana and Prashant Jain in 2020, was a tech-enabled farm-to-fork vegetable supplier that used AI-driven demand forecasting and route optimisation in a B2B2C community-reseller model. It raised approximately USD 44m in total, including a USD 32m Series B led by WestBridge Capital in 2022 with participation from SIG and Omidyar Network India. Revenue grew 68% YoY to INR 160 Cr in FY24 with losses narrowing to INR 52 Cr. The company shut down on 17 May 2025 after the lead investor for a planned USD 10m extension round (reportedly the Hero family office) withdrew at the last moment. Roughly 300 employees lost jobs; salaries had gone unpaid for 1.5 months at shutdown.",
+  "story": "Otipy was launched in June 2020 by Varun Khurana and Prashant Jain as the direct-to-consumer arm of Crofarm Agriproducts, a B2B vegetable supply business the pair had been running since 2016. The Gurugram-based startup sourced produce directly from farms and used AI-driven demand forecasting and route optimisation to push fresh vegetables through a community-reseller network of women in residential neighbourhoods. The model promised farmers higher prices, reduced waste, and a shorter cold chain than traditional mandi-based wholesale.\n\nThe pitch attracted significant venture backing. Otipy raised approximately USD 44m in total, anchored by a USD 32m Series B led by WestBridge Capital in 2022 with participation from SIG and Omidyar Network India. Operationally the business looked like it was working: revenue grew 68 percent year-on-year to INR 160 crore in FY24, and losses narrowed to INR 52 crore. Management told employees and investors a bridge round of USD 10m would carry the company to profitability.\n\nThat round did not close. According to Inc42 and YourStory, the lead investor for the planned extension, reportedly the Hero family office, withdrew at the last moment. Existing backers, weary of the cash burn and unwilling to fund the gap alone, declined to step up. By May 2025 salaries had gone unpaid for roughly 1.5 months, and on 17 May Otipy shut operations, leaving around 300 employees out of work and customers with prepaid subscriptions stranded.\n\nThe shutdown coincided with the surge of well-capitalised quick-commerce players, Blinkit, Zepto, and Instamart, who could deliver groceries in under 15 minutes at prices Otipy's community-reseller model could not match. Otipy joined a long list of Indian agritech and farm-to-fork startups, Country Delight, DeHaat, and Ninjacart-adjacent businesses included, that found AI-optimised supply chains were not enough to outrun a venture capital winter and a quick-commerce gross-margin war.",
+  "founded": "2020-06",
+  "shutdown": "2025-05-17",
+  "funding_raised": "$44M",
+  "funding_stage": "series-b",
+  "employee_count": 300,
+  "category": "funding",
+  "tags": [
+    "agritech",
+    "india",
+    "supply-chain",
+    "demand-forecasting",
+    "quick-commerce",
+    "farm-to-fork",
+    "social-commerce"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/otipy-shuts-operations-amid-cash-crunch/",
+      "title": "Exclusive: WestBridge-Backed Otipy Shuts Operations Amid Cash Crunch",
+      "date": "2025-05-19",
+      "snapshot_path": "data/snapshots/otipy/inc42.com_buzz_otipy-shuts-operations-amid-cash-crunch_.html"
+    },
+    {
+      "url": "https://yourstory.com/2025/05/farm-to-consumer-startup-otipy-shuts-down-employees-customers-seek-clarity-layoff",
+      "title": "Farm-to-consumer startup Otipy shuts down; employees, customers seek clarity",
+      "date": "2025-05-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://agritechdigest.com/indian-agritech-startup-otipy-shuts-down-after-funding-failure/",
+      "title": "Indian Agritech Startup Otipy Shuts Down After Funding Failure",
+      "date": "2025-05-20",
+      "snapshot_path": "data/snapshots/otipy/agritechdigest.com_indian-agritech-startup-otipy-shuts-down-after-funding-failure_.html"
+    },
+    {
+      "url": "https://startuptalky.com/news/otipy-shuts-down/",
+      "title": "WestBridge-Backed Otipy Shuts Down Amid Severe Cash Crunch",
+      "date": "2025-05-20",
+      "snapshot_path": "data/snapshots/otipy/startuptalky.com_news_otipy-shuts-down_.html"
+    },
+    {
+      "url": "https://indianstartupnews.com/news/subscription-based-grocery-provider-otipy-shuts-down-amid-q-commerce-rise-report-9302195",
+      "title": "Subscription-based grocery provider Otipy shuts down amid q-commerce rise",
+      "date": "2025-05-19",
+      "snapshot_path": "data/snapshots/otipy/indianstartupnews.com_news_subscription-based-grocery-provider-otipy-shuts-down-amid-q-commerce-rise-report-9302195.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 59,
+  "total_loss": "$44M raised; ~300 employees laid off; salaries unpaid for 1.5 months at closure",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Log9 Materials",
+  "slug": "log9-materials",
+  "tagline": "Indian deeptech startup building AI-optimized lithium-titanate batteries for EVs",
+  "description": "Bengaluru-based Log9 Materials, founded in 2015 by Dr. Akshay Singhal, Kartik Hajela and Pankaj Sharma, was a deeptech battery startup that built AI-optimised battery management and lithium-titanate (LTO) cells for commercial EVs. After pivoting from aluminium-air fuel cells, Log9 raised over USD 75m from Peak XV (formerly Sequoia Surge), Exfinity, Amara Raja Batteries and Petronas Ventures, hitting a USD 227m valuation. Its LTO bet collapsed in 2024 when Chinese LFP cell prices fell from USD 95/kWh to USD 53/kWh while Log9 was sourcing LTO at USD 350/kWh. Layoffs cut headcount from ~350 to ~40; cofounder Hajela exited; and on 14 November 2025 the NCLT Bengaluru bench admitted Log9 Materials and Log9 Mobility into insolvency over INR 6.7 Cr in defaults to Ghalla & Bhansali Securities, appointing Neeraja Kartik as interim resolution professional.",
+  "story": "Log9 Materials was founded in Bengaluru in 2015 by IIT Roorkee alumnus Akshay Singhal, alongside Kartik Hajela and Pankaj Sharma, around graphene research. The company pivoted several times, from aluminium-air fuel cells to graphene-based ultracapacitors, before settling on lithium-titanate (LTO) battery cells aimed at India's commercial EV market: two-wheelers, three-wheelers, and last-mile delivery fleets. The LTO chemistry promised faster charging and longer cycle life than the lithium-iron-phosphate (LFP) cells that dominated the market, and Log9 wrapped its proprietary battery management with AI-driven thermal modelling to extend pack life in Indian heat.\n\nThe pitch worked. Log9 raised more than USD 75m from Peak XV (formerly Sequoia India's Surge programme), Exfinity Venture Partners, Amara Raja Batteries, and Petronas Ventures, reaching a USD 227m valuation. Headcount grew to roughly 350 across Bengaluru and four other Indian cities. The company opened a cell-manufacturing line and signed pilot deals with fleet operators.\n\nThe collapse, traced in detail by Inc42 and The CapTable, was driven by raw-material economics. Through 2024, Chinese LFP cell prices fell from USD 95/kWh to USD 53/kWh as overcapacity hit the global cell market. Log9 was still sourcing LTO cells at roughly USD 350/kWh. No amount of AI-optimised thermal management closed a six-times cost gap on the bill of materials. Customers defected to LFP-based competitors. Layoffs cut headcount from around 350 to about 40. Cofounder Kartik Hajela exited. Physical centres in Hyderabad, Jaipur, Mumbai, and Chennai were shut.\n\nOn 14 November 2025, the National Company Law Tribunal's Bengaluru bench admitted Log9 Materials and sister company Log9 Mobility into insolvency proceedings, triggered by a default of INR 6.7 Cr owed to Ghalla & Bhansali Securities. Neeraja Kartik was appointed as interim resolution professional. The case is one of the highest-profile insolvencies of India's deeptech wave, and a clear example of an AI-and-chemistry story losing to a price curve set in Chinese gigafactories.",
+  "founded": "2015",
+  "shutdown": "2025-11-14",
+  "funding_raised": "$75M+",
+  "funding_stage": "series-b",
+  "employee_count": 350,
+  "category": "competition",
+  "tags": [
+    "deeptech",
+    "batteries",
+    "ev",
+    "india",
+    "manufacturing",
+    "lithium-titanate",
+    "nclt-insolvency"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/features/log9-materials-collapse-battery-tech-startup-cash-crunch/",
+      "title": "The Log9 Collapse: How The Battery Tech Startup Fell From Glory",
+      "date": "2025-06-15",
+      "snapshot_path": "data/snapshots/log9-materials/inc42.com_features_log9-materials-collapse-battery-tech-startup-cash-crunch_.html"
+    },
+    {
+      "url": "https://inc42.com/buzz/exclusive-nclt-sends-log9-into-insolvency-after-inr-6-7-cr-default/",
+      "title": "Exclusive: NCLT Sends Log9 Into Insolvency After INR 6.7 Cr Default",
+      "date": "2025-11-14",
+      "snapshot_path": "data/snapshots/log9-materials/inc42.com_buzz_exclusive-nclt-sends-log9-into-insolvency-after-inr-6-7-cr-default_.html"
+    },
+    {
+      "url": "https://the-captable.com/2025/03/log9-ev-battery-crisis/",
+      "title": "Inside the collapse of Peak XV-backed Log9",
+      "date": "2025-03-01",
+      "snapshot_path": "data/snapshots/log9-materials/the-captable.com_2025_03_log9-ev-battery-crisis_.html"
+    },
+    {
+      "url": "https://www.tice.news/tice-trending/another-startup-fall-why-leading-ev-battery-startup-log9-materials-crashed-9024120",
+      "title": "Another Startup Fall: Why Leading EV Battery Startup Log9 Materials Crashed?",
+      "date": "2025-11-15",
+      "snapshot_path": "data/snapshots/log9-materials/www.tice.news_tice-trending_another-startup-fall-why-leading-ev-battery-startup-log9-materials-crashed-9024120.html"
+    },
+    {
+      "url": "https://startupwired.com/2025/05/03/the-log9-collapse-how-a-deep-tech-darling-fell-from-grace/",
+      "title": "The Log9 Collapse: How a Deep-Tech Darling Fell from Grace",
+      "date": "2025-05-03",
+      "snapshot_path": "data/snapshots/log9-materials/startupwired.com_2025_05_03_the-log9-collapse-how-a-deep-tech-darling-fell-from-grace_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 122,
+  "total_loss": "Insolvency after ~$75M raised; headcount cut from 350 to ~40; physical centres in Hyderabad, Jaipur, Mumbai, Chennai shut",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

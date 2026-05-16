@@ -1,0 +1,62 @@
+{
+  "name": "Vertical Future",
+  "slug": "vertical-future",
+  "tagline": "London vertical farming startup running AI-monitored indoor micro-crop farms",
+  "description": "Vertical Future, founded by Jamie and Marie-Alexandrine Burrows in 2016, ran eight indoor vertical farms across the UK growing micro-crops and leafy greens, marketing AI- and data-driven crop monitoring and climate control as a differentiator. It raised over GBP 37m from investors including Earthworm Capital, SFC Capital, Pula Investments and Q Capital. Turnover collapsed from GBP 6.7m to GBP 692k in 2024 with losses exceeding GBP 10m; the company sought a GBP 60m scaling round that never materialised. KBL Advisory was appointed administrator on 5 August 2025, with CEO Jamie Burrows and other directors stepping down on 8 August. 32 staff were on payroll at the time of sale listing.",
+  "story": "Vertical Future was founded in 2016 by husband-and-wife team Jamie and Marie-Alexandrine Burrows, who positioned the London startup as the data-driven challenger to a sector dominated by ex-greenhouse operators. The company built and ran eight indoor farms across the UK growing micro-crops, herbs, and leafy greens, and marketed AI- and sensor-driven crop monitoring to retail customers and to a separate technology arm selling vertical-farm systems to outside operators.\n\nThe company raised more than GBP 37m across multiple rounds, including a GBP 21m round in January 2022 that City AM described as one of the largest vertical-farming raises in Europe. Backers included Earthworm Capital, SFC Capital, Pula Investments, and Q Capital. The plan was to use the proceeds to scale farm count, sign supermarket supply contracts, and license the technology stack internationally.\n\nThe trajectory inverted in 2024. Turnover collapsed from GBP 6.7m to GBP 692k, a roughly 90 percent decline, and losses exceeded GBP 10m, according to filings cited by Sifted. The company put itself up for sale in mid-2025 while attempting to close a GBP 60m scaling round that never materialised. No buyer emerged on terms management could accept. On 5 August 2025, KBL Advisory was appointed as administrators of Vertical Future, and on 8 August CEO Jamie Burrows and other directors stepped down. Thirty-two staff were on payroll at the time of the sale listing.\n\nThe collapse arrived alongside Jones Food Company's administration four months earlier, leaving the UK's two best-funded vertical-farming operators in insolvency within a single year. The AI-driven monitoring layer that differentiated Vertical Future on the pitch deck did what it was supposed to do; the supermarket shelf prices it had to compete against did not move.",
+  "founded": "2016",
+  "shutdown": "2025-08-05",
+  "funding_raised": "GBP 37m+",
+  "funding_stage": "series-b",
+  "employee_count": 32,
+  "category": "market",
+  "tags": [
+    "vertical-farming",
+    "agtech",
+    "uk",
+    "controlled-environment-agriculture",
+    "europe",
+    "micro-crops",
+    "london"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://sifted.eu/articles/vertical-future-agritech",
+      "title": "UK agritech Vertical Future up for sale after losses mount",
+      "date": "2025-07-01",
+      "snapshot_path": "data/snapshots/vertical-future/sifted.eu_articles_vertical-future-agritech.html"
+    },
+    {
+      "url": "https://www.verticalfarmdaily.com/article/9756376/vertical-future-formally-enters-administration/",
+      "title": "Vertical Future formally enters administration",
+      "date": "2025-08-05",
+      "snapshot_path": "data/snapshots/vertical-future/www.verticalfarmdaily.com_article_9756376_vertical-future-formally-enters-administration_.html"
+    },
+    {
+      "url": "https://igrownews.com/vertical-future-latest-news/",
+      "title": "Vertical Future Explores Sale Following Financial Losses and Funding Challenges",
+      "date": "2025-08-01",
+      "snapshot_path": "data/snapshots/vertical-future/igrownews.com_vertical-future-latest-news_.html"
+    },
+    {
+      "url": "https://www.fruitnet.com/fresh-produce-journal/vertical-future-in-administration-after-losses-widen/268300.article",
+      "title": "Vertical Future in administration after losses widen",
+      "date": "2025-08-13",
+      "snapshot_path": "data/snapshots/vertical-future/www.fruitnet.com_fresh-produce-journal_vertical-future-in-administration-after-losses-widen_268300.article.html"
+    },
+    {
+      "url": "https://www.cityam.com/vertical-future-revels-in-21m-funding-round-as-it-plots-dominance-of-controlled-farming-sector/",
+      "title": "Vertical Future revels in £21m funding round as it plots dominance of controlled farming sector",
+      "date": "2022-01-18",
+      "snapshot_path": "data/snapshots/vertical-future/www.cityam.com_vertical-future-revels-in-21m-funding-round-as-it-plots-dominance-of-controlled-farming-sector_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 112,
+  "total_loss": "GBP 37m+ raised; GBP 10m+ losses in 2024; turnover collapsed from GBP 6.7m to GBP 692k",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}

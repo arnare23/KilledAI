@@ -1,0 +1,49 @@
+{
+  "name": "EzDubs",
+  "slug": "ezdubs",
+  "tagline": "AI real-time voice translation for phone calls preserving the speaker's original voice",
+  "description": "EzDubs was a Y Combinator-backed AI translation startup founded in 2023 by Padmanabhan Krishnamurthy, Amrutavarsh Kinagi, and Kareem Nassar. Its consumer app translated phone calls in real time across 30+ languages while preserving each speaker's original voice. The company raised $4.2 million in seed funding led by Venture Highway with backing from Replit's Amjad Masad and Replicate's Ben Firshman. Cisco acquired the team in November 2025 and shut down all EzDubs consumer apps on December 15, 2025, folding the technology into Webex.",
+  "story": "EzDubs was one of those Y Combinator-era AI consumer plays where the demo did most of the selling: dial a number, speak English, and the person on the other end hears your own voice rendered in fluent Spanish or Hindi a fraction of a second later. Co-founder Kareem Nassar had previously worked at Cisco's Speech AI group, and the trio built a system that could handle real-time voice translation across more than 30 languages without flattening the speaker's identity into a generic synthetic voice. Venture Highway, run by ex-WhatsApp business chief Neeraj Arora, led a $4.2 million seed round in 2024 with check-ins from Replit's Amjad Masad, Applied Intuition's Qasar Younis, and Replicate's Ben Firshman — a who's-who of consumer-AI angels.\n\nThe consumer market never materialized at scale. Real-time call translation is the kind of feature that's genuinely magical once a year, when you call a relative or close a deal across a language barrier — and roughly worthless the other 364 days. Meanwhile every major platform was racing to build the same thing natively: Apple shipped Live Translation in iOS 18, Google embedded it in Pixel calls, and Microsoft baked it into Teams. The market for a standalone consumer app collapsed underneath EzDubs before it could find a sustainable wedge.\n\nIn November 2025 Cisco bought the team for an undisclosed sum and announced that EzDubs' consumer apps would sunset on December 15, 2025. The technology lives on inside Cisco Collaboration products like Webex video and messaging — useful infrastructure for enterprise customers, but a long way from the consumer translation app the founders had pitched. For users who'd built EzDubs into their daily workflow, the December 15 cutoff was final: no migration path, no successor product, just a deprecation notice and a thank-you note.",
+  "founded": "2023",
+  "shutdown": "2025-12",
+  "funding_raised": "$4.2M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "translation",
+    "voice-ai",
+    "real-time",
+    "y-combinator",
+    "speech-ai",
+    "consumer-ai"
+  ],
+  "url": "https://www.ezdubs.ai",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/",
+      "title": "Cisco acquires translation startup EzDubs",
+      "date": "2025-11-17",
+      "snapshot_path": "data/snapshots/ezdubs/techcrunch.com_2025_11_17_cisco-acquires-translation-startup-ezdubs_.html"
+    },
+    {
+      "url": "https://www.cisco.com/site/us/en/about/corporate-development/acquisitions/ezdubs/index.html",
+      "title": "Cisco completes EzDubs acquisition",
+      "date": "2025-11-25",
+      "snapshot_path": "data/snapshots/ezdubs/www.cisco.com_site_us_en_about_corporate-development_acquisitions_ezdubs_index.html.html"
+    },
+    {
+      "url": "https://www.techbuzz.ai/articles/cisco-acquires-ai-translation-startup-ezdubs-for-webex",
+      "title": "Cisco Acquires AI Translation Startup EzDubs for Webex",
+      "date": "2025-11-17",
+      "snapshot_path": "data/snapshots/ezdubs/www.techbuzz.ai_articles_cisco-acquires-ai-translation-startup-ezdubs-for-webex.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 33,
+  "total_loss": "Undisclosed",
+  "created_at": "2026-05-16T00:00:00Z",
+  "updated_at": "2026-05-16T00:00:00Z"
+}
