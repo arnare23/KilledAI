@@ -1,0 +1,69 @@
+{
+  "name": "Esperanto Technologies",
+  "slug": "esperanto-technologies",
+  "tagline": "RISC-V AI accelerator chip startup built around a 1,000-core processor",
+  "description": "Esperanto Technologies raised about $124 million to build energy-efficient RISC-V AI inference chips but never won hyperscale customers and lost key engineers to far better-paying rivals. It wound down its silicon business in July 2025, and its IP was sold to Ainekko, which open-sourced it.",
+  "story": "Esperanto Technologies was founded in Mountain View in 2014 by Dave Ditzel, the founder of Transmeta, to build power-efficient processors on the open RISC-V instruction set. It raised about $124 million, including a $58 million Series B in 2018 and a $61 million round in 2021, and grew to about 140 people with design teams in Spain and Serbia.\n\nIts flagship ET-SoC-1, announced in December 2020, packed 1,088 RISC-V cores onto a single 7nm chip aimed at recommendation-model inference in data centers. In 2023 the company repositioned toward generative AI, demonstrating 13-billion-parameter language models running on one chip at around 25 watts, and planned a second-generation chiplet on a 4nm process.\n\nEnergy efficiency did not win hyperscale customers, who were buying Nvidia GPUs or designing their own silicon. Analysts said Esperanto's practice of gating access behind evaluation requests, without open sales or pricing, further limited traction. Meanwhile the AI chip boom set off a fight for engineers. \"We were subject to incredible raids by deep-pocketed competitors who offered packages two, three, even four times higher than what we were able to offer as a small company,\" CEO Art Swift told EE Times. Losing its European design team was especially damaging.\n\nIn July 2025 Esperanto wound down its silicon business, cutting about 90% of its staff, closing its Spanish and Serbian operations, and seeking buyers or licensees for its technology. In October 2025 edge-AI software startup Ainekko acquired its hardware and software IP, and in November announced it would release the architecture as open source under the Apache 2.0 license.\n\nEsperanto's chips worked. In a market dominated by Nvidia and hyperscalers' in-house designs, that was not enough to secure customers or to keep the team that built them.",
+  "founded": "2014",
+  "shutdown": "2025-07",
+  "funding_raised": "$124M",
+  "funding_stage": "series-b",
+  "employee_count": 140,
+  "category": "competition",
+  "tags": [
+    "usa",
+    "ai-chips",
+    "semiconductors",
+    "risc-v",
+    "inference",
+    "hardware",
+    "talent-war",
+    "ip-sale"
+  ],
+  "url": "https://www.esperanto.ai",
+  "sources": [
+    {
+      "url": "https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/",
+      "title": "AI Startup Esperanto Winds Down Silicon Business (EE Times)",
+      "date": "2025-07-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.eetimes.com/ainekko-buys-esperanto-hardware-ip-open-sources-it/",
+      "title": "Ainekko Buys Esperanto Hardware IP, Open-Sources It (EE Times)",
+      "date": "2025-11-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/11/19/3191016/0/en/Ainekko-Acquires-Esperanto-Technologies-Intellectual-Property-to-Power-Open-Source-Edge-AI-Platform.html",
+      "title": "Ainekko Acquires Esperanto Technologies' Intellectual Property to Power Open-Source Edge AI Platform (GlobeNewswire)",
+      "date": "2025-11-19",
+      "snapshot_path": "data/snapshots/esperanto-technologies/www.globenewswire.com_news-release_2025_11_19_3191016_0_en_Ainekko-Acquires-Esperanto-Technologies-Intellectual-Property-to-Power-Open-Source-Edge-AI-Platform.html.html"
+    },
+    {
+      "url": "https://www.jonpeddie.com/news/ainekko-acquires-esperanto-ip/",
+      "title": "Ainekko acquires Esperanto IP (Jon Peddie Research)",
+      "date": "2025-11-20",
+      "snapshot_path": "data/snapshots/esperanto-technologies/www.jonpeddie.com_news_ainekko-acquires-esperanto-ip_.html"
+    },
+    {
+      "url": "https://www.nextplatform.com/2021/09/20/esperanto-chip-drives-ml-inference-performance-and-power-efficiency/",
+      "title": "RISC-V Upstart Targets ML Inference Performance, Power Efficiency (The Next Platform)",
+      "date": "2021-09-20",
+      "snapshot_path": "data/snapshots/esperanto-technologies/www.nextplatform.com_2021_09_20_esperanto-chip-drives-ml-inference-performance-and-power-efficiency_.html"
+    },
+    {
+      "url": "https://www.electronicdesign.com/markets/automation/article/21807271/startup-esperanto-technologies-raises-58-million",
+      "title": "Startup Esperanto Technologies Raises $58 Million (Electronic Design)",
+      "date": "2018",
+      "snapshot_path": "data/snapshots/esperanto-technologies/www.electronicdesign.com_markets_automation_article_21807271_startup-esperanto-technologies-raises-58-million.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 138,
+  "total_loss": "$124M (IP sold to Ainekko for an undisclosed sum)",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

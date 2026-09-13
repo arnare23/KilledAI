@@ -1,0 +1,76 @@
+{
+  "name": "Jiyue Auto",
+  "slug": "jiyue-auto",
+  "tagline": "Baidu-Geely 'robocar' EV brand built around Apollo autonomous driving",
+  "description": "Jiyue, the Baidu-Geely EV venture, marketed AI-first 'robocars' built on Baidu's Apollo self-driving and AI technology but sold only about 14,000 cars in 2024 amid China's EV price war. When a planned CNY 3 billion financing collapsed in December 2024, it disbanded most of its teams; its entities remain in court-supervised restructuring.",
+  "story": "Baidu announced in January 2021 that it would build cars with Geely, and Jidu Auto was established that March, 55% owned by Baidu. The pitch was that Baidu's AI, including its Apollo self-driving platform, would turn the cars into 'robots on wheels', while Geely supplied manufacturing. Caixin later reported that Baidu invested about CNY 5 billion. In 2022 the venture raised a roughly $400 million Series A and unveiled the ROBO-01 concept.\n\nThe company was slow to reach market. Lacking its own production license, it was restructured in 2023 into Jiyue, with Geely taking majority control, and launched its first production car, the Jiyue 01 SUV, in October 2023. By then China's EV market was locked in a price war and crowded with tech-backed rivals, including Huawei's partner brands and, from 2024, Xiaomi. The Jiyue 07 sedan followed in September 2024, but the brand sold only about 14,000 cars that year. Cumulative losses reached roughly CNY 7 billion.\n\nIn the second half of 2024 a planned CNY 3 billion funding round collapsed after Baidu pulled back, and lenders declined to renew credit lines. On 11 December 2024 CEO Xia Yiping told employees the company would cut projects and merge departments, acknowledging that staff benefits had gone unpaid. Most teams were disbanded, deliveries halted, and suppliers were left with unpaid bills. Baidu and Geely blamed 'huge changes' in the competitive landscape and set up a joint account to cover wages, refunds and after-sales service. A Shanghai court accepted a pre-restructuring petition in November 2025, and in May 2026 six Jiyue entities entered consolidated restructuring, which remains ongoing.\n\nJiyue showed that two corporate giants and a strong AI narrative could not substitute for sales in a market defined by price.",
+  "founded": "2021-03",
+  "shutdown": "2024-12-11",
+  "funding_raised": "CNY 5B+ from Baidu (incl. ~$400M 2022 Series A) plus Geely capital",
+  "funding_stage": "corporate joint venture (Baidu/Geely)",
+  "employee_count": null,
+  "category": "competition",
+  "tags": [
+    "china",
+    "electric-vehicles",
+    "autonomous-driving",
+    "baidu",
+    "geely",
+    "automotive",
+    "joint-venture",
+    "ev-price-war",
+    "restructuring"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://technode.com/2024/12/12/baidus-jv-with-geely-becomes-the-latest-chinese-ev-maker-struggling-with-money-problems/",
+      "title": "Baidu-Geely JV is the latest EV maker struggling with money issues (TechNode)",
+      "date": "2024-12-12",
+      "snapshot_path": "data/snapshots/jiyue-auto/technode.com_2024_12_12_baidus-jv-with-geely-becomes-the-latest-chinese-ev-maker-struggling-with-money-problems_.html"
+    },
+    {
+      "url": "https://carnewschina.com/2024/12/12/geely-baidu-jv-jiyue-cuts-projects-due-to-financial-troubles/",
+      "title": "Geely & Baidu JV Jiyue cuts projects due to financial troubles, denies bankruptcy (CarNewsChina)",
+      "date": "2024-12-12",
+      "snapshot_path": "data/snapshots/jiyue-auto/carnewschina.com_2024_12_12_geely-baidu-jv-jiyue-cuts-projects-due-to-financial-troubles_.html"
+    },
+    {
+      "url": "https://www.carscoops.com/2024/12/geelys-jiyue-ev-brand-on-the-brink-of-collapse-amid-debt-spiral-and-slow-sales/",
+      "title": "Geely's Jiyue EV Brand On The Brink Of Collapse Amid Debt Spiral And Slow Sales (Carscoops)",
+      "date": "2024-12-12",
+      "snapshot_path": "data/snapshots/jiyue-auto/www.carscoops.com_2024_12_geelys-jiyue-ev-brand-on-the-brink-of-collapse-amid-debt-spiral-and-slow-sales_.html"
+    },
+    {
+      "url": "https://hongkongfp.com/2024/12/14/chinas-baidu-geely-blame-huge-changes-in-electric-vehicle-landscape-for-sudden-staffing-cuts/",
+      "title": "China's Baidu, Geely blame 'huge changes' in electric vehicle landscape for sudden staffing cuts (AFP / Hong Kong Free Press)",
+      "date": "2024-12-14",
+      "snapshot_path": "data/snapshots/jiyue-auto/hongkongfp.com_2024_12_14_chinas-baidu-geely-blame-huge-changes-in-electric-vehicle-landscape-for-sudden-staffing-cuts_.html"
+    },
+    {
+      "url": "https://www.caixinglobal.com/2024-12-23/cover-story-baidu-geely-joint-ev-failure-reflects-treacherousness-of-chinese-market-102270938.html",
+      "title": "Cover Story: Baidu-Geely Joint EV Failure Reflects Treacherousness of Chinese Market (Caixin)",
+      "date": "2024-12-23",
+      "snapshot_path": "data/snapshots/jiyue-auto/www.caixinglobal.com_2024-12-23_cover-story-baidu-geely-joint-ev-failure-reflects-treacherousness-of-chinese-market-102270938.html.html"
+    },
+    {
+      "url": "https://chinaevhome.com/2025/05/14/flash-jiyue-in-talks-with-3-4-parties-to-avert-bankruptcy/",
+      "title": "JIYUE in Talks with 3-4 Parties to Avert Bankruptcy (ChinaEVHome)",
+      "date": "2025-05-14",
+      "snapshot_path": "data/snapshots/jiyue-auto/chinaevhome.com_2025_05_14_flash-jiyue-in-talks-with-3-4-parties-to-avert-bankruptcy_.html"
+    },
+    {
+      "url": "https://finance.biggo.com/news/JhsK550BLfE1EzqP0afx",
+      "title": "Jiyue Auto's Six Affiliates Enter Substantive Consolidation Restructuring (BigGo Finance)",
+      "date": "2026-05-02",
+      "snapshot_path": "data/snapshots/jiyue-auto/finance.biggo.com_news_JhsK550BLfE1EzqP0afx.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 45,
+  "total_loss": "~CNY 7B (~$960M) cumulative losses; unpaid suppliers and staff",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

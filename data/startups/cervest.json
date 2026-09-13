@@ -1,0 +1,68 @@
+{
+  "name": "Cervest",
+  "slug": "cervest",
+  "tagline": "AI-powered climate risk intelligence platform for physical assets",
+  "description": "London-based Cervest raised more than $40 million to build EarthScan, an AI platform for asset-level climate risk, and was named by the UK government among the country's leading AI companies in March 2023. Weeks later its funding round failed, staff went unpaid, and it entered administration in June 2023, with its IP sold to Mitiga Solutions.",
+  "story": "Iggy Bassi founded Cervest in London in 2015 to make climate science usable for business decisions. Its EarthScan platform used machine learning and climate models to score how exposed physical assets, from factories to farmland, were to floods, heat, drought and wildfire under different warming scenarios. After a $5.2 million seed round in 2019, Cervest raised a $30 million Series A in May 2021 led by Draper Esprit, with Lowercarbon Capital and Marc Benioff's TIME Ventures participating, taking total funding past $40 million.\n\nCervest launched EarthScan on a freemium model, signed collaborations with Capgemini and Accenture, and grew to more than 100 staff. But the market for asset-level climate risk analytics was still young, and the company was burning cash as venture funding tightened through 2022 and 2023.\n\nBassi told employees in December 2022 that funding was secured through 2023. On 29 March 2023 the UK's Department for Science, Innovation and Technology listed Cervest among ten companies at the forefront of British AI. Behind the scenes, its fundraise was failing. UK staff pay fell behind from April, and May wages were not paid after expected investment reportedly fell through. With no buyer or investor found, Interpath Advisory was appointed administrator on 20 June 2023. The company stopped trading and its 71 remaining UK employees were made redundant, left to claim unpaid wages from the government's Redundancy Payments Service. Days later the administrators sold Cervest's intellectual property to Barcelona-based Mitiga Solutions.\n\nCervest shows how public endorsement and a credible product offer little protection when a company depends on a next round that never closes.",
+  "founded": "2015",
+  "shutdown": "2023-06-20",
+  "funding_raised": "$40M+ ($5.2M seed, $30M Series A, later funding)",
+  "funding_stage": "Series A",
+  "employee_count": 100,
+  "category": "funding",
+  "tags": [
+    "uk",
+    "climate-tech",
+    "climate-risk",
+    "geospatial-ai",
+    "enterprise-saas",
+    "administration",
+    "unpaid-wages"
+  ],
+  "url": "https://cervest.earth",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2021/05/20/climate-risk-platform-cervest-raises-30m-series-a-led-by-draper-esprit/",
+      "title": "Climate risk platform Cervest raises $30M Series A led by Draper Esprit (TechCrunch)",
+      "date": "2021-05-20",
+      "snapshot_path": "data/snapshots/cervest/techcrunch.com_2021_05_20_climate-risk-platform-cervest-raises-30m-series-a-led-by-draper-esprit_.html"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/cervest-secures-30-million-in-series-a-funding-to-launch-worlds-first-ai-powered-climate-intelligence-platform-and-lead-new-40-billion-market-301295454.html",
+      "title": "Cervest secures $30 million in Series A funding to launch AI-powered Climate Intelligence platform (PR Newswire)",
+      "date": "2021-05-20",
+      "snapshot_path": "data/snapshots/cervest/www.prnewswire.com_news-releases_cervest-secures-30-million-in-series-a-funding-to-launch-worlds-first-ai-powered-climate-intelligence-platform-and-lead-new-40-billion-market-301295454.html.html"
+    },
+    {
+      "url": "https://interpath.com/media-hub/articles/administrators-appointed-to-cervest-limited/",
+      "title": "Administrators appointed to Cervest Limited (Interpath Advisory)",
+      "date": "2023-06-20",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1019362/hotly-tipped-british-ai-company-cervest-goes-bust-leaving-100-without-pay-1019362.html",
+      "title": "Hotly tipped British AI company Cervest goes bust, leaving 100 without pay (Proactive Investors)",
+      "date": "2023-06-29",
+      "snapshot_path": "data/snapshots/cervest/www.proactiveinvestors.co.uk_companies_news_1019362_hotly-tipped-british-ai-company-cervest-goes-bust-leaving-100-without-pay-1019362.html.html"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/government-said-ai-firm-cervest-105059408.html",
+      "title": "The Government said AI firm Cervest could 'transform lives' - it was weeks from collapse (Evening Standard)",
+      "date": "2023-06-30",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.mitigasolutions.com/press/mitiga-solutions-acquires-cervests-intellectual-property-rights",
+      "title": "Mitiga Solutions Acquires Cervest IP to Boost Climate Innovation (Mitiga Solutions)",
+      "date": "2023-07-05",
+      "snapshot_path": "data/snapshots/cervest/www.mitigasolutions.com_press_mitiga-solutions-acquires-cervests-intellectual-property-rights.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 101,
+  "total_loss": "$40M+ in venture funding; IP sold out of administration",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

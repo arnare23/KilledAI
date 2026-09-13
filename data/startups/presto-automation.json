@@ -1,0 +1,82 @@
+{
+  "name": "Presto Automation",
+  "slug": "presto-automation",
+  "tagline": "Drive-thru voice AI company that disclosed most of its 'automated' orders needed human agents",
+  "description": "Presto went public via SPAC in 2022 pitching Presto Voice, an AI drive-thru ordering system, but disclosed that most orders needed help from offshore human agents and later settled SEC charges over its AI claims. After defaulting on its loan, its assets were sold in a lender-led foreclosure in December 2024; the product lives on under new owners while public shareholders got nothing.",
+  "story": "Rajat Suri, a co-founder of Zimride, the precursor to Lyft, founded E la Carte in 2008 to let diners order and pay from tabletop tablets. Renamed Presto, it raised about $83 million in venture funding and placed its tablets in chains including Applebee's and Chili's.\n\nIn November 2021 Presto agreed to merge with Ventoux CCM Acquisition Corp at a pro forma equity value of about $1 billion. The deal closed in September 2022 after heavy redemptions, delivering about $92 million, alongside a $55 million term loan from Metropolitan Partners Group. By then the growth story was Presto Voice, a drive-thru ordering system deployed at Carl's Jr., Checkers and Del Taco, which the company said removed the need for human order-taking.\n\nIn late 2023 Presto disclosed that around 70% of Presto Voice orders required intervention by off-site agents, and that the SEC was investigating its disclosures. The SEC's January 2025 settled order found that Presto had failed to disclose that its early deployments used a third party's speech recognition and that its in-house version needed human help on the vast majority of orders, handled by agents in the Philippines and India. Presto neither admitted nor denied the findings, and no penalty was imposed because of its cooperation.\n\nThe business was unravelling in parallel. Two CEOs departed, layoffs followed, and Nasdaq suspended the stock in August 2024. After Presto defaulted on its loan, the lender ran a foreclosure sale. On 3 December 2024 a consortium led by Remus Capital, including Metropolitan, bought the assets for a new private company, Presto Phoenix, which kept Presto Voice and its team. The product lives on under new owners; the public company's shareholders received nothing.\n\nPresto's story is a caution about selling automation that still depends on people behind the curtain.",
+  "founded": "2008-10",
+  "shutdown": "2024-12-03",
+  "funding_raised": "~$175M ($82.6M venture + ~$92M SPAC proceeds), plus $55M term loan",
+  "funding_stage": "public (SPAC)",
+  "employee_count": null,
+  "category": "technical",
+  "tags": [
+    "usa",
+    "voice-ai",
+    "drive-thru",
+    "restaurant-tech",
+    "spac",
+    "ai-washing",
+    "sec-enforcement",
+    "foreclosure",
+    "human-in-the-loop"
+  ],
+  "url": "https://presto.com",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20211110005513/en/Presto-a-Leading-Provider-of-Restaurant-Labor-Productivity-Technologies-to-be-Publicly-Listed-Through-a-Merger-With-Ventoux-CCM-Acquisition-Corp-NASDAQ-VTAQ",
+      "title": "Presto to be Publicly Listed Through a Merger With Ventoux CCM Acquisition Corp (Business Wire)",
+      "date": "2021-11-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20220914005946/en/Ventoux-CCM-Acquisition-Corp.-Stockholders-Approve-Proposed-Business-Combination-with-Presto",
+      "title": "Ventoux CCM Acquisition Corp. Stockholders Approve Proposed Business Combination with Presto (Business Wire)",
+      "date": "2022-09-14",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.techspot.com/news/101156-ai-company-reveals-drive-thru-chatbot-relies-human.html",
+      "title": "AI company reveals its drive-thru chatbot relies on human workers in the Philippines 70% of the time (TechSpot)",
+      "date": "2023-12-11",
+      "snapshot_path": "data/snapshots/presto-automation/www.techspot.com_news_101156-ai-company-reveals-drive-thru-chatbot-relies-human.html.html"
+    },
+    {
+      "url": "https://www.restaurantdive.com/news/presto-automation-delisted-from-nasdaq-during-voice-ai-pivot/723684/",
+      "title": "Presto Automation delisted from Nasdaq (Restaurant Dive)",
+      "date": "2024-08-08",
+      "snapshot_path": "data/snapshots/presto-automation/www.restaurantdive.com_news_presto-automation-delisted-from-nasdaq-during-voice-ai-pivot_723684_.html"
+    },
+    {
+      "url": "https://www.restaurantdive.com/news/presto-automation-secures-lender-backing-for-sales-process/727872/",
+      "title": "Presto Automation puts itself up for sale (Restaurant Dive)",
+      "date": "2024-09-24",
+      "snapshot_path": "data/snapshots/presto-automation/www.restaurantdive.com_news_presto-automation-secures-lender-backing-for-sales-process_727872_.html"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/01/07/3005329/0/en/Presto-Automation-Announces-Sale-of-Assets-to-Consortium-Led-by-Remus-Capital.html",
+      "title": "Presto Automation Announces Sale of Assets to Consortium Led by Remus Capital (GlobeNewswire)",
+      "date": "2025-01-07",
+      "snapshot_path": "data/snapshots/presto-automation/www.globenewswire.com_news-release_2025_01_07_3005329_0_en_Presto-Automation-Announces-Sale-of-Assets-to-Consortium-Led-by-Remus-Capital.html.html"
+    },
+    {
+      "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-11352-s",
+      "title": "SEC Charges Restaurant-Technology Company Presto Automation for Misleading Statements About AI Product (SEC)",
+      "date": "2025-01-14",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/files/litigation/admin/2025/33-11352.pdf",
+      "title": "SEC Order: In the Matter of Presto Automation Inc.",
+      "date": "2025-01-14",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 194,
+  "total_loss": "~$175M in venture and SPAC capital; public equity wiped out in lender foreclosure (assets went to lender-backed Presto Phoenix)",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

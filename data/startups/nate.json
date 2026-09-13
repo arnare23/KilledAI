@@ -1,0 +1,67 @@
+{
+  "name": "Nate",
+  "slug": "nate",
+  "tagline": "'AI' one-tap universal checkout app secretly run by human workers",
+  "description": "Nate raised more than $40M on the promise of an AI app that could check out on any shopping site in one tap, and ran out of money and sold its assets in January 2023. Federal prosecutors later charged founder Albert Saniger with fraud, alleging the purchases were actually completed by hundreds of human workers in the Philippines; the case is pending.",
+  "story": "Albert Saniger founded nate in 2018 around a simple promise: find a product on any retailer's site, tap \"buy\" in the nate app, and let AI handle size selection, billing, shipping and confirmation. According to federal prosecutors, that autonomous checkout was the company's main selling point, and Saniger told investors the app could transact online without human intervention except in rare edge cases.\n\nThe pitch raised serious money. Nate was backed by firms including Coatue and Forerunner Ventures and closed a $38 million Series A led by Renegade Partners in 2021. Prosecutors put the amount raised on Saniger's AI representations at more than $40 million; TechCrunch reported total funding above $50 million.\n\nProsecutors allege the technology never worked as described. According to the indictment, nate acquired AI technology and hired data scientists, but its actual automation rate was \"effectively zero percent,\" and orders were instead completed by hundreds of contract workers at a call center in the Philippines. The indictment also alleges that Saniger told employees to keep the automation rate secret and restricted access to the data. The Information reported on nate's reliance on human workers in 2022.\n\nNate ran out of money and sold its assets in January 2023, and prosecutors say investors lost nearly everything. In April 2025 the U.S. Attorney's Office for the Southern District of New York unsealed an indictment charging Saniger with securities fraud and wire fraud, and the SEC filed a parallel civil case. Saniger is presumed innocent, and as of September 2026 the criminal case was still pending.\n\nWhatever the court decides, the case turns on a question that now matters across the industry: whether what a startup says its AI does is a material fact investors are entitled to rely on.",
+  "founded": "2018",
+  "shutdown": "2023-01",
+  "funding_raised": "$50M+",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "other",
+  "tags": [
+    "ai-washing",
+    "fraud",
+    "e-commerce",
+    "fintech",
+    "consumer",
+    "human-in-the-loop"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.justice.gov/usao-sdny/pr/tech-ceo-charged-artificial-intelligence-investment-fraud-scheme",
+      "title": "Tech CEO Charged In Artificial Intelligence Investment Fraud Scheme",
+      "date": "2025-04-09",
+      "snapshot_path": "data/snapshots/nate/www.justice.gov_usao-sdny_pr_tech-ceo-charged-artificial-intelligence-investment-fraud-scheme.html"
+    },
+    {
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26282",
+      "title": "SEC Litigation Release: Alberto Saniger Mantinan, a/k/a Albert Saniger",
+      "date": "2025-04-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines",
+      "title": "Fintech founder charged with fraud after 'AI' shopping app found to be powered by humans in the Philippines",
+      "date": "2025-04-10",
+      "snapshot_path": "data/snapshots/nate/techcrunch.com_2025_04_10_fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines.html"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/former-nate-ceo-human-workers-instead-of-ai-fraud/",
+      "title": "Former nate CEO who used human workers instead of AI allegedly defrauded investors lured by new tech of millions",
+      "date": "2025-04-12",
+      "snapshot_path": "data/snapshots/nate/www.cbsnews.com_news_former-nate-ceo-human-workers-instead-of-ai-fraud_.html"
+    },
+    {
+      "url": "https://fortune.com/2025/04/11/albert-saniger-nate-shopping-app-fraud-ai-justice-department/",
+      "title": "A tech CEO has been charged with fraud for saying his e-commerce startup was powered by AI, when it was actually just using manual human labor",
+      "date": "2025-04-11",
+      "snapshot_path": "data/snapshots/nate/fortune.com_2025_04_11_albert-saniger-nate-shopping-app-fraud-ai-justice-department_.html"
+    },
+    {
+      "url": "https://www.courtlistener.com/docket/69878751/united-states-v-saniger/",
+      "title": "United States v. Saniger, 1:25-cr-00157 (S.D.N.Y.) docket",
+      "date": "2026-02-02",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 60,
+  "total_loss": "$50M+",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:30:00Z"
+}

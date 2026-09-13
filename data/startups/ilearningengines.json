@@ -1,0 +1,83 @@
+{
+  "name": "iLearningEngines",
+  "slug": "ilearningengines",
+  "tagline": "AI learning and work-automation platform that collapsed amid alleged revenue fraud",
+  "description": "iLearningEngines sold an 'Applied AI' platform for corporate training and went public via SPAC in April 2024, reporting $421 million in 2023 revenue. After a short seller alleged most of that revenue was fictitious, it withdrew its financial statements and was liquidated in 2025; its former CEO and CFO were indicted in April 2026 and are presumed innocent.",
+  "story": "iLearningEngines was founded in 2010 by Harish Chidambaran and grew into a Bethesda, Maryland-based company selling what it described as an out-of-the-box AI platform for education, corporate training and work automation. It reported rapid, profitable growth through technology licenses sold largely via resellers and distribution partners, many overseas, and $421 million in revenue for 2023.\n\nIn April 2024 it completed a merger with Arrowroot Acquisition Corp, a SPAC, in a deal valuing it at about $1.4 billion, and began trading on Nasdaq. Nearly all SPAC investors had redeemed, leaving about $52.7 million in gross proceeds, mostly from convertible notes, and the company took on a bank revolving credit facility.\n\nOn 29 August 2024 short seller Hindenburg Research published a report alleging that the company's revenue was largely fictitious and routed through an undisclosed related party. The stock fell by more than half. In November 2024, following a special committee investigation, the company said its financial statements for 2021 through 2023 and its 2024 interim results should no longer be relied upon, and auditor Marcum withdrew reliance on its audit reports. The board placed Chidambaran and former CFO Farhan Naqvi on administrative leave in December. On 20 December 2024 iLearningEngines filed for Chapter 11, owing about $54 million under its bank revolver, and in March 2025 the case was converted to Chapter 7 liquidation.\n\nIn April 2026 federal prosecutors in the Eastern District of New York unsealed an indictment charging Chidambaran and Naqvi with securities fraud, wire fraud, conspiracy and operating a continuing financial crimes enterprise. Prosecutors allege that more than 90% of reported revenue was inflated through sham contracts and round-tripped funds. The charges are allegations, and the defendants are presumed innocent unless proven guilty.",
+  "founded": "2010",
+  "shutdown": "2025-03-06",
+  "funding_raised": "~$52.7M gross proceeds at SPAC close (mostly convertible notes) plus ~$54M bank revolver; $1.4B SPAC valuation",
+  "funding_stage": "public (SPAC)",
+  "employee_count": null,
+  "category": "other",
+  "tags": [
+    "usa",
+    "india",
+    "edtech",
+    "enterprise-ai",
+    "spac",
+    "alleged-fraud",
+    "ai-washing",
+    "short-seller",
+    "chapter-11",
+    "chapter-7"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390024034984/ea0204330-8k_ilearn.htm",
+      "title": "iLearningEngines Form 8-K: completion of business combination with Arrowroot Acquisition Corp (SEC EDGAR)",
+      "date": "2024-04-22",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390024099394/ea0221424-8k_ilearning.htm",
+      "title": "iLearningEngines Form 8-K: non-reliance on previously issued financial statements (SEC EDGAR)",
+      "date": "2024-11-18",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390024111529/ea0225698-8k_ilearning.htm",
+      "title": "iLearningEngines Form 8-K: Chapter 11 filing (SEC EDGAR)",
+      "date": "2024-12-23",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835972/000121390025021871/ea0233532-8k_ilearning.htm",
+      "title": "iLearningEngines Form 8-K: conversion to Chapter 7 (SEC EDGAR)",
+      "date": "2025-03-10",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.justice.gov/usao-edny/pr/former-chief-executive-officer-and-chief-financial-officer-nasdaq-listed-company",
+      "title": "Former CEO and CFO of Nasdaq-listed company charged with operating a continuing financial crimes enterprise (US DOJ, EDNY)",
+      "date": "2026-04-17",
+      "snapshot_path": "data/snapshots/ilearningengines/www.justice.gov_usao-edny_pr_former-chief-executive-officer-and-chief-financial-officer-nasdaq-listed-company.html"
+    },
+    {
+      "url": "https://www.debevoise.com/insights/publications/2026/04/doj-signals-ai-prosecution-priorities-with-charges",
+      "title": "DOJ Signals AI Prosecution Priorities with Charges Against AI Technology Company Executives (Debevoise & Plimpton)",
+      "date": "2026-04-20",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.cfodive.com/news/former-ceo-ex-cfo-ai-company-charged-fraud-ai-revenue-bankruptcy/817986/",
+      "title": "Former CEO, ex-CFO of AI company charged with fraud (CFO Dive)",
+      "date": "2026-04-20",
+      "snapshot_path": "data/snapshots/ilearningengines/www.cfodive.com_news_former-ceo-ex-cfo-ai-company-charged-fraud-ai-revenue-bankruptcy_817986_.html"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2026/04/20/866475.htm",
+      "title": "Ex-CEO, Ex-CFO of Bankrupt AI Company Charged With Fraud (Insurance Journal / Bloomberg)",
+      "date": "2026-04-20",
+      "snapshot_path": "data/snapshots/ilearningengines/www.insurancejournal.com_news_national_2026_04_20_866475.htm.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 182,
+  "total_loss": "Public equity from a $1.4B SPAC valuation wiped out, plus ~$54M owed to bank lenders and SPAC-related convertible note investors",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

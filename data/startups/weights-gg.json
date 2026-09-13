@@ -1,0 +1,66 @@
+{
+  "name": "Weights",
+  "slug": "weights-gg",
+  "tagline": "Community voice-cloning platform and Replay app for AI voice models",
+  "description": "Weights.gg was a San Francisco social platform where users trained and shared AI voice models, including unauthorized clones of celebrities and politicians, alongside the Replay app for AI audio production. It had raised about $4M from Kleiner Perkins, Freestyle Capital and Original Capital. OpenAI acquired the six-person company, including its team and IP, in early 2026, and the hosted service was shut down on March 31, 2026.",
+  "story": "Weights.gg was a consumer platform where anyone could train, share and use AI voice models to make song covers and text-to-speech, later adding image, video and AI-character tools. Its companion app, Replay, handled AI audio production. The catalog included voice models of Taylor Swift, Kanye West, Samuel L. Jackson, Blackpink members, Bugs Bunny, Daffy Duck, Donald Trump and Joe Biden, with no consent mechanism. That drew criticism as right-of-publicity and deepfake laws tightened in 2025-2026. PitchBook records about $3.96M raised from Freestyle Capital, Kleiner Perkins and Original Capital, and the company had roughly six employees.\n\nIn March 2026 Weights announced it was closing. Hosted services were wound down on March 31, and from April 1, 2026 the site showed a notice that the platform and related services were no longer available. On May 15, 2026, Mike Isaac of The New York Times reported, citing two people familiar with the deal, that OpenAI had bought Weights.gg 'earlier this year'. The Information had also reported the purchase. OpenAI acquired both the six-person team and the startup's intellectual property. The team was split across OpenAI's existing voice groups, and OpenAI does not plan to relaunch a public voice-cloning product. Deal terms were not disclosed, and OpenAI did not comment.\n\nFailure-gate finding: this was a real acquisition, not a collapse. The purchase of the company's team and IP appears to have happened before the shutdown, and the shutdown followed from the deal rather than from running out of money. No reporting describes financial distress, a fire sale, or investors losing their capital.",
+  "founded": "2023",
+  "shutdown": "2026-03-31",
+  "funding_raised": "$4M",
+  "funding_stage": "seed",
+  "employee_count": 6,
+  "category": "acqui-hired",
+  "tags": [
+    "voice-ai",
+    "voice-cloning",
+    "consumer",
+    "deepfakes",
+    "acquired-by-openai"
+  ],
+  "url": "https://weights.gg",
+  "sources": [
+    {
+      "url": "https://www.techmeme.com/260515/p34",
+      "title": "Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people's voices, earlier this year (Mike Isaac/New York Times)",
+      "date": "2026-05-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.implicator.ai/openai-quietly-bought-voice-cloning-startup-weights-gg-then-folded-the-team/",
+      "title": "OpenAI Quietly Bought Voice-Cloning Startup Weights.gg",
+      "date": "2026-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.biometricupdate.com/202605/openai-quietly-acquires-ai-voice-cloning-startup-weights-gg",
+      "title": "OpenAI quietly acquires AI voice cloning startup Weights.gg",
+      "date": "2026-05-18",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://winbuzzer.com/2026/05/17/openai-buys-ai-voice-startup-weights-xcxwbn/",
+      "title": "OpenAI Buys Weights for Voice Tech as Replay Fades",
+      "date": "2026-05-17",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/",
+      "title": "OpenAI bought a voice cloning startup famous for celebrity imitations",
+      "date": "2026-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-adds-voice-ai-startup-weights-gg-to-its-stable/",
+      "title": "OpenAI Adds Voice AI Startup Weights.gg to Its Stable",
+      "date": "2026-05-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "rejected",
+  "rejection_reason": "Genuine acquisition, not a failure: OpenAI bought Weights.gg's team and intellectual property in early 2026, reportedly before the March 31, 2026 shutdown, which was a consequence of the deal. Terms were undisclosed, and no reporting indicates financial distress, a fire sale, or investor losses.",
+  "confidence": "medium",
+  "lifetime_months": null,
+  "total_loss": "",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T21:12:05Z"
+}

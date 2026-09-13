@@ -1,0 +1,94 @@
+{
+  "name": "Near Intelligence",
+  "slug": "near-intelligence",
+  "tagline": "AI-powered location data intelligence platform that went bankrupt months after its SPAC listing",
+  "description": "Near sold Allspark, an AI platform for analyzing anonymized location data, raised about $134 million and went public via SPAC in March 2023. Seven months later it withdrew its financial statements over suspected revenue overstatement, filed for Chapter 11 and was liquidated with its shares cancelled; its former CEO and CFO have since been charged with fraud and are presumed innocent.",
+  "story": "Anil Mathews founded Near in Singapore in 2012 and later moved its headquarters to Pasadena, California. Its Allspark platform used AI to turn anonymized location signals from what it said were 1.6 billion device IDs into insights on consumer movement for marketers, retailers and real estate firms. It raised about $134 million from investors including Sequoia India, JP Morgan, Cisco Investments and Telstra Ventures.\n\nIn May 2022 Near agreed to go public by merging with KludeIn I Acquisition Corp. The deal took ten months to close amid a slumping SPAC market, and Near began trading on Nasdaq in March 2023. It was already heavily indebted to lender Blue Torch Finance, kept raising expensive convertible debt, and had posted a net loss of roughly $100 million in 2022.\n\nOn 1 October 2023 the board placed Mathews, CFO Rahul Agarwal and the company's president on administrative leave pending an internal investigation, and days later said its financial statements from 2020 through mid-2023 should not be relied upon because revenue may have been overstated. Mathews was fired for cause in November. On 8 December 2023 Near filed for Chapter 11 with about $96 million of funded debt. Blue Torch acquired substantially all its assets through a credit bid, and in March 2024 a plan of liquidation cancelled all shares with no recovery for stockholders.\n\nIn August 2025 federal prosecutors in the Southern District of New York charged Mathews, Agarwal and Kenneth Harlan, former CEO of Near's largest customer MobileFuse, with conspiracy and securities fraud over an alleged scheme to inflate Near's revenue through round-trip transactions. In January 2026 the SEC filed a parallel civil complaint. The charges are allegations, and the defendants are presumed innocent unless proven guilty.",
+  "founded": "2012",
+  "shutdown": "2024-03-01",
+  "funding_raised": "$134M venture funding, plus ~$77M Blue Torch term loan and ~$17M convertible debentures",
+  "funding_stage": "public (SPAC)",
+  "employee_count": null,
+  "category": "other",
+  "tags": [
+    "singapore",
+    "india",
+    "usa",
+    "data-intelligence",
+    "location-data",
+    "adtech",
+    "spac",
+    "alleged-fraud",
+    "chapter-11"
+  ],
+  "url": "https://near.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2022/05/19/data-intelligence-startup-near-with-1-6b-anonymized-user-ids-lists-on-nasdaq-via-spac-at-a-1b-market-cap-raises-100m",
+      "title": "Data intelligence startup Near, with 1.6B anonymized user IDs, lists on Nasdaq via SPAC at a $1B market cap (TechCrunch)",
+      "date": "2022-05-19",
+      "snapshot_path": "data/snapshots/near-intelligence/techcrunch.com_2022_05_19_data-intelligence-startup-near-with-1-6b-anonymized-user-ids-lists-on-nasdaq-via-spac-at-a-1b-market-cap-raises-100m.html"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1826671/000121390023023757/ea175363-8k_nearintell.htm",
+      "title": "Near Intelligence Form 8-K: completion of business combination with KludeIn I (SEC EDGAR)",
+      "date": "2023-03-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1826671/000101376223002164/ea186362-8k_nearintell.htm",
+      "title": "Near Intelligence Form 8-K: internal investigation and non-reliance on financial statements (SEC EDGAR)",
+      "date": "2023-10-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1826671/000121390023094534/ea189803-8k_nearintell.htm",
+      "title": "Near Intelligence Form 8-K: Chapter 11 filing and stalking-horse asset purchase agreement (SEC EDGAR)",
+      "date": "2023-12-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.law360.com/articles/1775518/data-firm-near-intelligence-files-for-bankruptcy-in-delaware",
+      "title": "Data Firm Near Intelligence Files For Bankruptcy In Delaware (Law360)",
+      "date": "2023-12-08",
+      "snapshot_path": "data/snapshots/near-intelligence/www.law360.com_articles_1775518_data-firm-near-intelligence-files-for-bankruptcy-in-delaware.html"
+    },
+    {
+      "url": "https://labusinessjournal.com/featured/near-intelligence/",
+      "title": "Near Intelligence Files for Chapter 11 (Los Angeles Business Journal)",
+      "date": "2024-01-01",
+      "snapshot_path": "data/snapshots/near-intelligence/labusinessjournal.com_featured_near-intelligence_.html"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1826671/000121390024026663/ea0201919-8k_near.htm",
+      "title": "Near Intelligence Form 8-K: Chapter 11 plan of liquidation effective, shares cancelled (SEC EDGAR)",
+      "date": "2024-03-27",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.justice.gov/usao-sdny/pr/executives-data-intelligence-and-mobile-advertising-companies-charged-connection",
+      "title": "Executives Of Data Intelligence And Mobile Advertising Companies Charged In Connection With Accounting Fraud Scheme (US DOJ, SDNY)",
+      "date": "2025-08-07",
+      "snapshot_path": "data/snapshots/near-intelligence/www.justice.gov_usao-sdny_pr_executives-data-intelligence-and-mobile-advertising-companies-charged-connection.html"
+    },
+    {
+      "url": "https://www.investmentexecutive.com/from-the-regulators/three-execs-charged-in-alleged-spac-scheme/",
+      "title": "Three execs charged in alleged SPAC scheme (Investment Executive)",
+      "date": "2025-08-08",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26469",
+      "title": "SEC Litigation Release: Anil Mathews; Rahul Agarwal; Kenneth M. Harlan; and MobileFuse, LLC",
+      "date": "2026-01-27",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 146,
+  "total_loss": "$134M in venture funding plus ~$96M of funded debt; public equity cancelled in liquidation",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

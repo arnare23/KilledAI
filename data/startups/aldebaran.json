@@ -1,0 +1,92 @@
+{
+  "name": "Aldebaran",
+  "slug": "aldebaran",
+  "tagline": "French maker of the Nao and Pepper humanoid social robots",
+  "description": "Aldebaran pioneered humanoid social robots with Nao and Pepper and absorbed more than EUR 500 million under SoftBank and later owners without ever turning a profit. It was liquidated in June 2025, and its robot IP was sold at auction to China's Maxvision for EUR 900,000.",
+  "story": "Bruno Maisonnier founded Aldebaran Robotics in Paris in 2005 to build humanoid robots for everyday life. Its first robot, Nao, introduced in 2008 and sold commercially from around 2010, became a fixture in university labs and classrooms.\n\nIn 2012 SoftBank bought a 78.5% stake for about $100 million. Together they developed Pepper, a child-sized humanoid unveiled in 2014 and marketed as an emotionally aware assistant for shops, banks and homes. It sold for around $2,000 plus a monthly subscription, close to production cost, on the expectation that software revenue would follow. French press estimates put SoftBank's cumulative investment above EUR 500 million by 2022.\n\nThe robots never became the workers they were sold as. Speech understanding and autonomy were limited, the hardware improved little, and many customers treated them as mascots. About 20,000 Nao and 17,000 Pepper units were sold in 70 countries, but the business never turned a profit. SoftBank halted Pepper production in 2021 and in 2022 sold the unit to Germany's United Robotics Group, which renamed it Aldebaran and backed a service robot, Plato, that underperformed.\n\nAfter an operating loss of about $29 million in 2024, United Robotics Group stopped funding the company. It entered receivership in February 2025, and when two potential buyers fell through, the Paris Commercial Court ordered its judicial liquidation on June 2, 2025, putting its last 106 employees out of work. In July, Shenzhen-based Maxvision bought the Nao and Pepper IP, patents and prototypes at auction for EUR 900,000.\n\nNao outlived its maker: Maxvision's French subsidiary Maxtronics continues to sell and support it and is developing a successor, while Pepper has not returned. Two decades and more than half a billion euros produced the best-known social robots of their era, but not a product customers valued enough to make profitable.",
+  "founded": "2005",
+  "shutdown": "2025-06-02",
+  "funding_raised": "EUR 500M+ (EUR 10-15M VC, SoftBank's ~$100M acquisition and later investment, public aid)",
+  "funding_stage": "acquired",
+  "employee_count": 106,
+  "category": "market",
+  "tags": [
+    "france",
+    "humanoid-robotics",
+    "social-robots",
+    "softbank",
+    "hardware",
+    "liquidation",
+    "fire-sale"
+  ],
+  "url": "https://www.aldebaran.com",
+  "sources": [
+    {
+      "url": "https://www.maddyness.com/2025/06/02/robots-aldebaran-en-liquidation-judiciaire/",
+      "title": "Robots: Aldebaran en liquidation judiciaire (Maddyness)",
+      "date": "2025-06-02",
+      "snapshot_path": "data/snapshots/aldebaran/www.maddyness.com_2025_06_02_robots-aldebaran-en-liquidation-judiciaire_.html"
+    },
+    {
+      "url": "https://www.usine-digitale.fr/article/robotique-aldebaran-place-en-liquidation-judiciaire-106-salaries-laisses-sur-le-carreau.N2233191",
+      "title": "Robotique : Aldebaran place en liquidation judiciaire, 106 salaries laisses sur le carreau (L'Usine Digitale)",
+      "date": "2025-06-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/aldebaran-pepper-nao-robots-receivership/",
+      "title": "Aldebaran, maker of Pepper and Nao robots, put in receivership (The Robot Report)",
+      "date": "2025-06-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.frenchweb.fr/aldebaran-liquidation-dun-symbole-que-valent-encore-ses-actifs/455090",
+      "title": "Aldebaran, liquidation d'une icone de la Frenchtech, que valent encore ses actifs ? (FrenchWeb)",
+      "date": "2025-06-10",
+      "snapshot_path": "data/snapshots/aldebaran/www.frenchweb.fr_aldebaran-liquidation-dun-symbole-que-valent-encore-ses-actifs_455090.html"
+    },
+    {
+      "url": "https://roboticsandautomationnews.com/2025/06/09/robotlab-pledges-zero-disruption-to-servicing-aldebaran-robots-despite-liquidation-of-business/91629/",
+      "title": "RobotLAB reassures NAO and Pepper users after Aldebaran liquidation (Robotics & Automation News)",
+      "date": "2025-06-09",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.usine-digitale.fr/article/robotique-les-actifs-du-francais-aldebaran-repris-par-le-chinois-maxvision.N2235455",
+      "title": "Robotique : Les actifs du francais Aldebaran repris par le chinois Maxvision (L'Usine Digitale)",
+      "date": "2025-07-17",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.therobotreport.com/maxvision-buys-core-robot-assets-including-nao-pepper-aldebaran/",
+      "title": "Maxvision buys core robot assets of Aldebaran, including Nao and Pepper (The Robot Report)",
+      "date": "2025-07-19",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://en.maxvision.com.cn/newsDetail/68779D9B4CEDFD0001443874",
+      "title": "Maxvision Secures Core Robot Assets of Aldebaran (Maxvision)",
+      "date": "2025-07-16",
+      "snapshot_path": "data/snapshots/aldebaran/en.maxvision.com.cn_newsDetail_68779D9B4CEDFD0001443874.html"
+    },
+    {
+      "url": "https://maxtronics.com/en/company/",
+      "title": "Maxtronics - Company",
+      "date": "2026-01-01",
+      "snapshot_path": "data/snapshots/aldebaran/maxtronics.com_en_company_.html"
+    },
+    {
+      "url": "https://mikekalil.com/blog/aldebaran-robotics-downfall/",
+      "title": "The End of Aldebaran Robotics (RIP NAO and Pepper) (Mike Kalil)",
+      "date": "2025-06-15",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 245,
+  "total_loss": "EUR 500M+ invested without profitability; assets sold for EUR 900K",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

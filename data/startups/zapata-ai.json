@@ -1,0 +1,68 @@
+{
+  "name": "Zapata AI",
+  "slug": "zapata-ai",
+  "tagline": "Industrial generative AI software company (formerly Zapata Computing)",
+  "description": "Zapata, a Harvard quantum-software spinout, rebranded as an 'Industrial Generative AI' company and went public via SPAC in March 2024, then shut down six months later when it could not meet about $4.8M in note and forward-purchase obligations, leaving common stockholders effectively wiped out. The shell was revived in 2025 as a seven-person, quantum-only Zapata Quantum that dropped the AI business.",
+  "story": "Zapata Computing was founded in 2017 by researchers from Alan Aspuru-Guzik's quantum computing lab at Harvard, including CEO Christopher Savoie. It built Orquestra, a quantum software platform, and became one of the best-funded companies in that field, raising a $38 million Series B in 2020 and about $79 million in convertible preferred stock and notes overall.\n\nWhen generative AI took off, Zapata repositioned as an \"Industrial Generative AI\" company, renamed itself Zapata AI, and agreed to merge with Andretti Acquisition Corp., a SPAC sponsored by the Andretti racing family. The deal closed in March 2024, and the stock fell about 60% on its Nasdaq debut. The business behind it was small: 2023 revenue was $5.7 million against a $29.7 million net loss, and much of its revenue came from related party Andretti Global.\n\nThe SPAC structure hastened the end. After the share price fell below $1, Sandia Investment Management accelerated the valuation date under a prepaid forward purchase agreement, creating a roughly $2.5 million obligation, while about $2.3 million was owed on senior secured notes backed by nearly all of Zapata's assets. On October 7, 2024, the board voted to cease operations and terminate all but a few of its roughly 50 employees, effective October 9. Savoie resigned, the company said it expected no assets to remain for common stockholders, and the stock was later delisted.\n\nThe shell did not stay empty. In 2025 it swapped creditor claims for stock, raised $3 million in convertible notes and relaunched as Zapata Quantum, a quantum-only software company that explicitly dropped its AI work. At the end of 2025 it had seven employees and a going-concern warning. The generative AI business did not come back. Zapata's AI rebrand bought it a public listing, not a sustainable business.",
+  "founded": "2017",
+  "shutdown": "2024-10-09",
+  "funding_raised": "$79M",
+  "funding_stage": "public",
+  "employee_count": 49,
+  "category": "funding",
+  "tags": [
+    "generative-ai",
+    "quantum-computing",
+    "enterprise-ai",
+    "spac",
+    "nasdaq",
+    "pivot",
+    "harvard-spinout"
+  ],
+  "url": "https://zapata.ai",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1843714/000095017024114391/ck0001843714-20241007.htm",
+      "title": "Zapata Computing Holdings Inc. Form 8-K: cessation of operations, workforce termination and officer changes",
+      "date": "2024-10-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://thequantuminsider.com/2024/10/12/zapata-computing-holdings-inc-ceases-operations/",
+      "title": "Zapata Computing Holdings Inc. Ceases Operations",
+      "date": "2024-10-12",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.hpcwire.com/2024/10/14/zapata-computing-early-quantum-ai-software-specialist-ceases-operations/",
+      "title": "Zapata Computing, Early Quantum-AI Software Specialist, Ceases Operations",
+      "date": "2024-10-14",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1843714/000095017024102903/ck0001843714-20240903.htm",
+      "title": "Zapata Computing Holdings Inc. Form S-1 (funding history, employees, financials)",
+      "date": "2024-09-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1843714/000107997326000401/zpat_10k-123125.htm",
+      "title": "Zapata Quantum, Inc. Form 10-K for fiscal year 2025 (suspension and 2025 reinstatement of operations)",
+      "date": "2026-03-31",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.hpcwire.com/off-the-wire/zapata-computing-raises-38m-series-b-to-accelerate-commercial-quantum-adoption/",
+      "title": "Zapata Computing Raises $38M Series B",
+      "date": "2020-11-19",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 93,
+  "total_loss": "$79M+",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:30:00Z"
+}

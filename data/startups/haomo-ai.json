@@ -1,0 +1,93 @@
+{
+  "name": "Haomo.AI",
+  "slug": "haomo-ai",
+  "tagline": "Great Wall Motor-backed autonomous driving software unicorn",
+  "description": "Spun out of Great Wall Motor in 2019 and valued above $1 billion, Haomo.AI raised about CNY 2 billion for driver-assistance software built on HD maps just as the industry moved to end-to-end models. After its parent shifted its main programs to a rival, the roughly 300 remaining staff were sent home indefinitely on November 24, 2025, with wages unpaid.",
+  "story": "Haomo.AI was created in November 2019 when Great Wall Motor spun its in-house driver-assistance unit out as an independent startup, with Great Wall chairman Wei Jianjun as its controlling shareholder. Its main product, the HPilot assisted-driving system, was installed on more than 20 Great Wall models, and it also worked on low-speed delivery vehicles and smart hardware.\n\nInvestors moved quickly. A Meituan-led Pre-A round in early 2021 was followed that December by a Series A of nearly CNY 1 billion that lifted its valuation above $1 billion. Further rounds through 2024 brought disclosed funding to about CNY 2 billion, and headcount peaked above 1,000.\n\nThe technology aged badly. Haomo had built on high-definition maps and rule-based planning just as China's industry moved to end-to-end neural systems. A pledge to bring city navigate-on-autopilot to 10 cities by the end of 2023 reached only a handful, and it won little business outside Great Wall. Its parent moved its main Haval and WEY programs to rival DeepRoute.ai and invested $100 million in that company, while the market consolidated around Huawei, Momenta, Horizon Robotics and DJI. A Hong Kong IPO was shelved in 2024, and layoffs began late that year.\n\nIn 2025 the chairman resigned, senior executives and core engineers left, staff reported months of salary arrears, and a Beijing court listed the company as a judgment debtor. On November 22 an internal notice told the roughly 300 remaining employees they were on leave from November 24 until further notice. Reporters found empty offices, and the company made no public statement on wages or a restart.\n\nHaomo shows the exposure of a captive supplier: once its main customer found a better option, it had little else to stand on.",
+  "founded": "2019-11",
+  "shutdown": "2025-11-24",
+  "funding_raised": "CNY 2B (~$280M)",
+  "funding_stage": "series-b",
+  "employee_count": 300,
+  "category": "competition",
+  "tags": [
+    "china",
+    "autonomous-driving",
+    "adas",
+    "automotive",
+    "great-wall-motor",
+    "unicorn",
+    "hd-maps",
+    "wage-arrears"
+  ],
+  "url": "https://www.haomoai.com",
+  "sources": [
+    {
+      "url": "https://www.yicaiglobal.com/news/great-wall-motor-backed-self-driving-unicorn-haomoai-reportedly-halts-operations",
+      "title": "Great Wall Motor-Backed Self-Driving Unicorn Haomo.AI Reportedly Halts Operations (Yicai Global)",
+      "date": "2025-11-25",
+      "snapshot_path": "data/snapshots/haomo-ai/www.yicaiglobal.com_news_great-wall-motor-backed-self-driving-unicorn-haomoai-reportedly-halts-operations.html"
+    },
+    {
+      "url": "https://www.nbd.com.cn/articles/2025-11-24/4154610.html",
+      "title": "Unicorn Haomo.AI reported to have stalled, once valued at over $1 billion (NBD)",
+      "date": "2025-11-24",
+      "snapshot_path": "data/snapshots/haomo-ai/www.nbd.com.cn_articles_2025-11-24_4154610.html.html"
+    },
+    {
+      "url": "https://carnewschina.com/2025/11/28/great-walls-self-driving-arm-haomo-ai-collapses-as-company-reports-abrupt-staff-layoff-report-says",
+      "title": "Great Wall's self-driving arm Haomo.AI collapses as company reports abrupt staff layoff (CarNewsChina)",
+      "date": "2025-11-28",
+      "snapshot_path": "data/snapshots/haomo-ai/carnewschina.com_2025_11_28_great-walls-self-driving-arm-haomo-ai-collapses-as-company-reports-abrupt-staff-layoff-report-says.html"
+    },
+    {
+      "url": "https://www.jiemian.com/article/13690428.html",
+      "title": "Wei Jianjun's intelligent-driving unicorn has fallen (Jiemian)",
+      "date": "2025-11-27",
+      "snapshot_path": "data/snapshots/haomo-ai/www.jiemian.com_article_13690428.html.html"
+    },
+    {
+      "url": "https://www.cls.cn/detail/2209177",
+      "title": "On-site: Haomo.AI 'dissolved on the spot', no explanation on social insurance, staff still waiting for October wages (Cailian Press)",
+      "date": "2025-11-24",
+      "snapshot_path": "data/snapshots/haomo-ai/www.cls.cn_detail_2209177.html"
+    },
+    {
+      "url": "https://www.leikeji.com/article/73095",
+      "title": "Haomo.AI suddenly halts work: in-house intelligent driving hits a dead end (Leikeji)",
+      "date": "2025-11-25",
+      "snapshot_path": "data/snapshots/haomo-ai/www.leikeji.com_article_73095.html"
+    },
+    {
+      "url": "https://m.21jingji.com/article/20211222/herald/701294e907260d4cfc3f4b56daab8ced.html",
+      "title": "Haomo.AI raises nearly CNY 1 billion Series A, becomes autonomous-driving unicorn (21st Century Business Herald)",
+      "date": "2021-12-22",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.nbd.com.cn/articles/2024-02-22/3252010.html",
+      "title": "Haomo.AI raises B1 round of over CNY 100 million (NBD)",
+      "date": "2024-02-22",
+      "snapshot_path": "data/snapshots/haomo-ai/www.nbd.com.cn_articles_2024-02-22_3252010.html.html"
+    },
+    {
+      "url": "https://www.yicaiglobal.com/news/chinese-self-driving-tech-startup-haomoai-confirms-layoffs",
+      "title": "Chinese Self-Driving Startup Haomo.AI Confirms Layoffs (Yicai Global)",
+      "date": "2024-11",
+      "snapshot_path": "data/snapshots/haomo-ai/www.yicaiglobal.com_news_chinese-self-driving-tech-startup-haomoai-confirms-layoffs.html"
+    },
+    {
+      "url": "https://kr-asia.com/haomo-ai-hits-a-crossroads-amid-leadership-shakeup-and-tech-setbacks",
+      "title": "Haomo.AI hits crossroads amid leadership shakeup and tech setbacks (KrASIA)",
+      "date": "2025-06-19",
+      "snapshot_path": "data/snapshots/haomo-ai/kr-asia.com_haomo-ai-hits-a-crossroads-amid-leadership-shakeup-and-tech-setbacks.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 72,
+  "total_loss": "CNY 2B (~$280M) in outside and parent funding",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

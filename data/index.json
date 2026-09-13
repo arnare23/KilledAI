@@ -1,8 +1,78 @@
 {
   "version": 1,
-  "generated_at": "2026-05-16T15:19:30.843193+00:00",
-  "count": 182,
+  "generated_at": "2026-09-13T21:24:44.214541+00:00",
+  "count": 205,
   "startups": [
+    {
+      "name": "Relay.app",
+      "slug": "relay-app",
+      "tagline": "AI agent workflow automation platform pitched as the new Zapier",
+      "founded": "2021-07",
+      "shutdown": "2026-09-14",
+      "category": "acqui-hired",
+      "funding_raised": "$8.1M",
+      "lifetime_months": 62,
+      "total_loss": "$8.1M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "Reforged Labs",
+      "slug": "reforged-labs",
+      "tagline": "AI-generated video ad creative for mobile game marketers",
+      "founded": "2023-09",
+      "shutdown": "2026-07-31",
+      "category": "no-moat",
+      "funding_raised": "$3.9M",
+      "lifetime_months": 34,
+      "total_loss": "$3.9M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "PicSee",
+      "slug": "picsee",
+      "tagline": "AI face-recognition app for swapping photos between friends",
+      "founded": "2025",
+      "shutdown": "2026-07",
+      "category": "market",
+      "funding_raised": "INR 33 Cr (~$4M)",
+      "lifetime_months": 18,
+      "total_loss": "~INR 11.5 Cr (~$1.4M; ~65% of capital returned)",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "JiviAI",
+      "slug": "jiviai",
+      "tagline": "Indian healthcare AI startup with a proprietary medical LLM",
+      "founded": "2024-01",
+      "shutdown": "2026-06",
+      "category": "pricing",
+      "funding_raised": "~$3M (undisclosed; Tracxn estimate $2.99M)",
+      "lifetime_months": 29,
+      "total_loss": "~$3M",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "LOVO",
+      "slug": "lovo",
+      "tagline": "AI voice generator and voice cloning platform (Genny)",
+      "founded": "2019-11",
+      "shutdown": "2026-05-27",
+      "category": "regulatory",
+      "funding_raised": "$6.5M",
+      "lifetime_months": 78,
+      "total_loss": "$6.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
     {
       "name": "Cove",
       "slug": "cove-ai",
@@ -30,6 +100,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "Weights",
+      "slug": "weights-gg",
+      "tagline": "Community voice-cloning platform and Replay app for AI voice models",
+      "founded": "2023",
+      "shutdown": "2026-03-31",
+      "category": "acqui-hired",
+      "funding_raised": "$4M",
+      "lifetime_months": 38,
+      "total_loss": "",
+      "status": "rejected",
+      "confidence": "medium",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "Wordsworth AI",
+      "slug": "wordsworth-ai",
+      "tagline": "AI landing page generation and conversion optimization for brands",
+      "founded": "2023",
+      "shutdown": "2026-03-31",
+      "category": "market",
+      "funding_raised": "$800K",
+      "lifetime_months": 29,
+      "total_loss": "Up to $800K (unspent capital returned; amount undisclosed)",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Clockwise",
@@ -382,6 +480,20 @@
       "created_at": "2026-04-11T00:00:00Z"
     },
     {
+      "name": "Haomo.AI",
+      "slug": "haomo-ai",
+      "tagline": "Great Wall Motor-backed autonomous driving software unicorn",
+      "founded": "2019-11",
+      "shutdown": "2025-11-24",
+      "category": "competition",
+      "funding_raised": "CNY 2B (~$280M)",
+      "lifetime_months": 72,
+      "total_loss": "CNY 2B (~$280M) in outside and parent funding",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Log9 Materials",
       "slug": "log9-materials",
       "tagline": "Indian deeptech startup building AI-optimized lithium-titanate batteries for EVs",
@@ -480,6 +592,20 @@
       "created_at": "2026-04-11T00:00:00Z"
     },
     {
+      "name": "Teraki",
+      "slug": "teraki",
+      "tagline": "Berlin edge-AI software for processing sensor data in autonomous vehicles",
+      "founded": "2015-05",
+      "shutdown": "2025-10",
+      "category": "funding",
+      "funding_raised": "EUR 15M (+2 convertible loans)",
+      "lifetime_months": 125,
+      "total_loss": "~EUR 16M",
+      "status": "published",
+      "confidence": "medium",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Visual Electric",
       "slug": "visual-electric",
       "tagline": "AI-powered image generation tool for designers on an infinite canvas",
@@ -492,6 +618,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-04T00:00:00Z"
+    },
+    {
+      "name": "Humanloop",
+      "slug": "humanloop",
+      "tagline": "LLM evaluation, prompt management and observability platform",
+      "founded": "2020",
+      "shutdown": "2025-09-08",
+      "category": "acqui-hired",
+      "funding_raised": "$7.9M",
+      "lifetime_months": 68,
+      "total_loss": "$7.9M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Olympia",
@@ -620,6 +760,20 @@
       "created_at": "2026-04-01T23:45:00Z"
     },
     {
+      "name": "Esperanto Technologies",
+      "slug": "esperanto-technologies",
+      "tagline": "RISC-V AI accelerator chip startup built around a 1,000-core processor",
+      "founded": "2014",
+      "shutdown": "2025-07",
+      "category": "competition",
+      "funding_raised": "$124M",
+      "lifetime_months": 138,
+      "total_loss": "$124M (IP sold to Ainekko for an undisclosed sum)",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Locale.ai",
       "slug": "locale-ai",
       "tagline": "Geospatial operations intelligence platform for logistics and mobility companies",
@@ -674,6 +828,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Aldebaran",
+      "slug": "aldebaran",
+      "tagline": "French maker of the Nao and Pepper humanoid social robots",
+      "founded": "2005",
+      "shutdown": "2025-06-02",
+      "category": "market",
+      "funding_raised": "EUR 500M+ (EUR 10-15M VC, SoftBank's ~$100M acquisition and later investment, public aid)",
+      "lifetime_months": 245,
+      "total_loss": "EUR 500M+ invested without profitability; assets sold for EUR 900K",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Attabotics",
@@ -872,6 +1040,20 @@
       "created_at": "2026-04-01T22:00:00Z"
     },
     {
+      "name": "iLearningEngines",
+      "slug": "ilearningengines",
+      "tagline": "AI learning and work-automation platform that collapsed amid alleged revenue fraud",
+      "founded": "2010",
+      "shutdown": "2025-03-06",
+      "category": "other",
+      "funding_raised": "~$52.7M gross proceeds at SPAC close (mostly convertible notes) plus ~$54M bank revolver; $1.4B SPAC valuation",
+      "lifetime_months": 182,
+      "total_loss": "Public equity from a $1.4B SPAC valuation wiped out, plus ~$54M owed to bank lenders and SPAC-related convertible note investors",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "BenevolentAI",
       "slug": "benevolent-ai",
       "tagline": "AI-powered drug discovery using knowledge graphs and deep learning",
@@ -1021,7 +1203,7 @@
       "funding_raised": "EUR 100M",
       "lifetime_months": 168,
       "total_loss": "EUR 100m raised; safeguard procedure filed January 2025",
-      "status": "unverified",
+      "status": "rejected",
       "confidence": "medium",
       "created_at": "2026-05-16T00:00:00Z"
     },
@@ -1208,6 +1390,34 @@
       "created_at": "2026-04-01T23:45:00Z"
     },
     {
+      "name": "Jiyue Auto",
+      "slug": "jiyue-auto",
+      "tagline": "Baidu-Geely 'robocar' EV brand built around Apollo autonomous driving",
+      "founded": "2021-03",
+      "shutdown": "2024-12-11",
+      "category": "competition",
+      "funding_raised": "CNY 5B+ from Baidu (incl. ~$400M 2022 Series A) plus Geely capital",
+      "lifetime_months": 45,
+      "total_loss": "~CNY 7B (~$960M) cumulative losses; unpaid suppliers and staff",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "Presto Automation",
+      "slug": "presto-automation",
+      "tagline": "Drive-thru voice AI company that disclosed most of its 'automated' orders needed human agents",
+      "founded": "2008-10",
+      "shutdown": "2024-12-03",
+      "category": "technical",
+      "funding_raised": "~$175M ($82.6M venture + ~$92M SPAC proceeds), plus $55M term loan",
+      "lifetime_months": 194,
+      "total_loss": "~$175M in venture and SPAC capital; public equity wiped out in lender foreclosure (assets went to lender-backed Presto Phoenix)",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Bench",
       "slug": "bench",
       "tagline": "AI-augmented online bookkeeping for small businesses",
@@ -1374,6 +1584,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-08T00:00:00Z"
+    },
+    {
+      "name": "Zapata AI",
+      "slug": "zapata-ai",
+      "tagline": "Industrial generative AI software company (formerly Zapata Computing)",
+      "founded": "2017",
+      "shutdown": "2024-10-09",
+      "category": "funding",
+      "funding_raised": "$79M",
+      "lifetime_months": 93,
+      "total_loss": "$79M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Prophesee",
@@ -1682,6 +1906,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-05-16T00:00:00Z"
+    },
+    {
+      "name": "Near Intelligence",
+      "slug": "near-intelligence",
+      "tagline": "AI-powered location data intelligence platform that went bankrupt months after its SPAC listing",
+      "founded": "2012",
+      "shutdown": "2024-03-01",
+      "category": "other",
+      "funding_raised": "$134M venture funding, plus ~$77M Blue Torch term loan and ~$17M convertible debentures",
+      "lifetime_months": 146,
+      "total_loss": "$134M in venture funding plus ~$96M of funded debt; public equity cancelled in liquidation",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Banana.dev",
@@ -2020,6 +2258,20 @@
       "created_at": "2026-04-04T00:00:00Z"
     },
     {
+      "name": "Cervest",
+      "slug": "cervest",
+      "tagline": "AI-powered climate risk intelligence platform for physical assets",
+      "founded": "2015",
+      "shutdown": "2023-06-20",
+      "category": "funding",
+      "funding_raised": "$40M+ ($5.2M seed, $30M Series A, later funding)",
+      "lifetime_months": 101,
+      "total_loss": "$40M+ in venture funding; IP sold out of administration",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Karakuri",
       "slug": "karakuri",
       "tagline": "UK kitchen-robotics startup using AI-assembled hot and cold meal kiosks",
@@ -2048,6 +2300,20 @@
       "created_at": "2026-04-27T00:00:00Z"
     },
     {
+      "name": "Joonko",
+      "slug": "joonko",
+      "tagline": "AI-powered diversity recruiting platform",
+      "founded": "2016",
+      "shutdown": "2023-06",
+      "category": "other",
+      "funding_raised": "$29.5M",
+      "lifetime_months": 89,
+      "total_loss": "$29.5M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
       "name": "Neeva",
       "slug": "neeva",
       "tagline": "Ad-free AI-powered search engine challenging Google",
@@ -2060,6 +2326,20 @@
       "status": "rejected",
       "confidence": "high",
       "created_at": "2026-04-01T22:00:00Z"
+    },
+    {
+      "name": "Navya",
+      "slug": "navya",
+      "tagline": "French maker of Level 4 driverless electric shuttles",
+      "founded": "2014-06",
+      "shutdown": "2023-04-18",
+      "category": "funding",
+      "funding_raised": "EUR 67.6M+ (EUR 30M 2016 private round, EUR 37.6M 2018 IPO, plus equity line and state subsidies)",
+      "lifetime_months": 106,
+      "total_loss": "EUR 67.6M+ in equity (plus accumulated losses of ~EUR 24M/year); business sold out of liquidation for EUR 1.4M",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Kalera",
@@ -2116,6 +2396,34 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-01T23:30:00Z"
+    },
+    {
+      "name": "Mycroft AI",
+      "slug": "mycroft-ai",
+      "tagline": "Open-source, privacy-focused AI voice assistant and smart speaker",
+      "founded": "2015",
+      "shutdown": "2023-02",
+      "category": "funding",
+      "funding_raised": "$3.9M+",
+      "lifetime_months": 97,
+      "total_loss": "$3.9M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
+    },
+    {
+      "name": "Nate",
+      "slug": "nate",
+      "tagline": "'AI' one-tap universal checkout app secretly run by human workers",
+      "founded": "2018",
+      "shutdown": "2023-01",
+      "category": "other",
+      "funding_raised": "$50M+",
+      "lifetime_months": 60,
+      "total_loss": "$50M+",
+      "status": "published",
+      "confidence": "high",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Brodmann17",
@@ -2214,6 +2522,20 @@
       "status": "published",
       "confidence": "high",
       "created_at": "2026-04-27T00:00:00Z"
+    },
+    {
+      "name": "x.ai",
+      "slug": "x-ai",
+      "tagline": "AI email scheduling assistants Amy and Andrew Ingram",
+      "founded": "2014",
+      "shutdown": "2021-10-31",
+      "category": "acqui-hired",
+      "funding_raised": "$44M",
+      "lifetime_months": 93,
+      "total_loss": "Unknown",
+      "status": "rejected",
+      "confidence": "medium",
+      "created_at": "2026-09-13T12:00:00Z"
     },
     {
       "name": "Zebra Medical Vision",

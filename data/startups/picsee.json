@@ -1,0 +1,57 @@
+{
+  "name": "PicSee",
+  "slug": "picsee",
+  "tagline": "AI face-recognition app for swapping photos between friends",
+  "description": "PicSee, a face-recognition photo-swapping app from Koo co-founder Mayank Bidawatka, kept the users who joined with friends but could not get whole friend groups to sign up. It shut down in July 2026, pre-revenue and less than a year after launch, and returned about 65% of its roughly $4 million in funding to investors.",
+  "story": "After Indian microblogging platform Koo shut down in 2024, co-founder Mayank Bidawatka started a venture studio, Billion Hearts, with former Koo executive Sarthak Gupta. It raised about INR 33 crore (roughly $4 million) in a round led by Blume Ventures with General Catalyst and Athera Venture Partners. Its first product, PicSee, addressed a familiar problem: the photos of you from a trip or party mostly sit on your friends' phones.\n\nPicSee launched in October 2025. It ran face recognition on the device to find friends in a user's camera roll, then shared matching photos once both sides connected, using a give-to-get model to encourage reciprocity. Photos stayed on the device and were sent over encrypted connections. Premium features such as high-resolution downloads were planned for later monetization.\n\nThe product held on to users who arrived together. \"Retention wasn't the issue. Users who joined with their friends stayed engaged. The real challenge was acquiring entire friend networks,\" Bidawatka said. Because the app became useful only once a whole friend group had installed it, individual sign-ups rarely turned into active sharing circles, and several growth strategies failed to make distribution scale. It also competed with sharing features already built into Google Photos, iCloud and WhatsApp.\n\nIn July 2026, less than a year after launch and still without revenue, Bidawatka told investors PicSee would shut down. \"We had the product. We just couldn't crack the distribution,\" he said. Rather than spend the remaining money on pivots, Billion Hearts chose to return about 65% of the capital it had raised, an uncommon step among Indian startups.\n\nPicSee is a clear case of the network-effects problem: a product that only works for groups has to be adopted by groups, and good on-device AI did not solve that.",
+  "founded": "2025",
+  "shutdown": "2026-07",
+  "funding_raised": "INR 33 Cr (~$4M)",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "market",
+  "tags": [
+    "india",
+    "consumer-ai",
+    "computer-vision",
+    "face-recognition",
+    "social",
+    "photo-sharing",
+    "network-effects",
+    "capital-returned"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/",
+      "title": "Koo Cofounder Mayank Bidawatka Shuts New Startup PicSee (Inc42)",
+      "date": "2026-07-07",
+      "snapshot_path": "data/snapshots/picsee/inc42.com_buzz_koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee_.html"
+    },
+    {
+      "url": "https://entrackr.com/news/koo-co-founder-mayank-bidawatka-shuts-down-second-startup-picsee-to-return-capital-to-investors-12141125",
+      "title": "Koo co-founder Mayank Bidawatka shuts down second startup PicSee, to return capital to investors (Entrackr)",
+      "date": "2026-07-07",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://laffaz.com/mayank-bidawatka-picsee-shutdown-returns-capital/",
+      "title": "Koo Co-Founder Shuts Down Second Startup PicSee, Returns Capital To Investors (Laffaz)",
+      "date": "2026-07-07",
+      "snapshot_path": "data/snapshots/picsee/laffaz.com_mayank-bidawatka-picsee-shutdown-returns-capital_.html"
+    },
+    {
+      "url": "https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/",
+      "title": "Co-founder of Indian social network Koo releases a new photo sharing app (TechCrunch)",
+      "date": "2025-10-15",
+      "snapshot_path": "data/snapshots/picsee/techcrunch.com_2025_10_15_co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 18,
+  "total_loss": "~INR 11.5 Cr (~$1.4M; ~65% of capital returned)",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

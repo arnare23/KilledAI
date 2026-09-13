@@ -1,0 +1,80 @@
+{
+  "name": "Joonko",
+  "slug": "joonko",
+  "tagline": "AI-powered diversity recruiting platform",
+  "description": "Joonko raised tens of millions of dollars for an AI diversity-recruiting platform whose customers, revenue and bank balances its founder fabricated. It collapsed in June 2023 after an investor uncovered forged documents, filed for Chapter 11 in 2024, and founder Ilit Raz's guilty plea to securities fraud was announced in September 2026.",
+  "story": "Ilit Raz founded Joonko in 2016 to sell AI-powered diversity recruiting. Its automated sourcing platform promised employers a \"zero-touch\" way to reach \"high-quality, vetted, underrepresented candidates.\" Headquartered in New York with an R&D center in Israel, the company grew to about 50 employees.\n\nInvestors bought in. In September 2022 Joonko announced a $25 million Series B led by Insight Partners, with Target Global, Kapor Capital and Vertex Ventures Israel. Reports of its total funding vary: 2023 coverage put it at about $38 million, while Calcalist's reporting on the bankruptcy cited $29.5 million raised between 2019 and 2022.\n\nThe numbers behind the pitch were fake. According to the SEC, Raz claimed more than 100 customers, including Fortune 500 companies, over $1 million in revenue and more than 100,000 active candidates, and fabricated customer testimonials. When a suspicious investor asked for proof in April 2023, she sent a forged bank statement showing a balance millions of dollars above the real figure, followed by largely fictitious purchase orders bearing forged signatures. When confronted, she admitted the forgeries, the SEC said.\n\nIn June 2023 Joonko's board accused Raz of \"egregious, unethical and fraudulent conduct.\" She resigned, and the company stopped operating and laid off its staff. Joonko filed for Chapter 11 in Delaware in May 2024, planning to distribute about $4.25 million in remaining cash to investors, and in June 2024 the SEC and federal prosecutors charged Raz with fraud. On September 11, 2026, the U.S. Attorney's Office for the Southern District of New York announced that she had pleaded guilty to securities fraud over a scheme to obtain about $27 million in investments. The charge carries a maximum sentence of 20 years.\n\nJoonko is a reminder that a compelling mission and an AI label are no substitute for verifying customers and revenue.",
+  "founded": "2016",
+  "shutdown": "2023-06",
+  "funding_raised": "$29.5M",
+  "funding_stage": "series-b",
+  "employee_count": 50,
+  "category": "other",
+  "tags": [
+    "ai-washing",
+    "fraud",
+    "hr-tech",
+    "recruiting",
+    "dei",
+    "israel",
+    "bankruptcy"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
+      "title": "Founder And Former CEO Of Artificial Intelligence Company Pleads Guilty To Securities Fraud",
+      "date": "2026-09-11",
+      "snapshot_path": "data/snapshots/joonko/www.justice.gov_usao-sdny_pr_founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud.html"
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/b1q9nszkml",
+      "title": "Joonko founder Ilit Raz pleads guilty to a massive $27 million fraud",
+      "date": "2026-09-12",
+      "snapshot_path": "data/snapshots/joonko/www.calcalistech.com_ctechnews_article_b1q9nszkml.html"
+    },
+    {
+      "url": "https://www.jpost.com/business-and-innovation/article-908411",
+      "title": "Joonko CEO pleads guilty to $27 million securities fraud",
+      "date": "2026-09-12",
+      "snapshot_path": "data/snapshots/joonko/www.jpost.com_business-and-innovation_article-908411.html"
+    },
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-70",
+      "title": "SEC Charges Founder of AI Hiring Startup Joonko with Fraud",
+      "date": "2024-06-11",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/sk81p8pma",
+      "title": "Joonko files for Chapter 11, plans to distribute remaining $4.25 million to investors",
+      "date": "2024-05-19",
+      "snapshot_path": "data/snapshots/joonko/www.calcalistech.com_ctechnews_article_sk81p8pma.html"
+    },
+    {
+      "url": "https://www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/",
+      "title": "CEO of Israeli-founded AI recruitment startup hit with fraud allegations",
+      "date": "2023-06-26",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/skf0iabdh",
+      "title": "Joonko on verge of shock closure; Board claims CEO \"engaged in fraudulent conduct\"",
+      "date": "2023-06-25",
+      "snapshot_path": "data/snapshots/joonko/www.calcalistech.com_ctechnews_article_skf0iabdh.html"
+    },
+    {
+      "url": "https://techcrunch.com/2022/09/13/joonko-helps-companies-target-quality-talent-from-underrepresented-groups/",
+      "title": "Joonko helps companies pinpoint quality talent from underrepresented groups",
+      "date": "2022-09-13",
+      "snapshot_path": "data/snapshots/joonko/techcrunch.com_2022_09_13_joonko-helps-companies-target-quality-talent-from-underrepresented-groups_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 89,
+  "total_loss": "$29.5M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:30:00Z"
+}

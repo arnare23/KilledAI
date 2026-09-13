@@ -1,0 +1,74 @@
+{
+  "name": "JiviAI",
+  "slug": "jiviai",
+  "tagline": "Indian healthcare AI startup with a proprietary medical LLM",
+  "description": "JiviAI built its own medical language models, briefly topped a Hugging Face medical leaderboard and won Andrew Ng's AI Fund as a backer. The cost of running proprietary models outpaced revenue, and after a funding round and acquisition talks both failed, it shut down in June 2026.",
+  "story": "Jivi was founded in January 2024 by Ankur Jain, formerly chief product officer at Indian fintech BharatPe, and GV Sanjay Reddy, chairman of Reddy Ventures, to make primary healthcare guidance available around the clock through generative AI. Rather than building on general-purpose models, it trained its own medical language models on a proprietary dataset of research papers, journals and clinical notes.\n\nThe early results drew attention. In mid-2024 its MedX model reached the top of Hugging Face's Open Medical LLM Leaderboard, scoring ahead of GPT-4 and Med-PaLM 2 on the board's benchmarks. Later that year Andrew Ng's AI Fund made its first Indian investment in Jivi, in a seed round Tracxn estimates at about $3 million. The company launched a consumer app and WhatsApp service, reported to have reached 3.5 million installs, and pitched an enterprise HealthOS platform to hospitals.\n\nThe economics did not work. Free consumer usage generated inference costs without enough paying users, hospitals required clinical validation and bought slowly, and training and serving proprietary models grew more expensive while OpenAI and Google kept improving general-purpose models consumers could use for health questions at no cost. \"When you're up against companies like OpenAI and Google, it becomes very difficult to make the economics work,\" a person familiar with the matter told Entrackr. By spring 2026 the team was down to about 15 people.\n\nA planned funding round collapsed when interested investors did not commit, and talks to sell the company also failed. In June 2026 Jivi told employees it was shutting down, less than two and a half years after it was founded.\n\nJivi's leaderboard result showed it could build a competitive medical model. It never showed that owning one was worth the cost.",
+  "founded": "2024-01",
+  "shutdown": "2026-06",
+  "funding_raised": "~$3M (undisclosed; Tracxn estimate $2.99M)",
+  "funding_stage": "seed",
+  "employee_count": 15,
+  "category": "pricing",
+  "tags": [
+    "india",
+    "healthcare-ai",
+    "medical-llm",
+    "foundation-models",
+    "generative-ai",
+    "inference-costs",
+    "ai-fund"
+  ],
+  "url": "https://www.jivi.ai",
+  "sources": [
+    {
+      "url": "https://entrackr.com/exclusive/exclusive-jiviai-shuts-down-founder-ankur-jain-may-rejoin-bharatpe-12108207",
+      "title": "Exclusive: JiviAI shuts down; founder Ankur Jain may rejoin BharatPe (Entrackr)",
+      "date": "2026-06-26",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.startupchai.in/p/jiviai-collapse-bharat-taxi-s-expansion-and-byju-s-lenders-seek-stake",
+      "title": "JiviAI Collapse, Bharat Taxi's Expansion, and BYJU'S Lenders Seek Stake (StartupChai)",
+      "date": "2026-06-29",
+      "snapshot_path": "data/snapshots/jiviai/www.startupchai.in_p_jiviai-collapse-bharat-taxi-s-expansion-and-byju-s-lenders-seek-stake.html"
+    },
+    {
+      "url": "https://yourstory.com/2024/10/andrew-ngs-ai-fund-invests-in-ai-healthcare-startup-jivi",
+      "title": "Andrew Ng's AI Fund invests in AI healthcare startup Jivi (YourStory)",
+      "date": "2024-10-08",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techstartups.com/2024/10/08/indian-ai-healthcare-startup-jivi-raises-new-funding-led-by-andrew-ng-led-ai-fund/",
+      "title": "Indian AI healthcare startup Jivi raises new funding led by Andrew Ng-led AI Fund (Tech Startups)",
+      "date": "2024-10-08",
+      "snapshot_path": "data/snapshots/jiviai/techstartups.com_2024_10_08_indian-ai-healthcare-startup-jivi-raises-new-funding-led-by-andrew-ng-led-ai-fund_.html"
+    },
+    {
+      "url": "https://analyticsindiamag.com/ai-news-updates/andrew-ngs-ai-fund-makes-first-investment-in-india-backs-healthcare-startup-jivi/",
+      "title": "Andrew Ng's AI Fund Makes First Investment in India, Backs Healthcare Startup Jivi (AIM)",
+      "date": "2024-10-08",
+      "snapshot_path": "data/snapshots/jiviai/analyticsindiamag.com_ai-news-updates_andrew-ngs-ai-fund-makes-first-investment-in-india-backs-healthcare-startup-jivi_.html"
+    },
+    {
+      "url": "https://ehealth.eletsonline.com/2024/06/indian-ai-startup-jivi-medx-tops-global-medical-llm-leaderboard-surpasses-openai-and-google/",
+      "title": "Indian AI Startup Jivi MedX Tops Global Medical LLM Leaderboard, Surpasses OpenAI and Google (eHealth Magazine)",
+      "date": "2024-06-01",
+      "snapshot_path": "data/snapshots/jiviai/ehealth.eletsonline.com_2024_06_indian-ai-startup-jivi-medx-tops-global-medical-llm-leaderboard-surpasses-openai-and-google_.html"
+    },
+    {
+      "url": "https://tracxn.com/d/companies/jivi/__Yq7nzrNj3-P7uacZ_G2YtxTZuJqamXg_q1fxg6hoXHY",
+      "title": "Jivi - Company Profile (Tracxn)",
+      "date": "2026-06-30",
+      "snapshot_path": "data/snapshots/jiviai/tracxn.com_d_companies_jivi___Yq7nzrNj3-P7uacZ_G2YtxTZuJqamXg_q1fxg6hoXHY.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 29,
+  "total_loss": "~$3M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

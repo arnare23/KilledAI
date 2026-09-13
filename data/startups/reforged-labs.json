@@ -1,0 +1,70 @@
+{
+  "name": "Reforged Labs",
+  "slug": "reforged-labs",
+  "tagline": "AI-generated video ad creative for mobile game marketers",
+  "description": "Reforged Labs (YC W22) used generative AI to produce and test video ads for mobile game studios such as Supercell and King, raising a $3.9M seed round. It wound down in July 2026 after its CEO concluded the market was too small and better foundation models let studios build the same tools in-house.",
+  "story": "Reforged Labs was the second company for co-founders Robert Huynh and Oscar Xing Luo, who had gone through Y Combinator's Winter 2022 batch with a startup called Nook. After winding Nook down in mid-2023, they started Reforged in September 2023, keeping their YC affiliation. The Singapore-based company targeted a persistent problem in mobile game marketing: user-acquisition campaigns need a steady supply of fresh video ads to counter ad fatigue and rising costs. Reforged built tools that turned game footage and assets into video, image and playable ads from text prompts, then tested the creatives and analyzed their performance.\n\nIn August 2024 it raised a $3.9M seed round led by DCM, with Y Combinator, Goodwater Capital and others participating. The platform opened in beta later that year and signed major studios including Supercell, King, Ubisoft, Playtika and Scopely, with its largest customers on six-figure contracts. By 2026 it employed 17 people across the United States and Vietnam.\n\nTwo problems converged. Too few studios spent at the six-figure level to support a venture-scale business, and an attempt to expand beyond gaming did not gain traction. At the same time, rapidly improving foundation video and image models made it feasible for sophisticated studios to build comparable tooling in-house. \"The gap we were selling into is closing,\" Huynh said, adding that he would \"rather end it clearly than shrink it slowly.\" Reforged chose an orderly wind-down, ceased operations on July 31, 2026, and announced the closure in early August. No acquisition or asset sale was reported.\n\nReforged is a case of a product layered on generally available models losing its value as those models improved, compounded by a customer base too narrow to grow into.",
+  "founded": "2023-09",
+  "shutdown": "2026-07-31",
+  "funding_raised": "$3.9M",
+  "funding_stage": "seed",
+  "employee_count": 17,
+  "category": "no-moat",
+  "tags": [
+    "generative-ai",
+    "ad-tech",
+    "gaming",
+    "mobile-games",
+    "video-generation",
+    "user-acquisition",
+    "yc",
+    "singapore",
+    "market-too-small"
+  ],
+  "url": "https://www.reforgedlabs.com",
+  "sources": [
+    {
+      "url": "https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/",
+      "title": "Reforged Labs shuts down as CEO says AI is closing its market opportunity",
+      "date": "2026-08-03",
+      "snapshot_path": "data/snapshots/reforged-labs/www.pocketgamer.biz_reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity_.html"
+    },
+    {
+      "url": "https://gamedev.net/news/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing-r4857/",
+      "title": "AI startup Reforged Labs shuts down as the \"gap we were selling into is closing\"",
+      "date": "2026-08-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://respawn.outlookindia.com/gaming/gaming-news/ai-ad-startup-reforged-labs-winds-down-amid-rapid-ai-advancements",
+      "title": "Reforged Labs Shuts Down Due to Rapid AI Advancements",
+      "date": "2026-08-04",
+      "snapshot_path": "data/snapshots/reforged-labs/respawn.outlookindia.com_gaming_gaming-news_ai-ad-startup-reforged-labs-winds-down-amid-rapid-ai-advancements.html"
+    },
+    {
+      "url": "https://app.dealroom.co/news/feed/ai-ad-startup-reforged-labs-shuts-down-after-raising-3-9m-in-seed-funding",
+      "title": "AI ad startup Reforged Labs shuts down after raising $3.9M in seed funding",
+      "date": "2026-08-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.pocketgamer.biz/reforged-labs-secures-39-million-for-gaming-ads-with-genai/",
+      "title": "Reforged Labs secures $3.9 million for gaming ads with GenAI",
+      "date": "2024-08-19",
+      "snapshot_path": "data/snapshots/reforged-labs/www.pocketgamer.biz_reforged-labs-secures-39-million-for-gaming-ads-with-genai_.html"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/huynhrobert_its-time-to-hit-the-respawn-button-the-activity-7085279050499334144-L7N5",
+      "title": "Robert Huynh: It's time to hit the respawn button (Nook YC W22 wind-down)",
+      "date": "2023-07",
+      "snapshot_path": "data/snapshots/reforged-labs/www.linkedin.com_posts_huynhrobert_its-time-to-hit-the-respawn-button-the-activity-7085279050499334144-L7N5.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 34,
+  "total_loss": "$3.9M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:00:00Z"
+}

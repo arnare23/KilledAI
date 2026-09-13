@@ -1,0 +1,55 @@
+{
+  "name": "Teraki",
+  "slug": "teraki",
+  "tagline": "Berlin edge-AI software for processing sensor data in autonomous vehicles",
+  "description": "Teraki spent a decade building edge-AI software for processing sensor data on low-power automotive hardware, raising about EUR 15 million but never reaching self-sustaining scale. After surviving on convertible loans from existing investors, it filed for insolvency in Berlin in October 2025.",
+  "story": "Teraki was registered in Berlin in May 2015 by Daniel Richart, Edouard Rozan and Markus Kopf. Its early software reduced the volume of vehicle telematics and sensor data before transmission, for uses such as connected-car services, usage-based insurance and predictive maintenance. It later repositioned as an edge-AI company, offering tools to select and process the most relevant sensor data directly on low-power automotive chips, so that AI models for driver assistance and autonomous driving could run in the vehicle rather than in the cloud. It also targeted industrial drones and warehouse robotics.\n\nThe company raised about EUR 15 million from investors including Li Ka-shing's Horizons Ventures, Paladin Capital Group and Innogy Ventures, and received public R&D grants. It stayed small, with a team estimated at 11 to 50 people.\n\nTeraki never reached the scale needed to fund itself. By the end of 2023 it had accumulated costs of nearly EUR 16 million, and it recorded a loss of about EUR 1.7 million that year. It kept going on two convertible loans from existing backers in 2023 and 2024, and one of its two managing directors left in September 2023.\n\nWithout a new funding round, Teraki filed for insolvency at the Berlin-Charlottenburg local court in October 2025, an insolvency administrator was appointed, and the commercial register recorded the company as dissolved and in liquidation. It was one of more than 25 German startups with multi-million funding that went insolvent that year.\n\nIts path is a common one for deep-tech suppliers to the auto industry: years of development, bridge loans from existing investors, and no revenue base large enough to stand on its own.",
+  "founded": "2015-05",
+  "shutdown": "2025-10",
+  "funding_raised": "EUR 15M (+2 convertible loans)",
+  "funding_stage": "series-a",
+  "employee_count": null,
+  "category": "funding",
+  "tags": [
+    "germany",
+    "edge-ai",
+    "autonomous-vehicles",
+    "automotive",
+    "sensor-data",
+    "insolvency"
+  ],
+  "url": "https://www.teraki.com",
+  "sources": [
+    {
+      "url": "https://www.deutsche-startups.de/2025/10/13/startupticker-resourcly-circus-goodbytz-teraki/",
+      "title": "Startupticker: Teraki files for insolvency (deutsche-startups.de)",
+      "date": "2025-10-13",
+      "snapshot_path": "data/snapshots/teraki/www.deutsche-startups.de_2025_10_13_startupticker-resourcly-circus-goodbytz-teraki_.html"
+    },
+    {
+      "url": "https://www.deutsche-startups.de/2026/01/21/startup-pleiten-2025/",
+      "title": "Over 25 multi-million startup insolvencies of 2025 (deutsche-startups.de)",
+      "date": "2026-01-21",
+      "snapshot_path": "data/snapshots/teraki/www.deutsche-startups.de_2026_01_21_startup-pleiten-2025_.html"
+    },
+    {
+      "url": "https://www.northdata.de/Teraki%20GmbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%20167142%20B",
+      "title": "Teraki GmbH i. L., Berlin, Amtsgericht Charlottenburg HRB 167142 B - register history (North Data)",
+      "date": "2025-10-09",
+      "snapshot_path": "data/snapshots/teraki/www.northdata.de_Teraki_20GmbH__20Berlin_Amtsgericht_20Charlottenburg_20_Berlin__20HRB_20167142_20B.html"
+    },
+    {
+      "url": "https://www.cbinsights.com/company/teraki",
+      "title": "Teraki - company profile and funding (CB Insights)",
+      "date": "2025-10-15",
+      "snapshot_path": "data/snapshots/teraki/www.cbinsights.com_company_teraki.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 125,
+  "total_loss": "~EUR 16M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T18:00:00Z"
+}

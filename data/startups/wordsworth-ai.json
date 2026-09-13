@@ -1,0 +1,52 @@
+{
+  "name": "Wordsworth AI",
+  "slug": "wordsworth-ai",
+  "tagline": "AI landing page generation and conversion optimization for brands",
+  "description": "Wordsworth AI sold AI-optimized landing pages to mid-sized brands and reached about $200K in annual revenue, but small contracts and slow proof of ROI kept it from scaling. After a self-serve pivot failed on unit economics, it shut down in March 2026, returned its remaining capital and open-sourced its code.",
+  "story": "Wordsworth AI was founded in late 2023 by Siddhant Manocha, Shreyas Nair, a former Sequoia Capital investor, and Harsha Mulchandani. The remote-first, San Francisco-based company joined Sequoia's Spark program and raised an $800K angel round in early 2024. Its product was a closed-loop landing page engine: each section of a page was measured, weak sections were rewritten with AI, and the cycle repeated. Wordsworth sold it as a services-led offering to brands with $50M to $500M in revenue. By early 2026 the team of about 10 had shipped more than 100 websites, worked with 10 paying clients and reached around $200K in annual revenue.\n\nThe model did not scale. Contracts of $25K to $40K were too small to cover the hands-on delivery the service required, and proving results took weeks of traffic, which slowed sales and renewals. Selling outcomes invited scope creep, and at least one client copied the work rather than paying for it. Only warm introductions converted. Meanwhile, buyers were moving toward fast, self-serve AI site builders such as Lovable, Bolt and v0.\n\nIn December 2025 Wordsworth wound down its enterprise business and pivoted to automated website generation for small businesses. Testing showed customers would pay $10 to $20 a month, while acquiring each one cost more than $50. Concluding they could not build a venture-scale company, the founders shut Wordsworth down on March 31, 2026, returned an undisclosed amount of remaining capital to investors, and released the codebase under the MIT license. Manocha published a postmortem in June 2026.\n\nWordsworth found paying customers and measurable results, but neither its enterprise model nor its self-serve pivot produced unit economics that could sustain a venture-backed company.",
+  "founded": "2023",
+  "shutdown": "2026-03-31",
+  "funding_raised": "$800K",
+  "funding_stage": "angel",
+  "employee_count": 10,
+  "category": "market",
+  "tags": [
+    "generative-ai",
+    "marketing",
+    "e-commerce",
+    "landing-pages",
+    "conversion-optimization",
+    "website-builder",
+    "services-as-software",
+    "open-sourced",
+    "founder-postmortem"
+  ],
+  "url": "",
+  "sources": [
+    {
+      "url": "https://siddhantmanocha.substack.com/p/shutting-down-wordsworth-ai",
+      "title": "Shutting Down Wordsworth AI",
+      "date": "2026-06-03",
+      "snapshot_path": "data/snapshots/wordsworth-ai/siddhantmanocha.substack.com_p_shutting-down-wordsworth-ai.html"
+    },
+    {
+      "url": "https://www.theleftshift.com/ai-startup-wordsworth-shuts-down-despite-six-figure-revenue/",
+      "title": "AI Startup Wordsworth Shuts Down Despite Six-Figure Revenue",
+      "date": "2026-06-05",
+      "snapshot_path": "data/snapshots/wordsworth-ai/www.theleftshift.com_ai-startup-wordsworth-shuts-down-despite-six-figure-revenue_.html"
+    },
+    {
+      "url": "https://founderreports.com/interview/wordsworth-ai/",
+      "title": "Shreyas Nair Left Sequoia to Build an AI Startup From Scratch",
+      "date": "2026-03-19",
+      "snapshot_path": "data/snapshots/wordsworth-ai/founderreports.com_interview_wordsworth-ai_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "medium",
+  "lifetime_months": 29,
+  "total_loss": "Up to $800K (unspent capital returned; amount undisclosed)",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:00:00Z"
+}

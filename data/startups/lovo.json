@@ -1,0 +1,81 @@
+{
+  "name": "LOVO",
+  "slug": "lovo",
+  "tagline": "AI voice generator and voice cloning platform (Genny)",
+  "description": "LOVO sold Genny, an AI text-to-speech and voice cloning platform, and raised $6.5M from backers including Kakao Entertainment and Hashed. Facing a lawsuit from voice actors who alleged it cloned and sold their voices without consent, it filed for Chapter 7 liquidation in May 2026.",
+  "story": "LOVO was founded in November 2019 in Berkeley, California, by CEO Charlie Choi and COO Tom Lee. It built a synthetic speech platform with hundreds of AI voices and a voice cloning service for marketing, e-learning, games and customer support, later branded Genny. In August 2021, with more than 50,000 users, it raised a $4.5M pre-Series A led by Kakao Entertainment, with LG CNS participating. In April 2022 crypto investor Hashed led a $2M extension, bringing the round to $6.5M, pitched around Voiceverse, a LOVO subsidiary selling NFTs tied to AI voices. Voiceverse had drawn criticism that January after admitting it used voice lines from the free tool 15.ai without credit.\n\nIn May 2024 voice actors Paul Skye Lehrman and Linnea Sage filed a proposed class action in the Southern District of New York. They alleged that LOVO employees hired them through Fiverr in 2019 and 2020 for what was described as internal research, then used the recordings to train Genny and sold clones of their voices under other names. In July 2025 Judge J. Paul Oetken dismissed several claims, including most copyright claims, but allowed breach of contract, New York right-of-publicity and consumer protection claims to proceed.\n\nOn May 27, 2026, less than three weeks before a hearing on its motion to dismiss, LOVO filed a Chapter 7 petition, listing about $245,000 in assets and $18,000 in liabilities. The voice actors' suit was stayed, and the case against LOVO was never decided on the merits. Chapter 7 means liquidation rather than reorganization, ending LOVO as an operating company, and with those assets little of the $6.5M raised is likely to be returned.\n\nLOVO's collapse shows how questions of consent over voice training data can become an existential liability for a small AI company.",
+  "founded": "2019-11",
+  "shutdown": "2026-05-27",
+  "funding_raised": "$6.5M",
+  "funding_stage": "pre-series-a",
+  "employee_count": 17,
+  "category": "regulatory",
+  "tags": [
+    "voice-ai",
+    "text-to-speech",
+    "voice-cloning",
+    "copyright-lawsuit",
+    "right-of-publicity",
+    "bankruptcy",
+    "chapter-7",
+    "nft"
+  ],
+  "url": "https://lovo.ai",
+  "sources": [
+    {
+      "url": "https://news.bloomberglaw.com/ip-law/voice-actors-suit-against-lovo-paused-amid-ai-firms-bankruptcy",
+      "title": "Voice Actors' Suit Against Lovo Paused Amid AI Firm's Bankruptcy",
+      "date": "2026-05-29",
+      "snapshot_path": "data/snapshots/lovo/news.bloomberglaw.com_ip-law_voice-actors-suit-against-lovo-paused-amid-ai-firms-bankruptcy.html"
+    },
+    {
+      "url": "https://www.law360.com/bankruptcy-authority/articles/2483236/ai-voice-co-files-ch-7-amid-actors-copyright-suit",
+      "title": "AI Voice Co. Files Ch. 7 Amid Actors' Copyright Suit",
+      "date": "2026-05-28",
+      "snapshot_path": "data/snapshots/lovo/www.law360.com_bankruptcy-authority_articles_2483236_ai-voice-co-files-ch-7-amid-actors-copyright-suit.html"
+    },
+    {
+      "url": "https://www.mlex.com/mlex/articles/2482604/lovo-files-for-chapter-7-bankruptcy-in-us-amid-ai-voice-cloning-lawsuit",
+      "title": "Lovo files for Chapter 7 bankruptcy in US amid AI voice-cloning lawsuit",
+      "date": "2026-05-27",
+      "snapshot_path": "data/snapshots/lovo/www.mlex.com_mlex_articles_2482604_lovo-files-for-chapter-7-bankruptcy-in-us-amid-ai-voice-cloning-lawsuit.html"
+    },
+    {
+      "url": "https://chatgptiseatingtheworld.com/2026/05/28/ai-berkeley-based-company-lovo-files-for-bankruptcy-copyight-suit-of-lehrman-automatically-stayed/",
+      "title": "Berkeley-based AI company Lovo files for bankruptcy. Copyright suit of Lehrman automatically stayed.",
+      "date": "2026-05-28",
+      "snapshot_path": "data/snapshots/lovo/chatgptiseatingtheworld.com_2026_05_28_ai-berkeley-based-company-lovo-files-for-bankruptcy-copyight-suit-of-lehrman-automatically-stayed_.html"
+    },
+    {
+      "url": "https://www.thestreet.com/technology/ai-voice-cloning-firm-collapses-lovo-in-chapter-7-bankruptcy",
+      "title": "AI company accused of voice theft files Chapter 7 bankruptcy",
+      "date": "2026-06-18",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+      "title": "Lehrman v. Lovo Inc.",
+      "date": "2025-07",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding",
+      "title": "AI voice synthetic speech company LOVO gets $4.5M pre-Series A funding",
+      "date": "2021-08-26",
+      "snapshot_path": "data/snapshots/lovo/techcrunch.com_2021_08_26_ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding.html"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/lovo-raises-6-5m-pre-130000378.html",
+      "title": "LOVO Raises $6.5M Pre-Series A to Develop the Voice of Web 3.0",
+      "date": "2022-04-07",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 78,
+  "total_loss": "$6.5M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "x.ai",
+  "slug": "x-ai",
+  "tagline": "AI email scheduling assistants Amy and Andrew Ingram",
+  "description": "New York-based x.ai raised about $44M to build Amy and Andrew Ingram, AI assistants that scheduled meetings for you when cc'd on an email thread. Israeli event-platform company Bizzabo bought x.ai in June 2021 for an undisclosed price, and x.ai's 10 remaining employees joined Bizzabo. The standalone scheduling product was shut down on October 31, 2021, so its technology could be built into Bizzabo's event platform.",
+  "story": "Dennis Mortensen, a serial entrepreneur, founded x.ai in New York in 2014 to take meeting scheduling out of human hands. The product was a 'middleware' assistant rather than an app: users cc'd Amy or Andrew Ingram on an email, and the AI negotiated times with the other participants in natural language. x.ai raised a $2.1M seed round in May 2014 from IA Ventures, SoftBank Capital and Lerer Ventures, and a $9.2M Series A in January 2015 at a $40M post-money valuation, led by FirstMark Capital. In April 2016 it raised a $23M Series B led by Two Sigma Ventures, at a valuation reported to be about $100M. Globes reported that x.ai had raised $44M in total by the time it was acquired. The problem was hard before large language models existed: in a 2018 interview Mortensen described a team of 101 data labelers and 53 engineers, and x.ai hand-labeled millions of data points. Pricing was $17 per month for individuals and $39 per month for teams.\n\nOn June 3, 2021, Bizzabo announced it had acquired x.ai for undisclosed terms, about two weeks after buying Whalebone. The deal was funded out of Bizzabo's $138M round from December 2020. Bizzabo said x.ai had grown users 363% in 2020, with 182% more meetings scheduled, and Mortensen described the deal as a way to bring the scheduling engine to virtual and hybrid events. Globes reported that x.ai had 10 employees, all joining Bizzabo. In late July 2021, x.ai told customers the standalone product would sunset, with October 31, 2021 as its last day, and pointed them to alternatives such as Calendly, Doodle, CalendarHero and YouCanBook.me.\n\nFailure-gate assessment: the product was killed, but no source found shows the sale was distressed or that investors lost money. The price was never disclosed, both companies presented it as a strategic technology and team acquisition, and neither founders nor investors have described it as a fire sale. One circumstantial sign of trouble is that the team shrank from roughly 150 people in 2018 to 10 at acquisition, but that alone does not establish a loss.",
+  "founded": "2014",
+  "shutdown": "2021-10-31",
+  "funding_raised": "$44M",
+  "funding_stage": "series-b",
+  "employee_count": 10,
+  "category": "acqui-hired",
+  "tags": [
+    "ai-assistant",
+    "scheduling",
+    "productivity",
+    "email",
+    "acquired-and-killed"
+  ],
+  "url": "https://x.ai",
+  "sources": [
+    {
+      "url": "https://en.globes.co.il/en/article-bizzabo-buys-second-company-within-month-1001373290",
+      "title": "Bizzabo buys second company within month",
+      "date": "2021-06-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2021/06/03/2241277/0/en/Bizzabo-Acquires-x-ai-to-Launch-AI-powered-Scheduling-Accelerate-Personalized-Event-Experiences.html",
+      "title": "Bizzabo Acquires x.ai to Launch AI-powered Scheduling & Accelerate Personalized Event Experiences",
+      "date": "2021-06-03",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://tasbia.com/x-ais-scheduling-tool-is-shutting-down/?lang=en",
+      "title": "x.ai's Scheduling Tool is Shutting Down after Bizzabo Acquisition",
+      "date": "2021-07-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2014/05/21/x-ai-lands-2m-to-build-amy-an-ai-powered-personal-assistant-for-meetings/",
+      "title": "X.ai Lands $2.1M To Build 'Amy', An AI-Powered Personal Assistant For Meetings",
+      "date": "2014-05-21",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2015/01/05/x-ai-raises-9-2m-at-a-40m-valuation-for-its-ai-based-email-assistant-who-sets-up-meetings/",
+      "title": "X.ai Raises $9.2M At A $40M Valuation For Its AI-Based Email Assistant Who Sets Up Meetings",
+      "date": "2015-01-05",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://techcrunch.com/2016/04/07/rise-of-the-bots-x-ai-raises-23m-more-for-amy-a-bot-that-arranges-appointments/",
+      "title": "Rise of the bots: X.ai raises $23m more for Amy, a bot that arranges appointments",
+      "date": "2016-04-07",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.levelingup.com/growth-everywhere-interview/dennis-mortensen-x-ai/",
+      "title": "Why x.ai Had to Raise $44M for Such a Simple Concept as Amy the AI Personal Assistant",
+      "date": "2018-01",
+      "snapshot_path": null
+    }
+  ],
+  "status": "rejected",
+  "rejection_reason": "No evidence of a genuine failure or investor loss. Bizzabo acquired x.ai in June 2021 for undisclosed terms, and both companies framed it as a strategic technology and team acquisition, following x.ai's reported 363% user growth in 2020. No founder, investor or press account found describes a distressed or fire sale. The standalone product was shut down after integration into Bizzabo, which makes this a normal acquire-and-integrate outcome rather than a documented failure. Reconsider if the deal terms or a founder or investor account shows the sale was below the $44M raised.",
+  "confidence": "medium",
+  "lifetime_months": 93,
+  "total_loss": "Unknown",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T21:30:00Z"
+}

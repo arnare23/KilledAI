@@ -1,0 +1,75 @@
+{
+  "name": "Navya",
+  "slug": "navya",
+  "tagline": "French maker of Level 4 driverless electric shuttles",
+  "description": "Navya built one of the first driverless electric shuttles to run on public roads and listed on Euronext Paris in 2018, but sales never exceeded a couple of dozen vehicles a year while losses mounted. After a rescue financing turned out to be an attempted fraud, it was liquidated in April 2023 and its business sold for EUR 1.4 million, wiping out shareholders.",
+  "story": "Navya was created in June 2014 when Christophe Sapet, a co-founder of video game publisher Infogrames, took over the assets of Induct, an earlier French autonomous vehicle project. Its Autonom Shuttle, a 15-passenger electric minibus with no steering wheel, became a fixture of smart-city pilots from Lyon to Las Vegas and Singapore. In 2016 Navya raised EUR 30 million from Valeo, Keolis and Qatar's Group8, and in July 2018 it listed on Euronext Paris at a EUR 190 million market capitalisation, raising EUR 37.6 million against a EUR 50 million target. A profit warning followed within months.\n\nThe business never scaled. Each shuttle cost roughly EUR 250,000, most deployments were short-term pilots, and regulators still required a safety operator on board. Navya sold 23 shuttles in 2020 and 19 in 2021, when revenue was EUR 10.2 million and the net loss EUR 24 million. An equity line and state subsidies kept it running.\n\nIn December 2022 a press release announced EUR 30 million in financing from a Bahrain-based investor. Navya said the release had been published by mistake and, three days later, that the proposed financing was an attempted fraud. The shares collapsed, and in January 2023 the company declared a cessation of payments. The Lyon commercial court opened receivership in February, and on 18 April 2023 converted the case into liquidation, accepting a EUR 1.4 million offer from a joint venture of Gaussin and Macnica that kept 143 of 203 employees. Shareholders were wiped out. The shuttle business continues under Japanese ownership as Navya Mobility.\n\nNavya proved the technology could run on public roads, but not that anyone would buy enough vehicles to pay for it.",
+  "founded": "2014-06",
+  "shutdown": "2023-04-18",
+  "funding_raised": "EUR 67.6M+ (EUR 30M 2016 private round, EUR 37.6M 2018 IPO, plus equity line and state subsidies)",
+  "funding_stage": "public (Euronext Paris)",
+  "employee_count": 203,
+  "category": "funding",
+  "tags": [
+    "france",
+    "autonomous-vehicles",
+    "self-driving",
+    "shuttles",
+    "hardware",
+    "receivership",
+    "liquidation",
+    "public-company"
+  ],
+  "url": "https://navya.tech",
+  "sources": [
+    {
+      "url": "https://tech.eu/2016/10/11/navya-funding/",
+      "title": "France's Navya scores EUR 30 million in funding to support the roll-out of its electric, driverless shuttles (Tech.eu)",
+      "date": "2016-10-11",
+      "snapshot_path": "data/snapshots/navya/tech.eu_2016_10_11_navya-funding_.html"
+    },
+    {
+      "url": "https://www.usine-digitale.fr/article/vehicule-autonome-le-lyonnais-navya-roule-vers-une-introduction-en-bourse.N703239",
+      "title": "Vehicule autonome : le lyonnais Navya termine son introduction en Bourse (L'Usine Digitale)",
+      "date": "2018-07-23",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.abcbourse.com/marches/navya-reagit-suite-a-la-publication-dun-document-sans-son-accord-sur-un-projet_583630",
+      "title": "Navya reagit suite a la publication d'un document sans son accord sur un projet de financement de 30 MEUR et dejoue une tentative d'escroquerie (ABC Bourse)",
+      "date": "2022-12-15",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.maddyness.com/2023/04/12/navya-redressement-judiciaire/",
+      "title": "Navya, champion tricolore des navettes autonomes, aujourd'hui a l'arret (Maddyness)",
+      "date": "2023-04-12",
+      "snapshot_path": "data/snapshots/navya/www.maddyness.com_2023_04_12_navya-redressement-judiciaire_.html"
+    },
+    {
+      "url": "https://www.lyonmag.com/article/129577/lyon-navya-liquide-et-repris-par-le-duo-gaussin-macnica-143-salaries-sauves",
+      "title": "Lyon : Navya liquide et repris par le duo Gaussin/Macnica, 143 salaries sauves (LyonMag)",
+      "date": "2023-04-19",
+      "snapshot_path": "data/snapshots/navya/www.lyonmag.com_article_129577_lyon-navya-liquide-et-repris-par-le-duo-gaussin-macnica-143-salaries-sauves.html"
+    },
+    {
+      "url": "https://www.sustainable-bus.com/news/gama-gaussin-macnica-navya-autonomous-shuttle-busworld/",
+      "title": "Gaussin and Macnica have taken over Navya. New entity GAMA to showcase a driverless shuttle at Busworld (Sustainable Bus)",
+      "date": "2023-10-03",
+      "snapshot_path": "data/snapshots/navya/www.sustainable-bus.com_news_gama-gaussin-macnica-navya-autonomous-shuttle-busworld_.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Navya_SAS",
+      "title": "Navya SAS (Wikipedia)",
+      "date": "2026-09-13",
+      "snapshot_path": null
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 106,
+  "total_loss": "EUR 67.6M+ in equity (plus accumulated losses of ~EUR 24M/year); business sold out of liquidation for EUR 1.4M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T23:00:00Z"
+}

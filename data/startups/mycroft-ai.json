@@ -1,0 +1,81 @@
+{
+  "name": "Mycroft AI",
+  "slug": "mycroft-ai",
+  "tagline": "Open-source, privacy-focused AI voice assistant and smart speaker",
+  "description": "Mycroft AI built an open-source, privacy-focused voice assistant and smart speakers but never earned more than about $300K a year while losing over $1M annually. A costly patent suit and soaring Mark II hardware costs deepened its cash crisis, and in February 2023 it stopped development, unable to fulfill its remaining Kickstarter rewards.",
+  "story": "Joshua Montgomery and Ryan Sipes started Mycroft in Kansas City in 2015 to build an open-source, privacy-focused alternative to Alexa and Google Assistant. Its first Kickstarter, for the Raspberry Pi-based Mark I smart speaker, raised more than $127,000, and later Mark II campaigns brought in several hundred thousand dollars more. The company raised more than $2.5 million from institutional investors and about $1.4 million through equity crowdfunding on StartEngine.\n\nIt never found a business model. SEC filings show revenue of about $298,000 in 2018 falling to $98,000 in 2021, while net losses ran between roughly $1 million and $1.6 million a year. By the end of 2021 it had about $80,000 in cash against more than $4.6 million in debt.\n\nTwo outside shocks made things worse. In 2020 patent-assertion entity Voice Tech Corp. sued Mycroft over voice-command patents. Montgomery refused to settle, and the fight cost about $1 million in legal fees. The Patent Trial and Appeal Board later invalidated claims of one of Voice Tech's patents, but the Federal Circuit affirmed that ruling only in May 2024, more than a year after Mycroft had stopped development. Meanwhile, COVID-era supply problems pushed Mark II component costs from about $99 to $300 per unit for a device that sold for $499.\n\nIn February 2023, CEO Michael Lewis, Montgomery's successor, told backers that without new investment Mycroft would stop development and could not fulfill the remaining Mark II rewards. Only four staff remained. \"If we had that million dollars we would be in a very different state right now,\" Lewis said. Community projects such as OpenVoiceOS carried the software forward.\n\nMycroft blamed the patent suit, which did drain scarce cash, but years of seven-figure losses on tiny revenue meant the lawsuit accelerated a funding crisis rather than creating one.",
+  "founded": "2015",
+  "shutdown": "2023-02",
+  "funding_raised": "$3.9M+",
+  "funding_stage": "seed",
+  "employee_count": 16,
+  "category": "funding",
+  "tags": [
+    "voice-assistant",
+    "open-source",
+    "hardware",
+    "patent-litigation",
+    "crowdfunding",
+    "equity-crowdfunding",
+    "privacy",
+    "smart-speaker"
+  ],
+  "url": "https://mycroft.ai",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2023/02/13/linux_ai_assistant_killed_off/",
+      "title": "Creator of Linux AI assistant blames patent troll for its death",
+      "date": "2023-02-13",
+      "snapshot_path": "data/snapshots/mycroft-ai/www.theregister.com_2023_02_13_linux_ai_assistant_killed_off_.html"
+    },
+    {
+      "url": "https://home-assistant-guide.com/news/2023/02/16/patent-troll-kills-mycroft-ai-voice-assistant/",
+      "title": "Patent troll kills Mycroft AI voice assistant",
+      "date": "2023-02-16",
+      "snapshot_path": "data/snapshots/mycroft-ai/home-assistant-guide.com_news_2023_02_16_patent-troll-kills-mycroft-ai-voice-assistant_.html"
+    },
+    {
+      "url": "https://voicebot.ai/2020/03/04/mycroft-ais-legal-war-against-a-patent-troll-heats-up/",
+      "title": "Mycroft AI's Legal War Against a 'Patent Troll' Heats Up",
+      "date": "2020-03-04",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.startlandnews.com/2018/06/mycroft-hopes-to-build-community-of-investment-backers-with-new-online-public-offering/",
+      "title": "Mycroft hopes to build community of investment backers with new online public offering",
+      "date": "2018-06-25",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001685404&type=C",
+      "title": "Mycroft AI Inc. SEC filings (Form C, C-U and C-AR: StartEngine offering results, revenue, losses, headcount)",
+      "date": "2022-04-29",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.law360.com/articles/1833850/fed-circ-affirms-ptab-invalidation-of-voice-command-ip",
+      "title": "Fed. Circ. Affirms PTAB Invalidation Of Voice Command IP",
+      "date": "2024-05-06",
+      "snapshot_path": "data/snapshots/mycroft-ai/www.law360.com_articles_1833850_fed-circ-affirms-ptab-invalidation-of-voice-command-ip.html"
+    },
+    {
+      "url": "https://www.unifiedpatents.com/insights/2021/12/13/voice-tech-patent-held-invalid",
+      "title": "Voice Tech patent held invalid",
+      "date": "2021-12-13",
+      "snapshot_path": "data/snapshots/mycroft-ai/www.unifiedpatents.com_insights_2021_12_13_voice-tech-patent-held-invalid.html"
+    },
+    {
+      "url": "https://www.neon.ai/markiivoiceassistantupdateapril2023/",
+      "title": "Hey Neon - Make me laugh - Mark II Voice Assistant update April 2023",
+      "date": "2023-04",
+      "snapshot_path": "data/snapshots/mycroft-ai/www.neon.ai_markiivoiceassistantupdateapril2023_.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 97,
+  "total_loss": "$3.9M+",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:30:00Z"
+}

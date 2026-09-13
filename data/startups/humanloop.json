@@ -1,0 +1,82 @@
+{
+  "name": "Humanloop",
+  "slug": "humanloop",
+  "tagline": "LLM evaluation, prompt management and observability platform",
+  "description": "Humanloop, a UCL spinout that became one of the first LLM evaluation and prompt management platforms, sunset its product in 2025 after its founders and about a dozen staff joined Anthropic. Anthropic did not acquire its assets or IP, and the platform went offline on September 8, 2025.",
+  "story": "Humanloop was spun out of University College London in 2020 by Raza Habib, Peter Hayes and Jordan Burgess, and went through Y Combinator's Summer 2020 batch. Its first products helped people teach AI models, including active-learning data labeling and Programmatic, a tool that let domain experts write rules to label NLP training data at scale. It raised a $2.6M seed round led by Index Ventures, with Y Combinator, LocalGlobe and AlbionVC participating. When GPT-3 and then ChatGPT reshaped the market, Humanloop pivoted to tooling for teams building on large language models: prompt management, evaluation and observability. It became one of the earliest LLMOps platforms, counting Duolingo, Gusto and Vanta as customers, and raised about $7.9M across two seed rounds.\n\nOn July 17, 2025, Humanloop told customers it had been \"acquired\" and would sunset its platform. Billing stopped on July 30, and customers were given export tools and told their data would be deleted. On August 13, Anthropic confirmed that the three co-founders and roughly a dozen engineers and researchers were joining the company. An Anthropic spokesperson told TechCrunch that it had not acquired Humanloop's assets or intellectual property, and no financial terms were disclosed. The platform went offline on September 8, 2025, taking customers' prompts, evaluations, logs and API integrations with it, while rival vendors offered migration help.\n\nHumanloop never publicly explained why it chose to join Anthropic rather than remain independent. It was operating in a crowded, consolidating LLMOps market, up against better-funded rivals and the model labs' own evaluation tooling. Its end shows the trade-off of an acqui-hire: the team landed well, customers lost the product, and no return to investors was reported.",
+  "founded": "2020",
+  "shutdown": "2025-09-08",
+  "funding_raised": "$7.9M",
+  "funding_stage": "seed",
+  "employee_count": null,
+  "category": "acqui-hired",
+  "tags": [
+    "llmops",
+    "developer-tools",
+    "evaluation",
+    "observability",
+    "prompt-management",
+    "yc",
+    "uk",
+    "university-spinout",
+    "team-hired-by-anthropic"
+  ],
+  "url": "https://humanloop.com",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up",
+      "title": "Anthropic nabs Humanloop team as competition for enterprise AI talent heats up",
+      "date": "2025-08-13",
+      "snapshot_path": "data/snapshots/humanloop/techcrunch.com_2025_08_13_anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up.html"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/business/ai-acqui-hiring-spree-continues-with-anthropic-snapping-up-humanloop-team",
+      "title": "AI acqui-hiring spree continues with Anthropic snapping up Humanloop team",
+      "date": "2025-08-14",
+      "snapshot_path": "data/snapshots/humanloop/www.siliconrepublic.com_business_ai-acqui-hiring-spree-continues-with-anthropic-snapping-up-humanloop-team.html"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=44592216",
+      "title": "Tell HN: Humanloop acquired, sunsetting Sept 8th",
+      "date": "2025-07-17",
+      "snapshot_path": "data/snapshots/humanloop/news.ycombinator.com_item_id_44592216.html"
+    },
+    {
+      "url": "https://sifted.eu/articles/anthropic-acquisition-ai-humanloop",
+      "title": "Anthropic hires cofounders of AI startup Humanloop",
+      "date": "2025-08-13",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://businesscloud.co.uk/opinion/ai-talent-war-hots-up-as-humanloop-team-join-anthropic/",
+      "title": "AI talent war hots up as Humanloop team join Anthropic",
+      "date": "2025-08",
+      "snapshot_path": "data/snapshots/humanloop/businesscloud.co.uk_opinion_ai-talent-war-hots-up-as-humanloop-team-join-anthropic_.html"
+    },
+    {
+      "url": "https://humanloop.com/",
+      "title": "Humanloop joins Anthropic",
+      "date": "2025-08-13",
+      "snapshot_path": "data/snapshots/humanloop/humanloop.com_.html"
+    },
+    {
+      "url": "https://ucltf.co.uk/humanloop-completes-2-6m-seed-funding-round/",
+      "title": "Humanloop completes $2.6m seed funding round",
+      "date": "2022-07-28",
+      "snapshot_path": null
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/humanloop",
+      "title": "Humanloop - Y Combinator company profile",
+      "date": "2025-08",
+      "snapshot_path": "data/snapshots/humanloop/www.ycombinator.com_companies_humanloop.html"
+    }
+  ],
+  "status": "published",
+  "rejection_reason": null,
+  "confidence": "high",
+  "lifetime_months": 68,
+  "total_loss": "$7.9M",
+  "created_at": "2026-09-13T12:00:00Z",
+  "updated_at": "2026-09-13T22:00:00Z"
+}
